@@ -1,0 +1,10 @@
+{
+  "RestartInit": "<color=orange>Server will restart in <color=red>{0}</color> minutes!</color>",
+  "RestartInitPatch": "<color=red>Server Patch</color> <color=orange>restart in <color=red>{0}</color> minutes!</color>",
+  "RestartInitSec": "<color=orange>Server will restart in <color=red>{0}</color> seconds!</color>",
+  "RestartCancel": "<color=green>Server restart stopped!</color>",
+  "ManualInit": "<color=silver>Manual countdown will start at next full minute</color>",
+  "ManualCancel": "<color=silver>Manual Timer was canceled</color>",
+  "DevblogDetected": "<color=orange>New DevBlog <color=green>{0}</color> detected !!!</color>",
+  "OxideBuildDetected": "<color=orange>New OxideBuild <color=green>{0}</color> detected !!!</color>"
+}

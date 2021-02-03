@@ -1,0 +1,15 @@
+{
+  "GodmodeDisabled": "You have <color=#FF4500>Disabled</color> adminmode",
+  "GodmodeDisabledBy": "Your adminmode has been <color=#FF4500>Disabled</color> by {0}",
+  "GodmodeDisabledFor": "You have <color=#FF4500>Disabled</color> adminmode for {0}",
+  "GodmodeEnabled": "You have <color=#00FF00>Enabled</color> adminmode",
+  "GodmodeEnabledBy": "Your adminmode has been <color=#00FF00>Enabled</color> by {0}",
+  "GodmodeEnabledFor": "You have <color=#00FF00>Enabled</color> adminmode for {0}",
+  "InformAttacker": "{0} is in adminmode and can't take any damage",
+  "InformVictim": "{0} just tried to deal damage to you",
+  "CantAttack": "You are in adminmode and can't attack {0}",
+  "NoGods": "No players currently have adminmode enabled",
+  "NoLooting": "You are not allowed to loot a player with adminmode",
+  "NotAllowed": "You are not allowed to use the '{0}' command",
+  "PlayerNotFound": "Player '{0}' was not found"
+}

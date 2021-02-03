@@ -1,0 +1,965 @@
+10:25 [Info] Uninstalling Rust:IO ...
+10:25 [Info] Rust:IO> Uninstalling ...
+10:25 [Info] Rust:IO> No longer ticking
+10:25 [Info] Rust:IO> Stopping server ...
+10:25 [Info] Rust:IO> Removing listeners ...
+10:25 [Info] Rust:IO> Performing maintenance ...
+10:25 [Info] Rust:IO> Closing database ...
+10:25 [Info] Rust:IO> Uninstalled.
+10:25 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+10:25 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+10:25 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+10:25 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+10:25 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+10:25 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+10:25 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+10:25 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+10:25 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 173ms
+10:25 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+10:25 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+10:25 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+10:25 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+10:25 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+10:26 [Info] Loading Oxide Core v2.0.3991...
+10:26 [Info] Loading extensions...
+10:26 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+10:26 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+10:26 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+10:26 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+10:26 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+10:26 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+10:26 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+10:26 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+10:26 [Info] Using Covalence provider for game 'Rust'
+10:26 [Info] Loading plugins...
+10:26 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+10:26 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+10:26 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+10:26 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+10:26 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+10:26 [Info] AdminChat, AutomaticAuthorization, BetterChat, BetterChatMentions, ClanTags, Clans, GestureWheel, ImageLibrary, InfoPanel, LustyMap, PlayerRankings and PlaytimeTracker were compiled successfully in 0ms
+10:26 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+10:26 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+10:26 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+10:26 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+10:26 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+10:26 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+10:26 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+10:26 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+10:26 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+10:26 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+10:26 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+10:26 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+10:26 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+10:26 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+10:26 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+10:26 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+10:29 [Info] IP address from Steam query: 0.0.0.0
+10:29 [Info] Updating Rust:IO ...
+10:29 [Info] [Lusty Map] [Warning] Validating imagery
+10:29 [Info] [Lusty Map] [Warning] Icon images have not been found. Uploading images to file storage
+10:29 [Info] [Lusty Map] [Error] You must supply a valid API key to utilize the auto-download feature!
+Visit 'beancan.io' and register your server to retrieve your API key!
+10:29 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 320ms
+10:29 [Info] Rust:IO: Update complete
+10:29 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 288ms
+10:29 [Warning] [Playtime Tracker] Unable to find any supported reward plugins. This may be caused by PTT loading before them. Will check again in 1 minute
+10:30 [Info] [Image Library] Starting order Lusty Map
+10:30 [Info] Installing Rust:IO ...
+10:30 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+10:30 [Info] Rust:IO> Creating directories ...
+10:30 [Info] Rust:IO> Applying config ...
+10:30 [Info] Rust:IO> Initializing database ...
+10:30 [Info] Rust:IO> Generating map image (this may take a while) ...
+10:30 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  8123.268ms
+Postprocess  :  3146.164ms
+  Shadows    :   278.940ms
+  FXAA       :  2853.777ms
+Encoding     :    34.386ms
+Other        :    42.252ms
+--------------------------
+Total        :  11346.071ms
+10:30 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+10:30 [Info] Rust:IO> Installed.
+10:30 [Info] Rust:IO> Now ticking
+10:30 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 11535ms [GARBAGE COLLECT]
+10:30 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 0ms [GARBAGE COLLECT]
+10:30 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+10:30 [Warning] [Playtime Tracker] Still unable to find any supported reward plugins. Rewards will not be issued!
+11:03 [Info] RustMapApi was compiled successfully in 2028ms
+11:03 [Warning] [Rust Map Api] Loading Default Config
+11:03 [Info] [Rust Map Api] Validating existing images
+11:03 [Info] Loaded plugin Rust Map Api v1.3.2 by MJSU
+11:03 [Info] [Rust Map Api] Validating config has latest monuments
+11:03 [Info] [Rust Map Api] Loaded image icons
+11:03 [Info] [Rust Map Api] Map Render Took: 8.09 Seconds
+11:03 [Info] [Rust Map Api] Icon Render Took: 0.55 Seconds
+11:03 [Info] [Rust Map Api] Default Encoding Took: 0.11 Seconds
+11:03 [Info] [Rust Map Api] Icons Encoding Took: 0.10 Seconds
+11:03 [Info] [Rust Map Api] Default 2x2 Split Took: 0.15 Seconds
+11:03 [Info] [Rust Map Api] Icons 2x2 Split Took: 0.30 Seconds
+11:07 [Info] ImgurApi was compiled successfully in 1941ms
+11:07 [Warning] [Imgur API] Loading Default Config
+11:07 [Info] Loaded plugin Imgur API v1.0.2 by MJSU
+11:08 [Info] Unloaded plugin Rust Map Api v1.3.2 by MJSU
+11:08 [Info] [Rust Map Api] Validating existing images
+11:08 [Info] Loaded plugin Rust Map Api v1.3.2 by MJSU
+11:08 [Info] [Rust Map Api] Validating config has latest monuments
+11:08 [Info] [Rust Map Api] Loaded image icons
+11:08 [Info] [Rust Map Api] Map Render Took: 8.08 Seconds
+11:08 [Info] [Rust Map Api] Icon Render Took: 0.48 Seconds
+11:12 [Info] Unloaded plugin Imgur API v1.0.2 by MJSU
+11:12 [Info] Loaded plugin Imgur API v1.0.2 by MJSU
+11:12 [Info] Unloaded plugin Rust Map Api v1.3.2 by MJSU
+11:12 [Info] [Rust Map Api] Validating existing images
+11:12 [Info] Loaded plugin Rust Map Api v1.3.2 by MJSU
+11:12 [Info] [Rust Map Api] Validating config has latest monuments
+11:12 [Info] [Rust Map Api] Loaded image icons
+11:12 [Info] [Rust Map Api] Map Render Took: 8.11 Seconds
+11:12 [Info] [Rust Map Api] Icon Render Took: 0.60 Seconds
+11:14 [Info] [Rust Map Api] Upload render took: 44.93 Seconds
+11:14 [Info] [Rust Map Api] Uploading to imgur
+11:14 [Info] [Rust Map Api] Upload render took: 45.20 Seconds
+11:14 [Info] [Rust Map Api] Uploading to imgur
+11:14 [Info] [Rust Map Api] https://i.imgur.com/UTIpKGV.jpeg
+11:15 [Info] [Rust Map Api] https://i.imgur.com/v1kkEhl.jpg
+11:16 [Info] [Rust Map Api] Removing maps from file storage
+11:16 [Info] [Rust Map Api] Removing Icons from file storage
+11:16 [Info] [Rust Map Api] Wiping stored data
+11:16 [Info] [Rust Map Api] Regenerating images
+11:16 [Info] [Rust Map Api] Validating existing images
+11:16 [Info] [Rust Map Api] Validating config has latest monuments
+11:16 [Info] [Rust Map Api] Loaded image icons
+11:16 [Info] [Rust Map Api] Map Render Took: 8.10 Seconds
+11:16 [Info] [Rust Map Api] Icon Render Took: 0.45 Seconds
+11:16 [Info] [Rust Map Api] Default Encoding Took: 0.11 Seconds
+11:16 [Info] [Rust Map Api] Icons Encoding Took: 0.10 Seconds
+11:17 [Info] [Rust Map Api] Default 2x2 Split Took: 0.19 Seconds
+11:17 [Info] [Rust Map Api] Icons 2x2 Split Took: 0.15 Seconds
+11:18 [Info] [Rust Map Api] Upload render took: 45.39 Seconds
+11:18 [Info] [Rust Map Api] Uploading to imgur
+11:19 [Info] [Rust Map Api] https://i.imgur.com/Jp91nTd.jpg
+11:20 [Info] [Rust Map Api] Upload render took: 23.21 Seconds
+11:20 [Info] [Rust Map Api] Uploading to imgur
+11:21 [Info] [Rust Map Api] https://i.imgur.com/9mfGKSn.jpeg
+11:22 [Info] Unloaded plugin Imgur API v1.0.2 by MJSU
+11:22 [Info] Unloaded plugin Rust Map Api v1.3.2 by MJSU
+11:22 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.012 ago)
+11:22 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+11:22 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+11:22 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 2131ms
+11:22 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 183ms
+11:22 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+11:22 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:22 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:22 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+11:22 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+11:22 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:22 [Info] [Lusty Map] [Warning] Validating imagery
+11:22 [Info] [Lusty Map] [Warning] Icon images have not been found. Uploading images to file storage
+11:22 [Info] [Lusty Map] [Warning] Downloading map image to file storage. Please wait!
+11:22 [Info] [Lusty Map] [Warning] Attempting to split and store the complex mini-map. This may take a few moments! Failure to wait for this process to finish WILL result in error!
+11:22 [Info] [Lusty Map] [Warning] Map image not found in file store. Waiting for 10 seconds and trying again (Attempt: 1 / 5)
+11:22 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 392ms
+11:22 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+11:22 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+11:22 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:22 [Info] [Image Library] Starting order Lusty Map
+11:22 [Info] [Lusty Map] [Warning] Map image not found in file store. Waiting for 10 seconds and trying again (Attempt: 2 / 5)
+11:22 [Info] [Lusty Map] [Warning] Map image not found in file store. Waiting for 10 seconds and trying again (Attempt: 3 / 5)
+11:23 [Info] [Lusty Map] [Warning] Map image not found in file store. Waiting for 10 seconds and trying again (Attempt: 4 / 5)
+11:23 [Info] [Lusty Map] [Warning] Map image not found in file store. Waiting for 10 seconds and trying again (Attempt: 5 / 5)
+11:23 [Info] [Lusty Map] [Error] The plugin has timed out trying to find the map image to split! Complex map has been disabled
+11:23 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.033 ago)
+11:23 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+11:23 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+11:23 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 2152ms
+11:23 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 177ms
+11:23 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+11:23 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:23 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:23 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+11:23 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+11:23 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:23 [Info] [Lusty Map] [Warning] Validating imagery
+11:23 [Info] [Lusty Map] [Warning] Icon images have not been found. Uploading images to file storage
+11:23 [Info] [Lusty Map] [Warning] Downloading map image to file storage. Please wait!
+11:23 [Info] [Lusty Map] [Warning] Attempting to split and store the complex mini-map. This may take a few moments! Failure to wait for this process to finish WILL result in error!
+11:23 [Info] [Lusty Map] [Warning] Map image not found in file store. Waiting for 10 seconds and trying again (Attempt: 1 / 5)
+11:23 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 392ms
+11:23 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+11:23 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+11:23 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:23 [Info] [Image Library] Starting order Lusty Map
+11:23 [Info] [Image Library] Starting order Lusty Map - Map Image
+11:23 [Info] [Lusty Map] [Warning] Starting complex map split (6x). Please wait!
+11:23 [Error] Failed to run a 10.00 timer in 'LustyMap v2.1.42' (ArgumentException: A null reference or invalid value was found [GDI+ status: InvalidParameter])
+  at System.Drawing.GDIPlus.CheckStatus (System.Drawing.Status status) [0x0009b] in <1917aa1c39d94b1a91807b8cd9f03350>:0 
+  at System.Drawing.Bitmap.SetResolution (System.Single xDpi, System.Single yDpi) [0x0000e] in <1917aa1c39d94b1a91807b8cd9f03350>:0 
+  at (wrapper remoting-invoke-with-check) System.Drawing.Bitmap.SetResolution(single,single)
+  at Oxide.Plugins.LustyMap+MapSplitter.ResizeImage (System.Drawing.Image image, System.Int32 pixels) [0x0007b] in <e41c74336bb84c969ba68b581cfbceda>:0 
+  at Oxide.Plugins.LustyMap+MapSplitter.SplitMap (System.String imageId, System.Int32 amount) [0x0010d] in <e41c74336bb84c969ba68b581cfbceda>:0 
+  at Oxide.Plugins.LustyMap.AttemptSplit (System.Int32 attempts) [0x0007e] in <e41c74336bb84c969ba68b581cfbceda>:0 
+  at Oxide.Plugins.LustyMap+<AttemptSplit>c__AnonStorey4.<>m__0 () [0x00000] in <e41c74336bb84c969ba68b581cfbceda>:0 
+  at Oxide.Core.Libraries.Timer+TimerInstance.FireCallback () [0x00018] in <ec05e0208c9149bba43236ca58fea105>:0 
+11:24 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.021 ago)
+11:24 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+11:24 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+11:24 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 456ms
+11:24 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 182ms
+11:24 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+11:24 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:24 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:24 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+11:24 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+11:24 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:24 [Info] [Lusty Map] [Warning] Validating imagery
+11:24 [Info] [Lusty Map] [Warning] Generating the main map
+11:24 [Info] [Lusty Map] [Warning] Main map generated successfully!
+11:24 [Info] [Lusty Map] [Warning] Generating the mini-map
+11:24 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+11:24 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 398ms
+11:24 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+11:24 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+11:24 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:25 [Info] Vanish was compiled successfully in 1972ms
+11:25 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+11:27 [Info] Group 'admin' granted permission 'vanish.allow'
+11:27 [Info] Group 'admin' granted permission 'vanish.collision'
+11:29 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+11:29 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+11:30 [Info] NTeleportation was compiled successfully in 2066ms
+11:30 [Info] [NTeleportation] Loaded default configuration.
+11:30 [Error] NTeleportation v1.4.7: Failed to load config file (is the config file corrupt?) (Could not find file "/home/container/oxide/config/NTeleportation.json")
+11:30 [Info] [NTeleportation] Rust was upgraded or map changed - homes, town, outpost and bandit may be invalid!
+11:30 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 118ms
+11:30 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+11:32 [Info] NoEscape was compiled successfully in 1998ms
+11:32 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+11:33 [Info] Group 'default' granted permission 'noescape.raid.tpblock'
+11:33 [Info] Group 'default' granted permission 'noescape.combat.tpblock'
+11:34 [Info] Group 'default' granted permission 'noescape.raid.removeblock'
+11:34 [Info] Group 'default' granted permission 'noescape.combat.removeblock'
+11:35 [Info] Group 'default' granted permission 'noescape.combat.bgradeblock'
+11:35 [Info] Group 'default' granted permission 'noescape.raid.bgradeblock'
+11:37 [Info] Group 'default' granted permission 'noescape.raid.assignbedblock'
+11:37 [Info] Group 'default' granted permission 'noescape.combat.assignbedblock'
+11:37 [Info] Group 'admin' granted permission 'noescape.disable'
+11:43 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 177ms
+11:43 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+11:43 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+11:46 [Info] Group 'vip' granted permission 'nteleportation.vip'
+11:53 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+11:53 [Info] [NTeleportation] Rust was upgraded or map changed - homes, town, outpost and bandit may be invalid!
+11:53 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+11:54 [Info] ServerRewards was compiled successfully in 2112ms
+11:54 [Warning] [Server Rewards] All UI elements have been successfully generated!
+11:54 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 367ms
+11:54 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+11:56 [Info] Kits was compiled successfully in 2015ms
+11:56 [Info] Loaded plugin Kits v3.3.1 by Reneb
+11:57 [Info] Group 'default' granted permission 'nteleportation.home'
+11:57 [Info] Group 'default' granted permission 'nteleportation.deletehome'
+11:57 [Info] Group 'default' revoked permission 'nteleportation.deletehome'
+11:57 [Info] Group 'default' granted permission 'nteleportation.homehomes'
+11:58 [Info] Group 'default' granted permission 'nteleportation.tpb'
+11:58 [Info] Group 'default' granted permission 'nteleportation.tpr'
+11:58 [Info] Group 'default' granted permission 'nteleportation.tphome'
+11:58 [Info] Group 'default' granted permission 'nteleportation.tpoutpost'
+11:59 [Info] Group 'default' granted permission 'nteleportation.tpbandit'
+11:59 [Info] Group 'admin' granted permission 'nteleportation.home'
+11:59 [Info] Group 'admin' granted permission 'nteleportation.deletehome'
+11:59 [Info] Group 'admin' granted permission 'nteleportation.homehomes'
+11:59 [Info] Group 'admin' granted permission 'nteleportation.importhomes'
+11:59 [Info] Group 'admin' granted permission 'nteleportation.radiushome'
+12:00 [Info] Group 'admin' granted permission 'nteleportation.tp'
+12:00 [Info] Group 'admin' granted permission 'nteleportation.tpb'
+12:00 [Info] Group 'admin' granted permission 'nteleportation.tpr'
+12:00 [Info] Group 'admin' granted permission 'nteleportation.tpconsole'
+12:00 [Info] Group 'admin' granted permission 'nteleportation.tphome'
+12:00 [Info] Group 'admin' granted permission 'nteleportation.tptown'
+12:00 [Info] Group 'admin' granted permission 'nteleportation.tpoutpost'
+12:00 [Info] Group 'admin' granted permission 'nteleportation.tpbandit'
+12:00 [Info] Group 'admin' granted permission 'nteleportation.tpn'
+12:00 [Info] Group 'admin' granted permission 'nteleportation.tpl'
+12:01 [Info] Group 'admin' granted permission 'nteleportation.tpremove'
+12:01 [Info] Group 'admin' granted permission 'nteleportation.tpsave'
+12:01 [Info] Group 'admin' granted permission 'nteleportation.wipehomes'
+12:01 [Info] Group 'admin' granted permission 'nteleportation.crafthome'
+12:01 [Info] Group 'admin' granted permission 'nteleportation.crafttown'
+12:01 [Info] Group 'admin' granted permission 'nteleportation.craftoutpost'
+12:01 [Info] Group 'admin' granted permission 'nteleportation.craftbandit'
+12:01 [Info] Group 'admin' granted permission 'nteleportation.crafttpr'
+12:02 [Info] Group 'admin' granted permission 'nteleportation.tpt'
+12:02 [Info] Group 'admin' granted permission 'kits.admin'
+12:02 [Info] Group 'admin' granted permission 'kits.consolegive'
+12:04 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+12:04 [Info] Loaded plugin Kits v3.3.1 by Reneb
+12:04 [Info] Permission 'Kits.NewbieSpawn' doesn't exist
+12:05 [Info] Permission 'Kits.NewbieSpawn' doesn't exist
+12:11 [Info] RemoverTool was compiled successfully in 2093ms
+12:11 [Warning] [Remover Tool] Creating a new configuration file
+12:11 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+12:13 [Info] Group 'default' granted permission 'removertool.normal'
+12:13 [Info] Group 'admin' granted permission 'removertool.normal'
+12:13 [Info] Group 'admin' granted permission 'removertool.all'
+12:13 [Info] Group 'admin' granted permission 'removertool.admin'
+12:13 [Info] Group 'admin' granted permission 'removertool.structure'
+12:13 [Info] Group 'admin' granted permission 'removertool.external'
+12:13 [Info] Group 'admin' granted permission 'removertool.target'
+12:13 [Info] Permission 'removertool.overrride' doesn't exist
+12:14 [Info] Group 'admin' granted permission 'removertool.override'
+12:19 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+12:19 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+12:21 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 130ms [GARBAGE COLLECT]
+12:21 [Info] Skins was compiled successfully in 2055ms
+12:21 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+12:21 [Info] Group 'admin' granted permission 'skins.admin'
+12:21 [Info] Group 'vip' granted permission 'skins.use'
+12:26 [Info] Skin was successfully added
+12:35 [Info] Skin was successfully added
+12:37 [Info] StackSizeController was compiled successfully in 1979ms
+12:37 [Info] [Stack Size Controller] Generating a new config file...
+12:37 [Info] [Stack Size Controller] Added item category: 'Attire' to the config.
+12:37 [Info] [Stack Size Controller] Added item category: 'Misc' to the config.
+12:37 [Info] [Stack Size Controller] Added item category: 'Items' to the config.
+12:37 [Info] [Stack Size Controller] Added item category: 'Construction' to the config.
+12:37 [Info] [Stack Size Controller] Added item category: 'Component' to the config.
+12:37 [Info] [Stack Size Controller] Added item category: 'Traps' to the config.
+12:37 [Info] [Stack Size Controller] Added item category: 'Electrical' to the config.
+12:37 [Info] [Stack Size Controller] Added item category: 'Fun' to the config.
+12:37 [Info] [Stack Size Controller] Added item category: 'Food' to the config.
+12:37 [Info] [Stack Size Controller] Added item category: 'Resources' to the config.
+12:37 [Info] [Stack Size Controller] Added item category: 'Tool' to the config.
+12:37 [Info] [Stack Size Controller] Added item category: 'Medical' to the config.
+12:37 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+12:37 [Info] Group 'admin' granted permission 'stacksizecontroller.canchangestacksize'
+12:42 [Warning] Calling 'OnEntitySpawned' on 'RustIO v2.17.0' took 102ms
+12:42 [Info] GatherManager was compiled successfully in 1996ms
+12:42 [Warning] [Gathering Manager] New configuration file created.
+12:42 [Warning] [Gathering Manager] Configuration file updated.
+12:42 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+13:07 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.010 ago)
+13:07 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+13:07 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+13:07 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 2186ms
+13:07 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 195ms
+13:07 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+13:07 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+13:07 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+13:07 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+13:07 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+13:07 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+13:07 [Info] [Lusty Map] [Warning] Validating imagery
+13:07 [Info] [Lusty Map] [Warning] Generating the main map
+13:07 [Info] [Lusty Map] [Warning] Main map generated successfully!
+13:07 [Info] [Lusty Map] [Warning] Generating the mini-map
+13:07 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+13:07 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 432ms
+13:07 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+13:07 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+13:07 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+13:09 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 207ms
+13:09 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+13:11 [Info] DeathNotes was compiled successfully in 2050ms
+13:11 [Warning] [Death Notes] Generating new configuration file...
+13:11 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+13:12 [Info] PopupNotifications was compiled successfully in 302ms
+13:12 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+13:13 [Info] Group 'admin' granted permission 'popupnotifications.send'
+13:14 [Error] Could not load plugin 'PupupNotificiations' (no plugin found with that file name)
+13:14 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+13:14 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+13:15 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+13:15 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+13:15 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 2152ms
+13:15 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+13:15 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+13:15 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+13:15 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+13:15 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+13:15 [Info] [Lusty Map] [Warning] Validating imagery
+13:15 [Info] [Lusty Map] [Warning] Generating the main map
+13:15 [Info] [Lusty Map] [Warning] Main map generated successfully!
+13:15 [Info] [Lusty Map] [Warning] Generating the mini-map
+13:15 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+13:15 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 406ms
+13:15 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+13:15 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+13:15 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+13:15 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+13:15 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+13:17 [Info] DeathNotesGui, PopupNotifications and DeathNotes were compiled successfully in 2005ms
+13:17 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+13:17 [Info] Unloaded plugin Death Notes v6.3.5 by LaserHydra
+13:17 [Warning] [DEBUG] DeathNotesGui plugin is waiting for requirements to be loaded: PopupNotifications and DeathNotes
+13:17 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+13:17 [Warning] [DEBUG] DeathNotesGui plugin is waiting for requirements to be loaded: DeathNotes
+13:17 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+13:17 [Info] Loaded plugin Death Notes GUI v1.0.0 by LaserHydra
+13:28 [Info] [Death Notes] [DMA] Gubatrix fell to their death.
+13:32 [Info] [Death Notes] A Scientist shot down [DMA] Admiral Doge.
+18:29 [Info] Uninstalling Rust:IO ...
+18:29 [Info] Rust:IO> Uninstalling ...
+18:29 [Info] Rust:IO> No longer ticking
+18:29 [Info] Rust:IO> Stopping server ...
+18:29 [Info] Rust:IO> Removing listeners ...
+18:29 [Info] Rust:IO> Performing maintenance ...
+18:29 [Info] Rust:IO> Closing database ...
+18:29 [Info] Rust:IO> Uninstalled.
+18:29 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+18:29 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+18:29 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+18:29 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+18:29 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+18:29 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+18:29 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+18:29 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+18:29 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 204ms
+18:29 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+18:29 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+18:29 [Info] Unloaded plugin Death Notes GUI v1.0.0 by LaserHydra
+18:29 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+18:29 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+18:29 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+18:29 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+18:29 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+18:29 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+18:29 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 194ms
+18:29 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+18:29 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+18:29 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+18:29 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+18:29 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+18:29 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+18:29 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+18:29 [Info] Unloaded plugin Death Notes v6.3.5 by LaserHydra
+18:29 [Info] Loading Oxide Core v2.0.3991...
+18:29 [Info] Loading extensions...
+18:29 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+18:29 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+18:29 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+18:29 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+18:29 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+18:29 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+18:29 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:29 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:29 [Info] Using Covalence provider for game 'Rust'
+18:29 [Info] Loading plugins...
+18:29 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+18:29 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+18:29 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+18:29 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+18:29 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+18:29 [Info] AdminChat, AutomaticAuthorization, BetterChat, BetterChatMentions, ClanTags, Clans, DeathNotes, DeathNotesGui, GatherManager, GestureWheel, ImageLibrary, InfoPanel, Kits, LustyMap, NTeleportation, NoEscape, PlayerRankings, PlaytimeTracker, PopupNotifications, RemoverTool, ServerRewards, Skins, StackSizeController and Vanish were compiled successfully in 0ms
+18:29 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+18:29 [Warning] [DEBUG] DeathNotesGui plugin is waiting for requirements to be loaded: PopupNotifications and DeathNotes
+18:29 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+18:29 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+18:29 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+18:29 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+18:29 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+18:29 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+18:29 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+18:29 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+18:29 [Info] Loaded plugin Death Notes v6.3.5 by LaserHydra
+18:29 [Warning] [DEBUG] DeathNotesGui plugin is waiting for requirements to be loaded: PopupNotifications
+18:29 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+18:29 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+18:29 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+18:29 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+18:29 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+18:29 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+18:29 [Info] Loaded plugin Kits v3.3.1 by Reneb
+18:29 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+18:29 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+18:29 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+18:29 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+18:29 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+18:29 [Info] Loaded plugin Death Notes GUI v1.0.0 by LaserHydra
+18:29 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+18:29 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+18:29 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+18:29 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+18:29 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+18:32 [Info] IP address from Steam query: 0.0.0.0
+18:32 [Info] Updating Rust:IO ...
+18:32 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+18:32 [Info] Rust:IO: Update complete
+18:32 [Info] [Lusty Map] [Warning] Validating imagery
+18:32 [Info] [Lusty Map] [Warning] Icon images have not been found. Uploading images to file storage
+18:32 [Info] [Lusty Map] [Warning] Downloading map image to file storage. Please wait!
+18:32 [Info] [Lusty Map] [Warning] Waiting for Image Library to finish processing images
+18:32 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 234ms
+18:32 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 187ms
+18:32 [Info] [NTeleportation] Rust was upgraded or map changed - homes, town, outpost and bandit may be invalid!
+18:32 [Warning] [Server Rewards] All UI elements have been successfully generated!
+18:32 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 269ms
+18:32 [Info] [Image Library] Starting order Lusty Map
+18:32 [Info] Installing Rust:IO ...
+18:32 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+18:32 [Info] Rust:IO> Creating directories ...
+18:32 [Info] Rust:IO> Applying config ...
+18:32 [Info] Rust:IO> Initializing database ...
+18:32 [Info] Rust:IO> Map wipe detected, resetting map specific data
+18:32 [Info] Rust:IO> Generating map image (this may take a while) ...
+18:32 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  6857.853ms
+Postprocess  :  2639.236ms
+  Shadows    :   193.281ms
+  FXAA       :  2432.598ms
+Encoding     :    30.948ms
+Other        :     9.504ms
+--------------------------
+Total        :  9537.541ms
+18:32 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+18:32 [Info] Rust:IO> Installed.
+18:32 [Info] Rust:IO> Now ticking
+18:32 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 9732ms [GARBAGE COLLECT]
+18:32 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 69ms [GARBAGE COLLECT]
+18:32 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+18:32 [Info] [Image Library] Starting order Lusty Map - Map Image
+18:32 [Info] [Lusty Map] [Warning] Generating the main map
+18:32 [Info] [Lusty Map] [Warning] Main map generated successfully!
+18:32 [Info] [Lusty Map] [Warning] Generating the mini-map
+18:32 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+19:29 [Info] [Better Chat] [Global] [Newbie] Willma Reinholzen: !info
+20:18 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: hallo
+20:19 [Info] [Better Chat] [Global] [Newbie] Curufinwe: hi
+20:19 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: hi
+20:20 [Info] [Better Chat] [Global] [Newbie] Curufinwe: ore stack size wrong
+20:20 [Info] [Better Chat] [Global] [Newbie] Curufinwe: 1x
+20:20 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: wait
+20:21 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: now?
+20:22 [Info] [Better Chat] [Global] [Newbie] Curufinwe: wait i il check
+20:23 [Info] [Better Chat] [Global] [Newbie] Curufinwe: 10x +
+20:23 [Info] [Better Chat] [Global] [Newbie] Curufinwe: now
+20:23 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: so its okay u think?
+20:23 [Info] [Better Chat] [Global] [Newbie] Curufinwe: yes
+20:23 [Info] [Better Chat] [Global] [Newbie] Curufinwe: thnks
+20:24 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.020 ago)
+20:24 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:24 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:24 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 2109ms
+20:24 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 124ms
+20:24 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+20:24 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:24 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:24 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+20:24 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:24 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:24 [Info] [Lusty Map] [Warning] Validating imagery
+20:24 [Info] [Lusty Map] [Warning] Generating the main map
+20:24 [Info] [Lusty Map] [Warning] Main map generated successfully!
+20:24 [Info] [Lusty Map] [Warning] Generating the mini-map
+20:24 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+20:24 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 277ms
+20:24 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+20:24 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:24 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:25 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.003 ago)
+20:25 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:25 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:25 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 268ms
+20:25 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 111ms
+20:25 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+20:25 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:25 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:25 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+20:25 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:25 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:25 [Info] [Lusty Map] [Warning] Validating imagery
+20:25 [Info] [Lusty Map] [Warning] Generating the main map
+20:25 [Info] [Lusty Map] [Warning] Main map generated successfully!
+20:25 [Info] [Lusty Map] [Warning] Generating the mini-map
+20:25 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+20:25 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 261ms
+20:25 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+20:25 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:25 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:26 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.012 ago)
+20:26 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:26 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:26 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 382ms
+20:26 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 114ms
+20:26 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+20:26 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:26 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:26 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+20:26 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:26 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:26 [Info] [Lusty Map] [Warning] Validating imagery
+20:26 [Info] [Lusty Map] [Warning] Generating the main map
+20:26 [Info] [Lusty Map] [Warning] Main map generated successfully!
+20:26 [Info] [Lusty Map] [Warning] Generating the mini-map
+20:26 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+20:26 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 261ms
+20:26 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+20:26 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:26 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:26 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.012 ago)
+20:26 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:26 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:26 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 274ms
+20:26 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 112ms
+20:26 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+20:26 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:26 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:26 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+20:26 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:26 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:26 [Info] [Lusty Map] [Warning] Validating imagery
+20:26 [Info] [Lusty Map] [Warning] Generating the main map
+20:26 [Info] [Lusty Map] [Warning] Main map generated successfully!
+20:26 [Info] [Lusty Map] [Warning] Generating the mini-map
+20:26 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+20:26 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 257ms
+20:26 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+20:26 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:26 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:26 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.012 ago)
+20:26 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:26 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:26 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 270ms
+20:26 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 114ms
+20:26 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+20:26 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:26 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:26 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+20:26 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:26 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:26 [Info] [Lusty Map] [Warning] Validating imagery
+20:26 [Info] [Lusty Map] [Warning] Generating the main map
+20:26 [Info] [Lusty Map] [Warning] Main map generated successfully!
+20:26 [Info] [Lusty Map] [Warning] Generating the mini-map
+20:26 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+20:26 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 265ms
+20:26 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+20:26 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:26 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:27 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.011 ago)
+20:27 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:27 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:27 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 380ms
+20:27 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 113ms
+20:27 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+20:27 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:27 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:27 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+20:27 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:27 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:27 [Info] [Lusty Map] [Warning] Validating imagery
+20:27 [Info] [Lusty Map] [Warning] Generating the main map
+20:27 [Info] [Lusty Map] [Warning] Main map generated successfully!
+20:27 [Info] [Lusty Map] [Warning] Generating the mini-map
+20:27 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+20:27 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 267ms
+20:27 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+20:27 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:27 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:27 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.012 ago)
+20:27 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:27 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:27 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 258ms
+20:27 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 117ms
+20:27 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+20:27 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:27 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:27 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+20:27 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:27 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:27 [Info] [Lusty Map] [Warning] Validating imagery
+20:27 [Info] [Lusty Map] [Warning] Generating the main map
+20:27 [Info] [Lusty Map] [Warning] Main map generated successfully!
+20:27 [Info] [Lusty Map] [Warning] Generating the mini-map
+20:27 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+20:27 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 299ms
+20:27 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+20:27 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:27 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:27 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.008 ago)
+20:27 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:27 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:27 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 259ms
+20:27 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 122ms
+20:27 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+20:27 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:27 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:27 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+20:27 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:27 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:27 [Info] [Lusty Map] [Warning] Validating imagery
+20:27 [Info] [Lusty Map] [Warning] Generating the main map
+20:27 [Info] [Lusty Map] [Warning] Main map generated successfully!
+20:27 [Info] [Lusty Map] [Warning] Generating the mini-map
+20:27 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+20:27 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 298ms [GARBAGE COLLECT]
+20:27 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+20:27 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:27 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:28 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.011 ago)
+20:28 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:28 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:28 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 362ms
+20:28 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 112ms
+20:28 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+20:28 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:28 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:28 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+20:28 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:28 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:28 [Info] [Lusty Map] [Warning] Validating imagery
+20:28 [Info] [Lusty Map] [Warning] Generating the main map
+20:28 [Info] [Lusty Map] [Warning] Main map generated successfully!
+20:28 [Info] [Lusty Map] [Warning] Generating the mini-map
+20:28 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+20:28 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 268ms
+20:28 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+20:28 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:28 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:29 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.012 ago)
+20:29 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:29 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:29 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 271ms
+20:29 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 115ms
+20:29 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+20:29 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:29 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:29 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+20:29 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:29 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:29 [Info] [Lusty Map] [Warning] Validating imagery
+20:29 [Info] [Lusty Map] [Warning] Generating the main map
+20:29 [Info] [Lusty Map] [Warning] Main map generated successfully!
+20:29 [Info] [Lusty Map] [Warning] Generating the mini-map
+20:29 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+20:29 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 266ms
+20:29 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+20:29 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:29 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:29 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: don't wonder the mini map is changing. The server is new and we have to do few things :)
+20:29 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: if u need something just say it
+20:34 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.016 ago)
+20:34 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:34 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:34 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 2010ms
+20:34 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 114ms
+20:34 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+20:34 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:34 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:34 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+20:34 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:34 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:34 [Info] [Lusty Map] [Warning] Validating imagery
+20:34 [Info] [Lusty Map] [Warning] Generating the main map
+20:34 [Info] [Lusty Map] [Warning] Main map generated successfully!
+20:34 [Info] [Lusty Map] [Warning] Generating the mini-map
+20:34 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+20:34 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 266ms
+20:34 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+20:34 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:34 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:34 [Info] InfoPanel was compiled successfully in 322ms
+20:34 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+20:34 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 278ms
+20:34 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+20:35 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+20:35 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 237ms
+20:35 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+20:35 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+20:35 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 230ms
+20:35 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+20:36 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+20:36 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 223ms
+20:36 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+20:47 [Info] NoGiveNotices was compiled successfully in 1890ms
+20:47 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:49 [Info] JoinMessagePlus was compiled successfully in 1876ms
+20:49 [Info] Loaded plugin Join Message Plus v1.0.54 by MisterPixie
+20:52 [Info] Unloaded plugin Join Message Plus v1.0.54 by MisterPixie
+20:52 [Info] Welcomer was compiled successfully in 1894ms
+20:52 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+20:53 [Info] [Welcomer] Player [DMA] Admiral Doge has left the server. Reason Timed Out
+20:53 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+20:53 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+20:55 [Info] [Welcomer] Player [DMA] Gubatrix has joined the server from Germany
+21:03 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ✓
+21:03 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ✓
+21:04 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: •
+21:07 [Info] [Welcomer] Player [DMA] Admiral Doge has joined the server from Germany
+21:08 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ✓
+21:09 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+21:09 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+21:09 [Info] [Welcomer]  [DMA] Gubatrix has left the server. Reason: Disconnected
+21:10 [Info] [Welcomer] ✓ [DMA] Gubatrix has joined the server from Germany.
+21:11 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: .
+21:17 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+21:17 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+21:17 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: pimmel riecht
+21:17 [Info] [Welcomer] /u2715 [DMA] Gubatrix has left the server. Reason: Disconnected
+21:18 [Info] [Welcomer] /u2713 [DMA] Gubatrix has joined the server from Germany.
+21:19 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+21:19 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+21:20 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+21:20 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+21:20 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+21:20 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 231ms
+21:20 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+21:21 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+21:21 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 240ms
+21:21 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+21:22 [Info] [Death Notes] A Scientist shot down [DMA] Admiral Doge.
+21:22 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.015 ago)
+21:22 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+21:22 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+21:22 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 2126ms
+21:22 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 136ms
+21:22 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+21:22 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+21:22 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+21:22 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+21:22 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+21:22 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+21:22 [Info] [Lusty Map] [Warning] Validating imagery
+21:22 [Info] [Lusty Map] [Warning] Generating the main map
+21:22 [Info] [Lusty Map] [Warning] Main map generated successfully!
+21:22 [Info] [Lusty Map] [Warning] Generating the mini-map
+21:22 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+21:22 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 279ms
+21:22 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+21:22 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+21:22 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+21:23 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.004 ago)
+21:23 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+21:23 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+21:23 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 406ms
+21:23 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 116ms
+21:23 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+21:23 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+21:23 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+21:23 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+21:23 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+21:23 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+21:23 [Info] [Lusty Map] [Warning] Validating imagery
+21:23 [Info] [Lusty Map] [Warning] Generating the main map
+21:23 [Info] [Lusty Map] [Warning] Main map generated successfully!
+21:23 [Info] [Lusty Map] [Warning] Generating the mini-map
+21:23 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+21:23 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 267ms
+21:23 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+21:23 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+21:23 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+21:23 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.008 ago)
+21:23 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+21:23 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+21:23 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 406ms
+21:23 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 119ms
+21:23 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+21:23 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+21:23 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+21:23 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+21:23 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+21:23 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+21:23 [Info] [Lusty Map] [Warning] Validating imagery
+21:23 [Info] [Lusty Map] [Warning] Generating the main map
+21:23 [Info] [Lusty Map] [Warning] Main map generated successfully!
+21:23 [Info] [Lusty Map] [Warning] Generating the mini-map
+21:23 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+21:23 [Info] [Lusty Map] [Warning] Generating the complex map. This may take a few moments, please wait!
+21:23 [Info] [Lusty Map] [Warning] Complex map generated successfully!
+21:23 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 288ms
+21:23 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+21:23 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+21:23 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+21:24 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.008 ago)
+21:24 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+21:24 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+21:24 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 2054ms
+21:24 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 117ms
+21:24 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+21:24 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+21:24 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+21:24 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+21:24 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+21:24 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+21:24 [Info] [Lusty Map] [Warning] Validating imagery
+21:24 [Info] [Lusty Map] [Warning] Generating the main map
+21:24 [Info] [Lusty Map] [Warning] Main map generated successfully!
+21:24 [Info] [Lusty Map] [Warning] Generating the mini-map
+21:24 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+21:24 [Info] [Lusty Map] [Warning] Generating the complex map. This may take a few moments, please wait!
+21:24 [Info] [Lusty Map] [Warning] Complex map generated successfully!
+21:24 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 320ms [GARBAGE COLLECT]
+21:24 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+21:24 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+21:24 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+21:25 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.008 ago)
+21:25 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+21:25 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+21:25 [Info] LustyMap, ImageLibrary and GestureWheel were compiled successfully in 347ms
+21:25 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 121ms
+21:25 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+21:25 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+21:25 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+21:25 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+21:25 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+21:25 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+21:25 [Info] [Lusty Map] [Warning] Validating imagery
+21:25 [Info] [Lusty Map] [Warning] Generating the main map
+21:25 [Info] [Lusty Map] [Warning] Main map generated successfully!
+21:25 [Info] [Lusty Map] [Warning] Generating the mini-map
+21:25 [Info] [Lusty Map] [Warning] Mini map generated successfully!
+21:25 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 273ms
+21:25 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+21:25 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+21:25 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+21:26 [Info] [Death Notes] [DMA] Admiral Doge killed [DMA] Gubatrix using their Rock.
+21:28 [Info] [Welcomer] • [DMA] Admiral Doge has left the server. Reason: Disconnected.
+21:30 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+21:30 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+21:32 [Info] CraftingController was compiled successfully in 1944ms
+21:32 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+21:32 [Info] Permission 'craftingscontroller.isntantbulkcraft' doesn't exist
+21:33 [Info] Group 'admin' granted permission 'craftingcontroller.instantbulkcraft'
+21:33 [Info] Group 'admin' granted permission 'craftingcontroller.blockitems'
+21:33 [Info] Group 'admin' granted permission 'craftingcontroller.itemrate'
+21:33 [Info] Group 'admin' granted permission 'craftingcontroller.craftingrate'
+21:33 [Info] Group 'admin' granted permission 'craftingcontroller.setbenchlvl'
+21:33 [Info] Group 'admin' granted permission 'craftingcontroller.setskins'
+21:34 [Info] The current crafting rate is 50%
+21:34 [Info] Your input needs to be a number.
+21:34 [Info] The crafting rate was updated to 20 %
+21:35 [Info] The crafting rate was updated to 10 %
+21:42 [Error] Error while compiling: ClearInventory.cs(56,28): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+21:44 [Info] InventoryCleaner was compiled successfully in 1884ms
+21:44 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+21:45 [Info] Group 'admin' granted permission 'inventorycleaner.self'
+21:45 [Info] Group 'admin' granted permission 'inventorycleaner.all'
+21:45 [Info] Group 'admin' granted permission 'inventorycleaner.target'
+21:45 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: inventorycleaner.clean self
+21:45 [Info] [Welcomer] • [DMA] Admiral Doge has joined the server from Germany.
+21:46 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+21:46 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+21:49 [Info] [Welcomer] • [DMA] Gubatrix has left the server (Timed Out).
+21:49 [Info] Skin was successfully added
+21:50 [Info] Admin command usage:
+skin show - Show skins
+skin get - Get Skin ID of the item
+skin remove (Shortname) (Skin ID) - Remove a skin
+skin add (Shortname) (Skin ID) - Add a skin
+21:50 [Info] Skin was successfully added
+21:50 [Info] Skin was successfully added
+21:53 [Info] [Welcomer] • [DMA] Gubatrix has joined the server from Germany.
+21:55 [Info] Skins was compiled successfully in 2035ms
+21:55 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+21:55 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+21:58 [Info] [Welcomer] • [DMA] Gubatrix has left the server (Kicked: Steam: InvalidAuthSession).
+22:02 [Info] [Welcomer] • [DMA] Gubatrix has joined the server from Germany.
+22:05 [Info] [Welcomer] • [DMA] Gubatrix has left the server (Kicked: Steam: InvalidAuthSession).
+22:14 [Info] [Welcomer] • [DMA] Gubatrix has joined the server from Germany.
+22:17 [Info] [Death Notes] [DMA] Gubatrix slashed [DMA] Admiral Doge into pieces with their Hatchet.
+22:23 [Info] [Welcomer] • [DMA] Admiral Doge has left the server (Disconnected).
+22:24 [Info] [Welcomer] • [DMA] Gubatrix has left the server (Disconnected).

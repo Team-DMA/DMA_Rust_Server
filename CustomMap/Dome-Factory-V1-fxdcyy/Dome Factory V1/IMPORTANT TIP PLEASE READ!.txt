@@ -1,0 +1,6 @@
+WARNING : THE ALPHA TEXTURE MAY NOT APPLY CORRECTLY! YOU NEED TO ADD THESE YOURSELF IF SUCH THE CASE, ALPHA "INVISIBE" terrain texture is used on the pipes
+that go underground >> You can see it at the front gate a collapsed and going into the ground // then one coming out from the ground on the otherside of the 
+monument!!!!!
+
+Enjoy this is vsrn 1, I will be updating it with more and refining it as I go.
+- Star

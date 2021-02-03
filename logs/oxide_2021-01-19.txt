@@ -1,0 +1,1240 @@
+00:00 [Info] Uninstalling Rust:IO ...
+00:00 [Info] Rust:IO> Uninstalling ...
+00:00 [Info] Rust:IO> No longer ticking
+00:00 [Info] Rust:IO> Stopping server ...
+00:00 [Info] Rust:IO> Removing listeners ...
+00:00 [Info] Rust:IO> Performing maintenance ...
+00:00 [Info] Rust:IO> Closing database ...
+00:00 [Info] Rust:IO> Uninstalled.
+00:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 134ms
+00:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+00:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Loading Oxide Core v2.0.3991...
+00:00 [Info] Loading extensions...
+00:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust v2.0.4884 by Oxide Team and Contributors
+00:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Using Covalence provider for game 'Rust'
+00:00 [Info] Loading plugins...
+00:00 [Info] Loaded plugin Rust v2.0.4884 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:00 [Info] AdminChat, AliasSystem, AutomaticAuthorization, BGrade, BetterChat, BetterChatMentions, BetterLoot, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, GatherManager, GestureWheel, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NTeleportation, NoEscape, NoGiveNotices, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, RemoverTool, ServerInfo, ServerRewards, Skins, SmoothRestart, SpawnMini, StackSizeController, Vanish, VehicleDecayProtection, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+00:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+00:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+00:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+00:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+00:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+00:02 [Info] IP address from Steam query: 0.0.0.0
+00:02 [Info] Updating Rust:IO ...
+00:02 [Info] [BetterLoot] Using '33' active of '35' supported containertypes
+00:02 [Info] [BetterLoot] Updating internals ...
+00:02 [Info] Rust:IO: Update complete
+00:02 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 221ms
+00:02 [Info] [Kill Feed] Loading configuration file!
+00:02 [Warning] [Server Rewards] All UI elements have been successfully generated!
+00:02 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 284ms
+00:02 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+00:03 [Info] [BetterLoot] No stacked LootContainer found.
+00:03 [Info] [BetterLoot] Populated '456' supported containers.
+00:03 [Info] [SmoothRestart] Your servers Oxide build is up to date
+00:03 [Info] Installing Rust:IO ...
+00:03 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+00:03 [Info] Rust:IO> Creating directories ...
+00:03 [Info] Rust:IO> Applying config ...
+00:03 [Info] Rust:IO> Initializing database ...
+00:03 [Info] Rust:IO> Generating map image (this may take a while) ...
+00:03 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7224.658ms
+Postprocess  :  3651.575ms
+  Shadows    :   284.261ms
+  FXAA       :  3353.808ms
+Encoding     :    33.026ms
+Other        :    10.456ms
+--------------------------
+Total        :  10919.715ms
+00:03 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+00:03 [Info] Rust:IO> Installed.
+00:03 [Info] Rust:IO> Now ticking
+00:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 11099ms [GARBAGE COLLECT]
+00:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 1ms [GARBAGE COLLECT]
+00:03 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+01:31 [Info] [Welcomer] • Panzi has joined the server from Denmark.
+01:53 [Info] [Welcomer] • Panzi has left the server (Disconnected).
+07:05 [Info] [Welcomer] • chitzo has joined the server from Germany.
+07:54 [Info] [Welcomer] • Cookin'Daddy 大吊男孩 has joined the server from Germany.
+07:55 [Info] [Better Chat] [Global] [Newbie] Cookin'Daddy 大吊男孩: Hi
+08:01 [Info] [Welcomer] • Cookin'Daddy 大吊男孩 has left the server (Disconnected).
+08:20 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+08:22 [Info] Listing 42 plugins:
+  01 "Admin Chat" (2.0.4) by LaserHydra (0.00s) - AdminChat.cs
+  02 "Alias System" (2.1.3) by LaserHydra (0.00s) - AliasSystem.cs
+  03 "Automatic Authorization" (1.2.4) by k1lly0u/Arainrr (0.10s) - AutomaticAuthorization.cs
+  04 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.04s) - BGrade.cs
+  05 "Better Chat" (5.2.5) by LaserHydra (0.01s) - BetterChat.cs
+  06 "Better Chat Mentions" (1.2.3) by Death (0.00s) - BetterChatMentions.cs
+  07 "BetterLoot" (3.5.3) by Default (2.68s) - BetterLoot.cs
+  08 "Blueprint Manager" (1.1.4) by Orange (0.03s) - BlueprintManager.cs
+  09 "Building Grades" (0.5.1) by Default (0.00s) - BuildingGrades.cs
+  10 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  11 "Rust:IO Clans" (1.7.6) by playrust.io / dcode (0.01s) - Clans.cs
+  12 "Clan Team" (1.0.5) by deivismac (0.00s) - ClanTeam.cs
+  13 "Crafting Controller" (3.2.2) by Whispers88 (0.02s) - CraftingController.cs
+  14 "Gathering Manager" (2.2.75) by Mughisi (0.06s) - GatherManager.cs
+  15 "Image Library" (2.0.56) by Absolut & K1lly0u (0.03s) - ImageLibrary.cs
+  16 "Gesture Wheel" (0.1.3) by Tricky & Mevent (0.00s) - GestureWheel.cs
+  17 "InfoPanel" (1.0.4) by Default (1.05s) - InfoPanel.cs
+  18 "Inventory Cleaner" (2.0.0) by Iv Misticos (0.00s) - InventoryCleaner.cs
+  19 "Inventory Viewer" (3.0.3) by Mughisi (0.01s) - InventoryViewer.cs
+  20 "Kill Feed" (1.18.0) by Tuntenfisch (0.03s) - KillFeed.cs
+  21 "Kits" (3.3.1) by Reneb (0.04s) - Kits.cs
+  22 "Loading Messages" (1.0.6) by CosaNostra/Def (0.02s) - LoadingMessages.cs
+  23 "NTeleportation" (1.4.7) by nivex (0.17s) - NTeleportation.cs
+  24 "No Escape" (2.1.31) by Calytic (0.63s) - NoEscape.cs
+  25 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.cs
+  26 "OnScreenLogo" (1.1.5) by Vlad-00003 (0.02s) - OnScreenLogo.cs
+  27 "PlayerRankings" (3.0.2) by Ankawi (0.03s) - PlayerRankings.cs
+  28 "Playtime Tracker" (0.1.7) by k1lly0u (0.07s) - PlaytimeTracker.cs
+  29 "Popup Notifications" (0.2.0) by emu / k1lly0u (0.00s) - PopupNotifications.cs
+  30 "Remover Tool" (4.3.23) by Reneb/Fuji/Arainrr (0.01s) - RemoverTool.cs
+  31 "ServerInfo" (0.5.4) by FastBurst (0.04s) - ServerInfo.cs
+  32 "Server Rewards" (0.4.73) by k1lly0u (0.33s) - ServerRewards.cs
+  33 "Skins" (2.1.2) by Iv Misticos (0.16s) - Skins.cs
+  34 "SmoothRestart" (1.2.5) by Fujikura/Visagalis (1.57s) - SmoothRestart.cs
+  35 "Spawn Mini" (2.10.0) by SpooksAU (0.40s) - SpawnMini.cs
+  36 "Stack Size Controller" (2.0.4) by Canopy Sheep (0.34s) - StackSizeController.cs
+  37 "Vanish" (1.3.8) by Whispers88 (0.00s) - Vanish.cs
+  38 "Vehicle Decay Protection" (1.3.2) by WhiteThunder (0.42s) - VehicleDecayProtection.cs
+  39 "Welcomer" (1.5.4) by Dana (0.00s) - Welcomer.cs
+  40 "Where is My Horse" (0.2.2) by 2CHEVSKII (0.00s) - WhereIsMyHorse.cs
+  41 "ZLevelsRemastered" (2.9.22) by Default (0.66s) - ZLevelsRemastered.cs
+09:52 [Info] [Welcomer] • Tinus Tintenfisch has joined the server from Germany.
+11:15 [Info] [SmoothRestart] Server will restart in 45 minutes!
+11:19 [Info] [Welcomer] • Tinus Tintenfisch has left the server (Disconnected).
+11:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+11:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+11:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+11:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+11:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+11:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+11:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+11:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+11:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 1 seconds!
+12:00 [Info] Uninstalling Rust:IO ...
+12:00 [Info] Rust:IO> Uninstalling ...
+12:00 [Info] Rust:IO> No longer ticking
+12:00 [Info] Rust:IO> Stopping server ...
+12:00 [Info] Rust:IO> Removing listeners ...
+12:00 [Info] Rust:IO> Performing maintenance ...
+12:00 [Info] Rust:IO> Closing database ...
+12:00 [Info] Rust:IO> Uninstalled.
+12:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+12:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+12:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+12:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+12:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+12:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+12:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+12:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+12:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+12:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+12:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+12:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+12:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+12:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+12:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+12:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+12:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+12:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+12:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+12:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+12:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+12:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+12:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+12:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+12:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 142ms
+12:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+12:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+12:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+12:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+12:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+12:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+12:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+12:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+12:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+12:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+12:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+12:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+12:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+12:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+12:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+12:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+12:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+12:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+12:00 [Info] Loading Oxide Core v2.0.3991...
+12:00 [Info] Loading extensions...
+12:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+12:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+12:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+12:00 [Info] Loaded extension Rust v2.0.4884 by Oxide Team and Contributors
+12:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+12:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+12:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:00 [Info] Using Covalence provider for game 'Rust'
+12:00 [Info] Loading plugins...
+12:00 [Info] Loaded plugin Rust v2.0.4884 by Oxide Team and Contributors
+12:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+12:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+12:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+12:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+12:00 [Info] AdminChat, AliasSystem, AutomaticAuthorization, BGrade, BetterChat, BetterChatMentions, BetterLoot, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, GatherManager, GestureWheel, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NTeleportation, NoEscape, NoGiveNotices, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, RemoverTool, ServerInfo, ServerRewards, Skins, SmoothRestart, SpawnMini, StackSizeController, Vanish, VehicleDecayProtection, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+12:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+12:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+12:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+12:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+12:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+12:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+12:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+12:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+12:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+12:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+12:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+12:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+12:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+12:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+12:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+12:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+12:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+12:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+12:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+12:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+12:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+12:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+12:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+12:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+12:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+12:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+12:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+12:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+12:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+12:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+12:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+12:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+12:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+12:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+12:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+12:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+12:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+12:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+12:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+12:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+12:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+12:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+12:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+12:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+12:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+12:02 [Info] IP address from Steam query: 0.0.0.0
+12:02 [Info] Updating Rust:IO ...
+12:02 [Info] [BetterLoot] Using '33' active of '35' supported containertypes
+12:02 [Info] [BetterLoot] Updating internals ...
+12:02 [Info] Rust:IO: Update complete
+12:03 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 229ms
+12:03 [Info] [Kill Feed] Loading configuration file!
+12:03 [Warning] [Server Rewards] All UI elements have been successfully generated!
+12:03 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 271ms
+12:03 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+12:03 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 104ms
+12:03 [Info] [BetterLoot] No stacked LootContainer found.
+12:03 [Info] [BetterLoot] Populated '454' supported containers.
+12:03 [Info] [SmoothRestart] Your servers Oxide build is up to date
+12:03 [Info] Installing Rust:IO ...
+12:03 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+12:03 [Info] Rust:IO> Creating directories ...
+12:03 [Info] Rust:IO> Applying config ...
+12:03 [Info] Rust:IO> Initializing database ...
+12:03 [Info] Rust:IO> Generating map image (this may take a while) ...
+12:03 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  8100.709ms
+Postprocess  :  3618.043ms
+  Shadows    :   201.135ms
+  FXAA       :  3402.971ms
+Encoding     :    34.091ms
+Other        :    10.483ms
+--------------------------
+Total        :  11763.326ms
+12:03 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+12:03 [Info] Rust:IO> Installed.
+12:03 [Info] Rust:IO> Now ticking
+12:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 11950ms [GARBAGE COLLECT]
+12:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 1ms [GARBAGE COLLECT]
+12:03 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+12:08 [Info] [Welcomer] • Boomer has joined the server from Italy.
+12:31 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+14:44 [Info] [Better Chat] [Global] [Newbie] Boomer: admin
+14:45 [Info] [Better Chat] [Global] [Newbie] Boomer: ADMIN
+14:45 [Info] [Better Chat] [Global] [Newbie] Boomer: remove the heli shoot on sight if we have no weapons in hands
+14:45 [Info] [Better Chat] [Global] [Newbie] Boomer: or better, remove heli
+14:45 [Info] [Better Chat] [Global] [Newbie] Kongen: heli drops good loot
+14:46 [Info] [Better Chat] [Global] [Newbie] Boomer: yes but there is an option
+14:46 [Info] [Better Chat] [Global] [Newbie] Boomer: you can make them NOT shooting you if youn have no weapons in hand
+14:46 [Info] [Better Chat] [Global] [Newbie] Boomer: I have no weapons
+14:46 [Info] [Better Chat] [Global] [Newbie] Boomer: it kills me
+14:46 [Info] [Better Chat] [Global] [Newbie] Kongen: then you dont know the trick
+14:46 [Info] [Better Chat] [Global] [Newbie] Boomer: is not fun
+14:46 [Info] [Better Chat] [Global] [Newbie] Kongen: you need to remove weapons
+14:46 [Info] [Better Chat] [Global] [Newbie] Kongen: and cloths
+14:46 [Info] [Better Chat] [Global] [Newbie] Boomer: no I play since yesterday
+14:46 [Info] [Better Chat] [Global] [Newbie] Kongen: I see
+14:47 [Info] [Better Chat] [Global] [Newbie] Boomer: I'm pretty new
+14:47 [Info] [Better Chat] [Global] [Newbie] Kongen: and sry for killing you
+14:47 [Info] [Better Chat] [Global] [Newbie] Boomer: Np m8
+14:47 [Info] [Better Chat] [Global] [Newbie] Boomer: it's rust
+14:47 [Info] [Better Chat] [Global] [Newbie] Boomer: its fine
+14:47 [Info] [Better Chat] [Global] [Newbie] Kongen: true
+14:47 [Info] [Better Chat] [Global] [Newbie] Boomer: thats the purpose
+14:47 [Info] [Better Chat] [Global] [Newbie] Boomer: eheheheheh
+14:47 [Info] [Better Chat] [Global] [Newbie] Kongen: but
+14:47 [Info] [Better Chat] [Global] [Newbie] Boomer: so if I'm naked it willn ot shoot me
+14:47 [Info] [Better Chat] [Global] [Newbie] Kongen: no
+14:47 [Info] [Better Chat] [Global] [Newbie] Kongen: it wont
+14:48 [Info] [Better Chat] [Global] [Newbie] Boomer: ok then... thank you
+14:48 [Info] [Better Chat] [Global] [Newbie] Kongen: you need to wear max 2 pieces of colths and no weapon
+14:48 [Info] [Better Chat] [Global] [Newbie] Boomer: naked and no weapons
+14:48 [Info] [Better Chat] [Global] [Newbie] Kongen: if you wear 3 pices it will shoot you
+14:48 [Info] [Better Chat] [Global] [Newbie] Kongen: it havent shot me yet xD
+14:48 [Info] [Better Chat] [Global] [Newbie] Boomer: gg
+14:48 [Info] [Better Chat] [Global] [Newbie] Kongen: xD
+14:49 [Info] [Better Chat] [Global] [Newbie] Boomer: I try to understand the game now...
+14:49 [Info] [Better Chat] [Global] [Newbie] Kongen: np
+14:49 [Info] [Better Chat] [Global] [Newbie] Boomer: It's pretty nice, but still I prefere Ark
+14:49 [Info] [Better Chat] [Global] [Newbie] Kongen: if you have questions just ask :)
+14:49 [Info] [Better Chat] [Global] [Newbie] Boomer: crude oil? is for what
+14:50 [Info] [Better Chat] [Global] [Newbie] Kongen: you need oil refinder or what it called xD
+14:50 [Info] [Better Chat] [Global] [Newbie] Boomer: and it produce gasoline?
+14:50 [Info] [Better Chat] [Global] [Newbie] Kongen: it make low grade
+14:50 [Info] [Better Chat] [Global] [Newbie] Boomer: ah ok
+14:50 [Info] [Better Chat] [Global] [Newbie] Boomer: Can I use the refinery in some spots I finds in the map?
+14:51 [Info] [Better Chat] [Global] [Newbie] Kongen: yes
+14:51 [Info] [Better Chat] [Global] [Newbie] Boomer: ok
+14:51 [Info] [Better Chat] [Global] [Newbie] Kongen: you just need wood with it
+14:51 [Info] [Better Chat] [Global] [Newbie] Boomer: ok
+14:51 [Info] [Better Chat] [Global] [Newbie] Boomer: ty
+14:51 [Info] [Better Chat] [Global] [Newbie] Kongen: yw
+14:51 [Info] [Better Chat] [Global] [Newbie] Kongen: but again sry for killing you, though you will kill me xD
+14:52 [Info] [Better Chat] [Global] [Newbie] Boomer: please no worries
+14:52 [Info] [Better Chat] [Global] [Newbie] Kongen: okay
+14:52 [Info] [Better Chat] [Global] [Newbie] Boomer: it's the game
+14:52 [Info] [Better Chat] [Global] [Newbie] Boomer: it's fine
+14:52 [Info] [Better Chat] [Global] [Newbie] Boomer: I'm not a kid
+14:52 [Info] [Better Chat] [Global] [Newbie] Boomer: ahahahaah
+14:52 [Info] [Better Chat] [Global] [Newbie] Kongen: I never said you were
+14:52 [Info] [Better Chat] [Global] [Newbie] Kongen: Im normal friendly xD
+14:52 [Info] [Better Chat] [Global] [Newbie] Boomer: I saw a lot of people complaining about being killed
+14:53 [Info] [Better Chat] [Global] [Newbie] Boomer: I dont understand why
+14:53 [Info] [Better Chat] [Global] [Newbie] Kongen: ya thats how it goes normaly
+14:53 [Info] [Better Chat] [Global] [Newbie] Boomer: play other games
+14:53 [Info] [Better Chat] [Global] [Newbie] Kongen: oh ya
+14:53 [Info] [Better Chat] [Global] [Newbie] Boomer: I dont complain cause I saw some videos and I understood it's a full pvp game
+14:54 [Info] [Better Chat] [Global] [Newbie] Boomer: so just have fun
+14:54 [Info] [Better Chat] [Global] [Newbie] Boomer: I love the building side Btw
+14:54 [Info] [Better Chat] [Global] [Newbie] Kongen: Im trying new base out
+14:54 [Info] [Better Chat] [Global] [Newbie] Kongen: atm its look pretty nice
+14:54 [Info] [Better Chat] [Global] [Newbie] Boomer: gg
+14:55 [Info] [Better Chat] [Global] [Newbie] Kongen: so you just try your luck on your base I mean by building
+14:55 [Info] [Better Chat] [Global] [Newbie] Boomer: I just try
+14:56 [Info] [Better Chat] [Global] [Newbie] Boomer: it's my first time so I just need to learn basics then I will spedn more time doing something better
+14:56 [Info] [Better Chat] [Global] [Newbie] Boomer: now I dont care too much
+14:56 [Info] [Better Chat] [Global] [Newbie] Kongen: thats a good idea not to care much xD
+14:56 [Info] [Better Chat] [Global] [Newbie] Kongen: normal servers wipes so then you will be back to zero
+14:56 [Info] [Better Chat] [Global] [Newbie] Boomer: its a game
+14:57 [Info] [Better Chat] [Global] [Newbie] Kongen: ya I like the game
+15:03 [Info] [Welcomer] • Kongen has left the server (Kicked: Steam: Invalid).
+15:04 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+15:10 [Info] [Better Chat] [Global] [Newbie] Boomer: thanks
+15:10 [Info] [Better Chat] [Global] [Newbie] Boomer: now I kow the trick
+15:10 [Info] [Better Chat] [Global] [Newbie] Boomer: to avoid to be killed
+15:10 [Info] [Better Chat] [Global] [Newbie] Kongen: ^^
+15:11 [Info] [Better Chat] [Global] [Newbie] Boomer: but heli is not funny for a solo player
+15:11 [Info] [Better Chat] [Global] [Newbie] Kongen: you need some cover to take it down :)
+15:11 [Info] [Better Chat] [Global] [Newbie] Boomer: ye I think so
+15:11 [Info] [Better Chat] [Global] [Newbie] Kongen: it shoots and fire rockets so ya cover is very good
+15:25 [Info] [Better Chat] [Global] [Newbie] Boomer: ARE YOU SHOOTING ME?
+15:25 [Info] [Better Chat] [Global] [Newbie] Boomer: im just looting
+15:26 [Info] [Better Chat] [Global] [Newbie] Kongen: Im friendly, last time I though you was after me xD
+15:26 [Info] [Better Chat] [Global] [Newbie] Boomer: who shoot me
+15:26 [Info] [Better Chat] [Global] [Newbie] Boomer: we are just 2
+15:27 [Info] [Better Chat] [Global] [Newbie] Kongen: oh maybe bandit camp or outpost?
+15:27 [Info] [Better Chat] [Global] [Newbie] Boomer: NPC?=
+15:27 [Info] [Better Chat] [Global] [Newbie] Kongen: yup
+15:27 [Info] [Better Chat] [Global] [Newbie] Boomer: oh
+15:28 [Info] [Better Chat] [Global] [Newbie] Kongen: its safe zone there so if you have your weapon out a timer begin and when its done they shot you
+15:28 [Info] [Better Chat] [Global] [Newbie] Boomer: nono I dont have weapons, just a double barrel but no ammo
+15:28 [Info] [Better Chat] [Global] [Newbie] Kongen: you still have DB out xD
+15:28 [Info] [Better Chat] [Global] [Newbie] Boomer: not out
+15:28 [Info] [Better Chat] [Global] [Newbie] Boomer: in pocket
+15:28 [Info] [Better Chat] [Global] [Newbie] Kongen: sounds weird, they shoot ppls with guns out
+15:29 [Info] [Better Chat] [Global] [Newbie] Boomer: I dunno
+15:29 [Info] [Better Chat] [Global] [Newbie] Boomer: someone shoots me
+15:29 [Info] [Better Chat] [Global] [Newbie] Boomer: M13
+15:29 [Info] [Better Chat] [Global] [Newbie] Kongen: I think its npc, where are you now?
+15:30 [Info] [Better Chat] [Global] [Newbie] Boomer: now I'm leaving the zone
+15:30 [Info] [Better Chat] [Global] [Newbie] Boomer: I saw NPCs
+15:30 [Info] [Better Chat] [Global] [Newbie] Kongen: ya xD
+15:30 [Info] [Better Chat] [Global] [Newbie] Kongen: you have a mark in upper right corner?
+15:30 [Info] [Better Chat] [Global] [Newbie] Boomer: nope
+15:31 [Info] [Better Chat] [Global] [Newbie] Kongen: thats good then they wont shoot you xD
+15:41 [Info] [Welcomer] • [DMA] Gubatrix has joined the server from Germany.
+15:43 [Warning] AliasSystem has replaced the 'top' chat command previously registered by AliasSystem
+15:44 [Info] [Better Chat] [Global] [Newbie] Boomer: bye, cya later
+15:45 [Info] [Better Chat] [Global] [Newbie] Kongen: cya :)
+15:45 [Info] [Welcomer] • [DMA] Admiral Doge has joined the server from Germany.
+15:45 [Info] [Welcomer] • Boomer has left the server (Disconnected).
+15:49 [Info] [Welcomer] • Juan has joined the server from Lithuania.
+15:49 [Info] [Welcomer] • Juozas Petrauskas has joined the server from Lithuania.
+15:51 [Info] [Welcomer] • Juan has left the server (Disconnected).
+15:52 [Info] [Welcomer] • Juozas Petrauskas has left the server (Disconnected).
+15:57 [Info] Godmode was compiled successfully in 1985ms
+15:57 [Warning] [Godmode] Creating a new configuration file
+15:57 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+15:57 [Info] Group 'admin' granted permission 'godmode.admin'
+15:57 [Info] Group 'admin' granted permission 'godmode.toggle'
+15:58 [Info] Group 'admin' granted permission 'godmode.invulnerable'
+15:58 [Info] Group 'admin' granted permission 'godmode.lootprotection'
+15:58 [Info] Group 'admin' granted permission 'godmode.noattacking'
+15:58 [Info] Group 'admin' granted permission 'godmode.untiring'
+15:59 [Error] Could not load plugin 'GodMode' (no plugin found with that file name)
+16:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+16:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+16:00 [Info] [Better Chat] [Team] [Admin] [DMA] [AdminMode]Gubatrix: .
+16:00 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode]Gubatrix: .
+16:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+16:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+16:01 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: .
+16:01 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Gubatrix: .
+16:13 [Info] [Welcomer] • [AdminMode] Admiral Doge has left the server (Disconnected).
+16:27 [Info] [Welcomer] • Boomer has joined the server from Italy.
+16:29 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: hey guys
+16:29 [Info] [Better Chat] [Global] [Newbie] Kongen: hey
+16:29 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: everythin is fine or u need something?
+16:30 [Info] [Better Chat] [Global] [Newbie] Kongen: its allright, just chilling here :)
+16:30 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: nice
+16:31 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: do u have any suggestions or other thinks we can do better with this server?
+16:31 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: we started the server literally 3 days ago
+16:31 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: or 4
+16:31 [Info] [Better Chat] [Global] [Newbie] Kongen: ya I saw that :)
+16:31 [Info] [Better Chat] [Global] [Newbie] Kongen: atm we cant use our RP
+16:32 [Info] [Better Chat] [Global] [Newbie] Boomer: the server is clean and nice, just whatch the heli that is really annoying but just for me, at the moment this is a nice server
+16:32 [Info] [Welcomer] • [AdminMode] Admiral Doge has joined the server from Germany.
+16:32 [Info] [Better Chat] [Global] [Newbie] Kongen: you just need to know the tricks boomer ^^
+16:32 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: thx
+16:32 [Info] [Better Chat] [Global] [Newbie] Boomer: yep
+16:32 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yeah we will build up the shop
+16:33 [Info] [Better Chat] [Global] [Newbie] Boomer: btw the server is really nice
+16:33 [Info] [Better Chat] [Global] [Newbie] Kongen: you guys been thinking on what items there will be in shop?
+16:33 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: we have no idea, i'm just making the /info menu
+16:33 [Info] [Better Chat] [Global] [Newbie] Kongen: allright
+16:33 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: maybe u can say me what u want, we also have EVERY skin on our server -​> /skin
+16:34 [Info] [Better Chat] [Global] [Newbie] Boomer: skins will be nice
+16:34 [Info] [Better Chat] [Global] [Newbie] Kongen: you need to buy them first xD
+16:34 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: no u dont :)
+16:34 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: just type /skin
+16:34 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: and place your item on the right
+16:34 [Info] [Better Chat] [Global] [Newbie] Kongen: oh cool
+16:34 [Info] [Better Chat] [Global] [Newbie] Boomer: ah ok
+16:34 [Info] [Better Chat] [Global] [Newbie] Kongen: thats awsome!!
+16:38 [Info] ServerInfo was compiled successfully in 2031ms
+16:38 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:38 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:41 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:41 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:42 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:42 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:42 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:42 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:43 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:43 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:51 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:51 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:53 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:53 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:53 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:53 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:54 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:54 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:54 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:54 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:55 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:55 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:59 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:59 [Error] ServerInfo v0.5.4: Failed to load config file (is the config file corrupt?) (After parsing a value an unexpected character was encountered: ". Path 'settings.Tabs[1].Pages[0].TextLines[17]', line 48, position 5.)
+16:59 [Error] ServerInfo v0.5.4: Failed to load config file (is the config file corrupt?) (After parsing a value an unexpected character was encountered: ". Path 'settings.Tabs[1].Pages[0].TextLines[17]', line 48, position 5.)
+16:59 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:59 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:59 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:03 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:03 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:06 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:06 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:06 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:06 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:07 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:07 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:10 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:10 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:10 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:10 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:13 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:13 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:15 [Info] [Server Rewards] You have added the item 8x Zoom Scope, available for 2000 RP
+17:15 [Info] ServerRewards was compiled successfully in 2236ms
+17:15 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+17:15 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 137ms
+17:15 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+17:15 [Info] [Image Library] Starting order Server Rewards
+17:15 [Warning] [Server Rewards] All UI elements have been successfully generated!
+17:18 [Info] [Server Rewards] Unable to find a reward item with that number
+17:20 [Info] [Server Rewards] rewards add item <shortname> <skinId> <amount> <cost> <opt:bp>
+17:21 [Info] [Server Rewards] You have added the item 8x Zoom Scope, available for 1500 RP
+17:21 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:21 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:21 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+17:21 [Warning] [Server Rewards] All UI elements have been successfully generated!
+17:21 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+17:24 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+17:24 [Warning] [Server Rewards] All UI elements have been successfully generated!
+17:24 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+17:26 [Info] [Server Rewards] Server Rewards  v0.4.73
+17:26 [Info] [Server Rewards] --- List Rewards ---
+17:26 [Info] [Server Rewards] rewards list <items | kits | commands> - Display a list of rewards for the specified category, which information on each item
+17:26 [Info] [Server Rewards] --- Add Rewards ---
+17:26 [Info] [Server Rewards] rewards add item <shortname> <skinId> <amount> <cost> <opt: cooldown> <opt:bp> - Add a new reward item to the store (add "bp" to add the item as a blueprint)
+17:26 [Info] [Server Rewards] rewards add kit <name> <kitname> <cost> <opt: cooldown> - Add a new reward kit to the store
+17:26 [Info] [Server Rewards] rewards add command <name> <command> <cost> <opt: cooldown> - Add a new reward command to the store
+17:26 [Info] [Server Rewards] --- Editing Rewards ---
+17:26 [Info] [Server Rewards] rewards edit item <ID> <name | cost | amount | cooldown> "edit value" - Edit the specified field of the item with ID number <ID>
+17:26 [Info] [Server Rewards] rewards edit kit <ID> <name | cost | description | icon | cooldown> "edit value" - Edit the specified field of the kit with ID number <ID>
+17:26 [Info] [Server Rewards] rewards edit command <ID> <name | cost | amount | description | icon | add | remove | cooldown> "edit value" - Edit the specified field of the kit with ID number <ID>
+17:26 [Info] [Server Rewards] Icon field : The icon field can either be a URL, or a image saved to disk under the folder "oxide/data/ServerRewards/Images/"
+17:26 [Info] [Server Rewards] Command add/remove field: Here you add additional commands or remove existing commands. Be sure to type the command inside quotation marks
+17:26 [Info] [Server Rewards] --- Removing Rewards ---
+17:26 [Info] [Server Rewards] rewards remove item <ID> - Removes the item with the specified ID
+17:26 [Info] [Server Rewards] rewards remove kit <ID> - Removes the kit with the specified ID
+17:26 [Info] [Server Rewards] rewards remove command <ID> - Removes the command with the specified ID
+17:26 [Info] [Server Rewards] --- Important Note ---
+17:26 [Info] [Server Rewards] Any changes you make to the store items/kits/commands will NOT be reflected until you reload the plugin!
+17:26 [Info] [Server Rewards] rewards add item <shortname> <skinId> <amount> <cost> <opt:bp>
+17:26 [Info] [Server Rewards] You have added the item Bolt Action Rifle, available for 1500 RP
+17:27 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+17:27 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+17:27 [Info] [Image Library] Starting order Server Rewards
+17:27 [Warning] [Server Rewards] All UI elements have been successfully generated!
+17:28 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+17:28 [Warning] [Server Rewards] All UI elements have been successfully generated!
+17:28 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+17:28 [Info] [Better Chat] [Global] [Newbie] Boomer: admin
+17:28 [Info] [Better Chat] [Global] [Newbie] Boomer: a
+17:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ?
+17:28 [Info] [Better Chat] [Global] [Newbie] Boomer: what are the tokens unspend?
+17:28 [Info] [Better Chat] [Global] [Newbie] Boomer: how can I use them
+17:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: u can use them in future with /s
+17:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: or /shop
+17:28 [Info] [Better Chat] [Global] [Newbie] Boomer: ah ok ty
+17:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: but we are working on it at the moment
+17:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: <​3
+17:28 [Info] [Better Chat] [Global] [Newbie] Boomer: thank you
+17:31 [Info] [Server Rewards] Unable to find a reward item with that number
+17:32 [Info] [Server Rewards] Unable to find a reward item with that number
+17:32 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:32 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:32 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+17:32 [Warning] [Server Rewards] All UI elements have been successfully generated!
+17:32 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+17:32 [Info] [Server Rewards] You have added the item 8x Zoom Scope, available for 1500 RP
+17:33 [Info] [Server Rewards] You have added the item Assault Rifle, available for 2000 RP
+17:34 [Info] [Server Rewards] You have added the item Auto Turret, available for 2500 RP
+17:34 [Info] Group 'default' granted permission 'gestures.use'
+17:34 [Info] [Server Rewards] You have added the item Bolt Action Rifle, available for 1750 RP
+17:35 [Info] [Server Rewards] You have added the item Custom SMG, available for 1750 RP
+17:35 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:35 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:36 [Info] [Server Rewards] You have added the item High External Stone Gate, available for 1250 RP
+17:36 [Info] [Server Rewards] You have added the item High External Stone Wall, available for 1250 RP
+17:36 [Warning] [DEBUG] Plugin compilation is already queued: GestureWheel (0.016 ago)
+17:36 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+17:36 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+17:36 [Info] GestureWheel and ImageLibrary were compiled successfully in 2092ms
+17:36 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+17:36 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+17:36 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+17:36 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+17:36 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+17:36 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+17:37 [Info] [Server Rewards] You have added the item Holosight, available for 1000 RP
+17:37 [Warning] [DEBUG] Plugin compilation is already queued: GestureWheel (0.014 ago)
+17:37 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+17:37 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+17:37 [Info] GestureWheel and ImageLibrary were compiled successfully in 289ms
+17:37 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+17:37 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+17:37 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+17:37 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+17:37 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+17:37 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+17:38 [Info] [Server Rewards] You have added the item Metal Chest Plate, available for 1250 RP
+17:38 [Info] [Server Rewards] You have added the item Metal Facemask, available for 1250 RP
+17:39 [Info] [Server Rewards] You have added the item Muzzle Boost, available for 1000 RP
+17:39 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:39 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:40 [Info] [Server Rewards] You have added the item Muzzle Brake, available for 1000 RP
+17:40 [Info] [Server Rewards] You have added the item Rocket Launcher, available for 2500 RP
+17:41 [Info] [Server Rewards] You have added the item Silencer, available for 1000 RP
+17:41 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:41 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:41 [Info] [Server Rewards] You have added the item Timed Explosive Charge, available for 2500 RP
+17:42 [Info] [Server Rewards] You have added the item Weapon Lasersight, available for 1000 RP
+17:42 [Info] [Server Rewards] You have added the item Weapon flashlight, available for 1000 RP
+17:44 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+17:44 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+17:44 [Info] [Image Library] Starting order Server Rewards
+17:44 [Warning] [Server Rewards] All UI elements have been successfully generated!
+17:46 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:46 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:46 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:46 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:47 [Info] [Server Rewards] You have added the item 12 Gauge Slug, available for 750 RP
+17:48 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:48 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:48 [Info] [Server Rewards] Invalid item selected!
+17:48 [Info] [Server Rewards] You have added the item Coffee Can Helmet, available for 875 RP
+17:48 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:48 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:49 [Info] Group 'default' granted permission 'whereismyhorse.use'
+17:49 [Info] [Server Rewards] You have added the item Concrete Barricade, available for 500 RP
+17:49 [Info] [Server Rewards] You have added the item Explosive 5.56 Rifle Ammo, available for 875 RP
+17:50 [Info] [Server Rewards] You have added the item F1 Grenade, available for 1000 RP
+17:50 [Info] [Server Rewards] You have added the item Flame Thrower, available for 1000 RP
+17:51 [Info] PlaytimeTracker was compiled successfully in 1961ms
+17:51 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+17:51 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+17:51 [Info] [Server Rewards] Invalid item selected!
+17:51 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: somebody wants a horse?
+17:51 [Info] [Better Chat] [Global] [Newbie] Kongen: not atm, building my base :)
+17:51 [Info] [Better Chat] [Global] [Newbie] Boomer: no ty, I have already one
+17:51 [Info] [Better Chat] [Global] [Newbie] Boomer: ty
+17:51 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: type /horse if u want ;)
+17:52 [Info] [Better Chat] [Global] [Newbie] Boomer: I see... thanls
+17:52 [Info] [Better Chat] [Global] [Newbie] Boomer: thanks
+17:52 [Info] [Server Rewards] Invalid item selected!
+17:53 [Info] [Server Rewards] Invalid item selected!
+17:53 [Info] Group 'default' already has permission 'spawnmini.mini'
+17:53 [Info] [Server Rewards] You have added the item High Velocity Rocket, available for 1000 RP
+17:53 [Info] Group 'default' already has permission 'spawnmini.nomini'
+17:53 [Info] [Server Rewards] You have added the item Huge Wooden Sign, available for 500 RP
+17:54 [Info] [Server Rewards] Invalid item selected!
+17:54 [Info] [Server Rewards] You have added the item HV 5.56 Rifle Ammo, available for 750 RP
+17:55 [Info] [Server Rewards] You have added the item HV Pistol Ammo, available for 750 RP
+17:55 [Info] [Server Rewards] You have added the item Incendiary 5.56 Rifle Ammo, available for 750 RP
+17:56 [Info] SkipNightUI was compiled successfully in 2047ms
+17:56 [Warning] [SkipNightUI] Waiting for ImageLibrary to finish image processing!
+17:56 [Info] Loaded plugin SkipNightUI v0.1.2 by k1lly0u
+17:56 [Info] [Image Library] Starting order SkipNightUI
+17:56 [Info] [Server Rewards] You have added the item Incendiary Pistol Bullet, available for 750 RP
+17:56 [Info] Group 'admin' granted permission 'skipnightui.admin'
+17:56 [Info] [Server Rewards] You have added the item Incendiary Rocket, available for 1000 RP
+17:57 [Info] [Server Rewards] You have added the item Land Mine, available for 1000 RP
+17:57 [Info] [Server Rewards] Invalid item selected!
+17:58 [Error] Could not load plugin 'SkiptNightUI' (no plugin found with that file name)
+17:58 [Info] [Server Rewards] rewards add item <shortname> <skinId> <amount> <cost> <opt:bp>
+17:58 [Info] Unloaded plugin SkipNightUI v0.1.2 by k1lly0u
+17:58 [Info] Loaded plugin SkipNightUI v0.1.2 by k1lly0u
+17:58 [Info] [Server Rewards] You have added the item Large Banner Hanging, available for 500 RP
+17:58 [Info] [Server Rewards] You have added the item Large Banner on pole, available for 500 RP
+17:59 [Info] [Server Rewards] You have added the item Longsword, available for 650 RP
+17:59 [Info] [Server Rewards] You have added the item Mace, available for 650 RP
+18:00 [Info] [Better Chat] [Global] [Newbie] Boomer: doors with Authorize personel only how can I open?
+18:00 [Info] [Server Rewards] You have added the item Pickaxe, available for 500 RP
+18:00 [Info] [Better Chat] [Global] [Newbie] Boomer: green card does not wotk
+18:00 [Info] Unloaded plugin SkipNightUI v0.1.2 by k1lly0u
+18:00 [Info] Loaded plugin SkipNightUI v0.1.2 by k1lly0u
+18:00 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: last time my green card worked
+18:00 [Info] [NTeleportation] Gubatrix teleported to Boomer.
+18:00 [Info] [Better Chat] [Global] [Newbie] Boomer: ok mine nope
+18:00 [Info] [Better Chat] [Global] [Newbie] Boomer: can you try please
+18:00 [Info] [Better Chat] [Global] [Newbie] Kongen: you need something to get the door power
+18:00 [Info] [Better Chat] [Global] [Newbie] Kongen: fuse or something
+18:01 [Info] [Better Chat] [Global] [Newbie] Boomer: ah ok
+18:01 [Info] [Better Chat] [Global] [Newbie] Boomer: thanks all
+18:01 [Info] [Better Chat] [Global] [Newbie] Kongen: np
+18:03 [Info] [NTeleportation] [AdminMode] Admiral Doge teleported to Gubatrix.
+18:05 [Info] [Better Chat] [Global] [Newbie] Boomer: why?
+18:06 [Info] [Better Chat] [Global] [Newbie] Kongen: xD
+18:06 [Info] [Better Chat] [Global] [Newbie] Boomer: I'm naked
+18:06 [Info] [Better Chat] [Global] [Newbie] Kongen: that heli have hes own life xD
+18:06 [Info] [Better Chat] [Global] [Newbie] Boomer: LOL
+18:06 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Gubatrix: xd
+18:07 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Gubatrix: where are u
+18:07 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Gubatrix: i found the place where u had to place your fuse
+18:07 [Info] [Better Chat] [Global] [Newbie] Boomer: oh ok, I'm at the loot
+18:07 [Info] [Better Chat] [Global] [Newbie] Boomer: crate with timer
+18:07 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Gubatrix: can i tp you here?
+18:07 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Gubatrix: or wait
+18:07 [Info] [Better Chat] [Global] [Newbie] Boomer: yes please
+18:08 [Info] [Welcomer] • Gh4oS has joined the server from Netherlands.
+18:09 [Info] [Better Chat] [Global] [Newbie] Gh4oS: +25t
+18:09 [Info] [Better Chat] [Global] [Newbie] Kongen: ?
+18:09 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Gubatrix: ?
+18:09 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ?
+18:10 [Info] [Better Chat] [Global] [Newbie] Gh4oS: sorry :)
+18:10 [Info] [Better Chat] [Global] [Newbie] Gh4oS: Numlock was still on :)
+18:10 [Info] [Better Chat] [Global] [Newbie] Boomer: nope
+18:10 [Info] [Better Chat] [Global] [Newbie] Boomer: eheheeh
+18:11 [Info] [Better Chat] [Global] [Newbie] Gh4oS: it has been a long time ago i played this game
+18:11 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ^^
+18:11 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: feel free to ask questions if u want to know sth
+18:12 [Info] [Better Chat] [Global] [Newbie] Gh4oS: ok thx
+18:13 [Info] [Better Chat] [Global] [Newbie] Gh4oS: started yesterday on this server and build a shelter but died also :)
+18:13 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: where are u?
+18:13 [Info] [Admin Chat] Gubatrix: bo
+18:13 [Info] [Admin Chat] Gubatrix: boomer
+18:13 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: where are u @boo?
+18:13 [Info] [NTeleportation] Gubatrix teleported to Boomer.
+18:14 [Info] [Welcomer] • Medmud has joined the server from Germany.
+18:19 [Info] [Server Rewards] You have added the item Pump Shotgun, available for 1000 RP
+18:19 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i just testing around guys ;)
+18:19 [Info] Unloaded plugin SkipNightUI v0.1.2 by k1lly0u
+18:19 [Info] Loaded plugin SkipNightUI v0.1.2 by k1lly0u
+18:20 [Info] [Server Rewards] You have added the item Road Sign Jacket, available for 500 RP
+18:20 [Info] [Server Rewards] You have added the item Road Sign Kilt, available for 500 RP
+18:21 [Info] [Server Rewards] You have added the item Rocket, available for 875 RP
+18:22 [Info] [Server Rewards] You have added the item Salvaged Cleaver, available for 650 RP
+18:23 [Info] [Server Rewards] You have added the item Salvaged Icepick, available for 750 RP
+18:24 [Info] [Server Rewards] You have added the item Semi-Automatic Pistol, available for 650 RP
+18:24 [Info] StartProtection was compiled successfully in 2062ms
+18:24 [Info] [Start Protection] No configuration file found, generating...
+18:24 [Info] [Start Protection] Entry list up to date.
+18:24 [Info] [Start Protection] Start Protection has been enabled [Minutes: 30] (type /sp toggle to disable).
+18:24 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+18:24 [Info] Loaded plugin Start Protection v2.3.2 by wazzzup
+18:24 [Info] [Server Rewards] Invalid item selected!
+18:25 [Info] [Server Rewards] You have added the item Semi-Automatic Rifle, available for 750 RP
+18:25 [Info] [Server Rewards] You have added the item Snow Jacket, available for 500 RP
+18:26 [Info] [Server Rewards] You have added the item Thompson, available for 750 RP
+18:26 [Info] [Start Protection] Saving protection database...
+18:26 [Info] Unloaded plugin Start Protection v2.3.2 by wazzzup
+18:26 [Info] [Start Protection] Entry list up to date.
+18:26 [Info] [Start Protection] Start Protection has been enabled [Minutes: 30] (type /sp toggle to disable).
+18:26 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+18:26 [Info] Loaded plugin Start Protection v2.3.2 by wazzzup
+18:26 [Info] [Server Rewards] You have added the item Two Sided Ornate Hanging Sign, available for 500 RP
+18:26 [Warning] Calling hook OnEntityTakeDamage resulted in a conflict between the following plugins: Godmode - True (Boolean), StartProtection (HitInfo (HitInfo))
+18:27 [Info] [Server Rewards] You have added the item Two Sided Town Sign Post, available for 500 RP
+18:27 [Warning] Calling hook OnEntityTakeDamage resulted in a conflict between the following plugins: Godmode - True (Boolean), StartProtection (HitInfo (HitInfo))
+18:28 [Info] [Better Chat] [Global] [Newbie] Boomer: can you please remove the heli for a sec?
+18:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i think u have start protection now
+18:28 [Info] [Better Chat] [Global] [Newbie] Boomer: yes but my base?
+18:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: oh
+18:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: wait
+18:29 [Info] [Better Chat] [Global] [Newbie] Boomer: ok
+18:29 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 140ms [GARBAGE COLLECT]
+18:29 [Info] HeliControl was compiled successfully in 2281ms
+18:29 [Info] [HeliControl] No weapons data found, creating new file...
+18:29 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+18:29 [Info] [Server Rewards] You have added the item XL Picture Frame, available for 500 RP
+18:29 [Info] Group 'admin' granted permission 'helicontrol.admin'
+18:29 [Info] [Better Chat] [Global] [Newbie] Boomer: thx
+18:30 [Info] [Server Rewards] You have added the item XXL Picture Frame, available for 650 RP
+18:30 [Info] [Server Rewards] You have added the item 12 Gauge Buckshot, available for 400 RP
+18:31 [Info] [Server Rewards] You have added the item 5.56 Rifle Ammo, available for 400 RP
+18:31 [Info] [Server Rewards] You have added the item Acoustic Guitar, available for 250 RP
+18:32 [Info] [Server Rewards] You have added the item Barbed Wooden Barricade, available for 350 RP
+18:32 [Info] [Server Rewards] You have added the item Beancan Grenade, available for 400 RP
+18:32 [Info] [Server Rewards] You have added the item Bed, available for 250 RP
+18:33 [Info] [Better Chat] [Global] [Newbie] Boomer: cya later
+18:33 [Info] [Welcomer] • Boomer has left the server (Disconnected).
+18:33 [Info] [Better Chat] [Global] [Newbie] Kongen: cya
+18:33 [Info] KillFeed was compiled successfully in 2127ms
+18:33 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+18:33 [Info] [Kill Feed] Loading configuration file!
+18:33 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+18:33 [Info] [Server Rewards] Invalid item selected!
+18:34 [Info] [Server Rewards] Invalid item selected!
+18:34 [Info] [Server Rewards] Invalid item selected!
+18:35 [Info] [Server Rewards] You have added the item Boonie Hat, available for 250 RP
+18:35 [Info] [Server Rewards] You have added the item Bucket Helmet, available for 350 RP
+18:35 [Info] [Server Rewards] You have added the item Ceiling Light, available for 250 RP
+18:35 [Info] Unloaded plugin SkipNightUI v0.1.2 by k1lly0u
+18:36 [Info] [Server Rewards] Invalid item selected!
+18:36 [Info] SkipNightVote was compiled successfully in 1975ms
+18:36 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+18:36 [Info] [Server Rewards] Invalid item selected!
+18:36 [Info] Group 'admin' granted permission 'skipnightvote.admin'
+18:37 [Info] [Server Rewards] You have added the item Double Sign Post, available for 250 RP
+18:37 [Info] [Better Chat] [Global] [Newbie] Gh4oS: need to find some food
+18:37 [Info] [Server Rewards] You have added the item Explosives, available for 500 RP
+18:37 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+18:37 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+18:37 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes
+18:37 [Info] [Better Chat] [Global] [Newbie] Kongen: at station or at small rivers
+18:37 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i can give u an apple :)
+18:38 [Info] [Server Rewards] You have added the item Hatchet, available for 250 RP
+18:38 [Info] [Better Chat] [Global] [Newbie] Kongen: allmost done with base damn looking pretty good
+18:38 [Info] [Better Chat] [Global] [Newbie] Gh4oS: ah mushrooms :)
+18:38 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+18:38 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+18:39 [Info] [Server Rewards] Invalid item selected!
+18:39 [Info] [Server Rewards] You have added the item High External Wooden Gate, available for 350 RP
+18:40 [Info] [Server Rewards] You have added the item High External Wooden Wall, available for 350 RP
+18:41 [Info] [Server Rewards] You have added the item High Velocity Arrow, available for 400 RP
+18:41 [Info] [Server Rewards] You have added the item Improvised Balaclava, available for 300 RP
+18:41 [Info] [Server Rewards] You have added the item Jacket, available for 300 RP
+18:42 [Info] [Server Rewards] You have added the item Landscape Picture Frame, available for 250 RP
+18:42 [Info] [Server Rewards] You have added the item Lantern, available for 250 RP
+18:42 [Info] [Server Rewards] You have added the item Large Medkit, available for 450 RP
+18:43 [Info] [Server Rewards] You have added the item Large Water Catcher, available for 350 RP
+18:43 [Info] NoDecay was compiled successfully in 2062ms
+18:43 [Info] Loaded plugin No Decay v1.3.0 by 0x89A
+18:43 [Info] [Server Rewards] Invalid item selected!
+18:43 [Info] [Server Rewards] You have added the item Large Wooden Sign, available for 250 RP
+18:44 [Info] [Server Rewards] You have added the item Metal Barricade, available for 500 RP
+18:44 [Info] Unloaded plugin No Decay v1.3.0 by 0x89A
+18:44 [Info] Loaded plugin No Decay v1.3.0 by 0x89A
+18:45 [Info] [Server Rewards] You have added the item Miners Hat, available for 250 RP
+18:45 [Info] [Server Rewards] You have added the item Mining Quarry, available for 500 RP
+18:46 [Info] [Server Rewards] You have added the item One Sided Town Sign Post, available for 250 RP
+18:46 [Info] Group 'default' granted permission 'nodecay.use'
+18:46 [Info] [Server Rewards] You have added the item Portrait Picture Frame, available for 250 RP
+18:47 [Info] [Server Rewards] You have added the item Reinforced Glass Window, available for 500 RP
+18:47 [Info] [Server Rewards] You have added the item Revolver, available for 400 RP
+18:48 [Info] [Server Rewards] You have added the item Riot Helmet, available for 400 RP
+18:49 [Info] [Server Rewards] You have added the item Salvaged Axe, available for 400 RP
+18:50 [Info] [Server Rewards] You have added the item Sandbag Barricade, available for 350 RP
+18:51 [Info] [Server Rewards] You have added the item Small Oil Refinery, available for 400 RP
+18:51 [Info] [Server Rewards] You have added the item Snap Trap, available for 500 RP
+18:51 [Info] [Better Chat] [Global] [Newbie] Gh4oS: strange i can not place anything in my cupboard to stop my base from decaying
+18:52 [Info] [Server Rewards] You have added the item Survey Charge, available for 300 RP
+18:52 [Info] [Better Chat] [Global] [Newbie] Kongen: weird
+18:52 [Info] Voter was compiled successfully in 2043ms
+18:52 [Error] [VoteRewards] Please enter your API key in the config!
+18:52 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+18:52 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+18:52 [Info] [Server Rewards] You have added the item Tall Picture Frame, available for 300 RP
+18:52 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: because i installed nodecay
+18:53 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: your base will not decaying if u have a cupboard in range ;)
+18:53 [Info] [Server Rewards] You have added the item Two Sided Hanging Sign, available for 250 RP
+18:53 [Info] [Better Chat] [Global] [Newbie] Kongen: so mats dosnt matters?
+18:53 [Info] [Better Chat] [Global] [Newbie] Gh4oS: ok but on the right side of my screen it still says building decaying
+18:53 [Info] [Server Rewards] You have added the item Water Barrel, available for 350 RP
+18:53 [Info] [Better Chat] [Global] [Newbie] Gh4oS: i can ignore that?
+18:54 [Info] [Better Chat] [Global] [Newbie] Kongen: my TC is full of mats xD
+18:54 [Info] [Server Rewards] You have added the item Medium Wooden Sign, available for 200 RP
+18:54 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+18:54 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198030572483
+18:54 [Info] [VoteRewards] 0
+18:54 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes it says its still decaying but its not, i tested it ^^
+18:54 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198070936229
+18:54 [Info] [VoteRewards] 0
+18:55 [Info] [Better Chat] [Global] [Newbie] Kongen: then we can upgrade our base til full HQM?
+18:55 [Info] [Better Chat] [Global] [Newbie] Kongen: without decaying?
+18:55 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes
+18:55 [Info] [Better Chat] [Global] [Newbie] Kongen: thats sick
+18:55 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: u just have to build cupboard
+18:56 [Info] [Better Chat] [Global] [Newbie] Kongen: then I upgrade my base xD just need alot of HQM xD
+18:56 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 122ms
+18:56 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ^^
+18:56 [Info] [Better Chat] [Global] [Newbie] Kongen: wtf was that?
+18:57 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+18:57 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+18:57 [Info] [Image Library] Starting order Server Rewards
+18:57 [Warning] [Server Rewards] All UI elements have been successfully generated!
+19:03 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: somebody wants a big pool? :)
+19:03 [Info] [Better Chat] [Global] [Newbie] Kongen: dont have space for that xD
+19:03 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: rip^^
+19:03 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: on the roof
+19:03 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: you need like 5x3
+19:03 [Info] [Better Chat] [Global] [Newbie] Kongen: I got other things on my roof xD
+19:05 [Info] [Better Chat] [Global] [Newbie] Kongen: I need a auto turret xD
+19:06 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 161ms
+19:06 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+19:06 [Warning] [Server Rewards] All UI elements have been successfully generated!
+19:06 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+19:08 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 111ms
+19:09 [Info] [Welcomer] • SoupeDeBaston has joined the server from France.
+19:10 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 126ms
+19:14 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198121059907
+19:14 [Info] [VoteRewards] 0
+19:14 [Info] [Welcomer] • FRISK has joined the server from Sweden.
+19:15 [Info] [Better Chat] [Global] [Newbie] Medmud: why can´t i put wodd in the cabin do stop decay my house?
+19:15 [Info] [Better Chat] [Global] [Newbie] SoupeDeBaston: me too i don't understand
+19:15 [Info] [Better Chat] [Global] [Newbie] Kongen: it wont decay
+19:15 [Info] [Better Chat] [Global] [Newbie] Medmud: ok thx
+19:16 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 128ms
+19:16 [Info] [Better Chat] [Global] [Newbie] SoupeDeBaston: my house decay :/
+19:16 [Info] [Better Chat] [Global] [Newbie] Kongen: it wont
+19:16 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: u dont need to put something in it, it isnt decaying
+19:17 [Info] [NTeleportation] Gubatrix teleported to SoupeDeBaston.
+19:17 [Info] [NTeleportation] Admiral Doge teleported to SoupeDeBaston.
+19:19 [Info] [Better Chat] [Global] [Newbie] SoupeDeBaston: thx
+19:19 [Info] [Better Chat] [Global] [Newbie] Kongen: yay Im done with my base xD
+19:19 [Info] Unloaded plugin No Decay v1.3.0 by 0x89A
+19:19 [Info] Loaded plugin No Decay v1.3.0 by 0x89A
+19:23 [Info] [Welcomer] • Boomer has joined the server from Italy.
+19:23 [Info] [NTeleportation] Gubatrix teleported to Kongen.
+19:24 [Info] [NTeleportation] Admiral Doge teleported to Kongen.
+19:25 [Info] [Welcomer] • FRISK has left the server (Disconnected).
+19:26 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 127ms
+19:28 [Info] [Better Chat] [Global] [Newbie] Boomer: admin need help
+19:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: where?
+19:28 [Info] [Better Chat] [Global] [Newbie] Boomer: base
+19:28 [Info] [Better Chat] [Global] [Newbie] Boomer: problems
+19:28 [Info] [Better Chat] [Global] [Newbie] Boomer: with
+19:28 [Info] [Better Chat] [Global] [Newbie] Boomer: tool cupboard
+19:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: why?
+19:28 [Info] [Better Chat] [Global] [Newbie] Boomer: cant put mats inside and my base is decaying
+19:28 [Info] [Better Chat] [Global] [Newbie] Boomer: why
+19:29 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i have installed nodecay so u dont need to put anything in, your building wont decaying if youre in range
+19:29 [Info] [NTeleportation] Admiral Doge teleported to Boomer.
+19:29 [Info] [NTeleportation] Gubatrix teleported to Boomer.
+19:29 [Info] [Better Chat] [Global] [Newbie] Boomer: but if I move outside the building start to decay?
+19:29 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: no u just need a cupboard
+19:32 [Info] [NTeleportation] Gubatrix teleported to Kongen.
+19:32 [Info] [NTeleportation] Admiral Doge teleported to Kongen.
+19:32 [Info] [NTeleportation] Admiral Doge teleported to Kongen.
+19:36 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 126ms
+19:41 [Info] [NTeleportation] Gubatrix teleported to Admiral Doge.
+19:41 [Info] [Better Chat] [Global] [Newbie] Kongen: can you tp on this server?
+19:41 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes to friends
+19:41 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: see to /info
+19:42 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: e.g. /tp or /tpb etc
+19:42 [Info] [Better Chat] [Global] [Newbie] Kongen: I just shot someone down and then he tped
+19:42 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: hmm maybe glitch
+19:42 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: idk
+19:42 [Info] [Better Chat] [Global] [Newbie] Kongen: he shot at my base with rockets
+19:42 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: wtf
+19:42 [Info] [Better Chat] [Global] [Newbie] Kongen: kinda fishy
+19:43 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+19:43 [Info] [Better Chat] [Team] [Admin] [DMA] Admiral Doge: xd
+19:43 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: xd
+19:43 [Info] [Better Chat] [Global] [Newbie] Kongen: someone trolling? cuz my shotgun traps also fired at someone and they are inside the base
+19:43 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: wtf it cant be
+19:43 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: idk
+19:44 [Info] [Better Chat] [Global] [Newbie] Kongen: it just did few mins ago
+19:44 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: or a cheater idk
+19:44 [Info] [Better Chat] [Global] [Newbie] Kongen: great
+19:45 [Info] [Better Chat] [Global] [Newbie] Kongen: I though it was hacker free server xD
+19:45 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: but nevermind, if i see something would be suspicious
+19:45 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yeah its hacker free bro
+19:45 [Info] [Better Chat] [Global] [Newbie] Kongen: I hope so xD
+19:46 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: tell me if something will happen again
+19:46 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 131ms
+19:46 [Info] [Better Chat] [Global] [Newbie] Kongen: dont think it will happen again
+19:48 [Info] [Welcomer] • Admiral Doge has left the server (Disconnected).
+19:48 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: we have to go, if u need something just type "admin"
+19:48 [Info] [Welcomer] • Gubatrix has left the server (Disconnected).
+19:52 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1025ms
+19:54 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198030572483
+19:54 [Info] [VoteRewards] 0
+19:56 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 125ms
+20:06 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 123ms
+20:08 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 136ms
+20:08 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 116ms
+20:08 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 113ms
+20:08 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 158ms
+20:12 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 986ms
+20:14 [Info] [Better Chat] [Team] [Newbie] Boomer: can we please maintain the night also?
+20:14 [Info] [Better Chat] [Team] [Newbie] Boomer: withoiut skipping
+20:14 [Info] [Better Chat] [Team] [Newbie] Boomer: it's just a suggestion
+20:16 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 124ms
+20:18 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 147ms
+20:18 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 122ms
+20:18 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 120ms
+20:18 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 134ms
+20:26 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 132ms
+20:28 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 134ms
+20:28 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 129ms
+20:28 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 126ms
+20:28 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 133ms
+20:28 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1228ms
+20:30 [Info] [Welcomer] • SoupeDeBaston has left the server (Disconnected).
+20:36 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 132ms
+20:38 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 139ms
+20:38 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 104ms
+20:38 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 119ms
+20:38 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 112ms
+20:38 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 127ms
+20:46 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 127ms
+20:48 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 137ms
+20:48 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 101ms
+20:48 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 125ms
+20:48 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 118ms
+20:48 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 132ms
+20:53 [Info] [Better Chat] [Global] [Newbie] Medmud: why can´t i build my stone fireplace in my house?
+20:54 [Info] [Better Chat] [Global] [Newbie] Kongen: idk maybe not enough space for it?
+20:54 [Info] [Better Chat] [Global] [Newbie] Medmud: its enough space
+20:54 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198030572483
+20:54 [Info] [VoteRewards] 0
+20:54 [Info] [Better Chat] [Global] [Newbie] Kongen: then idk xD
+20:55 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1161ms
+20:56 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 128ms
+20:58 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 131ms
+20:58 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 110ms
+20:58 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 116ms
+20:58 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 124ms
+20:58 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 129ms
+21:01 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+21:02 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 104ms
+21:05 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 105ms
+21:05 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+21:05 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1161ms
+21:06 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 120ms
+21:07 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 102ms
+21:08 [Info] Top Playtimes:
+Kongen - 09:51:04
+Boomer - 09:25:00
+Gubatrix - 07:51:12
+Admiral Doge - 06:01:31
+Gh4oS - 03:58:19
+SoupeDeBaston - 03:26:18
+Tinus Tintenfisch - 03:06:44
+Medmud - 02:47:55
+chitzo - 02:23:45
+chickenmaster1 - 02:23:31
+21:08 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 133ms
+21:08 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 119ms
+21:08 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 111ms
+21:08 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 127ms
+21:14 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198030572483
+21:14 [Info] [VoteRewards] 0
+21:14 [Info] [Better Chat] [Team] [Newbie] Boomer: I will
+21:16 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 122ms
+21:18 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 128ms
+21:18 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 117ms
+21:18 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 114ms
+21:18 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 125ms
+21:23 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 103ms
+21:23 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 106ms
+21:25 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+21:26 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 148ms
+21:28 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 128ms
+21:28 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 114ms
+21:28 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 114ms
+21:28 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 134ms
+21:29 [Info] [Welcomer] • Gh4oS has left the server (Disconnected).
+21:36 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 133ms
+21:38 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 135ms
+21:38 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 101ms
+21:38 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 140ms
+21:38 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 132ms
+21:39 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 129ms
+21:43 [Info] [PlayerRankings] Boomer has been ranked up to Player
+21:46 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 138ms
+21:48 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 134ms
+21:49 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 128ms
+21:49 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 114ms
+21:49 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 134ms
+21:51 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1158ms
+21:53 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1107ms
+21:53 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 101ms
+21:56 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 134ms
+21:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 130ms
+21:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 115ms
+21:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 119ms
+21:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 128ms
+22:05 [Info] [Better Chat] [Global] [Newbie] Medmud: CLAP CLAP CLAP
+22:06 [Info] [Better Chat] [Global] [Newbie] Medmud: HURENSOHN
+22:06 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 125ms
+22:07 [Info] [Welcomer] • Medmud has left the server (Disconnected).
+22:09 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 133ms
+22:09 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 118ms
+22:09 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 118ms
+22:09 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 128ms
+22:10 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1095ms
+22:17 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 140ms
+22:19 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 136ms
+22:19 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 101ms
+22:19 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 115ms
+22:19 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 119ms
+22:19 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 132ms
+22:19 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1164ms
+22:23 [Info] [Welcomer] • xxAsunax has joined the server from Germany.
+22:25 [Info] [Better Chat] [Team] [Player] Boomer: admin
+22:26 [Info] [Better Chat] [Team] [Player] Boomer: remove tool does not work
+22:27 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 122ms
+22:29 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 105ms
+22:29 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 146ms
+22:29 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 105ms
+22:29 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 114ms
+22:29 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 114ms
+22:29 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 123ms
+22:29 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1373ms
+22:32 [Info] [Welcomer] • Boomer has left the server (Disconnected).
+22:35 [Info] [Welcomer] • xxAsunax has left the server (Disconnected).
+22:37 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 120ms
+22:39 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 129ms
+22:39 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 113ms
+22:39 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 119ms
+22:39 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 130ms
+22:39 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1166ms
+22:47 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 124ms
+22:49 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 129ms
+22:49 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 114ms
+22:49 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 114ms
+22:49 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 121ms
+22:57 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 136ms
+22:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 132ms
+22:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 109ms
+22:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 111ms
+22:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 127ms
+22:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1104ms
+23:07 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 119ms
+23:09 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 131ms
+23:09 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 117ms
+23:09 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 119ms
+23:09 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 126ms
+23:17 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 122ms
+23:19 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 141ms
+23:19 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 117ms
+23:19 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 115ms
+23:19 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 129ms
+23:19 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1054ms
+23:27 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 138ms
+23:29 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 139ms
+23:29 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 124ms
+23:29 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 124ms
+23:29 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 138ms
+23:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+23:37 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 133ms
+23:39 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 144ms
+23:39 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 112ms
+23:39 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 116ms
+23:39 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 125ms
+23:39 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took average 1025ms
+23:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+23:47 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 128ms
+23:49 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 136ms
+23:49 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 113ms
+23:49 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 122ms
+23:49 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 129ms
+23:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+23:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+23:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+23:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+23:57 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 123ms
+23:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+23:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 152ms
+23:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+23:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 114ms
+23:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 118ms
+23:59 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.3.0' took 129ms
+23:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 1 seconds!

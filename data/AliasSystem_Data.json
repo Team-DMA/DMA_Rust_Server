@@ -1,0 +1,25 @@
+{
+  "alias": [
+    {
+      "original": "/info",
+      "alias": "/help",
+      "originaltype": "chat",
+      "aliastype": "chat",
+      "permission": "aliassystem.use"
+    },
+    {
+      "original": "/playtime top",
+      "alias": "/top",
+      "originaltype": "chat",
+      "aliastype": "chat",
+      "permission": "aliassystem.use"
+    },
+    {
+      "original": "/s",
+      "alias": "/shop",
+      "originaltype": "chat",
+      "aliastype": "chat",
+      "permission": "aliassystem.use"
+    }
+  ]
+}

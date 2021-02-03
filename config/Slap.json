@@ -1,0 +1,7 @@
+{
+  "Command cooldown in seconds (0 to disable)": 30,
+  "Default damage per slap": 0,
+  "Default intensity per slap": 5,
+  "Default amount of slaps": 1,
+  "Show players who slapped them": true
+}

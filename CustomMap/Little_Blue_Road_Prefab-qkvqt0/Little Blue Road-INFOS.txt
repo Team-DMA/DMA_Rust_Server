@@ -1,0 +1,30 @@
+Thank you for purchasing "Little Blue Road" custom monument by Electrik.
+
+
+# Prerequisites #
+   - Download RustEdit.dll here : https://github.com/k1lly0u/Oxide.Ext.RustEdit/find/master
+   - Copy this file from the supplied Zip file into "...\RustDedicated_Data\Managed".
+
+
+# Install the prefab in rust Edit #
+   - copy all the files or the folder in "...\Program Files (x86)\RustEdit\CustomPrefabs"
+
+
+# About this content #
+   - If you're editing it, please group it back using custom prefab in Rust Edit.
+
+Group all prefab :
+   - view -> scene hierarchy -> select all.
+   - prefab -> prefab list -> quick create from selection.
+
+
+
+YOU MAY NOT SHARE, SELL OR CLAIM THAT YOU OWN THE PREFAB.
+If you're using this prefab on another map or mix them with other prefabs,
+you might need to give credit to the owner for the parts that you used.
+
+
+
+Discord for Support :
+   - Electrik Studio : https://discord.gg/kcUm5SX
+   - Lone.Design : https://discord.gg/83Tuw7

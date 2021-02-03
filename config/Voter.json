@@ -1,0 +1,54 @@
+{
+  "Chat Commands": {
+    "Chat Command - Reward Menu": "reward",
+    "Chat Command - Vote Checking": "vote"
+  },
+  "Messaging Options": {
+    "Activate automated broadcasting": true,
+    "Automated broadcast timer (minutes)": 20,
+    "Message color (Primary)": "#ce422b",
+    "Message color (Secondary)": "#939393"
+  },
+  "Reward List": {
+    "0": {
+      "Reward Cost": 1,
+      "Reward Items": [
+        {
+          "Item Amount": 3,
+          "Item Shortname": "supply.signal",
+          "Item Skin ID": 0
+        }
+      ],
+      "Reward Money (Economics)": 0,
+      "Reward RP (Server Rewards)": 0
+    },
+    "1": {
+      "Reward Cost": 2,
+      "Reward Items": [
+        {
+          "Item Amount": 1000,
+          "Item Shortname": "hq.metal.ore",
+          "Item Skin ID": 0
+        },
+        {
+          "Item Amount": 1500,
+          "Item Shortname": "sulfur.ore",
+          "Item Skin ID": 0
+        }
+      ],
+      "Reward Money (Economics)": 0,
+      "Reward RP (Server Rewards)": 100
+    },
+    "2": {
+      "Reward Cost": 3,
+      "Reward Items": [],
+      "Reward Money (Economics)": 0,
+      "Reward RP (Server Rewards)": 300
+    }
+  },
+  "Tracker Information": {
+    "API Key": "YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP",
+    "Points received per vote": 1,
+    "Tracker type (TopRustServers, RustServers, Beancan)": "RustServers"
+  }
+}

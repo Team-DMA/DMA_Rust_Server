@@ -1,0 +1,20 @@
+{
+  "Broadcast message on mounted": true,
+  "Permissions": {
+    "Minicopter can hover": true,
+    "Scrap Transport Helicopter can hover": true,
+    "Chinook can hover": true,
+    "Enable hover with two occupants": true,
+    "Passenger can toggle hover": false
+  },
+  "Hovering": {
+    "Disable hover on dismount": false,
+    "Use fuel while hovering": true,
+    "Keep engine on when hovering": true,
+    "Enable helicopter rotation on hover": false,
+    "Disable hover on change seats": false,
+    "Hover on seat change": false,
+    "Timed hover": false,
+    "Timed hover duration": 60.0
+  }
+}

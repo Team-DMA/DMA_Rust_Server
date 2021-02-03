@@ -1,0 +1,5 @@
+{
+  "Allow spawning horses inside the building": false,
+  "Cooldown on usage": 300,
+  "Use NoEscape API": false
+}

@@ -1,0 +1,423 @@
+20:43 [Info] Loading Oxide Core v2.0.3991...
+20:43 [Info] Loading extensions...
+20:43 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+20:43 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+20:43 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+20:43 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+20:43 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+20:43 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:43 [Info] Local compiler MD5: 0
+20:43 [Info] Compiler MD5 hash did not match, downloading latest
+20:43 [Info] Downloading Compiler.x86_x64 for .cs (C#) plugin compilation
+20:43 [Info] Local MD5 hash did not match remote MD5 hash for Compiler.x86_x64, attempting download again
+20:43 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:43 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:43 [Info] Using Covalence provider for game 'Rust'
+20:43 [Info] Loading plugins...
+20:43 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+20:43 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+20:45 [Info] IP address from Steam query: 0.0.0.0
+21:18 [Info] Loading Oxide Core v2.0.3991...
+21:18 [Info] Loading extensions...
+21:18 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+21:18 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+21:18 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+21:18 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+21:18 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+21:18 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:18 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:18 [Info] Using Covalence provider for game 'Rust'
+21:18 [Info] Loading plugins...
+21:18 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+21:18 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+21:23 [Info] Loading Oxide Core v2.0.3991...
+21:23 [Info] Loading extensions...
+21:23 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+21:23 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+21:23 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+21:23 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+21:23 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+21:23 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:23 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:23 [Info] Using Covalence provider for game 'Rust'
+21:23 [Info] Loading plugins...
+21:23 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+21:23 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+21:25 [Info] Loading Oxide Core v2.0.3991...
+21:25 [Info] Loading extensions...
+21:25 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+21:25 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+21:25 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+21:25 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+21:25 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+21:25 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:25 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:25 [Info] Using Covalence provider for game 'Rust'
+21:25 [Info] Loading plugins...
+21:25 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+21:25 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+21:26 [Info] Loading Oxide Core v2.0.3991...
+21:26 [Info] Loading extensions...
+21:26 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+21:26 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+21:26 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+21:26 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+21:26 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+21:26 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:26 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:26 [Info] Using Covalence provider for game 'Rust'
+21:26 [Info] Loading plugins...
+21:26 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+21:26 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+21:32 [Info] Loading Oxide Core v2.0.3991...
+21:32 [Info] Loading extensions...
+21:32 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+21:32 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+21:32 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+21:32 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+21:32 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+21:32 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:32 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:32 [Info] Using Covalence provider for game 'Rust'
+21:32 [Info] Loading plugins...
+21:32 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+21:32 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+21:34 [Info] Loading Oxide Core v2.0.3991...
+21:34 [Info] Loading extensions...
+21:34 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+21:34 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+21:34 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+21:34 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+21:34 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+21:34 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:34 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:34 [Info] Using Covalence provider for game 'Rust'
+21:34 [Info] Loading plugins...
+21:34 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+21:34 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+21:38 [Info] Loading Oxide Core v2.0.3991...
+21:38 [Info] Loading extensions...
+21:38 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+21:38 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+21:38 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+21:38 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+21:38 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+21:38 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:38 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:38 [Info] Using Covalence provider for game 'Rust'
+21:38 [Info] Loading plugins...
+21:38 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+21:38 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+21:42 [Info] Loading Oxide Core v2.0.3991...
+21:42 [Info] Loading extensions...
+21:42 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+21:42 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+21:42 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+21:42 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+21:42 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+21:42 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:42 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:42 [Info] Using Covalence provider for game 'Rust'
+21:42 [Info] Loading plugins...
+21:42 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+21:42 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+21:45 [Info] IP address from Steam query: 0.0.0.0
+21:47 [Info] Loading Oxide Core v2.0.3991...
+21:47 [Info] Loading extensions...
+21:47 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+21:47 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+21:47 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+21:47 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+21:47 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+21:47 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:47 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+21:47 [Info] Using Covalence provider for game 'Rust'
+21:47 [Info] Loading plugins...
+21:47 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+21:47 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+21:51 [Info] IP address from Steam query: 0.0.0.0
+21:58 [Info] InfoPanel was compiled successfully in 1995ms
+21:58 [Warning] [InfoPanel] Default configuration file created.
+21:58 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 371ms
+21:58 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+22:04 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+22:04 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 326ms
+22:04 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+22:04 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+22:04 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 328ms
+22:04 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+22:07 [Info] AdminPanel was compiled successfully in 1926ms
+22:07 [Info] Loaded plugin Admin Panel v1.4.5 by nivex
+22:09 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+22:10 [Info] Groups:
+default, admin
+22:10 [Info] Group 'admin' players:
+76561198070936229 (Gubatrix), 76561198121059907 (Admiral Doge)
+
+Group 'admin' permissions:
+No permissions currently granted
+22:11 [Info] Group 'admin' granted permission 'adminpanel.allowed'
+22:11 [Info] Permission 'adminradar.allowed' doesn't exist
+22:11 [Info] Permission 'godmode.toggle' doesn't exist
+22:12 [Info] Permission 'vanish.use' doesn't exist
+22:13 [Info] Unloaded plugin Admin Panel v1.4.5 by nivex
+22:13 [Info] Group 'supporters' created
+22:13 [Info] Group 'moderators' created
+22:13 [Info] Group 'vip' created
+22:14 [Info] Group 'newbie' created
+22:14 [Info] Group 'player' created
+22:15 [Info] Group 'newbie' changed
+22:16 [Info] Group 'player' changed
+22:16 [Info] Group 'vip' changed
+22:18 [Info] Group 'newbie' deleted
+22:19 [Info] Group 'default' changed
+22:19 [Info] Group 'player' changed
+22:19 [Info] Group 'vip' changed
+22:19 [Info] Group 'supporters' changed
+22:19 [Info] Group 'supporters' changed
+22:19 [Info] Group 'supporters' changed
+22:19 [Info] Group 'admin' changed
+22:21 [Info] BetterChat was compiled successfully in 2082ms
+22:21 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+22:21 [Info] [Better Chat] [Global] [Player] Gubatrix: .
+22:22 [Info] [Better Chat] [Global] [Player] Admiral Doge: .
+22:22 [Info] [Better Chat] [Global] [Player] Admiral Doge: pommel
+22:24 [Info] Group 'moderators' changed
+22:24 [Info] Group 'admin' changed
+22:28 [Info] Group 'admin' granted permission 'betterchat.admin'
+22:29 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+22:29 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+22:29 [Info] [Better Chat] [Global] [Newbie] Gubatrix: .
+22:29 [Info] [Better Chat] [Global] [Newbie] Admiral Doge: .
+22:31 [Info] chat group <add|remove|set|list>
+22:31 [Info] chat user <add|remove>
+22:31 [Info] Gubatrix already is in group 'admin'.
+22:32 [Info] [Better Chat] [Global] [Newbie] Gubatrix: .
+22:32 [Info] default, player, vip, supporters, moderators, admin
+22:34 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+22:34 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+22:34 [Info] [Better Chat] [Global] [Newbie] [Admin] Gubatrix: .
+22:35 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+22:35 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+22:35 [Info] [Better Chat] [Global] [Admin] Gubatrix: .
+22:35 [Info] [Better Chat] [Global] [Admin] Gubatrix: pimmel
+22:38 [Info] PlaytimeTracker was compiled successfully in 2009ms
+22:38 [Warning] [Playtime Tracker] Unable to find any supported reward plugins. This may be caused by PTT loading before them. Will check again in 1 minute
+22:38 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+22:39 [Warning] [Playtime Tracker] Still unable to find any supported reward plugins. Rewards will not be issued!
+22:39 [Info] PlayerRankings was compiled successfully in 1015ms
+22:39 [Warning] [PlayerRankings] Creating a new configuration file...
+22:39 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+22:40 [Info] [Better Chat] [Global] [Admin] Gubatrix: .
+22:41 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+22:41 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+22:43 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+22:43 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+22:43 [Info] [Better Chat] [Global] [Admin] Gubatrix: .
+22:44 [Info] AdminChat was compiled successfully in 1910ms
+22:44 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+22:44 [Info] Group 'admin' granted permission 'adminchat.use'
+22:45 [Info] [Admin Chat] Gubatrix: pimmel
+22:45 [Info] [Admin Chat] Admiral Doge: pimmel
+22:45 [Info] [Better Chat] [Global] [Admin] Gubatrix: xd
+22:47 [Info] BetterChatMentions and BetterChat were compiled successfully in 2017ms
+22:47 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+22:47 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+22:47 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+22:47 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+22:47 [Info] [Better Chat] [Global] [Admin] Gubatrix: .
+22:47 [Info] Group 'default' granted permission 'betterchatmentions.everyone'
+22:48 [Info] [Better Chat] [Global] [Admin] Gubatrix: hallo @everyone
+22:48 [Info] [Better Chat] [Global] [Admin] Gubatrix: hallo @Admiral Doge Doge
+22:48 [Info] [Better Chat] [Global] [Admin] Gubatrix: hallo @Gubatrix
+22:48 [Info] [Better Chat] [Global] [Admin] Gubatrix: hallo  @Admiral Doge
+22:48 [Info] [Better Chat] [Global] [Admin] Admiral Doge: pimmel @Gubatrix
+22:48 [Info] [Better Chat] [Global] [Admin] Admiral Doge: pimmel @Gubatrix
+22:50 [Warning] [DEBUG] Load requested for plugin which is already loading: Clans
+22:50 [Info] Clans was compiled successfully in 1972ms
+22:50 [Info] Loaded plugin Clans v0.1.55 by k1lly0u
+22:51 [Info] Unloaded plugin Clans v0.1.55 by k1lly0u
+22:52 [Info] Clans was compiled successfully in 1896ms
+22:52 [Info] [Rust:IO Clans] Rust:IO is not present. You need to install Rust:IO first in order to use this plugin!
+22:52 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+22:52 [Info] ClanTags was compiled successfully in 353ms
+22:52 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+22:53 [Info] Group 'default' granted permission 'clantags.default'
+22:55 [Info] AutomaticAuthorization was compiled successfully in 2077ms
+22:55 [Warning] [Automatic Authorization] Creating a new configuration file
+22:55 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+22:56 [Info] Group 'default' granted permission 'automaticauthorization.use'
+22:56 [Info] Group 'default' revoked permission 'automaticauthorization.use'
+22:58 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+22:58 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+22:58 [Info] ImageLibrary was compiled successfully in 2094ms
+22:58 [Warning] [Image Library] Retrieving item skin lists...
+22:58 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.56' took 596ms
+22:58 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+22:58 [Warning] [Image Library] Processing approved skins; Page 1/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 2/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 3/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 4/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 5/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 6/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 7/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 8/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 9/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 10/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 11/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 12/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 13/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 14/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 15/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 16/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 17/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 18/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 19/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 20/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 21/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 22/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 23/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 24/25
+22:58 [Warning] [Image Library] Processing approved skins; Page 25/25
+22:58 [Info] [Image Library] Approved skins loaded
+23:01 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:01 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:01 [Info] LustyMap and ImageLibrary were compiled successfully in 2164ms
+23:01 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+23:01 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+23:01 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+23:01 [Info] [Lusty Map] [Warning] Validating imagery
+23:01 [Info] [Lusty Map] [Warning] Icon images have not been found. Uploading images to file storage
+23:01 [Info] [Lusty Map] [Error] You must supply a valid API key to utilize the auto-download feature!
+Visit 'beancan.io' and register your server to retrieve your API key!
+23:01 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 367ms
+23:01 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+23:01 [Info] [Image Library] Starting order Lusty Map
+23:03 [Warning] [DEBUG] Plugin compilation is already queued: LustyMap (0.012 ago)
+23:03 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:03 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:04 [Info] LustyMap and ImageLibrary were compiled successfully in 2102ms
+23:04 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 170ms
+23:04 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+23:04 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+23:04 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+23:04 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+23:04 [Info] [Lusty Map] [Warning] Validating imagery
+23:04 [Info] [Lusty Map] [Warning] Icon images have not been found. Uploading images to file storage
+23:04 [Info] [Lusty Map] [Error] You must supply a valid API key to utilize the auto-download feature!
+Visit 'beancan.io' and register your server to retrieve your API key!
+23:04 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 381ms
+23:04 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+23:04 [Info] [Image Library] Starting order Lusty Map
+23:05 [Info] Usage: oxide.group <add|set> <name> [title] [rank]
+23:05 [Info] Usage: oxide.group <parent> <name> <parentName>
+23:05 [Info] Usage: oxide.group <remove> <name>
+23:06 [Info] Usage: oxide.usergroup <add|remove> <username> <groupname>
+23:07 [Info] Player 'Gubatrix(76561198070936229)' added to group: vip
+23:07 [Info] [Better Chat] [Global] [Admin] Gubatrix: .
+23:07 [Info] [Better Chat] [Global] [Admin] Gubatrix: .
+23:07 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:07 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:07 [Info] GestureWheel, ImageLibrary and LustyMap were compiled successfully in 2052ms
+23:07 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 189ms
+23:07 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+23:07 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+23:07 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+23:07 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+23:07 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+23:07 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+23:07 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+23:07 [Info] [Lusty Map] [Warning] Validating imagery
+23:07 [Info] [Lusty Map] [Warning] Icon images have not been found. Uploading images to file storage
+23:07 [Info] [Lusty Map] [Error] You must supply a valid API key to utilize the auto-download feature!
+Visit 'beancan.io' and register your server to retrieve your API key!
+23:07 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 387ms
+23:07 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+23:07 [Info] [Image Library] Starting order Lusty Map
+23:08 [Info] Group 'vip' granted permission 'gestures.use'
+23:10 [Info] [Better Chat] [Global] [Admin] Gubatrix: ./gestures
+23:11 [Info] Player 'Admiral Doge(76561198121059907)' added to group: vip
+23:18 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+23:18 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+23:18 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+23:18 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+23:18 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+23:18 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+23:18 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+23:18 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+23:18 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+23:18 [Warning] Calling 'Unload' on 'LustyMap v2.1.42' took 179ms
+23:18 [Info] Unloaded plugin Lusty Map v2.1.42 by k1lly0u
+23:18 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+23:18 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+23:18 [Info] Loading Oxide Core v2.0.3991...
+23:18 [Info] Loading extensions...
+23:18 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+23:18 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+23:18 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+23:18 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+23:18 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+23:18 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+23:18 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:18 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+23:18 [Info] Using Covalence provider for game 'Rust'
+23:18 [Info] Loading plugins...
+23:18 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+23:18 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+23:18 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+23:18 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+23:18 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+23:18 [Info] AdminChat, AutomaticAuthorization, BetterChat, BetterChatMentions, ClanTags, Clans, GestureWheel, ImageLibrary, InfoPanel, LustyMap, PlayerRankings and PlaytimeTracker were compiled successfully in 0ms
+23:18 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+23:18 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+23:18 [Warning] [DEBUG] LustyMap plugin is waiting for requirements to be loaded: ImageLibrary
+23:18 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+23:18 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+23:18 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+23:18 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+23:18 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+23:18 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+23:18 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+23:18 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+23:18 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+23:18 [Info] Loaded plugin Lusty Map v2.1.42 by k1lly0u
+23:18 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+23:18 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+23:18 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+23:21 [Info] IP address from Steam query: 0.0.0.0
+23:21 [Info] Updating Rust:IO ...
+23:21 [Info] Rust:IO: Update complete
+23:21 [Info] [Lusty Map] [Warning] Validating imagery
+23:21 [Info] [Lusty Map] [Warning] Icon images have not been found. Uploading images to file storage
+23:21 [Info] [Lusty Map] [Error] You must supply a valid API key to utilize the auto-download feature!
+Visit 'beancan.io' and register your server to retrieve your API key!
+23:21 [Warning] Calling 'OnServerInitialized' on 'LustyMap v2.1.42' took 324ms
+23:21 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 299ms
+23:21 [Warning] [Playtime Tracker] Unable to find any supported reward plugins. This may be caused by PTT loading before them. Will check again in 1 minute
+23:22 [Info] [Image Library] Starting order Lusty Map
+23:22 [Info] Installing Rust:IO ...
+23:22 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+23:22 [Info] Rust:IO> Creating directories ...
+23:22 [Info] Rust:IO> Applying config ...
+23:22 [Info] Rust:IO> Initializing database ...
+23:22 [Info] Rust:IO> Generating map image (this may take a while) ...
+23:22 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  8488.229ms
+Postprocess  :  3340.279ms
+  Shadows    :   141.185ms
+  FXAA       :  3134.643ms
+Encoding     :    34.017ms
+Other        :     9.878ms
+--------------------------
+Total        :  11872.402ms
+23:22 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+23:22 [Info] Rust:IO> Installed.
+23:22 [Info] Rust:IO> Now ticking
+23:22 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 12265ms [GARBAGE COLLECT]
+23:22 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 0ms [GARBAGE COLLECT]
+23:22 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+23:22 [Warning] [Playtime Tracker] Still unable to find any supported reward plugins. Rewards will not be issued!
+23:27 [Info] [Rust:IO Clans] [CLANCHAT] DMA - Gubatrix: penner
+23:27 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: .
+23:27 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: .

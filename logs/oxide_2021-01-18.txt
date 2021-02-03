@@ -1,0 +1,794 @@
+00:00 [Info] Uninstalling Rust:IO ...
+00:00 [Info] Rust:IO> Uninstalling ...
+00:00 [Info] Rust:IO> No longer ticking
+00:00 [Info] Rust:IO> Stopping server ...
+00:00 [Info] Rust:IO> Removing listeners ...
+00:00 [Info] Rust:IO> Performing maintenance ...
+00:00 [Info] Rust:IO> Closing database ...
+00:00 [Info] Rust:IO> Uninstalled.
+00:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 121ms
+00:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+00:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Loading Oxide Core v2.0.3991...
+00:00 [Info] Loading extensions...
+00:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+00:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Using Covalence provider for game 'Rust'
+00:00 [Info] Loading plugins...
+00:00 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:00 [Info] AdminChat, AutomaticAuthorization, BGrade, BetterChat, BetterChatMentions, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, GatherManager, GestureWheel, ImageLibrary, InfoPanel, InventoryCleaner, KillFeed, Kits, LoadingMessages, NTeleportation, NoEscape, NoGiveNotices, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, RemoverTool, ServerInfo, ServerRewards, Skins, SmoothRestart, SpawnMini, StackSizeController, Vanish, VehicleDecayProtection, Welcomer and ZLevelsRemastered were compiled successfully in 0ms
+00:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+00:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+00:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+00:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+00:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+00:02 [Info] IP address from Steam query: 0.0.0.0
+00:02 [Info] Updating Rust:IO ...
+00:02 [Info] Rust:IO: Update complete
+00:02 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 206ms
+00:02 [Info] [Kill Feed] Loading configuration file!
+00:02 [Warning] [No Escape] LustyMap not found! LustyMap notification option disabled. Cannot use LustyMap integration without this plugin. http://oxidemod.org/plugins/lustymap.1333
+00:02 [Warning] [Server Rewards] All UI elements have been successfully generated!
+00:02 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 285ms
+00:02 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+00:02 [Info] [SmoothRestart] Your servers Oxide build is up to date
+00:03 [Info] Installing Rust:IO ...
+00:03 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+00:03 [Info] Rust:IO> Creating directories ...
+00:03 [Info] Rust:IO> Applying config ...
+00:03 [Info] Rust:IO> Initializing database ...
+00:03 [Info] Rust:IO> Generating map image (this may take a while) ...
+00:03 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7160.770ms
+Postprocess  :  3508.850ms
+  Shadows    :   270.905ms
+  FXAA       :  3224.117ms
+Encoding     :    29.982ms
+Other        :     9.919ms
+--------------------------
+Total        :  10709.520ms
+00:03 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+00:03 [Info] Rust:IO> Installed.
+00:03 [Info] Rust:IO> Now ticking
+00:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 10892ms [GARBAGE COLLECT]
+00:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 0ms [GARBAGE COLLECT]
+00:03 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+06:24 [Info] [Welcomer] • Hocam Mucize Arıyoruz has joined the server from Germany.
+06:33 [Info] [Welcomer] • Hocam Mucize Arıyoruz has left the server (Disconnected).
+07:17 [Info] [Welcomer] • Sconex48 has joined the server from Germany.
+07:53 [Info] [Welcomer] • Wa2hu has joined the server from Germany.
+07:58 [Info] [Welcomer] • Sconex48 has left the server (Disconnected).
+08:06 [Info] [Welcomer] • Wa2hu has left the server (Disconnected).
+11:06 [Info] [Welcomer] • Infinity has joined the server from Germany.
+11:15 [Info] [SmoothRestart] Server will restart in 45 minutes!
+11:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+11:40 [Info] [Welcomer] • ÐДЯҜ has joined the server from Germany.
+11:41 [Info] [Welcomer] • tomi50054 has joined the server from Germany.
+11:41 [Info] [Better Chat] [Global] [Newbie] ÐДЯҜ: hello
+11:44 [Info] [Welcomer] • tomi50054 has left the server (Kicked: EAC: Connection timed out).
+11:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+11:46 [Info] [Better Chat] [Global] [Newbie] ÐДЯҜ: HELLO
+11:46 [Info] [Better Chat] [Global] [Newbie] ÐДЯҜ: ADMIN
+11:46 [Info] [Better Chat] [Global] [Newbie] Infinity: NE
+11:46 [Info] [Better Chat] [Global] [Newbie] ÐДЯҜ: co ne
+11:47 [Info] [Better Chat] [Global] [Newbie] ÐДЯҜ: What ne?
+11:47 [Info] [Better Chat] [Global] [Newbie] Infinity: NO
+11:47 [Info] [Better Chat] [Global] [Newbie] ÐДЯҜ: W
+11:47 [Info] [Better Chat] [Global] [Newbie] ÐДЯҜ: WHERE IS ADMIN
+11:47 [Info] [Better Chat] [Global] [Newbie] Infinity: IDK
+11:47 [Info] [Better Chat] [Global] [Newbie] ÐДЯҜ: ok
+11:47 [Info] [Better Chat] [Global] [Newbie] ÐДЯҜ: how are you today
+11:47 [Info] [Better Chat] [Global] [Newbie] Infinity: Good and you
+11:47 [Info] [Better Chat] [Global] [Newbie] ÐДЯҜ: good good
+11:48 [Info] [Better Chat] [Global] [Newbie] ÐДЯҜ: you are new player in thhhhis server ?
+11:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+11:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+11:55 [Info] [Welcomer] • tomi50054 has joined the server from Germany.
+11:55 [Info] [Better Chat] [Global] [Newbie] ÐДЯҜ: HI
+11:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+11:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+11:57 [Info] [Welcomer] • ÐДЯҜ has left the server (Disconnected).
+11:57 [Info] [Welcomer] • shannera has joined the server from Germany.
+11:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+11:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+11:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 1 seconds!
+12:00 [Info] Uninstalling Rust:IO ...
+12:00 [Info] Rust:IO> Uninstalling ...
+12:00 [Info] Rust:IO> No longer ticking
+12:00 [Info] Rust:IO> Stopping server ...
+12:00 [Info] Rust:IO> Removing listeners ...
+12:00 [Info] Rust:IO> Performing maintenance ...
+12:00 [Info] Rust:IO> Closing database ...
+12:00 [Info] Rust:IO> Uninstalled.
+12:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+12:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+12:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+12:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+12:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+12:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+12:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+12:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+12:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+12:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+12:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+12:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+12:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+12:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+12:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+12:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+12:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+12:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+12:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+12:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+12:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 129ms
+12:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+12:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+12:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+12:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+12:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+12:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+12:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+12:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+12:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+12:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+12:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+12:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+12:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+12:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+12:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+12:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+12:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+12:01 [Info] Loading Oxide Core v2.0.3991...
+12:01 [Info] Loading extensions...
+12:01 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+12:01 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+12:01 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+12:01 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+12:01 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+12:01 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+12:01 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:01 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:01 [Info] Using Covalence provider for game 'Rust'
+12:01 [Info] Loading plugins...
+12:01 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+12:01 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+12:01 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+12:01 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+12:01 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+12:01 [Info] AdminChat, AutomaticAuthorization, BGrade, BetterChat, BetterChatMentions, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, GatherManager, GestureWheel, ImageLibrary, InfoPanel, InventoryCleaner, KillFeed, Kits, LoadingMessages, NTeleportation, NoEscape, NoGiveNotices, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, RemoverTool, ServerInfo, ServerRewards, Skins, SmoothRestart, SpawnMini, StackSizeController, Vanish, VehicleDecayProtection, Welcomer and ZLevelsRemastered were compiled successfully in 0ms
+12:01 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+12:01 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+12:01 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+12:01 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+12:01 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+12:01 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+12:01 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+12:01 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+12:01 [Info] Loaded plugin Building Grades v0.5.1 by Default
+12:01 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+12:01 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+12:01 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+12:01 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+12:01 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+12:01 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+12:01 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+12:01 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+12:01 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+12:01 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+12:01 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+12:01 [Info] Loaded plugin Kits v3.3.1 by Reneb
+12:01 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+12:01 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+12:01 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+12:01 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+12:01 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+12:01 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+12:01 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+12:01 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+12:01 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+12:01 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+12:01 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+12:01 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+12:01 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+12:01 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+12:01 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+12:01 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+12:01 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+12:01 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+12:01 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+12:03 [Info] IP address from Steam query: 0.0.0.0
+12:03 [Info] Updating Rust:IO ...
+12:03 [Info] Rust:IO: Update complete
+12:03 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 210ms
+12:03 [Info] [Kill Feed] Loading configuration file!
+12:03 [Warning] [No Escape] LustyMap not found! LustyMap notification option disabled. Cannot use LustyMap integration without this plugin. http://oxidemod.org/plugins/lustymap.1333
+12:03 [Warning] [Server Rewards] All UI elements have been successfully generated!
+12:03 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 268ms
+12:03 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+12:03 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 103ms
+12:03 [Info] [SmoothRestart] Your servers Oxide build is up to date
+12:04 [Info] Installing Rust:IO ...
+12:04 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+12:04 [Info] Rust:IO> Creating directories ...
+12:04 [Info] Rust:IO> Applying config ...
+12:04 [Info] Rust:IO> Initializing database ...
+12:04 [Info] Rust:IO> Generating map image (this may take a while) ...
+12:04 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7121.000ms
+Postprocess  :  3615.444ms
+  Shadows    :   291.264ms
+  FXAA       :  3308.414ms
+Encoding     :    30.357ms
+Other        :     9.800ms
+--------------------------
+Total        :  10776.600ms
+12:04 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+12:04 [Info] Rust:IO> Installed.
+12:04 [Info] Rust:IO> Now ticking
+12:04 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 10949ms [GARBAGE COLLECT]
+12:04 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 0ms [GARBAGE COLLECT]
+12:04 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+12:04 [Info] [Welcomer] • Infinity has joined the server from Germany.
+12:08 [Info] [Welcomer] • sLeeD has joined the server from Germany.
+12:11 [Info] [Welcomer] • tomi50054 has joined the server from Germany.
+12:17 [Info] [Welcomer] • tomi50054 has left the server (Kicked: EAC: Connection timed out).
+12:26 [Info] [Welcomer] • sLeeD has left the server (Disconnected).
+12:33 [Info] [Welcomer] • Infinity has left the server (Disconnected).
+13:24 [Info] [Welcomer] • ✪ ww has joined the server from Turkey.
+13:39 [Info] [Welcomer] • ✪ ww has left the server (Disconnected).
+13:57 [Info] [Welcomer] • Racoon has joined the server from Germany.
+14:00 [Info] [Welcomer] • Racoon has left the server (Disconnected).
+14:41 [Info] [Welcomer] • raaame has joined the server from Germany.
+15:19 [Info] [Welcomer] • raaame has left the server (Disconnected).
+15:44 [Info] Uninstalling Rust:IO ...
+15:44 [Info] Rust:IO> Uninstalling ...
+15:44 [Info] Rust:IO> No longer ticking
+15:44 [Info] Rust:IO> Stopping server ...
+15:44 [Info] Rust:IO> Removing listeners ...
+15:44 [Info] Rust:IO> Performing maintenance ...
+15:44 [Info] Rust:IO> Closing database ...
+15:44 [Info] Rust:IO> Uninstalled.
+15:44 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+15:44 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+15:44 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+15:44 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+15:44 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+15:44 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+15:44 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+15:44 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+15:44 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+15:44 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+15:44 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+15:44 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+15:44 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+15:44 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+15:44 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+15:44 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+15:44 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+15:44 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+15:44 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+15:44 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+15:44 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 132ms
+15:44 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+15:44 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+15:44 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+15:44 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+15:44 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+15:44 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+15:44 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+15:44 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+15:44 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+15:44 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+15:44 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+15:44 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+15:44 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+15:44 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+15:44 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+15:44 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+15:44 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+15:44 [Info] Loading Oxide Core v2.0.3991...
+15:44 [Info] Loading extensions...
+15:44 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+15:44 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+15:44 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+15:44 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+15:44 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+15:44 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+15:44 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+15:44 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+15:44 [Info] Using Covalence provider for game 'Rust'
+15:44 [Info] Loading plugins...
+15:44 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+15:44 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+15:44 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+15:44 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+15:44 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+15:44 [Info] AdminChat, AutomaticAuthorization, BGrade, BetterChat, BetterChatMentions, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, GatherManager, GestureWheel, ImageLibrary, InfoPanel, InventoryCleaner, KillFeed, Kits, LoadingMessages, NTeleportation, NoEscape, NoGiveNotices, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, RemoverTool, ServerInfo, ServerRewards, Skins, SmoothRestart, SpawnMini, StackSizeController, Vanish, VehicleDecayProtection, Welcomer and ZLevelsRemastered were compiled successfully in 0ms
+15:44 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+15:44 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+15:44 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+15:44 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+15:44 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+15:44 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+15:44 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+15:44 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+15:44 [Info] Loaded plugin Building Grades v0.5.1 by Default
+15:44 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+15:44 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+15:44 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+15:44 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+15:44 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+15:44 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+15:44 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+15:44 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+15:44 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+15:44 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+15:44 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+15:44 [Info] Loaded plugin Kits v3.3.1 by Reneb
+15:44 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+15:44 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+15:44 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+15:44 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+15:44 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+15:44 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+15:44 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+15:44 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+15:44 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+15:44 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+15:44 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+15:44 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+15:44 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+15:44 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+15:44 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+15:44 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+15:44 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+15:44 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+15:44 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+15:47 [Info] IP address from Steam query: 0.0.0.0
+15:47 [Info] Updating Rust:IO ...
+15:47 [Info] Rust:IO: Update complete
+15:47 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 229ms
+15:47 [Info] [Kill Feed] Loading configuration file!
+15:47 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 105ms
+15:47 [Warning] [No Escape] LustyMap not found! LustyMap notification option disabled. Cannot use LustyMap integration without this plugin. http://oxidemod.org/plugins/lustymap.1333
+15:47 [Warning] [Server Rewards] All UI elements have been successfully generated!
+15:47 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 340ms
+15:47 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+15:47 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 111ms
+15:47 [Info] [SmoothRestart] Your servers Oxide build is up to date
+15:47 [Info] Installing Rust:IO ...
+15:47 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+15:47 [Info] Rust:IO> Creating directories ...
+15:47 [Info] Rust:IO> Applying config ...
+15:47 [Info] Rust:IO> Initializing database ...
+15:47 [Info] Rust:IO> Generating map image (this may take a while) ...
+15:47 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7203.906ms
+Postprocess  :  2741.767ms
+  Shadows    :   206.937ms
+  FXAA       :  2521.841ms
+Encoding     :    58.069ms
+Other        :    12.731ms
+--------------------------
+Total        :  10016.473ms
+15:47 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+15:47 [Info] Rust:IO> Installed.
+15:47 [Info] Rust:IO> Now ticking
+15:47 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 10199ms [GARBAGE COLLECT]
+15:47 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 0ms [GARBAGE COLLECT]
+15:47 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+15:50 [Info] Group 'default' granted permission 'automaticauthorization.use'
+15:58 [Info] LoadingMessages was compiled successfully in 1905ms
+15:58 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+15:58 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+16:00 [Info] [Welcomer] • [DMA] Gubatrix has joined the server from Germany.
+16:06 [Info] Uninstalling Rust:IO ...
+16:06 [Info] Rust:IO> Uninstalling ...
+16:06 [Info] Rust:IO> No longer ticking
+16:06 [Info] Rust:IO> Stopping server ...
+16:06 [Info] Rust:IO> Removing listeners ...
+16:06 [Info] Rust:IO> Performing maintenance ...
+16:06 [Info] Rust:IO> Closing database ...
+16:06 [Info] Rust:IO> Uninstalled.
+16:06 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+16:06 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+16:06 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+16:06 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+16:06 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+16:06 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+16:06 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+16:06 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+16:06 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+16:06 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+16:06 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+16:06 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+16:06 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+16:06 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+16:06 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+16:06 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+16:06 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+16:06 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+16:06 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+16:06 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+16:06 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 127ms
+16:06 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+16:06 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+16:06 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+16:06 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+16:06 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+16:06 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+16:06 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+16:06 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+16:06 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+16:06 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+16:06 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+16:06 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+16:06 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+16:06 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+16:06 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+16:06 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+16:06 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+16:06 [Info] Loading Oxide Core v2.0.3991...
+16:06 [Info] Loading extensions...
+16:06 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+16:06 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+16:06 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+16:06 [Info] Loaded extension Rust v2.0.4882 by Oxide Team and Contributors
+16:06 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+16:06 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+16:06 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+16:06 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+16:06 [Info] Using Covalence provider for game 'Rust'
+16:06 [Info] Loading plugins...
+16:06 [Info] Loaded plugin Rust v2.0.4882 by Oxide Team and Contributors
+16:06 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+16:06 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+16:06 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+16:06 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+16:06 [Info] AdminChat, AutomaticAuthorization, BGrade, BetterChat, BetterChatMentions, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, GatherManager, GestureWheel, ImageLibrary, InfoPanel, InventoryCleaner, KillFeed, Kits, LoadingMessages, NTeleportation, NoEscape, NoGiveNotices, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, RemoverTool, ServerInfo, ServerRewards, Skins, SmoothRestart, SpawnMini, StackSizeController, Vanish, VehicleDecayProtection, Welcomer and ZLevelsRemastered were compiled successfully in 0ms
+16:06 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+16:06 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+16:06 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+16:06 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+16:06 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+16:06 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+16:06 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+16:06 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+16:06 [Info] Loaded plugin Building Grades v0.5.1 by Default
+16:06 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+16:06 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+16:06 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+16:06 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+16:06 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+16:06 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+16:06 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+16:06 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+16:06 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+16:06 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+16:06 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+16:06 [Info] Loaded plugin Kits v3.3.1 by Reneb
+16:06 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+16:06 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+16:06 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+16:06 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+16:06 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+16:06 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+16:06 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+16:06 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+16:06 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+16:06 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+16:06 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+16:06 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+16:06 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+16:06 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+16:06 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+16:06 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+16:06 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+16:06 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+16:06 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+16:09 [Info] IP address from Steam query: 0.0.0.0
+16:09 [Info] Updating Rust:IO ...
+16:09 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 223ms
+16:09 [Info] Rust:IO: Update complete
+16:09 [Info] [Kill Feed] Loading configuration file!
+16:09 [Warning] [No Escape] LustyMap not found! LustyMap notification option disabled. Cannot use LustyMap integration without this plugin. http://oxidemod.org/plugins/lustymap.1333
+16:09 [Warning] [Server Rewards] All UI elements have been successfully generated!
+16:09 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 280ms
+16:09 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+16:09 [Info] [SmoothRestart] Your servers Oxide build is up to date
+16:09 [Info] Installing Rust:IO ...
+16:09 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+16:09 [Info] Rust:IO> Creating directories ...
+16:09 [Info] Rust:IO> Applying config ...
+16:09 [Info] Rust:IO> Initializing database ...
+16:09 [Info] Rust:IO> Generating map image (this may take a while) ...
+16:09 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7323.441ms
+Postprocess  :  3504.717ms
+  Shadows    :   284.823ms
+  FXAA       :  3201.630ms
+Encoding     :    29.283ms
+Other        :    11.327ms
+--------------------------
+Total        :  10868.768ms
+16:09 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+16:09 [Info] Rust:IO> Installed.
+16:09 [Info] Rust:IO> Now ticking
+16:09 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 11046ms [GARBAGE COLLECT]
+16:09 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 0ms [GARBAGE COLLECT]
+16:09 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+16:11 [Info] BlueprintManager was compiled successfully in 1999ms
+16:11 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+16:12 [Info] Group 'admin' granted permission 'blueprintmanager.admin'
+16:12 [Info] Group 'admin' granted permission 'blueprintmanager.all'
+16:14 [Info] [Welcomer] • Infinity has joined the server from Germany.
+16:14 [Info] [Welcomer] • [DMA] Gubatrix has joined the server from Germany.
+16:16 [Info] AliasSystem was compiled successfully in 1973ms
+16:16 [Info] [Alias System] Generating new config file...
+16:16 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+16:16 [Info] Group 'default' granted permission 'aliassystem.use'
+16:17 [Info] Group 'admin' granted permission 'aliassystem.admin'
+16:25 [Info] [Welcomer] • Infinity has left the server (Disconnected).
+16:26 [Info] Skins was compiled successfully in 1969ms
+16:26 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+16:26 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+17:32 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+17:32 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+17:42 [Info] BetterLoot was compiled successfully in 2000ms
+17:42 [Info] [BetterLoot] No Blacklist found, creating new file...
+17:42 [Info] [BetterLoot] Using '33' active of '35' supported containertypes
+17:42 [Info] [BetterLoot] Exported 678 items to 'NamesList'
+17:42 [Info] [BetterLoot] Updating internals ...
+17:42 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+17:42 [Info] [BetterLoot] Removed 74 stacked LootContainer
+17:42 [Info] [BetterLoot] Populated '3890' supported containers.
+17:46 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+17:46 [Info] [BetterLoot] Using '33' active of '35' supported containertypes
+17:46 [Info] [BetterLoot] Updating internals ...
+17:46 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+17:46 [Info] [BetterLoot] Removed 47 stacked LootContainer
+17:46 [Info] [BetterLoot] Populated '4114' supported containers.
+17:47 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+17:47 [Info] [BetterLoot] Using '33' active of '35' supported containertypes
+17:47 [Info] [BetterLoot] Updating internals ...
+17:47 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+17:47 [Info] [BetterLoot] Removed 5 stacked LootContainer
+17:47 [Info] [BetterLoot] Populated '4104' supported containers.
+17:47 [Info] [NTeleportation] [DMA] Gubatrix teleported to [DMA] Admiral Doge.
+17:52 [Info] ServerInfo was compiled successfully in 2098ms
+17:52 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:52 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:52 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:52 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:53 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+17:53 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+17:59 [Info] [Welcomer] • SanCheZ_C137 has joined the server from Germany.
+18:05 [Info] [Welcomer] • [DMA] Admiral Doge has joined the server from Germany.
+18:14 [Info] Listing 40 plugins:
+  01 "Admin Chat" (2.0.4) by LaserHydra (0.00s) - AdminChat.cs
+  02 "Automatic Authorization" (1.2.4) by k1lly0u/Arainrr (0.05s) - AutomaticAuthorization.cs
+  03 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.02s) - BGrade.cs
+  04 "Better Chat" (5.2.5) by LaserHydra (0.00s) - BetterChat.cs
+  05 "Better Chat Mentions" (1.2.3) by Death (0.00s) - BetterChatMentions.cs
+  06 "Building Grades" (0.5.1) by Default (0.01s) - BuildingGrades.cs
+  07 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  08 "Rust:IO Clans" (1.7.6) by playrust.io / dcode (0.01s) - Clans.cs
+  09 "Clan Team" (1.0.5) by deivismac (0.01s) - ClanTeam.cs
+  10 "Crafting Controller" (3.2.2) by Whispers88 (0.02s) - CraftingController.cs
+  11 "Gathering Manager" (2.2.75) by Mughisi (0.06s) - GatherManager.cs
+  12 "Image Library" (2.0.56) by Absolut & K1lly0u (0.04s) - ImageLibrary.cs
+  13 "Gesture Wheel" (0.1.3) by Tricky & Mevent (0.00s) - GestureWheel.cs
+  14 "InfoPanel" (1.0.4) by Default (0.94s) - InfoPanel.cs
+  15 "Inventory Cleaner" (2.0.0) by Iv Misticos (0.00s) - InventoryCleaner.cs
+  16 "Kill Feed" (1.18.0) by Tuntenfisch (0.03s) - KillFeed.cs
+  17 "Kits" (3.3.1) by Reneb (0.03s) - Kits.cs
+  18 "Loading Messages" (1.0.6) by CosaNostra/Def (0.03s) - LoadingMessages.cs
+  19 "NTeleportation" (1.4.7) by nivex (0.12s) - NTeleportation.cs
+  20 "No Escape" (2.1.31) by Calytic (0.16s) - NoEscape.cs
+  21 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.cs
+  22 "OnScreenLogo" (1.1.5) by Vlad-00003 (0.02s) - OnScreenLogo.cs
+  23 "PlayerRankings" (3.0.2) by Ankawi (0.03s) - PlayerRankings.cs
+  24 "Playtime Tracker" (0.1.7) by k1lly0u (0.04s) - PlaytimeTracker.cs
+  25 "Popup Notifications" (0.2.0) by emu / k1lly0u (0.00s) - PopupNotifications.cs
+  26 "Remover Tool" (4.3.23) by Reneb/Fuji/Arainrr (0.02s) - RemoverTool.cs
+  27 "ServerInfo" (0.5.4) by FastBurst (0.02s) - ServerInfo.cs
+  28 "Server Rewards" (0.4.73) by k1lly0u (0.32s) - ServerRewards.cs
+  29 "Skins" (2.1.2) by Iv Misticos (0.23s) - Skins.cs
+  30 "SmoothRestart" (1.2.5) by Fujikura/Visagalis (0.39s) - SmoothRestart.cs
+  31 "Spawn Mini" (2.10.0) by SpooksAU (0.11s) - SpawnMini.cs
+  32 "Stack Size Controller" (2.0.4) by Canopy Sheep (0.06s) - StackSizeController.cs
+  33 "Vanish" (1.3.8) by Whispers88 (0.25s) - Vanish.cs
+  34 "Vehicle Decay Protection" (1.3.2) by WhiteThunder (0.10s) - VehicleDecayProtection.cs
+  35 "Welcomer" (1.5.4) by Dana (0.00s) - Welcomer.cs
+  36 "ZLevelsRemastered" (2.9.22) by Default (0.26s) - ZLevelsRemastered.cs
+  37 "Blueprint Manager" (1.1.4) by Orange (0.04s) - BlueprintManager.cs
+  38 "Alias System" (2.1.3) by LaserHydra (0.00s) - AliasSystem.cs
+  39 "BetterLoot" (3.5.3) by Default (0.32s) - BetterLoot.cs
+18:17 [Info] [Welcomer] • SanCheZ_C137 has left the server (Disconnected).
+18:17 [Info] [Welcomer] • chickenmaster1 has joined the server from Germany.
+18:18 [Info] Group 'default' granted permission 'skins.use'
+18:18 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: somebody wants a pool?
+18:19 [Info] InventoryViewer was compiled successfully in 2022ms
+18:19 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+18:20 [Info] Group 'admin' granted permission 'inventoryviewer.allowed'
+18:34 [Info] WhereIsMyHorse was compiled successfully in 1990ms
+18:34 [Warning] [Where is My Horse] Default configuration has been loaded...
+18:34 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+18:34 [Info] Group 'admin' granted permission 'whereismyhorse.nocooldown'
+18:34 [Info] Group 'admin' granted permission 'whereismyhorse.use'
+18:34 [Info] Group 'vip' granted permission 'whereismyhorse.use'
+18:35 [Info] [Welcomer] • chickenmaster1 has left the server (Disconnected).
+18:45 [Info] [Welcomer] • [DMA] Gubatrix has left the server (Disconnected).
+18:45 [Info] [Welcomer] • [DMA] Admiral Doge has left the server (Disconnected).
+19:09 [Info] [Welcomer] • SoupeDeBaston has joined the server from France.
+19:24 [Info] [Welcomer] • Boomer has joined the server from Italy.
+19:24 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+20:23 [Info] [Welcomer] • Red1Stark has joined the server from France.
+20:23 [Info] [Welcomer] • Red1Stark has left the server (Disconnected).
+20:53 [Info] [Welcomer] • chitzo has joined the server from Germany.
+20:54 [Info] [Better Chat] [Global] [Newbie] chitzo: hello
+20:54 [Info] [Better Chat] [Global] [Newbie] Kongen: yoyo
+21:02 [Info] [Better Chat] [Global] [Newbie] chitzo: this server is free?
+21:02 [Info] [Better Chat] [Global] [Newbie] Kongen: yes
+21:02 [Info] [Better Chat] [Global] [Newbie] chitzo: sure?
+21:02 [Info] [Better Chat] [Global] [Newbie] Kongen: yes
+21:03 [Info] [Better Chat] [Global] [Newbie] Kongen: I have played for free :)
+21:03 [Info] [Better Chat] [Global] [Newbie] chitzo: how manytime?
+21:04 [Info] [Better Chat] [Global] [Newbie] Kongen: there you go xD
+21:06 [Info] [Better Chat] [Global] [Newbie] Kongen: I have play on many servers and they are all free
+21:06 [Info] [Better Chat] [Global] [Newbie] Kongen: some servers offers VIP status for free money xD
+21:07 [Info] [Better Chat] [Global] [Newbie] chitzo: ohh nice!
+21:18 [Info] [Better Chat] [Global] [Newbie] chitzo: why you kill me i dont have nothing hahaha
+21:18 [Info] [Better Chat] [Global] [Newbie] chitzo: XD
+21:19 [Info] [Better Chat] [Global] [Newbie] Kongen: who was farming wood?
+21:20 [Info] [Better Chat] [Global] [Newbie] chitzo: me its my first time here
+21:20 [Info] [Better Chat] [Global] [Newbie] Kongen: oh I see
+21:20 [Info] [Better Chat] [Global] [Newbie] Kongen: I was on the horse xD
+21:20 [Info] [Better Chat] [Global] [Newbie] chitzo: im so scared
+21:20 [Info] [Better Chat] [Global] [Newbie] Kongen: Im friendly :)
+21:20 [Info] [Better Chat] [Global] [Newbie] Kongen: unless ppls attack me :P
+21:20 [Info] [Better Chat] [Global] [Newbie] chitzo: really?
+21:21 [Info] [Better Chat] [Global] [Newbie] Kongen: yup
+21:21 [Info] [Better Chat] [Global] [Newbie] chitzo: where are you?
+21:22 [Info] [Better Chat] [Global] [Newbie] Kongen: on my way to my base
+21:22 [Info] [Better Chat] [Global] [Newbie] chitzo: ok
+21:22 [Info] [Better Chat] [Global] [Newbie] Kongen: forgot to make sleepingbags so I need to run xD
+21:23 [Info] [Better Chat] [Global] [Newbie] chitzo: you have any team?
+21:23 [Info] [Better Chat] [Global] [Newbie] Kongen: nope solo atm
+21:23 [Info] [Better Chat] [Global] [Newbie] chitzo: where are you from?
+21:23 [Info] [Better Chat] [Global] [Newbie] Kongen: Denmark, u?
+21:24 [Info] [Better Chat] [Global] [Newbie] chitzo: Puerto Rico
+21:24 [Info] [Better Chat] [Global] [Newbie] Kongen: cool
+21:24 [Info] [Better Chat] [Global] [Newbie] Kongen: how is the corona there?
+21:24 [Info] [Welcomer] • SoupeDeBaston has left the server (Disconnected).
+21:24 [Info] [Better Chat] [Global] [Newbie] chitzo: not really bad, is a small island
+21:25 [Info] [Better Chat] [Global] [Newbie] Kongen: good to hear
+21:25 [Info] [Better Chat] [Global] [Newbie] Kongen: its not that bad here as well
+21:25 [Info] [Better Chat] [Global] [Newbie] chitzo: spanish?
+21:25 [Info] [Better Chat] [Global] [Newbie] Kongen: english and danish :P
+21:26 [Info] [Better Chat] [Global] [Newbie] chitzo: me spanish and english
+21:26 [Info] [Better Chat] [Global] [Newbie] Kongen: I see
+21:27 [Info] [Better Chat] [Global] [Newbie] chitzo: more spanish hahahaha
+21:27 [Info] [Better Chat] [Global] [Newbie] Kongen: same here on danish :P
+21:27 [Info] [Better Chat] [Global] [Newbie] Kongen: my english sucks xD
+21:27 [Info] [Better Chat] [Global] [Newbie] chitzo: same hahaha
+21:29 [Info] [Better Chat] [Global] [Newbie] chitzo: really i want  learn play this game im lady playing rust hahahaha
+21:32 [Info] [Better Chat] [Global] [Newbie] Kongen: awsome
+21:32 [Info] [Better Chat] [Global] [Newbie] Kongen: its not that hard
+21:34 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+21:54 [Info] [Welcomer] • Tinus Tintenfisch has joined the server from Germany.
+21:54 [Info] [Welcomer] • Boomer has left the server (Disconnected).
+22:28 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+22:40 [Info] [Welcomer] • Gh4oS has joined the server from Netherlands.
+23:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+23:42 [Info] [Welcomer] • Tinus Tintenfisch has left the server (Disconnected).
+23:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+23:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+23:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+23:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+23:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+23:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 1 seconds!

@@ -1,0 +1,6 @@
+{
+  "WelcomeMessage": "Welcome to our server! Type /info to get help.",
+  "JoinMessage": "<color=#007D00>•</color> {0}<color=#007D00> has joined the server</color> from <color=#007D00>{1}</color>.",
+  "JoinMessageUnknown": "<color=#007D00>•</color> {0} <color=#007D00>has joined the server</color>.",
+  "LeaveMessage": "<color=#E50000>•</color> {0} <color=#E50000>has left the server</color> ({1})<color=#E50000>.</color>"
+}

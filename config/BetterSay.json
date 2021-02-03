@@ -1,0 +1,7 @@
+{
+  "Format": "{Title}: {Message}",
+  "Title": "SERVER",
+  "Title Color": "cyan",
+  "Message Color": "white",
+  "Chat Icon (SteamID64)": 0
+}

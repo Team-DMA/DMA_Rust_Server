@@ -1,0 +1,244 @@
+{
+  "settings": {
+    "Tabs": [
+      {
+        "ButtonText": "Welcome",
+        "HeaderText": "Welcome on our server",
+        "Pages": [
+          {
+            "TextLines": [
+              "If you have any questions feel free to ask.",
+              " ",
+              "Type /kit to get your free kits.",
+              " ",
+              "Type /info or /help to get again in this menu.",
+              " ",
+              "Go to the 'Commands'-Tab to learn the commands."
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Commands",
+        "HeaderText": "Important Commands",
+        "Pages": [
+          {
+            "TextLines": [
+              "<size=5> </size>",
+              "<color=#75c9eb><color=#75c9eb><size=17><b>NTeleportation:</b></size></color></color>",
+              "/sethome – Saves your current position as home",
+              "/removehome – Removes the location home.",
+              "/home add [NAME] - Saves your current position as the location NAME.",
+              "/home list - Shows you a list of all the locations you have saved.",
+              "/home remove [NAME] - Removes the location NAME from your saved homes.",
+              "/home [NAME] - Teleports you to the home location.",
+              "/tpr [NAME OF PLAYER] - Sends a teleport request to the player.",
+              "/tpa - Accepts an incoming teleport request.",
+              "/tpc - Cancel teleport or request.",
+              "/tpinfo - Shows limits and cooldowns.",
+              "/tphelp - Shows help.",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>Kits:</b></size></color>",
+              "/kit – Shows the Kits available.",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>Skins:</b></size></color>",
+              "/skin – open skin menu",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>Gestures:</b></size></color>",
+              "/gestures - Opens up the Gestures-UI"
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>BGrade:</b></size></color>",
+              "/bgrade 0 - Disable BGrade",
+              "/bgrade 1 - Enable automatic Wood upgrades",
+              "/bgrade 2 - Enable automatic Stone upgrades",
+              "/bgrade 3 - Enable automatic Metal upgrades",
+              "/bgrade 4 - Enable automatic Armored upgrades",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>Building Grades:</b></size></color>",
+              "/up [grade] (e.g. 1 for wood upgrade) - Upgrade each block which is attached",
+              "to the building you are looking at by one grade or to selected grade",
+              "/down [grade] (e.g. 1 for wood downgrade) - Downgrade each block which is attached",
+              "to the building you are looking at by one grade or to selected grade",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>Clans:</b></size></color>",
+              "/clan help - display all Clan-related commands",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>RemoverTool:</b></size></color>",
+              "/remove – Enable/Disable RemoverTool"
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>Playtime:</b></size></color>",
+              "/top - displays the top 10 playtime of players",
+              "/playtime - displays your own playtime on the server",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>Shop:</b></size></color>",
+              "/s or /shop - opens the Shop.",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>Private Messages:</b></size></color>",
+              "/pm <name> <message> - Send a private message to player.",
+              "/r <message> - Reply to your most recent private message.",
+              "/pmhistory <name> - Show the previous 5 messages of PM with that player.",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>Vehicles:</b></size></color>",
+              "/buy - Show help for buy commands. Buy a license",
+              "/spawn - Show help for spawn commands. Spawn a vehicle",
+              "/recall - Show help for recall commands. Recall vehicles to the vicinity of the player",
+              "/kill - Show help for kill commands. Kills your vehicle",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>SkipNight:</b></size></color>",
+              "/voteday - Allows the user to cast their vote"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "General info",
+        "HeaderText": "General info",
+        "Pages": [
+          {
+            "TextLines": [
+              "<size=5> </size>",
+              "We have NoDecay on our server, so you don't have to put something in your cupboard.",
+              "<size=5> </size>",
+              "We use Discord-like mention-system for @playername, and @everyone with auto-complete.",
+              "<size=5> </size>",
+              "Our plugin prevent teleportation (and more) while in raid or combat.",
+              "<size=5> </size>",
+              "You need to level up 5 different skills (Mining, Woodcutting, Crafting, Skinning, Aquire) for",
+              "better Gathering.",
+              "<size=5> </size>",
+              "More information coming soon..."
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Supporters",
+        "HeaderText": "Supporter Commands",
+        "Pages": [
+          {
+            "TextLines": [
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>AdminChat:</b></size></color>",
+              "To talk in the admin chatroom, prefix your message with '@'. E.g: '@hello'",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>NTeleportation:</b></size></color>",
+              "/tp - Teleports yourself to the target player.",
+              "/tp - Teleports the player to the target player.",
+              "/tpb - Teleports you back to the place where you were before teleporting.",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>PopupNotifications:</b></size></color>",
+              "/popupmsg 'message' - Create a notification for everyone on the server.",
+              "/popupmsg 'player name' 'message' - Create a notification for a player.",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>AdminMode:</b></size></color>",
+              "/admin or /adminmode - Toggle your adminmode on/off.",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>Notice:</b></size></color>",
+              "/notice <player> <message> - anonymously send a message to a player."
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": "supporters"
+      },
+      {
+        "ButtonText": "Admins",
+        "HeaderText": "Admin Commands",
+        "Pages": [
+          {
+            "TextLines": [
+              "Remover Tool: /remove admin /remove all"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": "admin"
+      }
+    ],
+    "ShowInfoOnPlayerInit": true,
+    "ShowInfoOnlyOncePerRuntime": true,
+    "TabToOpenByDefault": 0,
+    "Position": {
+      "MinX": 0.15,
+      "MaxX": 0.9,
+      "MinY": 0.2,
+      "MaxY": 0.9
+    },
+    "BackgroundImage": {
+      "Enabled": true,
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 1.0,
+        "MinY": 0.0,
+        "MaxY": 1.0
+      },
+      "Url": "https://i.imgur.com/jffZ8pT.jpg",
+      "TransparencyInPercent": 25
+    },
+    "ActiveButtonColor": "#0255255255",
+    "InactiveButtonColor": "#128128128255",
+    "CloseButtonColor": "#128128128255",
+    "NextPageButtonColor": "#128128128255",
+    "PrevPageButtonColor": "#128128128255",
+    "BackgroundColor": "#000255",
+    "HelpButton": {
+      "IsEnabled": false,
+      "Text": "Help",
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 0.05,
+        "MinY": 0.1,
+        "MaxY": 0.14
+      },
+      "Color": "#128128128255",
+      "FontSize": 12
+    },
+    "UpgradedConfig": false
+  }
+}

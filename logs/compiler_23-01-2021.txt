@@ -1,0 +1,13 @@
+[SERVER v1.0.20] Started as service
+[SERVER v1.0.20] Running as service
+[SERVER v1.0.20] Got Message: Ready
+[SERVER v1.0.20] Got Message: Compile
+[SERVER v1.0.20] Console: AliasSystem.cs(86,8): warning CS0114: `Oxide.Plugins.AliasSystem.LoadConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+AliasSystem.cs(90,8): warning CS0114: `Oxide.Plugins.AliasSystem.LoadDefaultConfig()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultConfig()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+/home/container/Oxide.Core.dll (Location of the symbol related to previous warning)
+
+[SERVER v1.0.20] Got Message: Compile
+[SERVER v1.0.20] Console: 
+[SERVER v1.0.20] Connection closed.
+[SERVER v1.0.20] Shutdown
