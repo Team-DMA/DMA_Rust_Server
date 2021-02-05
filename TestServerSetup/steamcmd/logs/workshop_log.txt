@@ -1,0 +1,7 @@
+
+
+[2021-02-04 18:07:43] Loading workshop items for 0 installed apps for user [a:1:2837483703]:
+[2021-02-04 18:07:43] [AppID 258550] Loaded workshop items in "e:\rust\steamapps\workshop" (0 installed, 0 needed)
+
+
+[2021-02-04 18:13:50] Loading workshop items for 1 installed apps for user [a:1:3272677564]:

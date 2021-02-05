@@ -1,0 +1,37 @@
+Video instructions - Coming soon
+
+
+Place the program in a folder where u want the server files to be downloaded to. Dont run the program on your desktop, several files and folders will be created. 
+
+
+------------------------------
+The program should be very straight forward.
+
+The progress panel at the top right shows you what to do.
+
+
+SteamCMD will be used to automaticly download the Rust Server files.
+
+Start By downloading steam cmd. (step one)
+
+
+Click on Download Server Files (step two) when step two is highlighted.
+This can take a few minutes. Wait for it to finish, dont close the black screen, it will close itself when done.
+
+You can already configure and generate your server start files while the rust files are downloading.
+Just make sure you wait with trying to run your server untill steamCMD is fully finished downloading the rust Server Files.
+
+Once steam cmd is finished and you generated a start file, click open start file directory on the right and double click on the start file you want to use.
+
+Have fun.
+
+------------------------------
+
+look at my youtube channel for more help on what stuff means and what to do next. 
+Thank you for using my program, if you have any feedback please contact me.
+
+click contact me under help in the program on the top left to find my contact info. 
+
+AHUUUWWAAAAHHH
+
+-Ted

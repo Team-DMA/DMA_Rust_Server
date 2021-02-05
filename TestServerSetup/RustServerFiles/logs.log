@@ -1,0 +1,1510 @@
+Mono path[0] = 'E:/rust/RustDedicated_Data/Managed'
+Mono config path = 'E:/rust/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.7f1 (e992b1a16e65)
+[Subsystems] Discovering subsystems at path E:/rust/RustDedicated_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.6109
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.094 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+UnloadTime: 9.351300 ms
+Bootstrap Startup
+Loading maps/maps.bundle 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/content.bundle 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/content.private.bundle 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/items.preload.bundle 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/monuments.bundle 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/skinnables.preload.bundle 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System
+	Name: DESKTOP-TUSUELP
+	OS:   Windows 10  (10.0.0) 64bit
+
+CPU
+	Model:  Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
+	Cores:  8
+	Memory: 16328 MB
+
+GPU
+	Model:  NVIDIA GeForce GTX 770
+	API:    Direct3D 11.0 [level 11.0]
+	Memory: 2007 MB
+	SM:     50
+
+Process
+	Memory:   430 MB
+
+Mono
+	Collects: 34
+	Memory:   5 MB
+
+
+
+Manifest Metadata Loaded
+	17455 pooled strings
+	7408 prefab properties
+	389 effect categories
+	911 entity names
+
+Command Line: "RustDedicated.exe" "-batchmode" "+server.identity" "CustomMap" "+server.hostname" "DMA Test Server" "+levelurl" "https://www.dropbox.com/s/98yor04wobdanmq/Aurora_modified_by_DMA.map?dl=1" "+server.maxplayers" "2" "+rcon.ip" "127.0.0.1" "+rcon.port" "28016" "+server.port" "28015" "+rcon.password" "******" "+server.description" "DMA Testing..." "+server.url" "dma-gaming.de" "+server.headerimage" " " "-logfile" "E:\Rust Server\TestServerSetup\RustServerFiles\logs.log" 
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001824AF8C030.dll
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001824B000020.dll
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001824AD58050.dll
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001824B03D250.dll
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001824AD370D0.dll
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001826C7E2D50.dll
+Server Config Loaded
+Skinnable Warmup
+Manifest Assets Loaded
+	106 skinnable objects
+Loading Scene
+Unloading 5 Unused Serialized files (Serialized files now loaded: 47)
+UnloadTime: 10.311400 ms
+Missing shader in Main Camera (TOD_Scattering) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in Main Camera (TOD_Scattering) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in Main Camera (TOD_Scattering) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in Main Camera (TOD_Rays) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in Main Camera (TOD_Rays) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in Main Camera (TOD_Rays) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 348 unused Assets to reduce memory usage. Loaded Objects now: 33453.
+Total: 53.139900 ms (FindLiveObjects: 1.137300 ms CreateObjectMapping: 1.471800 ms MarkObjects: 50.255400 ms  DeleteObjects: 0.275000 ms)
+
+Missing shader in effect - Screen Blur (UnityStandardAssets.ImageEffects.BlurOptimized) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Cold (ScreenOverlayEx) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Screen Blur (UnityStandardAssets.ImageEffects.ColorCorrectionCurves) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Screen Blur (UnityStandardAssets.ImageEffects.ColorCorrectionCurves) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Screen Blur (UnityStandardAssets.ImageEffects.ColorCorrectionCurves) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Hurt (UnityStandardAssets.ImageEffects.VignetteAndChromaticAberration) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Hurt (UnityStandardAssets.ImageEffects.VignetteAndChromaticAberration) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Hurt (UnityStandardAssets.ImageEffects.VignetteAndChromaticAberration) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Radiation (UnityStandardAssets.ImageEffects.ColorCorrectionCurves) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Radiation (UnityStandardAssets.ImageEffects.ColorCorrectionCurves) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Radiation (UnityStandardAssets.ImageEffects.ColorCorrectionCurves) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Radiation (UnityStandardAssets.ImageEffects.NoiseAndGrain) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Hurt (ScreenOverlayEx) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Hot (UnityStandardAssets.ImageEffects.VignetteAndChromaticAberration) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Hot (UnityStandardAssets.ImageEffects.VignetteAndChromaticAberration) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Hot (UnityStandardAssets.ImageEffects.VignetteAndChromaticAberration) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - FXAA (FXAA) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - Water (UnityStandardAssets.ImageEffects.BlurOptimized) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing shader in effect - NVG (NVGEffect) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading Oxide Core v2.0.3991... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading extensions... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded extension RustEdit v1.0.32 by k1lly0u 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded extension MySql v2.0.3760 by Oxide Team and Contributors 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded extension Rust v2.0.4891 by Oxide Team and Contributors 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded extension Unity v2.0.3772 by Oxide Team and Contributors 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Using Covalence provider for game 'Rust' 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading plugins... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit Core v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit IO Core v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit Vending Core v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit Loot Core v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit Resource Core v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit APC Core v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit NPC Core v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin Rust v2.0.4891 by Oxide Team and Contributors 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+NPCNav was compiled successfully in 0ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin NPCNav v1.0.0 by Whispers88 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Asset Warmup (1/6897)
+Asset Warmup (498/6897)
+Asset Warmup (844/6897)
+Couldn't create a Convex Mesh from source mesh "patrol_helicopter_part02" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Asset Warmup (1681/6897)
+Asset Warmup (2627/6897)
+Couldn't create a Convex Mesh from source mesh "Old_Boat_GM" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Asset Warmup (2984/6897)
+Command '' not found
+Couldn't create a Convex Mesh from source mesh "ScrapHeliGibs_Part002" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "ScrapHeliGibs_Part046" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
+(Filename:  Line: 91)
+
+Asset Warmup (3459/6897)
+Command '' not found
+Asset Warmup (4070/6897)
+Asset Warmup (4687/6897)
+Asset Warmup (5320/6897)
+Asset Warmup (5925/6897)
+Asset Warmup (6594/6897)
+Asset Warmup (6897/6897)
+WebSocket RCon Started on 28016 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading custom map from https://www.dropbox.com/s/98yor04wobdanmq/Aurora_modified_by_DMA.map?dl=1 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[1.0s] Loading World 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+ERROR: Shader Hidden/Nature/Terrain/Utilities shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Shader 'Nature/Terrain/Diffuse': dependency 'AddPassShader' shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+Shader 'Hidden/TerrainEngine/Splatmap/Standard-AddPass': fallback shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+[RustEdit] - IO data loaded and ready to be processed! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - No vending data found in map file 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - No loot data found in map file 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - No APC path data found in map file 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - No vehicle data found in map file 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - NPC data loaded and ready to be processed! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[20.4s] Spawning World 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[1.9s] Terrain Mesh 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[2.4s] Processing World 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - No ocean patrol path data found in map file 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Generated ocean patrol path with node count: 538 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[27.2s] Ocean Patrol Paths 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 47)
+[1.3s] Cleaning Up 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 115202 unused Assets to reduce memory usage. Loaded Objects now: 1130290.
+Total: 659.897200 ms (FindLiveObjects: 97.010800 ms CreateObjectMapping: 114.916100 ms MarkObjects: 410.558700 ms  DeleteObjects: 37.411100 ms)
+
+Starting Navmesh Source Collecting 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Navmesh Source Collecting took 0.11 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Navmesh Build with 74735 sources 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+Calling UpdateNavMesh took 0.4991455 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+3% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+5% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+7% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+9% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+10% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+11% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+13% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+14% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+15% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+16% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+17% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+20% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+21% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+22% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+23% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+24% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+25% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+26% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+27% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+28% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+29% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+30% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+31% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+33% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+34% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+35% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+36% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+37% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+38% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+39% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+40% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+41% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+42% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+43% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+44% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+45% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+46% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+47% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+48% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+49% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+50% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+51% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+52% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+53% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+54% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+55% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+56% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+57% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+58% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+59% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+60% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+61% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+62% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+63% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+64% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+65% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+66% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+67% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+68% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+69% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+70% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+71% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+72% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+73% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+74% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+75% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+76% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+77% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+78% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+79% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+80% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+81% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+82% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+83% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+84% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+85% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+86% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+87% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+88% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+89% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+90% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+91% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+92% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+93% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+94% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+95% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+100% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Navmesh Build took 63.59 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Navmesh Source Collecting 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Navmesh Source Collecting took 0.10 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Monument Navmesh Build with 1282 sources 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+20% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+29% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+47% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+100% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Monument Navmesh Build took 1.84 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Navmesh Source Collecting 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Navmesh Source Collecting took 0.08 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Monument Navmesh Build with 2611 sources 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+33% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+57% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+100% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Monument Navmesh Build took 1.10 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Navmesh Source Collecting 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Navmesh Source Collecting took 0.01 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Monument Navmesh Build with 1635 sources 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+45% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+77% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+100% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Monument Navmesh Build took 1.04 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Navmesh Source Collecting 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Navmesh Source Collecting took 0.01 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Monument Navmesh Build with 712 sources 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+100% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Monument Navmesh Build took 0.51 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Navmesh Source Collecting 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Navmesh Source Collecting took 0.01 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Monument Navmesh Build with 691 sources 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+90% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+100% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Monument Navmesh Build took 0.77 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Navmesh Source Collecting 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Navmesh Source Collecting took 0.09 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Starting Monument Navmesh Build with 1424 sources 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+21% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+35% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+47% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+60% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+100% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Monument Navmesh Build took 1.64 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Map Spawned 4012 entities
+Couldn't load server/CustomMap/Aurora_modified_by_DMA.202.sav - file doesn't exist 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing EnvSync - creating 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing CommunityEntity - creating 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing ResourceDepositManager - creating 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing RelationshipManager - creating 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Missing TreeManager - creating 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Initializing 39486 entity links
+	done.
+Initializing 342 stability supports
+	done.
+Initializing 27129 entity save caches
+	done.
+SteamServer Initialized
+IP address from Steam query: 0.0.0.0 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - Checking for updates... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Server startup complete
+[RustEdit] - The RustEdit extension is up to date! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/compound_rules_sign/compound_rules_sign.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/structures/military_tunnels_signage/mt_sign_a.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/small_junk/wooden_tray.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/small_junk/wooden_tray.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/small_junk/wooden_tray.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/small_junk/wooden_tray.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/small_junk/wooden_tray.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.green.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.green.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.green.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.green.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/industrial.wall.lamp.on.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/industrial.wall.lamp.on.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/industrial.wall.lamp.on.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/industrial.wall.lamp.on.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/compound_rules_sign/compound_rules_sign.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/small_junk/wooden_tray.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/small_junk/wooden_tray.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/small_junk/wooden_tray.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/small_junk/wooden_tray.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/small_junk/wooden_tray.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/structures/military_tunnels_signage/mt_sign_a.prefab" 
+(Filename:  Line: 0)
+
+SteamServer Connected 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+BradleyAPC Spawned at :(863.3, 37.7, -915.4) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - Processing 195 IO entities 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - Successfully connected 195 IO links 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - No custom vending machines found in map 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - 574 loot containers processed! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - Created 7 keycard desk respawners 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - 1935 resource entities processed! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - 0 junkpiles processed! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - Created 255 NPC spawn handlers! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (-34.4, -2.7, 628.1) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+"Stop" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 930)
+
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (-7.5, -2.7, 631.5) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+"Stop" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 930)
+
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (515.0, -2.7, -835.5) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+"Stop" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 930)
+
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (499.3, -2.5, -801.9) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+"Stop" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 930)
+
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (513.4, -2.7, -822.0) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+"Stop" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 930)
+
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (515.5, -2.5, -798.3) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+"Stop" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 930)
+
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (510.8, -2.5, -787.5) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+"Stop" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 930)
+
+Checking for new Steam Item Definitions.. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Invalid Position: generic_world[45479] scrap (world) (-1968.0, -505.2, -1420.8) (destroying) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Added owner Bergungsdackel, steamid 76561198070936229
+Added owner ProTaliban, steamid 76561198121059907
+Config Saved
+46.5.253.248:17745/76561198121059907/Admiral Doge has auth level 2
+127.0.0.1:55661/76561198070936229/Gubatrix has auth level 2
+Admiral Doge with steamid 76561198121059907 joined from ip 46.5.253.248:17745
+	NetworkId 76561198121059907 is 62441 (Admiral Doge)
+Admiral Doge[76561198121059907] has spawned 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Gubatrix with steamid 76561198070936229 joined from ip 127.0.0.1:55661
+	NetworkId 76561198070936229 is 66026 (Gubatrix)
+Gubatrix[76561198070936229] has spawned 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Gubatrix[76561198070936229] spawned "sedantest.entity[68012]" at (-1366.0, 24.2, -1313.0) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Admiral Doge 100 x Apple 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Large Medkit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Large Medkit 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saved 33,671 ents, cache(0.22), write(0.02), disk(0.02). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saving complete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1000 x Scrap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1000 x Scrap 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[TEAM CHAT] Gubatrix[76561198070936229] : hello
+Saved 34,933 ents, cache(0.06), write(0.01), disk(0.04). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saving complete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Chainsaw 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1000 x Low Grade Fuel 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1000 x Low Grade Fuel 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1000 x Low Grade Fuel 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Building Plan 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 506 x Wood 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 506 x Wood 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 506 x Wood 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 506 x Wood 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Blue Keycard 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Green Keycard 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Red Keycard 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+no valid dismount 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+5595288[5595288] was killed by Gubatrix[76561198070936229]
+Saved 34,832 ents, cache(0.27), write(0.01), disk(0.05). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saving complete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Assault Rifle 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saved 34,988 ents, cache(0.08), write(0.02), disk(0.05). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saving complete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1000 x Electric Fuse 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saved 35,035 ents, cache(0.06), write(0.01), disk(0.04). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saving complete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saved 35,075 ents, cache(0.07), write(0.01), disk(0.04). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saving complete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking for new Steam Item Definitions.. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Invalid Position: generic_world[100406] scrap (world) (-1778.8, -503.7, 1699.3) (destroying) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saved 35,105 ents, cache(0.10), write(0.01), disk(0.03). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saving complete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+5552338[5552338] was killed by 8578579[8578579]
+Saved 35,098 ents, cache(0.04), write(0.02), disk(0.03). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saving complete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Green Keycard 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Green Keycard 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Red Keycard 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Red Keycard 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Blue Keycard 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ [ServerVar] giving Gubatrix 1 x Blue Keycard 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2965511[2965511] was killed by 8578579[8578579]
+Saved 35,089 ents, cache(0.05), write(0.01), disk(0.05). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saving complete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+7827358[7827358] was killed by Admiral Doge[76561198121059907]
+127.0.0.1:55661/76561198070936229/Gubatrix disconnecting: closing
+46.5.253.248:17745/76561198121059907/Admiral Doge disconnecting: closing
+Gubatrix[76561198070936229] was killed by fall!
+Unloaded plugin NPCNav v1.0.0 by Whispers88 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Invalidate Network Cache took 0.02 seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saved 35,074 ents, cache(0.49), write(0.01), disk(0.04). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Saving complete 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Config Saved

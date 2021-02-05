@@ -1,0 +1,32 @@
+Rust Server Setup Ted Pommes  
+Rust Ultimate Setup Tool (RUST)
+
+V0.1
+
+-Guided 3 step setup
+
+-steamCMD download 
+-rust server files download
+
+-Generate start batch files
+*procGen
+*Custom maps
+*Hapis Island
+*Barren ProcGen
+*Craggy Island
+*Savas Island
+*Savas King Of The Hill
+
+Links to Umod Homepage + Free and Paid Plugins 
+
+-Links to tutorials
+-Links to usefull websites 
+-Links to my social media
+
+Link to choose maps
+Link rent a server (Gameserverkings via my affiliate link)
+
+
+
+
+

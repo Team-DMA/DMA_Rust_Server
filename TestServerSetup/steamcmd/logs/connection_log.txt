@@ -1,0 +1,39 @@
+
+
+[2021-02-04 18:07:35] Log session started
+[2021-02-04 18:07:35] [0,0] SetSteamID( [U:1:0] )
+[2021-02-04 18:07:36] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 18:07:36] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 18:07:36] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 18:07:36] [0,0] SetSteamID( [a:1:0] )
+[2021-02-04 18:07:36] [0,0] SetSteamID( [a:1:0] )
+[2021-02-04 18:07:36] [0,0] Server says 0% of connections should be websockets, we rolled 59 - using UDP as default.
+[2021-02-04 18:07:36] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api for launcher type 'steamcmd'. . .
+[2021-02-04 18:07:36] CCMInterface::YieldingConnect -- got 100 CMs and 100 WebSocket CMS from ISteamDirectory/GetCMList.
+[2021-02-04 18:07:36] [1,2] Connect() starting connection (eNetQOSLevelHigh, 162.254.197.181:27019, UDP)
+[2021-02-04 18:07:37] [1,2] ConnectionCompleted() (155.133.250.140:27025, UDP)
+[2021-02-04 18:07:38] [1,2] RecvMsgClientLogOnResponse() : [a:1:2837483703] 'OK'
+[2021-02-04 18:07:38] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2a01:bc80:7:100::9b85:f819]:80 ([2a01:bc80:7:100::9b85:f819]:80)) - TIMEOUT
+[2021-02-04 18:07:40] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / 2a01:bc80:a:101::b919:b625) - TIMEOUT
+[2021-02-04 18:09:48] [3,2] ResetVoiceRecording() (was recording: 0) (last get voice time: 1612458588 seconds ago)
+[2021-02-04 18:09:48] [3,2] LogOff()
+[2021-02-04 18:09:48] [2,2] AsyncDisconnect()
+[2021-02-04 18:09:48] [2,2] Log session ended
+
+
+[2021-02-04 18:13:48] Log session started
+[2021-02-04 18:13:48] [0,0] SetSteamID( [U:1:0] )
+[2021-02-04 18:13:48] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 18:13:48] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 18:13:48] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-04 18:13:48] [0,0] SetSteamID( [a:1:0] )
+[2021-02-04 18:13:48] [0,0] SetSteamID( [a:1:0] )
+[2021-02-04 18:13:48] [0,0] Server says 50% of connections should be websockets, we rolled 59 - using UDP as default.
+[2021-02-04 18:13:48] [1,2] Connect() starting connection (eNetQOSLevelHigh, 162.254.197.181:27021, UDP)
+[2021-02-04 18:13:49] [1,2] ConnectionCompleted() (155.133.250.146:27019, UDP)
+[2021-02-04 18:13:49] [1,2] RecvMsgClientLogOnResponse() : [a:1:3272677564] 'OK'
+[2021-02-04 18:13:50] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2a01:bc80:8:103::9b85:fc14]:80 ([2a01:bc80:8:103::9b85:fc14]:80)) - TIMEOUT
+[2021-02-04 18:13:51] [3,2] ResetVoiceRecording() (was recording: 0) (last get voice time: 1612458831 seconds ago)
+[2021-02-04 18:13:51] [3,2] LogOff()
+[2021-02-04 18:13:51] [2,2] AsyncDisconnect()
+[2021-02-04 18:13:51] [2,2] Log session ended
