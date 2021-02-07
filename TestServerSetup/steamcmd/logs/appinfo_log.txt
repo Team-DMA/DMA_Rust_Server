@@ -26,3 +26,19 @@
 [2021-02-04 18:13:51] Downloaded 1 apps via HTTP, 13 KB (3 KB compressed)
 [2021-02-04 18:13:51] UpdatesJob: finished OK, apps updated 1 (13 KB), packages updated 0 (0 KB)
 [2021-02-04 18:13:51] Starting async write E:\Rust Server\TestServerSetup\steamcmd/appcache/appinfo.vdf (2581724 bytes)
+
+
+[2021-02-07 19:55:28] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-02-07 19:55:28] RequestAppInfoUpdate: nNumAppIDs 1
+[2021-02-07 19:55:28] Change number 0->10676494, apps: 0/0, packages: 0/0
+[2021-02-07 19:55:28] Requesting 717 apps, 1 packages (meta data, 1024 prev attempts)
+[2021-02-07 19:55:29] Requested 72 app access tokens, 40 received, 32 denied
+[2021-02-07 19:55:30] Updated SHAs with 40 new access tokens
+[2021-02-07 19:55:30] Downloaded 29 apps via HTTP, 776 KB (174 KB compressed)
+[2021-02-07 19:55:30] Requesting 91 apps, 1 packages (full data, 1024 prev attempts)
+[2021-02-07 19:55:31] UpdatesJob: finished OK, apps updated 120 (1132 KB), packages updated 1 (22 KB)
+[2021-02-07 19:55:32] Requesting 33 apps, 0 packages (meta data, 1024 prev attempts)
+[2021-02-07 19:55:32] Requested 33 app access tokens, 0 received, 33 denied
+[2021-02-07 19:55:32] Requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2021-02-07 19:55:32] UpdatesJob: finished OK, apps updated 1 (0 KB), packages updated 0 (0 KB)
+[2021-02-07 19:55:47] Starting async write E:\Rust Server\TestServerSetup\steamcmd/appcache/appinfo.vdf (2584310 bytes)
