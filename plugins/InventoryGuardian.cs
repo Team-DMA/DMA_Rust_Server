@@ -50,7 +50,11 @@ namespace Oxide.Plugins
                 SaveInventory(player);
         }
 
-        private void Unload() => SaveData();
+        private void Unload()
+		{
+			SaveData();
+			SaveAll();
+		}
         #endregion
 
         #region Functions

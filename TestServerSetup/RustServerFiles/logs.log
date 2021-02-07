@@ -10,10 +10,10 @@ Direct3D:
     VRAM:     2007 MB
     Driver:   27.21.14.6109
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.425 seconds
+- Completed reload, in  0.107 seconds
 D3D11 device created for Microsoft Media Foundation video decoding.
 Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
-UnloadTime: 10.548000 ms
+UnloadTime: 8.755400 ms
 Bootstrap Startup
 Loading maps/maps.bundle 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
@@ -63,29 +63,29 @@ Manifest Metadata Loaded
 	389 effect categories
 	929 entity names
 
-Command Line: "RustDedicated.exe" "-batchmode" "+server.identity" "CustomMap" "+server.hostname" "DMA Test Server" "+levelurl" "https://www.dropbox.com/s/98yor04wobdanmq/Aurora_modified_by_DMA.map?dl=1" "+server.maxplayers" "2" "+rcon.ip" "127.0.0.1" "+rcon.port" "28016" "+server.port" "28015" "+rcon.password" "******" "+server.description" "DMA Testing..." "+server.url" "dma-gaming.de" "+server.headerimage" " " "-logfile" "E:\Rust Server\TestServerSetup\RustServerFiles\logs.log" 
-Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001E0437FD020.dll
-Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001E043EF8020.dll
-Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001E043F2B230.dll
-Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001E043F36950.dll
-Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001E043759060.dll
-Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001E0650EDE10.dll
+Command Line: "RustDedicated.exe" "-batchmode" "+server.identity" "CustomMap" "+server.hostname" "DMA Test Server" "+levelurl" "https://www.dropbox.com/s/smf1a4f7fnpa3q0/DMA_V1_0_0.map?dl=1" "+server.maxplayers" "2" "+rcon.ip" "127.0.0.1" "+rcon.port" "28016" "+server.port" "28015" "+rcon.password" "******" "+server.description" "DMA Testing..." "+server.url" "dma-gaming.de" "+server.headerimage" " " "-logfile" "E:\Rust Server\TestServerSetup\RustServerFiles\logs.log" 
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001DCC0B9C020.dll
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001DCC0BB1630.dll
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001DCC0340050.dll
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001DCC0C624B0.dll
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001DCC04617F0.dll
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001DCE28C1D90.dll
 Server Config Loaded
 Running server/CustomMap/cfg/users.cfg 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Loading Items Took: 2.3176295 seconds 
+Loading Items Took: 1.848658 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Building Items Took: 2.3605447 seconds / Items: 680 / Blueprints: 421 
+Building Items Took: 1.8777964 seconds / Items: 680 / Blueprints: 421 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Skinnable Warmup
 Manifest Assets Loaded
 	107 skinnable objects
 Loading Scene
-Unloading 6 Unused Serialized files (Serialized files now loaded: 47)
-UnloadTime: 8.978200 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 47)
+UnloadTime: 9.943400 ms
 Missing shader in Main Camera (TOD_Scattering) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
@@ -106,7 +106,7 @@ Missing shader in Main Camera (TOD_Rays)
 
 
 Unloading 348 unused Assets to reduce memory usage. Loaded Objects now: 33767.
-Total: 65.508900 ms (FindLiveObjects: 1.318900 ms CreateObjectMapping: 3.453400 ms MarkObjects: 59.686100 ms  DeleteObjects: 1.040300 ms)
+Total: 60.781200 ms (FindLiveObjects: 2.170300 ms CreateObjectMapping: 1.916400 ms MarkObjects: 55.694700 ms  DeleteObjects: 0.999200 ms)
 
 Missing shader in effect - Screen Blur (UnityStandardAssets.ImageEffects.BlurOptimized) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
@@ -258,83 +258,66 @@ Loaded plugin Rust v2.0.4903 by Oxide Team and Contributors
 Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-NPCNav was compiled successfully in 0ms 
+ClothedMurderers and NPCNav were compiled successfully in 0ms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loaded plugin Clothed Murderers v1.0.1 by Substrata 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Loaded plugin NPCNav v1.0.0 by Whispers88 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Asset Warmup (1/6933)
-Asset Warmup (57/6933)
-Asset Warmup (109/6933)
+Asset Warmup (84/6933)
 Asset Warmup (110/6933)
-Asset Warmup (111/6933)
-Asset Warmup (133/6933)
-Asset Warmup (220/6933)
+Asset Warmup (161/6933)
 Asset Warmup (236/6933)
-Asset Warmup (241/6933)
-Asset Warmup (244/6933)
-Asset Warmup (252/6933)
+Asset Warmup (242/6933)
+Asset Warmup (247/6933)
 Asset Warmup (261/6933)
-Asset Warmup (276/6933)
-Asset Warmup (481/6933)
-Asset Warmup (747/6933)
+Asset Warmup (313/6933)
+Asset Warmup (728/6933)
 Asset Warmup (844/6933)
-Asset Warmup (852/6933)
-Asset Warmup (937/6933)
-Asset Warmup (1131/6933)
-Asset Warmup (1394/6933)
-Asset Warmup (1437/6933)
+Asset Warmup (854/6933)
+Asset Warmup (1124/6933)
+Asset Warmup (1392/6933)
+Asset Warmup (1447/6933)
 Couldn't create a Convex Mesh from source mesh "patrol_helicopter_part02" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
 (Filename:  Line: 91)
 
-Asset Warmup (1583/6933)
-Asset Warmup (1682/6933)
-Asset Warmup (1862/6933)
-Asset Warmup (2121/6933)
+Asset Warmup (1684/6933)
 Asset Warmup (2192/6933)
-Asset Warmup (2227/6933)
-Asset Warmup (2354/6933)
-Asset Warmup (2398/6933)
-Asset Warmup (2525/6933)
-Asset Warmup (2644/6933)
-Asset Warmup (2739/6933)
-Asset Warmup (2883/6933)
+Asset Warmup (2407/6933)
+Asset Warmup (2821/6933)
 Couldn't create a Convex Mesh from source mesh "Old_Boat_GM" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
 (Filename:  Line: 91)
 
-Asset Warmup (2969/6933)
-Asset Warmup (3013/6933)
+Asset Warmup (2990/6933)
 Couldn't create a Convex Mesh from source mesh "ScrapHeliGibs_Part002" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
 (Filename:  Line: 91)
 
 Couldn't create a Convex Mesh from source mesh "ScrapHeliGibs_Part046" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh. 
 (Filename:  Line: 91)
 
-Asset Warmup (3098/6933)
-Asset Warmup (3280/6933)
-Asset Warmup (3444/6933)
-Asset Warmup (3590/6933)
-Asset Warmup (3752/6933)
-Asset Warmup (3930/6933)
-Asset Warmup (4192/6933)
-Asset Warmup (4465/6933)
-Asset Warmup (4613/6933)
-Asset Warmup (4885/6933)
-Asset Warmup (5171/6933)
-Asset Warmup (5353/6933)
-Asset Warmup (5555/6933)
-Asset Warmup (5904/6933)
-Asset Warmup (6296/6933)
-Asset Warmup (6686/6933)
+Asset Warmup (3186/6933)
+Asset Warmup (3698/6933)
+Asset Warmup (4138/6933)
+Asset Warmup (4489/6933)
+Asset Warmup (5095/6933)
+Asset Warmup (5438/6933)
+Asset Warmup (5959/6933)
+Asset Warmup (6567/6933)
 Asset Warmup (6933/6933)
 WebSocket RCon Started on 28016 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Loading custom map from https://www.dropbox.com/s/98yor04wobdanmq/Aurora_modified_by_DMA.map?dl=1 
+Loading custom map from https://www.dropbox.com/s/smf1a4f7fnpa3q0/DMA_V1_0_0.map?dl=1 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-[1.1s] Loading World 
+[7.8s] Downloading World 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[1.2s] Loading World 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
@@ -372,10 +355,10 @@ Trying to load assembly: Oxide.Ext.RustEdit.XmlSerializers
 [RustEdit] - NPC data loaded and ready to be processed! 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-[27.7s] Spawning World 
+[22.7s] Spawning World 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-[2.0s] Terrain Mesh 
+[2.1s] Terrain Mesh 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 [2.5s] Processing World 
@@ -387,24 +370,27 @@ Trying to load assembly: Oxide.Ext.RustEdit.XmlSerializers
 Generated ocean patrol path with node count: 547 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-[26.2s] Ocean Patrol Paths 
+[27.9s] Ocean Patrol Paths 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[0.4s] Finalizing World 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 47)
-[1.4s] Cleaning Up 
+[1.5s] Cleaning Up 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 
-Unloading 115219 unused Assets to reduce memory usage. Loaded Objects now: 1148459.
-Total: 696.450300 ms (FindLiveObjects: 102.642500 ms CreateObjectMapping: 115.223200 ms MarkObjects: 442.167900 ms  DeleteObjects: 36.416200 ms)
+Unloading 115219 unused Assets to reduce memory usage. Loaded Objects now: 1148458.
+Total: 714.297900 ms (FindLiveObjects: 106.480200 ms CreateObjectMapping: 135.574000 ms MarkObjects: 434.617200 ms  DeleteObjects: 37.626000 ms)
 
 Starting Navmesh Source Collecting 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Navmesh Source Collecting took 0.12 seconds 
+Navmesh Source Collecting took 0.11 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Starting Navmesh Build with 78162 sources 
+Starting Navmesh Build with 78165 sources 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
@@ -467,124 +453,55 @@ RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because i
 RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
 RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
 RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
@@ -633,21 +550,6 @@ RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because
 (Filename:  Line: 1060)
 
 RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
-(Filename:  Line: 1060)
-
-RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
 RuntimeNavMeshBuilder: Source mesh powered_waterpurifier_COL is skipped because it does not allow read access 
@@ -677,7 +579,364 @@ RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because
 RuntimeNavMeshBuilder: Source mesh range_terrain_mound_b_LOD1 is skipped because it does not allow read access 
 (Filename:  Line: 1060)
 
-Calling UpdateNavMesh took 0.8673706 
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh gravestone is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+RuntimeNavMeshBuilder: Source mesh range_terrain_slope_LOD1 is skipped because it does not allow read access 
+(Filename:  Line: 1060)
+
+Calling UpdateNavMesh took 0.8454895 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+2% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+4% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+5% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+6% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+7% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+8% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+9% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+10% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+11% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+12% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+13% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+14% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+15% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+16% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+17% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+18% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+19% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+20% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+21% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+22% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+23% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+24% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+25% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+26% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+27% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+28% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+29% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+30% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+31% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+32% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+33% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+34% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+35% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+36% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+37% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+38% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+39% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+40% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+41% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+42% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+43% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+44% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+45% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+46% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+47% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+48% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+49% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+50% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+51% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+52% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+53% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+54% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+55% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+56% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+57% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+58% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+59% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+60% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+61% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+62% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+63% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+64% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+65% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+66% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+67% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+68% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+69% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+70% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+71% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+72% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+73% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+74% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+75% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+76% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+77% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+78% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+79% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+80% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+81% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+82% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+83% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+84% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+85% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+86% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+87% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+88% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+90% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+91% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+92% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+93% 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+94% 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 95% 
@@ -686,7 +945,7 @@ Calling UpdateNavMesh took 0.8673706
 100% 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Navmesh Build took 59.83 seconds 
+Navmesh Build took 64.73 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Starting Navmesh Source Collecting 
@@ -698,40 +957,34 @@ Navmesh Source Collecting took 0.07 seconds
 Starting Monument Navmesh Build with 1321 sources 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-20% 
+25% 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-29% 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-51% 
+32% 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 100% 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Monument Navmesh Build took 1.31 seconds 
+Monument Navmesh Build took 1.13 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Starting Navmesh Source Collecting 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Navmesh Source Collecting took 0.07 seconds 
+Navmesh Source Collecting took 0.08 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Starting Monument Navmesh Build with 2653 sources 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-36% 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-68% 
+38% 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 100% 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Monument Navmesh Build took 1.03 seconds 
+Monument Navmesh Build took 0.81 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Starting Navmesh Source Collecting 
@@ -785,7 +1038,7 @@ Monument Navmesh Build took 0.51 seconds
 Starting Navmesh Source Collecting 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Navmesh Source Collecting took 0.08 seconds 
+Navmesh Source Collecting took 0.09 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Starting Monument Navmesh Build with 1424 sources 
@@ -806,1737 +1059,30 @@ Starting Monument Navmesh Build with 1424 sources
 Monument Navmesh Build took 1.30 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Map Spawned 4225 entities
-Destroying 5102 old entities
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
+Map Spawned 4228 entities
+Couldn't load server/CustomMap/DMA_V1_0_0.203.sav - file doesn't exist 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
+Missing EnvSync - creating 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
+Missing CommunityEntity - creating 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
+Missing ResourceDepositManager - creating 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
+Missing RelationshipManager - creating 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
+Missing TreeManager - creating 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? orebonus_generic[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-	4517 / 5102
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Calling kill - but already IsDestroyed!? vending_mapmarker[0] 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
+Initializing 39745 entity links
 	done.
-Spawning 36536 entities
-ID In use!COBALT1 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!OILRIG1L4 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!OILRIG1L3 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!OILRIG1L2 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!OILRIG1L1 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!OILRIG1DOCK 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!OILRIG1HELI 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!DOMETOP 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!DOME1 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!COBALT1 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!COBALT1 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!COBALT1 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!COBALT1 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!COBALT1 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!COBALT1 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!COBALT1 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!COBALT1 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-ID In use!COBALT1 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-	9663 / 36536
-	22874 / 36536
-	34673 / 36536
+Initializing 372 stability supports
 	done.
-Enforcing SpawnPopulation Limits
-	done.
-Initializing 38936 entity links
-	done.
-Initializing 377 stability supports
-	done.
-Initializing 10 conditional models
-	done.
-Initializing 36580 entity save caches
+Initializing 27292 entity save caches
 	done.
 Gamemode Convar : 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
@@ -2557,6 +1103,16 @@ Server startup complete
 
 BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/compound_rules_sign/compound_rules_sign.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/compound_rules_sign/compound_rules_sign.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/structures/military_tunnels_signage/mt_sign_a.prefab" 
 (Filename:  Line: 0)
 
@@ -2583,86 +1139,6 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
 If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/small_junk/wooden_tray.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.green.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.green.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.green.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.green.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/industrial.wall.lamp.on.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/industrial.wall.lamp.on.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/industrial.wall.lamp.on.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/industrial.wall.lamp.on.prefab" 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/compound_rules_sign/compound_rules_sign.prefab" 
 (Filename:  Line: 0)
 
 BoxColliders does not support negative scale or size.
@@ -2697,25 +1173,95 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 
 BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/compound_rules_sign/compound_rules_sign.prefab" 
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/industrial.wall.lamp.on.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/industrial.wall.lamp.on.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.green.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.green.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.green.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.green.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/v2/plight.industrial.wall.lamp.on.warm.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/industrial.wall.lamp.on.prefab" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Decor/assets/content/props/light_fixtures/industrial.wall.lamp.on.prefab" 
 (Filename:  Line: 0)
 
 SteamServer Connected 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-BradleyAPC Spawned at :(772.6, 37.1, -861.5) 
+BradleyAPC Spawned at :(730.4, 37.1, -906.2) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-[RustEdit] - Processing 231 IO entities 
+[RustEdit] - Processing 230 IO entities 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-[RustEdit] - Successfully connected 231 IO links 
+[RustEdit] - Successfully connected 230 IO links 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 [RustEdit] - No custom vending machines found in map 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-[RustEdit] - 622 loot containers processed! 
+[RustEdit] - 626 loot containers processed! 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 [RustEdit] - Created 8 keycard desk respawners 
@@ -2727,35 +1273,10 @@ BradleyAPC Spawned at :(772.6, 37.1, -861.5)
 [RustEdit] - 0 junkpiles processed! 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-[RustEdit] - Created 303 NPC spawn handlers! 
+[RustEdit] - Created 340 NPC spawn handlers! 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-127.0.0.1:54786/76561198070936229/Gubatrix has auth level 2
-[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (510.8, -2.5, -787.5) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-"Stop" can only be called on an active agent that has been placed on a NavMesh. 
-(Filename:  Line: 930)
-
-[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (515.5, -2.5, -798.3) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-"Stop" can only be called on an active agent that has been placed on a NavMesh. 
-(Filename:  Line: 930)
-
-[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (513.4, -2.7, -822.0) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-"Stop" can only be called on an active agent that has been placed on a NavMesh. 
-(Filename:  Line: 930)
-
-[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (499.3, -2.5, -801.9) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-"Stop" can only be called on an active agent that has been placed on a NavMesh. 
-(Filename:  Line: 930)
-
-[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (515.0, -2.7, -835.5) 
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (-34.4, -2.7, 628.1) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 "Stop" can only be called on an active agent that has been placed on a NavMesh. 
@@ -2767,165 +1288,158 @@ BradleyAPC Spawned at :(772.6, 37.1, -861.5)
 "Stop" can only be called on an active agent that has been placed on a NavMesh. 
 (Filename:  Line: 930)
 
-[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (-34.4, -2.7, 628.1) 
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (515.0, -2.7, -835.5) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 "Stop" can only be called on an active agent that has been placed on a NavMesh. 
 (Filename:  Line: 930)
 
-46.5.253.26:31139/76561198121059907/Admiral Doge has auth level 2
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (499.3, -2.5, -801.9) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+"Stop" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 930)
+
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (513.4, -2.7, -822.0) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+"Stop" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 930)
+
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (515.5, -2.5, -798.3) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+"Stop" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 930)
+
+[RustEdit] - NPC spawner position is too far away from the NavMesh. NPC can not move and will remain stationary. Position: (510.8, -2.5, -787.5) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+"Stop" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 930)
+
+"Resume" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 936)
+
+"Resume" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 936)
+
+"Resume" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 936)
+
+"Resume" can only be called on an active agent that has been placed on a NavMesh. 
+(Filename:  Line: 936)
+
 Checking for new Steam Item Definitions.. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-46.5.253.26:31139/76561198121059907/Admiral Doge joined [windows/76561198121059907]
-Admiral Doge[76561198121059907] has spawned 
+2421160[2421160] was killed by sentry.scientist.static (entity)
+127.0.0.1:58864/76561198070936229/Gubatrix has auth level 2
+Invalid Position: generic_world[62377] scrap (world) (-420.8, -500.1, -839.0) (destroying) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-127.0.0.1:54786/76561198070936229/Gubatrix joined [windows/76561198070936229]
-Gubatrix[76561198070936229] has spawned 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-46.5.253.26:31139/76561198121059907/Admiral Doge kicked: Packet Flooding: Player Tick 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-127.0.0.1:54786/76561198070936229/Gubatrix kicked: Packet Flooding: Player Tick 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-46.5.253.26:31083/76561198121059907/Admiral Doge has auth level 2
-127.0.0.1:55986/76561198070936229/Gubatrix has auth level 2
-46.5.253.26:31083/76561198121059907/Admiral Doge joined [windows/76561198121059907]
-Admiral Doge[76561198121059907] has spawned 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-127.0.0.1:55986/76561198070936229/Gubatrix joined [windows/76561198070936229]
-Gubatrix[76561198070936229] has spawned 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
- [ServerVar] giving Admiral Doge 100 x Pumpkin 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-Invalid Position: generic_world[101444] scrap (world) (-1817.0, -506.2, 1589.0) (destroying) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
-
-5316440[5316440] was killed by sentry.scientist.static (entity)
-4114116[4114116] was killed by Admiral Doge[76561198121059907]
-4058514[4058514] was killed by Admiral Doge[76561198121059907]
-6363744[6363744] was killed by Admiral Doge[76561198121059907]
-3633494[3633494] was killed by Admiral Doge[76561198121059907]
-4717684[4717684] was killed by Admiral Doge[76561198121059907]
-Saved 38,921 ents, cache(0.20), write(0.02), disk(0.11). 
+Saved 33,958 ents, cache(0.40), write(0.07), disk(0.03). 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Saving complete 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
- [ServerVar] giving Admiral Doge 1 x LR-300 Assault Rifle 
+Gubatrix with steamid 76561198070936229 joined from ip 127.0.0.1:58864
+	NetworkId 76561198070936229 is 70905 (Gubatrix)
+Gubatrix[76561198070936229] has spawned 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
- [ServerVar] giving Admiral Doge 100 x 5.56 Rifle Ammo 
+Invalid Position: generic_world[72895] scrap (world) (-1837.5, -501.3, 1053.6) (destroying) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
- [ServerVar] giving Gubatrix 1000 x HV 5.56 Rifle Ammo 
+Gubatrix[76561198070936229] has spawned 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
- [ServerVar] giving Gubatrix 1000 x HV 5.56 Rifle Ammo 
+Invalid Position: generic_world[74681] scrap (world) (-143.9, -504.8, -1954.5) (destroying) 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-8023969[8023969] was killed by Admiral Doge[76561198121059907]
-1379330[1379330] was killed by Admiral Doge[76561198121059907]
-5717096[5717096] was killed by Stab
-5455512[5455512] was killed by Stab
-6629457[6629457] was killed by Stab
-6068888[6068888] was killed by Stab
-6140059[6140059] was killed by Admiral Doge[76561198121059907]
-Gubatrix[76561198070936229] spawned "4342299[4342299]" at (-90.1, 35.4, 479.4) 
+Saved 35,194 ents, cache(0.13), write(0.02), disk(0.03). 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "4795362[4795362]" at (-92.3, 35.3, 474.9) 
+Saving complete 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "6235786[6235786]" at (-91.2, 35.4, 477.2) 
+7014219[7014219] was killed by boar (Boar)
+Saved 35,102 ents, cache(0.08), write(0.01), disk(0.04). 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "3471325[3471325]" at (-93.1, 37.2, 477.2) 
+Saving complete 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "969221[969221]" at (-93.6, 37.6, 477.2) 
+NTeleportation was compiled successfully in 3032ms 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "2369140[2369140]" at (-98.7, 37.4, 478.0) 
+Fallback handler could not load library E:/rust/RustDedicated_Data/Mono/data-000001DF6564D320.dll
+[NTeleportation] Loaded default configuration. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "3976876[3976876]" at (-98.9, 37.9, 478.0) 
+NTeleportation v1.4.7: Failed to load config file (is the config file corrupt?) (Could not find file "E:\rust\oxide\config\NTeleportation.json") 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "8709774[8709774]" at (-99.0, 37.9, 478.0) 
+[NTeleportation] Rust was upgraded or map changed - homes, town, outpost and bandit may be invalid! 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "1811663[1811663]" at (-99.0, 37.9, 478.0) 
+Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 5655ms 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "7282355[7282355]" at (-99.0, 37.9, 478.0) 
+Loaded plugin NTeleportation v1.4.7 by nivex 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-4795362[4795362] was killed by Admiral Doge[76561198121059907]
-Gubatrix[76561198070936229] spawned "zombie[108165]" at (-106.1, 36.0, 474.3) 
+Calling 'OnEntityTakeDamage' on 'NTeleportation v1.4.7' took average 5656ms 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-969221[969221] was killed by Admiral Doge[76561198121059907]
-4342299[4342299] was killed by Admiral Doge[76561198121059907]
-2369140[2369140] was killed by Admiral Doge[76561198121059907]
-3976876[3976876] was killed by Admiral Doge[76561198121059907]
-7282355[7282355] was killed by Admiral Doge[76561198121059907]
-Gubatrix[76561198070936229] spawned "135468[135468]" at (-110.8, 37.6, 474.0) 
+Groups:
+default, admin 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "1751802[1751802]" at (-110.2, 38.1, 474.9) 
+Group 'admin' granted permission 'nteleportation.tp' 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "141080[141080]" at (-110.0, 38.3, 475.4) 
+[NTeleportation] Gubatrix teleported to (510.8, -2.5, -787.5). 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-1811663[1811663] was killed by Admiral Doge[76561198121059907]
-Gubatrix[76561198070936229] spawned "5852739[5852739]" at (-109.9, 38.4, 475.6) 
+Calling 'CommandTeleport' on 'NTeleportation v1.4.7' took 323ms 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "7116991[7116991]" at (-109.8, 38.4, 475.7) 
+Gubatrix[76561198070936229] has spawned 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "341239[341239]" at (-109.8, 38.4, 475.7) 
+[NTeleportation] Gubatrix teleported to (515.5, -2.5, -787.5). 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Gubatrix[76561198070936229] spawned "9234244[9234244]" at (-109.8, 38.4, 475.7) 
+Gubatrix[76561198070936229] has spawned 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
- [ServerVar] giving Admiral Doge 1000 x 5.56 Rifle Ammo 
+[NTeleportation] Gubatrix teleported to (-7.5, -2.7, 631.5). 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-7116991[7116991] was killed by Admiral Doge[76561198121059907]
-341239[341239] was killed by Admiral Doge[76561198121059907]
-1751802[1751802] was killed by Admiral Doge[76561198121059907]
-8709774[8709774] was killed by Admiral Doge[76561198121059907]
-5852739[5852739] was killed by Admiral Doge[76561198121059907]
-141080[141080] was killed by Admiral Doge[76561198121059907]
-135468[135468] was killed by Admiral Doge[76561198121059907]
-3471325[3471325] was killed by Admiral Doge[76561198121059907]
-9234244[9234244] was killed by Admiral Doge[76561198121059907]
-6235786[6235786] was killed by Admiral Doge[76561198121059907]
- [ServerVar] giving Admiral Doge 100 x Timed Explosive Charge 
+Gubatrix[76561198070936229] has spawned 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-6606[6606] was killed by Admiral Doge[76561198121059907]
-127.0.0.1:55986/76561198070936229/Gubatrix disconnecting: closing
-7233545[7233545] was killed by Admiral Doge[76561198121059907]
-472547[472547] was killed by Admiral Doge[76561198121059907]
+[NTeleportation] Gubatrix teleported to (-34.4, -2.7, 628.1). 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Gubatrix[76561198070936229] has spawned 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloaded plugin Clothed Murderers v1.0.1 by Substrata 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
 Unloaded plugin NPCNav v1.0.0 by Whispers88 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloaded plugin NTeleportation v1.4.7 by nivex 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Invalidate Network Cache took 0.01 seconds 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
-Saved 39,361 ents, cache(0.55), write(0.01), disk(0.04). 
+Saved 35,282 ents, cache(0.38), write(0.01), disk(0.04). 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
 
 Saving complete 

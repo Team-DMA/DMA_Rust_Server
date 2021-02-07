@@ -49,10 +49,7 @@
   },
   "Rarity": {
     "Override": {
-      "autoturret": 4,
-      "fuse": 1,
-      "lmg.m249": 4,
-      "targeting.computer": 3
+      "fuse": 1
     }
   }
 }

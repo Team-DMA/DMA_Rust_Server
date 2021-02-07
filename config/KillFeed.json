@@ -20,7 +20,7 @@
     }
   },
   "2. Kill Feed": {
-    "2.1 formatting": "{initiator}{distance}{hitEntity}",
+    "2.1 formatting": "{initiator}§§{distance}§{hitEntity}",
     "2.2 number of entries": 3,
     "2.3 destroy after": 20.0,
     "2.4 Dimensions": {
