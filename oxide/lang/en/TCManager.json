@@ -1,0 +1,21 @@
+{
+  "NoBuildingPrivilege": "You are not within a building privlege.",
+  "NoAuthorization": "You are not authorized in this building privlege.",
+  "NoCommandPermission": "You do not have permission to use this command!",
+  "UpkeepUsage": "Usage: /upkeep [0|1|2|3|4]",
+  "DefaultCostHeader": "Upkeep Cost",
+  "GradedCostHeader": "Maintenance Costs (Grade: {0})",
+  "ItemCost": "{0}: {1}",
+  "Line": "----------------------------------",
+  "TaxUsage": "Usage: /taxrate",
+  "TaxRate": "Tax Rate: {0}%",
+  "CantLoot": "Can't loot right now",
+  "AuthUsage": "Usage: /tcauth <player name>",
+  "AuthorizePlayer": "Successfully authorized {0}.",
+  "PlayerNotFound": "Unable to find player {0}.",
+  "MultiplePlayers": "Multiple players found: {0}",
+  "Tooltip /tcinv": "Use /tcinv to access your tool cupboard remotely.",
+  "Tooltip /auth": "Use /tcauth \"player name\" to authorize another player.",
+  "UnauthUsage": "Usage: /tcunauth <player name>",
+  "UnauthorizePlayer": "Successfully unauthorized {0}"
+}

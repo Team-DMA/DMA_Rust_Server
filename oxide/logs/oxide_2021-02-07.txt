@@ -1,0 +1,1134 @@
+00:00 [Info] Uninstalling Rust:IO ...
+00:00 [Info] Rust:IO> Uninstalling ...
+00:00 [Info] Rust:IO> No longer ticking
+00:00 [Info] Rust:IO> Stopping server ...
+00:00 [Info] Rust:IO> Removing listeners ...
+00:00 [Info] Rust:IO> Performing maintenance ...
+00:00 [Info] Rust:IO> Closing database ...
+00:00 [Info] Rust:IO> Uninstalled.
+00:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Unloaded plugin AdminHammer v1.12.0 by mvrb
+00:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:00 [Info] Unloaded plugin Auto Purge v2.1.1 by misticos
+00:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Unloaded plugin Backpacks v3.4.0 by LaserHydra
+00:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Unloaded plugin Better Say v3.0.1 by LaserHydra
+00:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Unloaded plugin DronePilot v1.0.0 by k1lly0u
+00:00 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+00:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+00:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Unloaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+00:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 132ms
+00:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Info] Unloaded plugin Notice v1.0.1 by LaserHydra
+00:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Unloaded plugin PrivateMessages v1.1.11 by MisterPixie
+00:00 [Info] Unloaded plugin Private Messages GUI v1.0.2 by Tricky
+00:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+00:00 [Info] Unloaded plugin Scrap Heli Storage v0.0.5 by yetzt
+00:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+00:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+00:00 [Info] Unloaded plugin Slap v2.0.0 by Wulf
+00:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] [Start Protection] Saving protection database...
+00:00 [Info] Unloaded plugin Start Protection v2.3.2 by wazzzup
+00:00 [Info] Unloaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+00:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Unloaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+00:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+00:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+00:00 [Info] Loading Oxide Core v2.0.3991...
+00:00 [Info] Loading extensions...
+00:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust v2.0.4903 by Oxide Team and Contributors
+00:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Using Covalence provider for game 'Rust'
+00:00 [Info] Loading plugins...
+00:00 [Info] Loaded plugin Rust v2.0.4903 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:00 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+00:00 [Info] AdminChat, AdminHammer, AliasSystem, AutoBroadcast, AutoPurge, AutomaticAuthorization, BGrade, Backpacks, BetterChat, BetterChatMentions, BetterLoot, BetterSay, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, DronePilot, EasyAirdrop, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NPCDropGun, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, SAMSiteAuth, ScrapHeliStorage, ServerInfo, ServerRewards, SignArtist, Skins, SkipNightVote, Slap, SmoothRestart, SpawnMini, StackSizeController, StartProtection, UpkeepDisplayFix, Vanish, VehicleDecayProtection, VehicleLicence, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+00:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+00:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+00:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+00:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+00:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:00 [Info] Loaded plugin Auto Purge v2.1.1 by misticos
+00:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Loaded plugin Backpacks v3.4.0 by LaserHydra
+00:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+00:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Loaded plugin DronePilot v1.0.0 by k1lly0u
+00:00 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+00:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:00 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+00:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+00:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Loaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+00:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Warning] Missing plugin name prefix 'notice.' for permission 'cannotice' (by plugin 'Notice')
+00:00 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+00:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+00:00 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+00:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+00:00 [Info] Loaded plugin Scrap Heli Storage v0.0.5 by yetzt
+00:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+00:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+00:00 [Info] Loaded plugin Slap v2.0.0 by Wulf
+00:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] Loaded plugin Start Protection v2.3.2 by wazzzup
+00:00 [Info] Loaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+00:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Loaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+00:00 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+00:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+00:02 [Info] IP address from Steam query: 0.0.0.0
+00:02 [Info] Updating Rust:IO ...
+00:02 [Info] [Auto Purge] The purge has been started.
+00:02 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+00:02 [Info] [BetterLoot] Updating internals ...
+00:02 [Info] Rust:IO: Update complete
+00:02 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 241ms
+00:02 [Info] [Kill Feed] Loading configuration file!
+00:02 [Warning] [Server Rewards] All UI elements have been successfully generated!
+00:02 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 338ms
+00:02 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+00:02 [Info] [Start Protection] Removing 4 old entries from the protection list.
+00:02 [Info] [Start Protection] Start Protection has been enabled [Minutes: 30] (type /sp toggle to disable).
+00:02 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+00:02 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+00:02 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 127ms
+00:03 [Info] [BetterLoot] No stacked LootContainer found.
+00:03 [Info] [BetterLoot] Populated '450' supported containers.
+00:03 [Info] [SmoothRestart] Your servers Oxide build is up to date
+00:03 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+00:03 [Info] Installing Rust:IO ...
+00:03 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+00:03 [Info] Rust:IO> Creating directories ...
+00:03 [Info] Rust:IO> Applying config ...
+00:03 [Info] Rust:IO> Initializing database ...
+00:03 [Info] Rust:IO> Generating map image (this may take a while) ...
+00:03 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7327.641ms
+Postprocess  :  3737.558ms
+  Shadows    :   203.148ms
+  FXAA       :  3519.263ms
+Encoding     :    65.174ms
+Other        :    10.019ms
+--------------------------
+Total        :  11140.392ms
+00:03 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+00:03 [Info] Rust:IO> Installed.
+00:03 [Info] Rust:IO> Now ticking
+00:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 11324ms [GARBAGE COLLECT]
+00:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 1ms [GARBAGE COLLECT]
+00:03 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+00:03 [Info] [Auto Purge] The purge has been completed. Purged entities: 0.
+00:11 [Info] [Welcomer] • Joker™ has joined the server from Germany.
+00:19 [Info] [Welcomer] • Eduardo.ARG has joined the server from Germany.
+00:22 [Info] [Kill Feed] [22/00/07/02/2021] sentry.bandit.static                                          bullet                         15.2m                          180490
+00:27 [Info] [Welcomer] • Eduardo.ARG has left the server (Disconnected).
+00:37 [Info] [Kill Feed] [37/00/07/02/2021] Eduardo.ARG                                                   suicide                                                       Eduardo.ARG
+01:10 [Info] [Kill Feed] [10/01/07/02/2021] Joker™                                                        longsword                      1.5m                           Wolf
+01:18 [Info] [Welcomer] • Chibioji has joined the server from Germany.
+01:23 [Info] [Kill Feed] [23/01/07/02/2021] Boar                                                          bite                           0.4m                           RS.Arti
+01:24 [Info] [Welcomer] • Chibioji has left the server (Disconnected).
+01:47 [Info] [Welcomer] • Joker™ has left the server (Disconnected).
+02:01 [Info] [Welcomer] • Curufinwe has joined the server from Turkey.
+02:38 [Info] [Kill Feed] [38/02/07/02/2021] Curufinwe                      Chest                          smg.mp5                        14.1m                          3249995
+02:43 [Info] [Kill Feed] [43/02/07/02/2021] Curufinwe                                                     explosive.satchel              4.3m                           Eeaz
+03:18 [Info] [Kill Feed] [18/03/07/02/2021] Curufinwe                                                     axe.salvaged                   2.2m                           Boar
+03:20 [Info] [Kill Feed] [20/03/07/02/2021] Curufinwe                                                     axe.salvaged                   0.6m                           Wolf
+03:45 [Info] [Welcomer] • Curufinwe has left the server (Disconnected).
+04:41 [Info] [Welcomer] • Gizzmo has joined the server from Germany.
+04:45 [Info] [Kill Feed] [45/04/07/02/2021] Gizzmo                                                        hatchet                        0.8m                           Chicken
+04:45 [Info] [Kill Feed] [45/04/07/02/2021] Gizzmo                                                        hatchet                        1.3m                           Chicken
+04:53 [Info] [Kill Feed] [53/04/07/02/2021] Gizzmo                                                        pickaxe                        1.8m                           Boar
+05:42 [Info] [Welcomer] • Gizzmo has left the server (Disconnected).
+05:42 [Info] [Kill Feed] [42/05/07/02/2021] sentry.bandit.static                                          bullet                         38.3m                          8862895
+05:43 [Info] [Welcomer] • chitzo has joined the server from Germany.
+06:37 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+08:53 [Info] [Kill Feed] [53/08/07/02/2021] sentry.scientist.static                                       bullet                         67.8m                          1836920
+09:06 [Info] Listing 65 plugins:
+  01 "Admin Chat" (2.0.4) by LaserHydra (0.00s) - AdminChat.cs
+  02 "AdminHammer" (1.12.0) by mvrb (0.00s) - AdminHammer.cs
+  03 "Alias System" (2.1.3) by LaserHydra (0.00s) - AliasSystem.cs
+  04 "AutoBroadcast" (1.0.8) by Wulf/lukespragg (0.01s) - AutoBroadcast.cs
+  05 "Auto Purge" (2.1.1) by misticos (0.01s) - AutoPurge.cs
+  06 "Automatic Authorization" (1.2.4) by k1lly0u/Arainrr (0.13s) - AutomaticAuthorization.cs
+  07 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.20s) - BGrade.cs
+  08 "Backpacks" (3.4.0) by LaserHydra (1.85s) - Backpacks.cs
+  09 "Better Chat" (5.2.5) by LaserHydra (0.00s) - BetterChat.cs
+  10 "Better Chat Mentions" (1.2.3) by Death (0.00s) - BetterChatMentions.cs
+  11 "BetterLoot" (3.5.3) by Default (4.10s) - BetterLoot.cs
+  12 "Better Say" (3.0.1) by LaserHydra (0.01s) - BetterSay.cs
+  13 "Blueprint Manager" (1.1.4) by Orange (0.06s) - BlueprintManager.cs
+  14 "Building Grades" (0.5.1) by Default (0.00s) - BuildingGrades.cs
+  15 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  16 "Rust:IO Clans" (1.7.6) by playrust.io / dcode (0.01s) - Clans.cs
+  17 "Clan Team" (1.0.5) by deivismac (0.00s) - ClanTeam.cs
+  18 "Crafting Controller" (3.2.2) by Whispers88 (0.03s) - CraftingController.cs
+  19 "DronePilot" (1.0.0) by k1lly0u (0.11s) - DronePilot.cs
+  20 "Easy Airdrop" (3.2.5) by LaserHydra (0.00s) - EasyAirdrop.cs
+  21 "Gathering Manager" (2.2.75) by Mughisi (0.07s) - GatherManager.cs
+  22 "Godmode" (4.2.9) by Wulf/lukespragg/Arainrr (0.42s) - Godmode.cs
+  23 "HeliControl" (1.4.0) by Shady (79.24s) - HeliControl.cs
+  24 "Image Library" (2.0.56) by Absolut & K1lly0u (0.09s) - ImageLibrary.cs
+  25 "Gesture Wheel" (0.1.3) by Tricky & Mevent (0.00s) - GestureWheel.cs
+  26 "InfoPanel" (1.0.4) by Default (2.17s) - InfoPanel.cs
+  27 "Inventory Cleaner" (2.0.0) by Iv Misticos (0.00s) - InventoryCleaner.cs
+  28 "Inventory Viewer" (3.0.3) by Mughisi (0.05s) - InventoryViewer.cs
+  29 "Kill Feed" (1.18.0) by Tuntenfisch (0.04s) - KillFeed.cs
+  30 "Kits" (3.3.1) by Reneb (0.05s) - Kits.cs
+  31 "Loading Messages" (1.0.6) by CosaNostra/Def (0.06s) - LoadingMessages.cs
+  32 "NPC Drop Gun" (2.0.4) by 2CHEVSKII (0.02s) - NPCDropGun.cs
+  33 "NTeleportation" (1.4.7) by nivex (0.21s) - NTeleportation.cs
+  34 "No Escape" (2.1.31) by Calytic (0.71s) - NoEscape.cs
+  35 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.cs
+  36 "Notice" (1.0.1) by LaserHydra (0.00s) - Notice.cs
+  37 "OnScreenLogo" (1.1.5) by Vlad-00003 (0.02s) - OnScreenLogo.cs
+  38 "PlayerRankings" (3.0.2) by Ankawi (0.06s) - PlayerRankings.cs
+  39 "Playtime Tracker" (0.1.7) by k1lly0u (0.25s) - PlaytimeTracker.cs
+  40 "Popup Notifications" (0.2.0) by emu / k1lly0u (0.00s) - PopupNotifications.cs
+  41 "PrivateMessages" (1.1.11) by MisterPixie (0.00s) - PrivateMessages.cs
+  42 "Private Messages GUI" (1.0.2) by Tricky (0.00s) - PrivateMessagesGUI.cs
+  43 "Quick Smelt" (5.1.3) by Iv Misticos (0.44s) - QuickSmelt.cs
+  44 "Remover Tool" (4.3.23) by Reneb/Fuji/Arainrr (0.02s) - RemoverTool.cs
+  45 "SAMSiteAuth" (2.3.3) by haggbart (0.00s) - SAMSiteAuth.cs
+  46 "Scrap Heli Storage" (0.0.5) by yetzt (0.14s) - ScrapHeliStorage.cs
+  47 "ServerInfo" (0.5.4) by FastBurst (0.04s) - ServerInfo.cs
+  48 "Server Rewards" (0.4.73) by k1lly0u (0.43s) - ServerRewards.cs
+  49 "Sign Artist" (1.2.6) by Whispers88 (0.00s) - SignArtist.cs
+  50 "Skins" (2.1.2) by Iv Misticos (0.30s) - Skins.cs
+  51 "SkipNightVote" (0.1.4) by k1lly0u (0.07s) - SkipNightVote.cs
+  52 "Slap" (2.0.0) by Wulf (0.00s) - Slap.cs
+  53 "SmoothRestart" (1.2.5) by Fujikura/Visagalis (1.23s) - SmoothRestart.cs
+  54 "Spawn Mini" (2.10.0) by SpooksAU (0.47s) - SpawnMini.cs
+  55 "Stack Size Controller" (2.0.4) by Canopy Sheep (0.84s) - StackSizeController.cs
+  56 "Start Protection" (2.3.2) by wazzzup (0.51s) - StartProtection.cs
+  57 "Upkeep Display Fix" (1.0.1) by WhiteThunder (0.40s) - UpkeepDisplayFix.cs
+  58 "Vanish" (1.3.8) by Whispers88 (0.00s) - Vanish.cs
+  59 "Vehicle Decay Protection" (1.3.2) by WhiteThunder (1.99s) - VehicleDecayProtection.cs
+  60 "Vehicle Licence" (1.7.9) by Sorrow/TheDoc/Arainrr (0.59s) - VehicleLicence.cs
+  61 "VoteRewards" (2.1.0) by k1lly0u (0.03s) - Voter.cs
+  62 "Welcomer" (1.5.4) by Dana (0.01s) - Welcomer.cs
+  63 "Where is My Horse" (0.2.2) by 2CHEVSKII (0.00s) - WhereIsMyHorse.cs
+  64 "ZLevelsRemastered" (2.9.22) by Default (1.20s) - ZLevelsRemastered.cs
+10:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+10:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+10:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+10:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+10:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+10:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+10:57 [Info] [Welcomer] • Joker™ has joined the server from Germany.
+10:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+10:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+10:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 9 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 8 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 7 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 6 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 1 seconds!
+11:00 [Info] Uninstalling Rust:IO ...
+11:00 [Info] Rust:IO> Uninstalling ...
+11:00 [Info] Rust:IO> No longer ticking
+11:00 [Info] Rust:IO> Stopping server ...
+11:00 [Info] Rust:IO> Removing listeners ...
+11:00 [Info] Rust:IO> Performing maintenance ...
+11:00 [Info] Rust:IO> Closing database ...
+11:00 [Info] Rust:IO> Uninstalled.
+11:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+11:00 [Info] Unloaded plugin AdminHammer v1.12.0 by mvrb
+11:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+11:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+11:00 [Info] Unloaded plugin Auto Purge v2.1.1 by misticos
+11:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+11:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+11:00 [Info] Unloaded plugin Backpacks v3.4.0 by LaserHydra
+11:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+11:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+11:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+11:00 [Info] Unloaded plugin Better Say v3.0.1 by LaserHydra
+11:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+11:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+11:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+11:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+11:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+11:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+11:00 [Info] Unloaded plugin DronePilot v1.0.0 by k1lly0u
+11:00 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+11:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+11:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+11:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+11:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+11:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+11:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+11:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+11:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+11:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+11:00 [Info] Unloaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+11:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+11:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 150ms
+11:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+11:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+11:00 [Info] Unloaded plugin Notice v1.0.1 by LaserHydra
+11:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+11:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+11:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+11:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+11:00 [Info] Unloaded plugin PrivateMessages v1.1.11 by MisterPixie
+11:00 [Info] Unloaded plugin Private Messages GUI v1.0.2 by Tricky
+11:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+11:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+11:00 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+11:00 [Info] Unloaded plugin Scrap Heli Storage v0.0.5 by yetzt
+11:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+11:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+11:00 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+11:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+11:00 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+11:00 [Info] Unloaded plugin Slap v2.0.0 by Wulf
+11:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+11:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+11:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+11:00 [Info] [Start Protection] Saving protection database...
+11:00 [Info] Unloaded plugin Start Protection v2.3.2 by wazzzup
+11:00 [Info] Unloaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+11:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+11:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+11:00 [Info] Unloaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+11:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+11:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+11:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+11:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+11:00 [Info] Loading Oxide Core v2.0.3991...
+11:00 [Info] Loading extensions...
+11:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+11:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+11:00 [Info] Loaded extension Rust v2.0.4903 by Oxide Team and Contributors
+11:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+11:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+11:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+11:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+11:00 [Info] Using Covalence provider for game 'Rust'
+11:00 [Info] Loading plugins...
+11:00 [Info] Loaded plugin Rust v2.0.4903 by Oxide Team and Contributors
+11:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+11:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+11:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+11:00 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+11:00 [Info] AdminChat, AdminHammer, AliasSystem, AutoBroadcast, AutoPurge, AutomaticAuthorization, BGrade, Backpacks, BetterChat, BetterChatMentions, BetterLoot, BetterSay, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, DronePilot, EasyAirdrop, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NPCDropGun, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, SAMSiteAuth, ScrapHeliStorage, ServerInfo, ServerRewards, SignArtist, Skins, SkipNightVote, Slap, SmoothRestart, SpawnMini, StackSizeController, StartProtection, UpkeepDisplayFix, Vanish, VehicleDecayProtection, VehicleLicence, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+11:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+11:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+11:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+11:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+11:00 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+11:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+11:00 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+11:00 [Info] Loaded plugin Auto Purge v2.1.1 by misticos
+11:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+11:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+11:00 [Info] Loaded plugin Backpacks v3.4.0 by LaserHydra
+11:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+11:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+11:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+11:00 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+11:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+11:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+11:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+11:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+11:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+11:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+11:00 [Info] Loaded plugin DronePilot v1.0.0 by k1lly0u
+11:00 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+11:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+11:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+11:00 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+11:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+11:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+11:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+11:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+11:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+11:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+11:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+11:00 [Info] Loaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+11:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+11:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+11:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+11:00 [Warning] Missing plugin name prefix 'notice.' for permission 'cannotice' (by plugin 'Notice')
+11:00 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+11:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+11:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+11:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+11:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+11:00 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+11:00 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+11:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+11:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+11:00 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+11:00 [Info] Loaded plugin Scrap Heli Storage v0.0.5 by yetzt
+11:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+11:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+11:00 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+11:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+11:00 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+11:00 [Info] Loaded plugin Slap v2.0.0 by Wulf
+11:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+11:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+11:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+11:00 [Info] Loaded plugin Start Protection v2.3.2 by wazzzup
+11:00 [Info] Loaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+11:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+11:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+11:00 [Info] Loaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+11:00 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+11:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+11:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+11:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+11:02 [Info] IP address from Steam query: 0.0.0.0
+11:02 [Info] Updating Rust:IO ...
+11:02 [Info] [Auto Purge] The purge has been started.
+11:02 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+11:02 [Info] [BetterLoot] Updating internals ...
+11:02 [Info] Rust:IO: Update complete
+11:02 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 230ms
+11:02 [Info] [Kill Feed] Loading configuration file!
+11:02 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 103ms
+11:02 [Warning] [Server Rewards] All UI elements have been successfully generated!
+11:02 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 343ms
+11:02 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+11:02 [Info] [Start Protection] Entry list up to date.
+11:02 [Info] [Start Protection] Start Protection has been enabled [Minutes: 30] (type /sp toggle to disable).
+11:02 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+11:02 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+11:02 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 111ms
+11:03 [Info] [BetterLoot] No stacked LootContainer found.
+11:03 [Info] [BetterLoot] Populated '452' supported containers.
+11:03 [Info] [SmoothRestart] Your servers Oxide build is up to date
+11:03 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+11:03 [Info] Installing Rust:IO ...
+11:03 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+11:03 [Info] Rust:IO> Creating directories ...
+11:03 [Info] Rust:IO> Applying config ...
+11:03 [Info] Rust:IO> Initializing database ...
+11:03 [Info] Rust:IO> Generating map image (this may take a while) ...
+11:03 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7219.145ms
+Postprocess  :  3820.693ms
+  Shadows    :   215.892ms
+  FXAA       :  3519.989ms
+Encoding     :    32.645ms
+Other        :     9.483ms
+--------------------------
+Total        :  11081.966ms
+11:03 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+11:03 [Info] Rust:IO> Installed.
+11:03 [Info] Rust:IO> Now ticking
+11:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 11262ms [GARBAGE COLLECT]
+11:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 2ms [GARBAGE COLLECT]
+11:03 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+11:03 [Info] [Auto Purge] The purge has been completed. Purged entities: 0.
+11:06 [Info] [Welcomer] • Joker™ has joined the server from Germany.
+11:06 [Info] [Better Chat] [Global] [Newbie] Joker™: hii
+11:25 [Info] [Welcomer] • FAILYYY has joined the server from Germany.
+12:18 [Info] [Welcomer] • Kawa47NL has joined the server from Netherlands.
+12:21 [Info] [Kill Feed] [21/12/07/02/2021] FAILYYY                                                       smg.thompson                   7.4m                           Wolf
+12:25 [Info] [Kill Feed] [25/12/07/02/2021] sentry.scientist.static                                       bullet                         71.9m                          2888759
+12:38 [Info] [Kill Feed] [38/12/07/02/2021] 1548830                                                       rifle.semiauto                 1.1m                           Chicken
+12:38 [Info] [Kill Feed] [38/12/07/02/2021] FAILYYY                                                       salvaged.sword                 1.5m                           Chicken
+13:19 [Info] [Welcomer] • FAILYYY has left the server (Disconnected).
+13:19 [Info] [Welcomer] • Joker™ has left the server (Disconnected).
+13:22 [Info] [Welcomer] • _.Markitus._ has joined the server from Spain.
+13:36 [Info] [Welcomer] • StefSalvatore has joined the server from Netherlands.
+13:39 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: hi guys
+13:39 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: hi
+13:39 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: Hey
+13:39 [Info] [Better Chat] [Team] [Newbie] StefSalvatore: whats up
+13:39 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: whats up guys
+13:41 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: nothing much still farming, and u.?
+13:41 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: yeah mee to bro
+13:46 [Info] [Kill Feed] [46/13/07/02/2021] StefSalvatore                                                 icepick.salvaged               1.0m                           Chicken
+13:48 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198435619481
+13:48 [Info] [VoteRewards] 0
+13:48 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198435619481
+13:48 [Info] [VoteRewards] 0
+13:51 [Info] [Welcomer] • Kawa47NL has left the server (Disconnected).
+13:52 [Info] [Welcomer] • gamer has joined the server from Sweden.
+13:55 [Info] [Kill Feed] [55/13/07/02/2021] gamer                                                         suicide                                                       gamer
+14:01 [Info] [Welcomer] • tana23vlc has joined the server from Spain.
+14:02 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198435619481
+14:02 [Info] [VoteRewards] 0
+14:03 [Info] [Kill Feed] [03/14/07/02/2021] StefSalvatore                                                 hatchet                        0.8m                           Chicken
+14:08 [Info] [Kill Feed] [08/14/07/02/2021] _.Markitus._                   Hip                            rifle.lr300                    45.3m                          gamer
+14:08 [Info] [Welcomer] • gamer has left the server (Disconnected).
+14:09 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: mate why you kill the guy
+14:09 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: pk es mi vecino
+14:12 [Info] [Welcomer] • _.Markitus._ has left the server (Disconnected).
+14:15 [Info] [Welcomer] • ErAlfita_ has joined the server from Spain.
+14:16 [Info] [Kill Feed] [16/14/07/02/2021] sentry.scientist.static                                       bullet                         69.3m                          1015913
+14:18 [Info] [Welcomer] • StefSalvatore has left the server (Disconnected).
+14:42 [Info] [Welcomer] • StefSalvatore has joined the server from Germany.
+14:44 [Info] [Welcomer] • ErAlfita_ has left the server (Disconnected).
+14:50 [Info] [Welcomer] • Joker™ has joined the server from Germany.
+14:54 [Info] [Kill Feed] [54/14/07/02/2021] StefSalvatore                                                 smg.2                          12.1m                          Boar
+15:12 [Info] [Kill Feed] [12/15/07/02/2021] sentry.scientist.static                                       bullet                         79.6m                          4593906
+15:29 [Info] [Kill Feed] [29/15/07/02/2021] StefSalvatore                                                 hatchet                        0.6m                           Chicken
+15:29 [Info] [Kill Feed] [29/15/07/02/2021] StefSalvatore                                                 hatchet                        0.8m                           Chicken
+15:30 [Info] [Kill Feed] [30/15/07/02/2021] StefSalvatore                                                 smg.2                          28.3m                          Wolf
+15:31 [Info] [Kill Feed] [31/15/07/02/2021] StefSalvatore                                                 smg.2                          4.9m                           Wolf
+15:51 [Info] [Welcomer] • tana23vlc has left the server (Disconnected).
+15:56 [Info] [Welcomer] • RulFUCKingStone has joined the server from Turkey.
+16:40 [Info] [Welcomer] • StefSalvatore has left the server (Disconnected).
+16:40 [Info] [Welcomer] • RulFUCKingStone has left the server (Disconnected).
+17:01 [Info] [PlayerRankings] Joker™ has been ranked up to player
+17:02 [Info] [Better Chat] [Team] [Player] Joker™: &home molo
+17:03 [Info] [Welcomer] • Joker™ has left the server (Disconnected).
+17:29 [Info] [Welcomer] • Kappa has joined the server from Germany.
+17:48 [Info] [Welcomer] • Kappa has left the server (Kicked: Unresponsive).
+18:02 [Info] [Welcomer] • Kappa has joined the server from France.
+18:07 [Info] [Welcomer] • Kawa47NL has joined the server from Netherlands.
+18:13 [Info] [Welcomer] • StefSalvatore has joined the server from Germany.
+18:20 [Info] [Kill Feed] [20/18/07/02/2021] StefSalvatore                                                 icepick.salvaged               0.8m                           Chicken
+18:22 [Info] [Better Chat] [Global] [Regular] Kappa: hello guys what u doing?
+18:23 [Info] [Better Chat] [Team] [Newbie] StefSalvatore: nothing mate u
+18:28 [Info] [Kill Feed] [28/18/07/02/2021] Kawa47NL                                                      rifle.m39                      16.2m                          Wolf
+18:29 [Info] [Welcomer] • Ginganinja has joined the server from Netherlands.
+18:30 [Info] [Better Chat] [Global] [Regular] Kappa: hey ninja
+18:30 [Info] [Better Chat] [Global] [Newbie] Ginganinja: Thought there was no pvp here?
+18:30 [Info] [Better Chat] [Global] [Regular] Kappa: ah we have new players that they raid a lot :(
+18:30 [Info] [Welcomer] • Ginganinja has left the server (Disconnected).
+18:31 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: Hi,  didn't raid anybody but this sin't a pve server is it.?
+18:32 [Info] [Better Chat] [Global] [Regular] Kappa: Hi kawa, i know it is not u I kow exactly who it is :)
+18:32 [Info] [Better Chat] [Global] [Regular] Kappa: no it is a pvp for sure
+18:32 [Info] [Better Chat] [Global] [Regular] Kappa: just before we had few guys here and we did not bother each other
+18:32 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: ah ok just making sure.
+18:33 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: not planning on anything but you never know...
+18:33 [Info] [Better Chat] [Global] [Regular] Kappa: plan to build a defence for sure :D
+18:33 [Info] [Better Chat] [Team] [Newbie] StefSalvatore: who is live f4
+18:34 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: that's the first thing to do if you have anything you wanna keep
+18:35 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: and tell nobody where your base is,  isn't that so salvatore.  hahahaha
+18:35 [Info] [Better Chat] [Global] [Regular] Kappa: if u need any help, let me know
+18:35 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: will do.  thanks.
+18:36 [Info] [Kill Feed] [36/18/07/02/2021] Kawa47NL                                                      rifle.m39                      34.2m                          Wolf
+18:40 [Info] [Welcomer] • _.Markitus._ has joined the server from Spain.
+18:40 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: what about people sleeping in the open kill or let live.?
+18:41 [Info] [PrivateMessages] [PM]Kappa->Kawa47NL:up to you :)
+18:41 [Info] [PrivateMessages] [PM]Kappa->Kawa47NL:chat is no longer good to share :P
+18:42 [Info] [PrivateMessages] [PM]Kawa47NL->Kappa:i understand
+18:49 [Info] [Kill Feed] [49/18/07/02/2021] Kawa47NL                                                      rifle.m39                      32.9m                          Stag
+18:49 [Info] [Kill Feed] [49/18/07/02/2021] Kawa47NL                                                      rifle.m39                      113.5m                         Boar
+18:50 [Info] [Kill Feed] [50/18/07/02/2021] Kawa47NL                                                      rifle.m39                      56.4m                          Stag
+18:52 [Info] [Kill Feed] [52/18/07/02/2021] Kawa47NL                       Head                           torch                          0.5m                           NaniSekaii .w.
+19:28 [Info] [Welcomer] • Joker™ has joined the server from Germany.
+19:36 [Info] [Welcomer] • Joker™ has left the server (Disconnected).
+19:40 [Info] [Welcomer] • _.Markitus._ has left the server (Disconnected).
+19:42 [Info] [Welcomer] • Kawa47NL has left the server (Disconnected).
+19:42 [Info] [Kill Feed] [42/19/07/02/2021] sentry.scientist.static                                       bullet                         63.5m                          2247166
+19:57 [Info] [Kill Feed] [57/19/07/02/2021] StefSalvatore                                                 suicide                                                       StefSalvatore
+19:58 [Info] [Welcomer] • Scharly has joined the server from Germany.
+19:58 [Info] [Kill Feed] [58/19/07/02/2021] sentry.bandit.static                                          bullet                         12.9m                          7955760
+19:59 [Info] [Kill Feed] [59/19/07/02/2021] StefSalvatore                                                 suicide                                                       StefSalvatore
+20:04 [Info] [Welcomer] • StefSalvatore has left the server (Disconnected).
+20:06 [Info] [NTeleportation] Kappa teleported back to previous location.
+20:08 [Info] [Kill Feed] [08/20/07/02/2021] Scharly                        Head                           shotgun.pump                   2.9m                           Globey.
+20:10 [Info] [Welcomer] • Scharly has left the server (Disconnected).
+20:12 [Info] [Kill Feed] [12/20/07/02/2021] Kappa                                                         smg.2                          13.5m                          Boar
+20:13 [Info] [Kill Feed] [13/20/07/02/2021] Kappa                                                         smg.2                          17.5m                          Boar
+20:13 [Info] [Kill Feed] [13/20/07/02/2021] Kappa                                                         smg.2                          14.9m                          Boar
+20:29 [Warning] [DEBUG] Load requested for plugin which is already loading: ScientistNames
+20:29 [Info] ScientistNames was compiled successfully in 2145ms
+20:29 [Info] Loaded plugin Scientist Names v1.1.3 by Ultra
+20:30 [Info] Unloaded plugin Scientist Names v1.1.3 by Ultra
+20:30 [Info] [Scientist Names] bandit A. renamed to bandit E.
+20:30 [Info] [Scientist Names] bandit B. renamed to bandit D.
+20:30 [Info] [Scientist Names] bandit I. renamed to bandit W.
+20:30 [Info] [Scientist Names] bandit M. renamed to bandit F.
+20:30 [Info] [Scientist Names] bandit D. renamed to bandit F.
+20:30 [Info] [Scientist Names] bandit Z. renamed to bandit U.
+20:30 [Info] [Scientist Names] bandit Z. renamed to bandit O.
+20:30 [Info] [Scientist Names] bandit U. renamed to bandit T.
+20:30 [Info] [Scientist Names] scientist C. renamed to scientist D.
+20:30 [Info] [Scientist Names] scientist Z. renamed to scientist G.
+20:30 [Info] [Scientist Names] scientist C. renamed to scientist M.
+20:30 [Info] [Scientist Names] scientist M. renamed to scientist D.
+20:30 [Info] [Scientist Names] scientist W. renamed to scientist A.
+20:30 [Info] [Scientist Names] scientist U. renamed to scientist D.
+20:30 [Info] [Scientist Names] scientist R. renamed to scientist H.
+20:30 [Info] [Scientist Names] scientist B. renamed to scientist T.
+20:30 [Info] [Scientist Names] scientist L. renamed to scientist B.
+20:30 [Info] [Scientist Names] scientist D. renamed to scientist C.
+20:30 [Info] [Scientist Names] scientist O. renamed to scientist K.
+20:30 [Info] [Scientist Names] scientist T. renamed to scientist Q.
+20:30 [Info] [Scientist Names] scientist Z. renamed to scientist R.
+20:30 [Info] [Scientist Names] scientist E. renamed to scientist O.
+20:30 [Info] [Scientist Names] scientist D. renamed to scientist I.
+20:30 [Info] [Scientist Names] scientist W. renamed to scientist H.
+20:30 [Info] [Scientist Names] scientist A. renamed to scientist J.
+20:30 [Info] [Scientist Names] scientist T. renamed to scientist N.
+20:30 [Info] [Scientist Names] scientist C. renamed to scientist D.
+20:30 [Info] [Scientist Names] scientist L. renamed to scientist N.
+20:30 [Info] [Scientist Names] scientist Z. renamed to scientist V.
+20:30 [Info] [Scientist Names] scientist K. renamed to scientist S.
+20:30 [Info] [Scientist Names] scientist Z. renamed to scientist P.
+20:30 [Info] [Scientist Names] scientist I. renamed to scientist S.
+20:30 [Info] [Scientist Names] scientist V. renamed to scientist A.
+20:30 [Info] [Scientist Names] scientist D. renamed to scientist R.
+20:30 [Info] [Scientist Names] scientist F. renamed to scientist G.
+20:30 [Info] [Scientist Names] scientist J. renamed to scientist I.
+20:30 [Info] [Scientist Names] scientist V. renamed to scientist R.
+20:30 [Info] [Scientist Names] scientist S. renamed to scientist X.
+20:30 [Info] [Scientist Names] scientist F. renamed to scientist X.
+20:30 [Info] [Scientist Names] scientist T. renamed to scientist V.
+20:30 [Info] [Scientist Names] scientist C. renamed to scientist R.
+20:30 [Info] [Scientist Names] scientist P. renamed to scientist I.
+20:30 [Info] [Scientist Names] scientist G. renamed to scientist Z.
+20:30 [Info] [Scientist Names] scientist V. renamed to scientist Y.
+20:30 [Info] [Scientist Names] scientist S. renamed to scientist U.
+20:30 [Info] [Scientist Names] scientist S. renamed to scientist I.
+20:30 [Info] [Scientist Names] scientist T. renamed to scientist H.
+20:30 [Info] [Scientist Names] scientist K. renamed to scientist X.
+20:30 [Info] [Scientist Names] scientist Q. renamed to scientist X.
+20:30 [Info] [Scientist Names] bandit A. renamed to bandit Y.
+20:30 [Info] [Scientist Names] bandit F. renamed to bandit B.
+20:30 [Info] [Scientist Names] bandit A. renamed to bandit N.
+20:30 [Info] [Scientist Names] bandit Q. renamed to bandit T.
+20:30 [Info] [Scientist Names] bandit K. renamed to bandit V.
+20:30 [Info] [Scientist Names] scientist J. renamed to scientist E.
+20:30 [Info] [Scientist Names] scientist H. renamed to scientist G.
+20:30 [Info] [Scientist Names] scientist G. renamed to scientist E.
+20:30 [Info] [Scientist Names] bandit X. renamed to bandit S.
+20:30 [Info] [Scientist Names] bandit O. renamed to bandit H.
+20:30 [Info] [Scientist Names] bandit X. renamed to bandit D.
+20:30 [Info] [Scientist Names] bandit J. renamed to bandit H.
+20:30 [Info] [Scientist Names] bandit H. renamed to bandit U.
+20:30 [Info] [Scientist Names] bandit M. renamed to bandit C.
+20:30 [Info] [Scientist Names] bandit J. renamed to bandit I.
+20:30 [Info] [Scientist Names] bandit F. renamed to bandit U.
+20:30 [Info] [Scientist Names] scientist O. renamed to scientist A.
+20:30 [Info] [Scientist Names] scientist X. renamed to scientist V.
+20:30 [Info] [Scientist Names] bandit E. renamed to bandit A.
+20:30 [Info] [Scientist Names] bandit N. renamed to bandit R.
+20:30 [Info] [Scientist Names] bandit C. renamed to bandit N.
+20:30 [Info] [Scientist Names] bandit B. renamed to bandit G.
+20:30 [Info] [Scientist Names] bandit C. renamed to bandit M.
+20:30 [Info] [Scientist Names] bandit W. renamed to bandit Y.
+20:30 [Info] [Scientist Names] bandit I. renamed to bandit B.
+20:30 [Info] [Scientist Names] bandit H. renamed to bandit A.
+20:30 [Info] [Scientist Names] scientist P. renamed to scientist Z.
+20:30 [Info] [Scientist Names] scientist N. renamed to scientist P.
+20:30 [Info] [Scientist Names] scientist K. renamed to scientist Q.
+20:30 [Info] [Scientist Names] scientist D. renamed to scientist S.
+20:30 [Info] [Scientist Names] scientist Q. renamed to scientist H.
+20:30 [Info] [Scientist Names] scientist T. renamed to scientist W.
+20:30 [Info] [Scientist Names] bandit X. renamed to bandit Q.
+20:30 [Info] [Scientist Names] bandit I. renamed to bandit A.
+20:30 [Info] [Scientist Names] bandit L. renamed to bandit M.
+20:30 [Info] [Scientist Names] bandit N. renamed to bandit O.
+20:30 [Info] [Scientist Names] bandit Q. renamed to bandit J.
+20:30 [Info] [Scientist Names] scientist X. renamed to scientist R.
+20:30 [Info] [Scientist Names] scientist J. renamed to scientist L.
+20:30 [Info] [Scientist Names] scientist S. renamed to scientist V.
+20:30 [Info] [Scientist Names] scientist B. renamed to scientist X.
+20:30 [Info] [Scientist Names] scientist N. renamed to scientist K.
+20:30 [Info] [Scientist Names] scientist Q. renamed to scientist M.
+20:30 [Info] [Scientist Names] scientist A. renamed to scientist B.
+20:30 [Info] [Scientist Names] scientist Y. renamed to scientist Z.
+20:30 [Info] [Scientist Names] scientist K. renamed to scientist I.
+20:30 [Info] [Scientist Names] scientist C. renamed to scientist X.
+20:30 [Info] [Scientist Names] scientist A. renamed to scientist U.
+20:30 [Info] [Scientist Names] scientist K. renamed to scientist A.
+20:30 [Info] [Scientist Names] scientist W. renamed to scientist B.
+20:30 [Info] [Scientist Names] scientist O. renamed to scientist Y.
+20:30 [Info] [Scientist Names] scientist T. renamed to scientist L.
+20:30 [Info] [Scientist Names] scientist R. renamed to scientist S.
+20:30 [Info] [Scientist Names] scientist I. renamed to scientist M.
+20:30 [Info] [Scientist Names] scientist F. renamed to scientist D.
+20:30 [Info] [Scientist Names] scientist J. renamed to scientist E.
+20:30 [Info] [Scientist Names] scientist E. renamed to scientist W.
+20:30 [Info] [Scientist Names] scientist Z. renamed to scientist H.
+20:30 [Info] [Scientist Names] scientist T. renamed to scientist G.
+20:30 [Info] [Scientist Names] scientist P. renamed to scientist D.
+20:30 [Info] [Scientist Names] scientist N. renamed to scientist D.
+20:30 [Info] [Scientist Names] scientist J. renamed to scientist A.
+20:30 [Info] [Scientist Names] scientist O. renamed to scientist G.
+20:30 [Info] [Scientist Names] scientist O. renamed to scientist F.
+20:30 [Info] [Scientist Names] scientist N. renamed to scientist J.
+20:30 [Info] [Scientist Names] scientist S. renamed to scientist L.
+20:30 [Info] [Scientist Names] scientist X. renamed to scientist U.
+20:30 [Info] [Scientist Names] scientist U. renamed to scientist Y.
+20:30 [Info] [Scientist Names] scientist F. renamed to scientist I.
+20:30 [Info] [Scientist Names] scientist P. renamed to scientist G.
+20:30 [Info] [Scientist Names] scientist I. renamed to scientist E.
+20:30 [Info] [Scientist Names] scientist K. renamed to scientist H.
+20:30 [Info] [Scientist Names] scientist C. renamed to scientist O.
+20:30 [Info] [Scientist Names] scientist R. renamed to scientist W.
+20:30 [Info] [Scientist Names] 123 scientists (bandits, murderers, scarecrows) renamed
+20:30 [Info] Loaded plugin Scientist Names v1.1.3 by Ultra
+20:31 [Info] Unloaded plugin Scientist Names v1.1.3 by Ultra
+20:31 [Info] [Scientist Names] bandit E. renamed to Bandit K. McLeod
+20:31 [Info] [Scientist Names] bandit D. renamed to Bandit S. Marsh
+20:31 [Info] [Scientist Names] bandit W. renamed to Bandit C. Estrada
+20:31 [Info] [Scientist Names] bandit F. renamed to Bandit Y. Ray
+20:31 [Info] [Scientist Names] bandit F. renamed to Bandit Q. Workman
+20:31 [Info] [Scientist Names] bandit U. renamed to Bandit A. Harrington
+20:31 [Info] [Scientist Names] bandit O. renamed to Bandit M. McCullough
+20:31 [Info] [Scientist Names] bandit T. renamed to Bandit T. Pierce
+20:31 [Info] [Scientist Names] scientist D. renamed to Dr. G. Fry
+20:31 [Info] [Scientist Names] scientist G. renamed to Dr. K. Cline
+20:31 [Info] [Scientist Names] scientist M. renamed to Dr. N. Chen
+20:31 [Info] [Scientist Names] scientist D. renamed to Dr. T. Jones
+20:31 [Info] [Scientist Names] scientist A. renamed to Dr. L. Crosby
+20:31 [Info] [Scientist Names] scientist D. renamed to Dr. W. Lang
+20:31 [Info] [Scientist Names] scientist H. renamed to Dr. V. Evans
+20:31 [Info] [Scientist Names] scientist T. renamed to Dr. J. Ayers
+20:31 [Info] [Scientist Names] scientist B. renamed to Dr. G. Spence
+20:31 [Info] [Scientist Names] scientist C. renamed to Dr. T. Bernard
+20:31 [Info] [Scientist Names] scientist K. renamed to Dr. S. Underwood
+20:31 [Info] [Scientist Names] scientist Q. renamed to Dr. C. Flynn
+20:31 [Info] [Scientist Names] scientist R. renamed to Dr. L. Wallace
+20:31 [Info] [Scientist Names] scientist O. renamed to Dr. P. Richardson
+20:31 [Info] [Scientist Names] scientist I. renamed to Dr. T. Henderson
+20:31 [Info] [Scientist Names] scientist H. renamed to Dr. Q. Butler
+20:31 [Info] [Scientist Names] scientist J. renamed to Dr. Z. Solis
+20:31 [Info] [Scientist Names] scientist N. renamed to Dr. W. Rice
+20:31 [Info] [Scientist Names] scientist D. renamed to Dr. R. Henderson
+20:31 [Info] [Scientist Names] scientist N. renamed to Dr. W. Noble
+20:31 [Info] [Scientist Names] scientist V. renamed to Dr. F. Velez
+20:31 [Info] [Scientist Names] scientist S. renamed to Dr. A. Wolfe
+20:31 [Info] [Scientist Names] scientist P. renamed to Dr. O. Osborne
+20:31 [Info] [Scientist Names] scientist S. renamed to Dr. J. Shepherd
+20:31 [Info] [Scientist Names] scientist A. renamed to Dr. O. Glover
+20:31 [Info] [Scientist Names] scientist R. renamed to Dr. F. Shannon
+20:31 [Info] [Scientist Names] scientist G. renamed to Dr. Z. Rutledge
+20:31 [Info] [Scientist Names] scientist I. renamed to Dr. L. Gay
+20:31 [Info] [Scientist Names] scientist R. renamed to Dr. U. Merrill
+20:31 [Info] [Scientist Names] scientist X. renamed to Dr. E. Colon
+20:31 [Info] [Scientist Names] scientist X. renamed to Dr. D. McCall
+20:31 [Info] [Scientist Names] scientist V. renamed to Dr. G. Aguilar
+20:31 [Info] [Scientist Names] scientist R. renamed to Dr. D. Gay
+20:31 [Info] [Scientist Names] scientist I. renamed to Dr. O. Patterson
+20:31 [Info] [Scientist Names] scientist Z. renamed to Dr. F. Fuller
+20:31 [Info] [Scientist Names] scientist R. renamed to Dr. Z. Hart
+20:31 [Info] [Scientist Names] scientist Y. renamed to Dr. Y. Stewart
+20:31 [Info] [Scientist Names] scientist U. renamed to Dr. P. Wilson
+20:31 [Info] [Scientist Names] scientist I. renamed to Dr. M. Buck
+20:31 [Info] [Scientist Names] scientist H. renamed to Dr. Z. Lee
+20:31 [Info] [Scientist Names] scientist X. renamed to Dr. T. Walker
+20:31 [Info] [Scientist Names] scientist X. renamed to Dr. M. Paul
+20:31 [Info] [Scientist Names] bandit G. renamed to Bandit W. Irwin
+20:31 [Info] [Scientist Names] bandit Y. renamed to Bandit C. Rogers
+20:31 [Info] [Scientist Names] bandit B. renamed to Bandit H. Wood
+20:31 [Info] [Scientist Names] bandit N. renamed to Bandit J. Salas
+20:31 [Info] [Scientist Names] bandit T. renamed to Bandit X. Owen
+20:31 [Info] [Scientist Names] bandit V. renamed to Bandit O. Shaffer
+20:31 [Info] [Scientist Names] scientist E. renamed to Dr. M. Lowery
+20:31 [Info] [Scientist Names] scientist G. renamed to Dr. E. Gay
+20:31 [Info] [Scientist Names] scientist E. renamed to Dr. V. Barnett
+20:31 [Info] [Scientist Names] bandit S. renamed to Bandit J. Reeves
+20:31 [Info] [Scientist Names] bandit H. renamed to Bandit J. Mitchell
+20:31 [Info] [Scientist Names] bandit D. renamed to Bandit T. Cash
+20:31 [Info] [Scientist Names] bandit H. renamed to Bandit I. Brady
+20:31 [Info] [Scientist Names] bandit U. renamed to Bandit H. Scott
+20:31 [Info] [Scientist Names] bandit C. renamed to Bandit X. Reyes
+20:31 [Info] [Scientist Names] bandit Y. renamed to Bandit R. Ford
+20:31 [Info] [Scientist Names] bandit I. renamed to Bandit E. Galloway
+20:31 [Info] [Scientist Names] bandit U. renamed to Bandit M. Gutierrez
+20:31 [Info] [Scientist Names] scientist A. renamed to Dr. R. Dickerson
+20:31 [Info] [Scientist Names] scientist V. renamed to Dr. V. Marshall
+20:31 [Info] [Scientist Names] bandit A. renamed to Bandit W. Lawrence
+20:31 [Info] [Scientist Names] bandit R. renamed to Bandit G. Tran
+20:31 [Info] [Scientist Names] bandit N. renamed to Bandit M. Bailey
+20:31 [Info] [Scientist Names] bandit G. renamed to Bandit O. Suarez
+20:31 [Info] [Scientist Names] bandit M. renamed to Bandit O. Lawson
+20:31 [Info] [Scientist Names] bandit Y. renamed to Bandit E. Lloyd
+20:31 [Info] [Scientist Names] bandit D. renamed to Bandit Q. Holmes
+20:31 [Info] [Scientist Names] bandit B. renamed to Bandit A. Hester
+20:31 [Info] [Scientist Names] bandit A. renamed to Bandit E. Robertson
+20:31 [Info] [Scientist Names] scientist Z. renamed to Dr. T. Melendez
+20:31 [Info] [Scientist Names] scientist P. renamed to Dr. U. Lyons
+20:31 [Info] [Scientist Names] scientist Q. renamed to Dr. W. Horne
+20:31 [Info] [Scientist Names] scientist S. renamed to Dr. U. Sparks
+20:31 [Info] [Scientist Names] scientist H. renamed to Dr. J. Pacheco
+20:31 [Info] [Scientist Names] scientist W. renamed to Dr. E. Huber
+20:31 [Info] [Scientist Names] bandit Q. renamed to Bandit C. Chandler
+20:31 [Info] [Scientist Names] bandit A. renamed to Bandit L. Pearson
+20:31 [Info] [Scientist Names] bandit M. renamed to Bandit M. Lane
+20:31 [Info] [Scientist Names] bandit O. renamed to Bandit U. Lowe
+20:31 [Info] [Scientist Names] bandit J. renamed to Bandit L. Brewer
+20:31 [Info] [Scientist Names] scientist R. renamed to Dr. X. Phelps
+20:31 [Info] [Scientist Names] scientist L. renamed to Dr. M. Kerr
+20:31 [Info] [Scientist Names] scientist V. renamed to Dr. Y. Chapman
+20:31 [Info] [Scientist Names] scientist X. renamed to Dr. L. Mitchell
+20:31 [Info] [Scientist Names] scientist K. renamed to Dr. U. Carrillo
+20:31 [Info] [Scientist Names] scientist M. renamed to Dr. A. Kirby
+20:31 [Info] [Scientist Names] scientist B. renamed to Dr. U. Rocha
+20:31 [Info] [Scientist Names] scientist Z. renamed to Dr. I. Short
+20:31 [Info] [Scientist Names] scientist I. renamed to Dr. I. Bryan
+20:31 [Info] [Scientist Names] scientist P. renamed to Dr. S. Lewis
+20:31 [Info] [Scientist Names] scientist X. renamed to Dr. S. Barrera
+20:31 [Info] [Scientist Names] scientist U. renamed to Dr. Q. Horn
+20:31 [Info] [Scientist Names] scientist A. renamed to Dr. C. Pollard
+20:31 [Info] [Scientist Names] scientist B. renamed to Dr. A. Hammond
+20:31 [Info] [Scientist Names] scientist Y. renamed to Dr. R. Bonner
+20:31 [Info] [Scientist Names] scientist L. renamed to Dr. B. Hays
+20:31 [Info] [Scientist Names] scientist S. renamed to Dr. R. Luna
+20:31 [Info] [Scientist Names] scientist M. renamed to Dr. X. Castro
+20:31 [Info] [Scientist Names] scientist D. renamed to Dr. W. Stone
+20:31 [Info] [Scientist Names] scientist E. renamed to Dr. V. Shepherd
+20:31 [Info] [Scientist Names] scientist W. renamed to Dr. A. Weber
+20:31 [Info] [Scientist Names] scientist H. renamed to Dr. W. Underwood
+20:31 [Info] [Scientist Names] scientist G. renamed to Dr. Z. Dyer
+20:31 [Info] [Scientist Names] scientist D. renamed to Dr. O. Clayton
+20:31 [Info] [Scientist Names] scientist D. renamed to Dr. X. Hays
+20:31 [Info] [Scientist Names] scientist A. renamed to Dr. W. Lambert
+20:31 [Info] [Scientist Names] scientist G. renamed to Dr. O. Parsons
+20:31 [Info] [Scientist Names] scientist F. renamed to Dr. O. Thomas
+20:31 [Info] [Scientist Names] scientist J. renamed to Dr. V. Chaney
+20:31 [Info] [Scientist Names] scientist L. renamed to Dr. P. Flores
+20:31 [Info] [Scientist Names] scientist U. renamed to Dr. F. Sanchez
+20:31 [Info] [Scientist Names] scientist Y. renamed to Dr. J. Irwin
+20:31 [Info] [Scientist Names] scientist I. renamed to Dr. Q. Bryant
+20:31 [Info] [Scientist Names] scientist G. renamed to Dr. W. Castro
+20:31 [Info] [Scientist Names] scientist E. renamed to Dr. B. Richardson
+20:31 [Info] [Scientist Names] scientist H. renamed to Dr. R. Rose
+20:31 [Info] [Scientist Names] scientist O. renamed to Dr. R. Hunter
+20:31 [Info] [Scientist Names] scientist W. renamed to Dr. A. Townsend
+20:31 [Info] [Scientist Names] 128 scientists (bandits, murderers, scarecrows) renamed
+20:31 [Info] Loaded plugin Scientist Names v1.1.3 by Ultra
+20:32 [Info] [Scientist Names] 6192128 renamed to Dr. B. Hudson
+20:33 [Info] [NTeleportation] Kappa teleported back to previous location.
+20:36 [Info] ClothedMurderers was compiled successfully in 1973ms
+20:36 [Info] Loaded plugin Clothed Murderers v1.0.1 by Substrata
+20:47 [Info] [Welcomer] • [DMA] Gubatrix has joined the server from Germany.
+20:47 [Info] [Better Chat] [Global] [Regular] Kappa: hi admin
+20:48 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: hi
+21:11 [Info] [Better Chat] [Global] [Regular] Kappa: admin ?
+21:13 [Info] [Scientist Names] 4552445 renamed to Dr. P. Gallagher
+21:17 [Info] [Scientist Names] 2450323 renamed to Dr. I. Combs
+21:17 [Info] [Scientist Names] 9388805 renamed to Dr. M. Dotson
+21:17 [Info] [Kill Feed] [17/21/07/02/2021] sentry.scientist.static                                       bullet                         79.1m                          Dr. M. Dotson
+21:19 [Info] [Kill Feed] [19/21/07/02/2021] Kappa                          Head                           rifle.semiauto                 83.3m                          Dr. F. Fuller
+21:19 [Info] [Scientist Names] 6246618 renamed to Dr. Z. Russo
+21:19 [Info] [Scientist Names] 3191063 renamed to Dr. I. Bowman
+21:21 [Info] [Kill Feed] [21/21/07/02/2021] Kappa                          Head                           rifle.semiauto                 82.4m                          Dr. S. Underwood
+21:21 [Info] [Kill Feed] [21/21/07/02/2021] Kappa                          Neck                           rifle.semiauto                 84.8m                          Dr. V. Evans
+21:23 [Info] [Kill Feed] [23/21/07/02/2021] Kappa                          Head                           smg.2                          3.6m                           Dr. K. Cline
+21:23 [Info] [Kill Feed] [23/21/07/02/2021] Kappa                          Head                           rifle.semiauto                 26.1m                          Dr. W. Rice
+21:23 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode]Gubatrix: sry i was afk, u need something? @Kappa
+21:24 [Info] [Better Chat] [Global] [Regular] Kappa: hey np i just wanted to ask for the new map
+21:24 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode]Gubatrix: new map coming maybe tonight^^
+21:24 [Info] [Better Chat] [Global] [Regular] Kappa: we going to loose everythign or how will happen?
+21:24 [Info] [Kill Feed] [24/21/07/02/2021] Kappa                          Head                           smg.2                          6.6m                           Dr. T. Jones
+21:24 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode]Gubatrix: i just coding some plugins for it to make a new experience
+21:25 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode]Gubatrix: hmm i have to look for it if it possible to store the invetory but just wipe the map, but your building will be gone because its
+21:25 [Info] [Better Chat] [Global] [Regular] Kappa: okay will nice if we have back left
+21:26 [Info] Godmode was compiled successfully in 2012ms
+21:26 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+21:26 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+21:26 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes i will look for it
+21:26 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: maybe the backpacks will stay, but the normal inventory idk
+21:26 [Info] [Kill Feed] [26/21/07/02/2021] Kappa                          Arm                            smg.2                          6.8m                           Dr. W. Lang
+21:26 [Info] [Better Chat] [Global] [Regular] Kappa: that is okay
+21:26 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: maybe i can fast code a plugin which will save your ivnentories
+21:26 [Info] [Better Chat] [Global] [Regular] Kappa: no no
+21:27 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: but the map will be nice, much new monuments to explore and two zones which also much NPCs^^
+21:27 [Info] [Better Chat] [Global] [Regular] Kappa: if we loose eveyrhing it is fine too :)
+21:27 [Info] [NTeleportation] Gubatrix teleported to Kappa.
+21:27 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ^^
+21:27 [Info] [Better Chat] [Global] [Regular] Kappa: cool :) im exited
+21:27 [Info] [Kill Feed] [27/21/07/02/2021] Kappa                          Head                           smg.2                          8.2m                           Dr. N. Chen
+21:27 [Info] [Scientist Names] 4804786 renamed to Dr. Y. Mooney
+21:27 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: we wll also have 3 oil rigs and a barge (mapped by myself)
+21:27 [Info] [Kill Feed] [27/21/07/02/2021] Kappa                          Arm                            smg.2                          1.7m                           Dr. Q. Butler
+21:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: and a launchsite and very much selfmapped monuments^^
+21:28 [Info] [Better Chat] [Global] [Regular] Kappa: wow
+21:28 [Info] [Better Chat] [Global] [Regular] Kappa: sound amazing
+21:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i hope it will
+21:29 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: but on the new map the users can also put suggestions and i can implement it, so if there will be something you dont like, u can
+21:29 [Info] [Kill Feed] [29/21/07/02/2021] Kappa                          Chest                          rifle.semiauto                 5.6m                           Dr. J. Ayers
+21:29 [Info] [Kill Feed] [29/21/07/02/2021] Kappa                          Neck                           smg.2                          3.0m                           Dr. G. Spence
+21:29 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: We try to focus on what the players want/need
+21:29 [Info] [Kill Feed] [29/21/07/02/2021] Kappa                          Forearm                        smg.2                          3.5m                           Dr. L. Crosby
+21:29 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i now have to go offline, code something for the new map^^
+21:30 [Info] [Better Chat] [Global] [Regular] Kappa: good luck!
+21:30 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: thx
+21:30 [Info] [Scientist Names] 6025503 renamed to Murderer L. Bird
+21:30 [Info] [Kill Feed] [30/21/07/02/2021] [DMA] Gubatrix                 Neck                           hatchet                        0.8m                           Murderer L. Bird
+21:31 [Info] [Kill Feed] [31/21/07/02/2021] Kappa                          Arm                            smg.2                          2.9m                           Dr. Z. Solis
+21:31 [Info] [Welcomer] • Gubatrix has left the server (Disconnected).
+21:31 [Info] [Kill Feed] [31/21/07/02/2021] Kappa                          Head                           smg.2                          2.6m                           Dr. O. Patterson
+21:34 [Info] [Kill Feed] [34/21/07/02/2021] Kappa                          Arm                            smg.2                          9.8m                           Dr. T. Bernard
+21:34 [Info] [Scientist Names] 9799700 renamed to Dr. O. McIntosh
+21:34 [Info] [Scientist Names] 8446999 renamed to Dr. J. Burt
+21:34 [Info] [Scientist Names] 1452191 renamed to Dr. Y. Baird
+21:34 [Info] [Scientist Names] 89367 renamed to Dr. W. Berger
+21:34 [Info] [Scientist Names] 8827099 renamed to Dr. S. Herrera
+21:34 [Info] [Scientist Names] 9388765 renamed to Dr. K. McKay
+21:34 [Info] [Scientist Names] 7115517 renamed to Dr. F. Weeks
+21:36 [Info] [Kill Feed] [36/21/07/02/2021] Kappa                          Head                           rifle.semiauto                 28.8m                          Dr. K. McKay
+21:36 [Info] [Kill Feed] [36/21/07/02/2021] Kappa                          Head                           rifle.semiauto                 28.9m                          Dr. J. Burt
+21:36 [Info] [Kill Feed] [36/21/07/02/2021] Kappa                          Head                           rifle.semiauto                 36.9m                          Dr. W. Berger
+21:37 [Info] [Kill Feed] [37/21/07/02/2021] Kappa                          Head                           rifle.semiauto                 23.1m                          Dr. S. Herrera
+21:37 [Info] [Kill Feed] [37/21/07/02/2021] Kappa                          Head                           rifle.semiauto                 28.1m                          Dr. Y. Baird
+21:37 [Info] [Kill Feed] [37/21/07/02/2021] Kappa                          Head                           rifle.semiauto                 27.9m                          Dr. F. Weeks
+21:38 [Info] [Welcomer] • _.Markitus._ has joined the server from Spain.
+21:41 [Info] InventoryGuardian was compiled successfully in 2055ms
+21:41 [Info] Loaded plugin InventoryGuardian v0.2.7 by k1lly0u
+21:41 [Info] [InventoryGuardian] Saved data
+21:41 [Info] [InventoryGuardian] You have disabled Inventory Guardian
+21:41 [Info] [InventoryGuardian] Saved data
+21:41 [Info] [InventoryGuardian] You have enabled Inventory Guardian
+21:41 [Info] [InventoryGuardian] Saved data
+21:41 [Info] [InventoryGuardian] You have disabled Auto-Restore
+21:41 [Info] [InventoryGuardian] Saved data
+21:41 [Info] [InventoryGuardian] You have enabled Auto-Restore
+21:42 [Info] Group 'default' granted permission 'inventoryguardian.use'
+21:43 [Info] [Better Chat] [Team] [Newbie] _.Markitus._: HI
+21:44 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: HI
+21:44 [Info] [Better Chat] [Global] [Regular] Kappa: Hello there
+21:45 [Info] [Better Chat] [Global] [Regular] Kappa: whats up?
+21:56 [Info] [InventoryGuardian] Saved data
+22:02 [Info] [Kill Feed] [02/22/07/02/2021] _.Markitus._                                                  poison                                                        _.Markitus._
+22:03 [Info] [Scientist Names] 101889 renamed to Dr. Q. Copeland
+22:04 [Info] [Kill Feed] [04/22/07/02/2021] Kappa                          Head                           rifle.semiauto                 63.8m                          _.Markitus._
+22:06 [Info] [Scientist Names] 7022247 renamed to Dr. L. Hart
+22:06 [Info] [NTeleportation] Kappa teleported back to previous location.
+22:06 [Info] [Welcomer] • tana23vlc has joined the server from Spain.
+22:06 [Info] [Scientist Names] 154823 renamed to Dr. Z. Hull
+22:06 [Info] [Scientist Names] 1320263 renamed to Dr. H. Torres
+22:10 [Info] [Scientist Names] 5667945 renamed to Dr. U. Roth
+22:10 [Info] [Scientist Names] 8185429 renamed to Dr. O. Bullock
+22:10 [Info] [Scientist Names] 5303785 renamed to Dr. Y. Britt
+22:10 [Info] [Scientist Names] 2669980 renamed to Dr. T. Duran
+22:10 [Info] [Scientist Names] 7563571 renamed to Dr. I. Watkins
+22:10 [Info] [Scientist Names] 389722 renamed to Dr. Q. Chen
+22:10 [Info] [Scientist Names] 2249843 renamed to Dr. P. Pate
+22:10 [Info] [Scientist Names] 96791 renamed to Dr. T. Parker
+22:10 [Info] [Scientist Names] 7422032 renamed to Dr. K. Dixon
+22:10 [Info] [Scientist Names] 7543958 renamed to Dr. H. Solis
+22:10 [Info] [Scientist Names] 4173343 renamed to Dr. V. Sanchez
+22:10 [Info] [Scientist Names] 8405993 renamed to Dr. D. Preston
+22:10 [Info] [Scientist Names] 6745307 renamed to Dr. N. Jimenez
+22:10 [Info] [Scientist Names] 6753569 renamed to Dr. D. Cote
+22:10 [Info] [Scientist Names] 5533266 renamed to Dr. V. Dotson
+22:11 [Info] [InventoryGuardian] Saved data
+22:12 [Info] [Scientist Names] 2734011 renamed to Dr. Y. McMillan
+22:12 [Info] [Kill Feed] [12/22/07/02/2021] Kappa                          Head                           rifle.semiauto                 68.3m                          _.Markitus._
+22:14 [Info] [Kill Feed] [14/22/07/02/2021] _.Markitus._                                                  heat                           0.7m                           _.Markitus._
+22:14 [Info] [Kill Feed] [14/22/07/02/2021] Kappa                          Head                           rifle.semiauto                 1.1m                           tana23vlc
+22:18 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: WHY YOU KILL ME
+22:18 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: ¿?
+22:18 [Info] [Better Chat] [Team] [Newbie] _.Markitus._: hola
+22:19 [Info] [Better Chat] [Global] [Newbie] tana23vlc: YES YES BEGIN THE KAPPA
+22:20 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: why you stay in my hause ?
+22:20 [Info] [Better Chat] [Global] [Regular] Kappa: we have few hours
+22:21 [Info] [Better Chat] [Global] [Regular] Kappa: and there will be a wipe
+22:22 [Info] [Better Chat] [Global] [Newbie] tana23vlc: WIPE DAY 4/2/21
+22:22 [Info] [Better Chat] [Team] [Newbie] _.Markitus._: mounth
+22:22 [Info] [Better Chat] [Global] [Newbie] tana23vlc: DURATION 1 MOUNTH
+22:22 [Info] [Better Chat] [Global] [Regular] Kappa: u will see :)
+22:22 [Info] [Better Chat] [Team] [Newbie] _.Markitus._: month
+22:23 [Info] [Scientist Names] 8414675 renamed to Dr. R. Lamb
+22:23 [Info] [Kill Feed] [23/22/07/02/2021] Kappa                                                         pistol.python                  20.1m                          Chicken
+22:24 [Info] [Scientist Names] 8893236 renamed to Dr. Z. Livingston
+22:24 [Info] [NTeleportation] Kappa teleported back to previous location.
+22:25 [Info] [InventoryGuardian] Saved data
+22:25 [Info] [InventoryGuardian] You have successfully saved all player inventories
+22:25 [Info] [Kill Feed] [25/22/07/02/2021] Kappa                                                         explosive.satchel                                             Kappa
+22:26 [Info] [InventoryGuardian] Saved data
+22:26 [Info] [Better Chat] [Global] [Newbie] tana23vlc: YOU ADMIN
+22:27 [Info] [Better Chat] [Global] [Newbie] tana23vlc: YOU ADMIN
+22:27 [Info] [Better Chat] [Global] [Regular] Kappa: no
+22:27 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: UNA POLLAS
+22:27 [Info] [Better Say] SERVER: ?
+22:27 [Info] [Better Chat] [Global] [Newbie] tana23vlc: PLEASE ADMIN
+22:27 [Info] [Better Say] SERVER: Whats the problem?
+22:28 [Info] [Scientist Names] 1694053 renamed to Dr. K. Dennis
+22:28 [Info] [Better Chat] [Global] [Regular] Kappa: take guns
+22:29 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: they just raided us , not what weapons am I going to take
+22:29 [Info] [Better Chat] [Global] [Newbie] tana23vlc: KAPPA KAPPA DIED AND WAS TRANSPORTED HERE AND IS ABUSING US WE ARE POORKAPPA DIED AND WAS TRANSPORTED HERE AND IS ABUSING US WE 
+22:29 [Info] [Better Chat] [Global] [Newbie] tana23vlc: KAPPA DIED AND WAS TRANSPORTED HERE AND IS ABUSING US WE ARE POOR
+22:30 [Info] [Better Chat] [Global] [Regular] Kappa: who are they ? im alone :(
+22:30 [Info] [Better Chat] [Global] [Newbie] tana23vlc: COME ADMIN PLEASE WE CANNOT PLAY QUIET
+22:30 [Info] [Better Say] SERVER: Kappa pls stop, they literally have nothing
+22:30 [Info] [Better Chat] [Global] [Regular] Kappa: i have only 1 sattle
+22:30 [Info] [Better Chat] [Global] [Regular] Kappa: they have sar and piton
+22:31 [Info] [Better Chat] [Global] [Newbie] tana23vlc: BUT IF YOU DIE AND I TP HERE
+22:31 [Info] [Better Say] SERVER: So just let your build in piece, I dont wanna go online to the server and look who started this fight.....
+22:31 [Info] [Better Chat] [Global] [Newbie] tana23vlc: YOU DIE WITH THE EXPOLISION AND APPEAR HERE AGAIN
+22:32 [Info] [Better Chat] [Global] [Regular] Kappa: stop the caps lock man :/
+22:32 [Info] [Better Chat] [Global] [Newbie] tana23vlc: KAPPA YOU DIE WITH THE EXPOLISION AND APPEAR HERE AGAIN
+22:32 [Info] [Better Chat] [Global] [Regular] Kappa: i just respawn on the bag outside
+22:32 [Info] [Better Chat] [Global] [Regular] Kappa: my stuff are on roof
+22:32 [Info] [Better Chat] [Global] [Newbie] tana23vlc: so fast?
+22:33 [Info] [Better Chat] [Global] [Regular] Kappa: only satchels fall on the ground
+22:33 [Info] [Kill Feed] [33/22/07/02/2021] Kappa                                                         pickaxe                        0.6m                           Chicken
+22:33 [Info] [Kill Feed] [33/22/07/02/2021] Kappa                                                         pickaxe                        0.7m                           Chicken
+22:34 [Info] [Kill Feed] [34/22/07/02/2021] Kappa                                                         explosive.satchel              99.8m                          tana23vlc
+22:34 [Info] [Kill Feed] [34/22/07/02/2021] Kappa                                                         explosive.satchel              97.8m                          _.Markitus._
+22:34 [Info] [Better Chat] [Global] [Regular] Kappa: wtf ?
+22:34 [Info] [Better Chat] [Global] [Regular] Kappa: how u die ?
+22:34 [Info] [Better Chat] [Global] [Regular] Kappa: i swear it was not me
+22:34 [Info] [Kill Feed] [34/22/07/02/2021] Kappa                                                         hatchet                        0.7m                           Chicken
+22:36 [Info] [Scientist Names] 5333549 renamed to Dr. Y. Vinson
+22:36 [Info] [Better Chat] [Global] [Newbie] tana23vlc: kappa help us raidear?
+22:36 [Info] [Better Chat] [Global] [Newbie] tana23vlc: 1h ago they took everything from us
+22:36 [Info] [Better Chat] [Global] [Regular] Kappa: ah no that was me
+22:36 [Info] [Kill Feed] [36/22/07/02/2021] Kappa                                                         hunger                                                        Kappa
+22:37 [Info] [Better Chat] [Global] [Newbie] tana23vlc: don't fight each other
+22:37 [Info] [Kill Feed] [37/22/07/02/2021] _.Markitus._                   Hip                            rifle.semiauto                 19.1m                          Kappa
+22:37 [Info] [Better Chat] [Global] [Regular] Kappa: gg u win
+22:38 [Info] [Better Chat] [Global] [Newbie] tana23vlc: have you been the one who raids us?
+22:38 [Info] [Scientist Names] 5869371 renamed to Dr. D. Owens
+22:38 [Info] [Welcomer] • Kappa has left the server (Disconnected).
+22:41 [Info] [InventoryGuardian] Saved data
+22:46 [Info] [Scientist Names] 3094838 renamed to Dr. X. McCoy
+22:47 [Info] [Scientist Names] 9898916 renamed to Dr. F. Cochran
+22:55 [Info] [Scientist Names] 1092638 renamed to Dr. C. Bauer
+22:56 [Info] [InventoryGuardian] Saved data
+22:56 [Info] [Scientist Names] 5565556 renamed to Dr. R. Swanson
+22:57 [Info] [Scientist Names] 7896329 renamed to Dr. T. Dillon
+23:01 [Info] [Scientist Names] 6200903 renamed to Dr. J. Wall
+23:11 [Info] [InventoryGuardian] Saved data
+23:17 [Info] [InventoryGuardian] Saved data
+23:17 [Info] [InventoryGuardian] You have successfully saved all player inventories
+23:17 [Info] [Scientist Names] 9484286 renamed to Dr. G. Chen
+23:17 [Info] [Kill Feed] [17/23/07/02/2021] tana23vlc                                                     guntrap                        3.8m                           tana23vlc
+23:19 [Info] [Scientist Names] 2238897 renamed to Dr. N. Conrad
+23:20 [Info] InventoryGuardian was compiled successfully in 1082ms
+23:20 [Info] [InventoryGuardian] Saved data
+23:20 [Info] Unloaded plugin InventoryGuardian v0.2.7 by k1lly0u
+23:20 [Info] Loaded plugin InventoryGuardian v0.2.7 by k1lly0u
+23:21 [Info] [InventoryGuardian] Saved data
+23:21 [Info] [InventoryGuardian] Saved data
+23:21 [Info] Unloaded plugin InventoryGuardian v0.2.7 by k1lly0u
+23:21 [Info] Loaded plugin InventoryGuardian v0.2.7 by k1lly0u
+23:21 [Info] [PlayerRankings] tana23vlc has been ranked up to player
+23:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+23:35 [Info] [Scientist Names] 8089265 renamed to Dr. B. Kent
+23:36 [Info] [InventoryGuardian] Saved data
+23:39 [Info] [Scientist Names] 2519886 renamed to Dr. T. Ewing
+23:43 [Info] [Scientist Names] 5635678 renamed to Dr. U. Hartman
+23:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+23:46 [Info] [Scientist Names] 304407 renamed to Dr. G. Hooper
+23:48 [Info] [Kill Feed] [48/23/07/02/2021] _.Markitus._                                                  pistol.python                  3.1m                           Wolf
+23:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+23:51 [Info] [InventoryGuardian] Saved data
+23:53 [Info] [Scientist Names] 3207301 renamed to Dr. A. Kennedy
+23:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+23:55 [Info] [Scientist Names] 6976769 renamed to Dr. Z. Phillips
+23:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+23:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+23:57 [Info] [Welcomer] • _.Markitus._ has left the server (Disconnected).
+23:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 9 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 8 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 7 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 6 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 1 seconds!

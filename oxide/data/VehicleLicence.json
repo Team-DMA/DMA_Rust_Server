@@ -1,0 +1,118 @@
+{
+  "playerData": {
+    "76561198070936229": {
+      "HotAirBalloon": {
+        "entityID": 0,
+        "lastDeath": 1613328447.458
+      },
+      "Sedan": {
+        "entityID": 13837623,
+        "lastDeath": 0.0
+      },
+      "Rowboat": {
+        "entityID": 1389211,
+        "lastDeath": 0.0
+      },
+      "TransportHelicopter": {
+        "entityID": 0,
+        "lastDeath": 0.0
+      },
+      "MiniCopter": {
+        "entityID": 0,
+        "lastDeath": 0.0
+      },
+      "RHIB": {
+        "entityID": 0,
+        "lastDeath": 0.0
+      },
+      "Chinook": {
+        "entityID": 0,
+        "lastDeath": 0.0
+      }
+    },
+    "76561198121059907": {
+      "TransportHelicopter": {
+        "entityID": 0,
+        "lastDeath": 0.0
+      }
+    },
+    "76561198849569341": {
+      "MiniCopter": {
+        "entityID": 0,
+        "lastDeath": 0.0
+      }
+    },
+    "76561198068052289": {
+      "HotAirBalloon": {
+        "entityID": 0,
+        "lastDeath": 0.0
+      },
+      "MiniCopter": {
+        "entityID": 0,
+        "lastDeath": 1613500398.592
+      },
+      "RidableHorse": {
+        "entityID": 1377040,
+        "lastDeath": 0.0
+      },
+      "TransportHelicopter": {
+        "entityID": 10000866,
+        "lastDeath": 0.0
+      },
+      "Sedan": {
+        "entityID": 25844465,
+        "lastDeath": 0.0
+      }
+    },
+    "76561198125487140": {},
+    "76561198435619481": {
+      "MiniCopter": {
+        "entityID": 0,
+        "lastDeath": 1612837326.662
+      }
+    },
+    "76561198039160750": {
+      "Rowboat": {
+        "entityID": 2118196,
+        "lastDeath": 0.0
+      }
+    },
+    "76561198077115631": {
+      "Rowboat": {
+        "entityID": 2757268,
+        "lastDeath": 0.0
+      }
+    },
+    "76561198150369987": {
+      "RidableHorse": {
+        "entityID": 7815455,
+        "lastDeath": 0.0
+      }
+    },
+    "76561198156634853": {
+      "MiniCopter": {
+        "entityID": 0,
+        "lastDeath": 1613489959.436
+      }
+    },
+    "76561198032003828": {
+      "RidableHorse": {
+        "entityID": 12076792,
+        "lastDeath": 0.0
+      }
+    },
+    "76561198072125188": {},
+    "76561197993076855": {
+      "MiniCopter": {
+        "entityID": 0,
+        "lastDeath": 1613437744.98
+      }
+    },
+    "76561198030572483": {
+      "MiniCopter": {
+        "entityID": 20531865,
+        "lastDeath": 0.0
+      }
+    }
+  }
+}

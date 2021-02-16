@@ -1,0 +1,259 @@
+{
+  "Config Version": "2.0.1",
+  "Default RuleSet": "default",
+  "Configuration Options": {
+    "handleDamage": true,
+    "useZones": false
+  },
+  "Mappings": {
+    "default": "default",
+	"raid": "raid"
+  },
+  "Schedule": {
+    "enabled": true,
+    "useRealtime": true,
+    "broadcast": true,
+    "entries": [
+		"*.15:00 raid PVP is on now!",
+		"*.21:00 default PVE is on now!"
+	]
+  },
+  "RuleSets": [
+    {
+      "name": "default",
+      "enabled": true,
+      "defaultAllowDamage": true,
+      "flags": "AuthorizedDamage, HeliDamageLocked, HumanNPCDamage, CupboardOwnership, SelfDamage, TwigDamage, LockedBoxesImmortal, LockedDoorsImmortal, TrapsIgnorePlayers, TurretsIgnorePlayers, SamSitesIgnorePlayers",
+      "rules": [
+        "anything can hurt dispensers",
+        "heli can hurt anything",
+		"players cannot hurt players",
+        "players cannot hurt traps",
+        "players cannot hurt teslacoil",
+        "players cannot hurt doors",
+        "players cannot hurt buildings",
+        "players cannot hurt deployables",
+        "players cannot hurt storages",
+        "players cannot hurt barricades",
+        "players cannot hurt balloons",
+        "players cannot hurt minicopter",
+        "players cannot hurt samsite",
+        "players can hurt npcs",
+        "players can hurt npcscientist",
+        "players can hurt heli",
+        "players can hurt horse",
+        "players can hurt npcmurderer",
+        "explosives cannot hurt players",
+		"explosives cannot hurt buildings",
+		"explosives cannot hurt deployables",
+		"explosives cannot hurt storages",
+		"traps cannot hurt players",
+        "traps can hurt npcs",
+        "teslacoil can hurt anything",
+        "teslacoil cannot hurt players",
+        "barricades cannot hurt players",
+        "highwalls cannot hurt players",
+        "npcs can hurt players",
+        "npcs can hurt npcs",
+        "npcs can hurt npcmurderer",
+        "npcs can hurt npcscientist",
+        "npcscientist can hurt npcs",
+        "npcscientist can hurt players",
+        "npcscientist can hurt npcmurderer",
+        "npcmurderer can hurt npcs",
+        "npcmurderer can hurt players",
+        "npcmurderer can hurt npcscientist",
+        "fire cannot hurt players",
+        "fire cannot hurt traps",
+        "fire cannot hurt teslacoil",
+        "fire cannot hurt doors",
+        "fire cannot hurt buildings",
+        "fire cannot hurt deployables",
+        "fire cannot hurt storages",
+        "fire can hurt npcs",
+        "fire can hurt npcmurderer",
+        "fire can hurt npcscientist",
+        "anything can hurt resources",
+        "anything can hurt samsite",
+        "samsite can hurt minicopter",
+        "samsite can hurt players",
+        "samsite can hurt heli",
+        "samsite can hurt balloons"
+      ]
+    },
+    {
+      "name": "raid",
+      "enabled": true,
+      "defaultAllowDamage": true,
+      "flags": "AuthorizedDamage, HeliDamageLocked, HumanNPCDamage, SelfDamage",
+      "rules": [
+        "anything can hurt dispensers",
+        "anything can hurt players",
+        "heli can hurt anything",
+		"players can hurt players",
+        "players can hurt traps",
+        "players can hurt teslacoil",
+        "players can hurt doors",
+        "players can hurt buildings",
+        "players can hurt deployables",
+        "players can hurt storages",
+        "players can hurt barricades",
+        "players can hurt npcs",
+        "players can hurt npcscientist",
+        "players can hurt npcmurderer",
+        "players can hurt balloons",
+        "players can hurt minicopter",
+        "players can hurt samsite",
+        "players can hurt heli",
+        "players can hurt horse",
+		"explosives can hurt players",
+		"explosives can hurt buildings",
+		"explosives can hurt deployables",
+		"explosives can hurt storages",
+		"traps can hurt players",
+        "traps can hurt npcs",
+        "teslacoil can hurt anything",
+        "teslacoil can hurt players",
+        "barricades can hurt players",
+        "highwalls can hurt players",
+        "npcs can hurt players",
+        "npcs can hurt npcs",
+        "npcs can hurt npcmurderer",
+        "npcs can hurt npcscientist",
+        "npcscientist can hurt npcs",
+        "npcscientist can hurt players",
+        "npcscientist can hurt npcmurderer",
+        "npcmurderer can hurt npcs",
+        "npcmurderer can hurt players",
+        "npcmurderer can hurt npcscientist",
+        "fire can hurt players",
+        "fire can hurt traps",
+        "fire can hurt teslacoil",
+        "fire can hurt doors",
+        "fire can hurt buildings",
+        "fire can hurt deployables",
+        "fire can hurt storages",
+        "anything can hurt resources",
+        "anything can hurt samsite",
+        "samsite can hurt minicopter",
+        "samsite can hurt heli",
+        "samsite can hurt players",
+        "samsite can hurt balloons"
+
+      ]
+    }	
+  ],
+  "Allow Killing Sleepers": false,
+  "Entity Groups": [
+    {
+      "name": "deployables",
+      "members": "mining.pumpjack, mining.quarry, mining.pumpjack, mining_quarry, miningquarry_static, pumpjack-static, small_refinery_static, furnace_static, refinery_small_deployed, planter.large.deployed, planter.small.deployed, furnace.large, furnace, generator.wind.scrap, electric.windmill.small, water_catcher_large, water_catcher_small, waterpurifier.deployed, waterstorage, waterbarrel, watchtower.wood, composter, water.catcher.small, water.catcher.large, water.barrel, large.furnace, vendingmachine.deployed",
+      "exclusions": ""
+    },
+    {
+      "name": "dispensers",
+      "members": "BaseCorpse, HelicopterDebris",
+      "exclusions": ""
+    },
+    {
+      "name": "minicopter",
+      "members": "minicopter, minicopter.entity, scraptransporthelicopter",
+      "exclusions": ""
+    },
+    {
+      "name": "balloons",
+      "members": "hotairballoon",
+      "exclusions": ""
+    },
+    {
+      "name": "samsite",
+      "members": "sam_site_turret_deployed",
+      "exclusions": "sam_static, samsite_static"
+    },
+    {
+      "name": "explosives",
+      "members": "explosive.satchel, explosive.timed, ammo.rocket.smoke, ammo.rocket.basic, ammo.rocket.hv, ammo.rocket.smoke, ammo.rocket.fire, ammo.rifle.incendiary, ammo.rifle.explosive, grenade.f1, grenade.beancan, ammo.grenadelauncher.he, ammo.shotgun.fire, arrow.fire, surveycharge",
+      "exclusions": ""
+    },
+    {
+      "name": "players",
+      "members": "BasePlayer",
+      "exclusions": ""
+    },
+    {
+      "name": "traps",
+      "members": "AutoTurret, BearTrap, FlameTurret, Landmine, GunTrap, ReactiveTarget, spikes.floor",
+      "exclusions": ""
+    },
+    {
+      "name": "teslacoil",
+      "members": "TeslaCoil, teslacoil.deployed",
+      "exclusions": ""
+    },
+    {
+      "name": "barricades",
+      "members": "Barricade",
+      "exclusions": ""
+    },
+    {
+      "name": "highwalls",
+      "members": "wall.external.high.stone, wall.external.high.wood, gates.external.high.wood, gates.external.high.wood",
+      "exclusions": ""
+    },
+    {
+      "name": "heli",
+      "members": "BaseHelicopter",
+      "exclusions": ""
+    },
+    {
+      "name": "doors",
+      "members": "door.hinged.toptier, door.hinged.wood, door.hinged.metal, door.double.hinged.metal, door.double.hinged.toptier, door.double.hinged.wood, door.hinged.garage_a, floor.ladder.hatch",
+      "exclusions": ""
+    },
+    {
+      "name": "buildings",
+      "members": "wall, wall.frame, wall.half, wall.low, wall.doorway, wall.frame.shopfront, wall.frame.shopfront.metal, wall.window, foundation, foundation, foundation.steps, foundation.triangle, floor.frame, floor.grill, floor, floor.triangle, wall.frame.garagedoor, wall.frame.fence, wall.frame.cell, wall.window.bars, shutter.metal.embrasure, shutter.wood.a, wall.window.glass.reinforced, wall.window.bars.toptier, wall.window.bars, wall.window.bars.metal, wall.window.bars.wood",
+      "exclusions": ""
+    },
+    {
+      "name": "horse",
+      "members": "ridablehorse.entity, horse.entity, testridablehorse",
+      "exclusions": ""
+    },
+    {
+      "name": "npcs",
+      "members": "NPCPlayerApex, BradleyAPC",
+      "exclusions": ""
+    },
+    {
+      "name": "npcscientist",
+      "members": "ScientistNPC, scientist, ALLScientist",
+      "exclusions": ""
+    },
+    {
+      "name": "npcmurderer",
+      "members": "Murderer, NPCMurderer, scarecrow",
+      "exclusions": ""
+    },
+    {
+      "name": "fire",
+      "members": "FireBall, fireball_small, fireball_small_arrow, fireball_small_shotgun, flamethrower_fireball, flameturret_fireball, oilfireball2, oilfireballsmall",
+      "exclusions": ""
+    },
+    {
+      "name": "storages",
+      "members": "box.wooden.large, woodbox_deployed, fridge.deployed, locker.deployed, cupboard.tool.deployed",
+      "exclusions": ""
+    },
+	{
+	  "name": "roadsigns",
+	  "members": "roadsign, roadsign1, roadsign2, roadsign3, roadsign4, roadsign5, roadsign6",
+	  "exclusions": ""
+	},
+    {
+      "name": "resources",
+      "members": "ResourceEntity, TreeEntity, OreResourceEntity",
+      "exclusions": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[01/30/2021 11:20:49]Start protection enabled for Guido [76561198286584997] - Duration: 30 minutes.
+
+[01/30/2021 15:29:16]Start protection enabled for millehansen94 [76561198435219738] - Duration: 30 minutes.
+Start protection disabled by user millehansen94 [76561198435219738]
+
+[01/30/2021 16:40:06]Start protection enabled for PofJonko [76561198117474652] - Duration: 30 minutes.
+
+[01/30/2021 16:51:52]Start protection disabled by user PofJonko [76561198117474652]
+
+[01/30/2021 22:16:28]Start protection enabled for Kappa [76561198077115631] - Duration: 29 minutes.
+Start protection disabled by user Kappa [76561198077115631]
+

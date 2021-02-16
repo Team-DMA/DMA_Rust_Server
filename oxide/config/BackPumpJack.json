@@ -1,0 +1,73 @@
+{
+  "Settings": {
+    "Use Teams": true,
+    "Use Friends": true,
+    "Use Clans": true,
+    "Block damage another player's survey crater": true,
+    "Block deploy a quarry on another player's survey crater": true
+  },
+  "Chat Settings": {
+    "Chat Prefix": "[BackPumpJack]: ",
+    "Chat Prefix Color": "#00FFFF",
+    "Chat SteamID Icon": 0
+  },
+  "Permission List": [
+    {
+      "Permission": "backpumpjack.use",
+      "Priority": 0,
+      "Oil Crater Chance": 100.0,
+      "Oil Crater Settings": {
+        "Minimum pM": 5.0,
+        "Maximum pM": 10.0
+      },
+      "Normal Crater Settings": {
+        "Modify Chance (If not modified, use default mineral)": 0.0,
+        "Minimum Mineral Amount": 0,
+        "Maximum Mineral Amount": 0,
+        "Allow Duplication Of Mineral Item": true,
+        "Mineral Items": []
+      }
+    },
+    {
+      "Permission": "backpumpjack.vip",
+      "Priority": 1,
+      "Oil Crater Chance": 40.0,
+      "Oil Crater Settings": {
+        "Minimum pM": 10.0,
+        "Maximum pM": 20.0
+      },
+      "Normal Crater Settings": {
+        "Modify Chance (If not modified, use default mineral)": 50.0,
+        "Minimum Mineral Amount": 1,
+        "Maximum Mineral Amount": 3,
+        "Allow Duplication Of Mineral Item": false,
+        "Mineral Items": [
+          {
+            "Mineral Item Short Name": "stones",
+            "Chance": 60.0,
+            "Minimum pM": 120.0,
+            "Maximum pM": 180.0
+          },
+          {
+            "Mineral Item Short Name": "metal.ore",
+            "Chance": 50.0,
+            "Minimum pM": 15.0,
+            "Maximum pM": 25.0
+          },
+          {
+            "Mineral Item Short Name": "sulfur.ore",
+            "Chance": 50.0,
+            "Minimum pM": 15.0,
+            "Maximum pM": 15.0
+          },
+          {
+            "Mineral Item Short Name": "hq.metal.ore",
+            "Chance": 50.0,
+            "Minimum pM": 1.5,
+            "Maximum pM": 2.0
+          }
+        ]
+      }
+    }
+  ]
+}

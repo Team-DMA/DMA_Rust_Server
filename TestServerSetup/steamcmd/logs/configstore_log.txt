@@ -32,3 +32,12 @@
 [2021-02-07 19:56:07] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
 [2021-02-07 19:56:37] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
 [2021-02-07 19:57:26] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+
+
+[2021-02-10 15:00:42] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-02-10 15:00:42] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-02-10 15:00:43] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-02-10 15:00:44] Failed to read store 'userlocal' from 'E:\Rust Server\TestServerSetup\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2021-02-10 15:00:45] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-02-10 15:01:18] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-02-10 15:02:08] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'

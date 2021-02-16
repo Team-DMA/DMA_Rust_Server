@@ -1,0 +1,15 @@
+{
+  "Purge Settings": [
+    {
+      "Permission": "",
+      "Lifetime": "5d"
+    }
+  ],
+  "Purge Timer Frequency": -1.0,
+  "Purge On Startup": true,
+  "Entities Per Step": 512,
+  "Purge Building Blocks": true,
+  "Purge Deployables": true,
+  "Purge Sleepers": true,
+  "Use Logs": true
+}

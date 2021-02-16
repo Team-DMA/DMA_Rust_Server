@@ -1,0 +1,70 @@
+{
+  "Players": {
+    "76561197988349893": {
+      "UserId": 76561197988349893,
+      "TimeLeft": 1080,
+      "Multiple": true,
+      "InitTimestamp": 1613409845
+    },
+    "76561198013409154": {
+      "UserId": 76561198013409154,
+      "TimeLeft": 1080,
+      "Multiple": true,
+      "InitTimestamp": 1613396351
+    },
+    "76561198029115048": {
+      "UserId": 76561198029115048,
+      "TimeLeft": 420,
+      "Multiple": true,
+      "InitTimestamp": 1613471275
+    },
+    "76561198021408560": {
+      "UserId": 76561198021408560,
+      "TimeLeft": 840,
+      "Multiple": true,
+      "InitTimestamp": 1613396380
+    },
+    "76561198185684928": {
+      "UserId": 76561198185684928,
+      "TimeLeft": 1800,
+      "Multiple": true,
+      "InitTimestamp": 1613411636
+    },
+    "76561199073880540": {
+      "UserId": 76561199073880540,
+      "TimeLeft": 1740,
+      "Multiple": true,
+      "InitTimestamp": 1613425609
+    },
+    "76561197998564037": {
+      "UserId": 76561197998564037,
+      "TimeLeft": 1140,
+      "Multiple": true,
+      "InitTimestamp": 1613425455
+    },
+    "76561199007911145": {
+      "UserId": 76561199007911145,
+      "TimeLeft": 1440,
+      "Multiple": true,
+      "InitTimestamp": 1613475402
+    },
+    "76561198381447285": {
+      "UserId": 76561198381447285,
+      "TimeLeft": 1740,
+      "Multiple": true,
+      "InitTimestamp": 1613485319
+    },
+    "76561198164609850": {
+      "UserId": 76561198164609850,
+      "TimeLeft": 660,
+      "Multiple": true,
+      "InitTimestamp": 1613495494
+    },
+    "76561198049027128": {
+      "UserId": 76561198049027128,
+      "TimeLeft": 1620,
+      "Multiple": true,
+      "InitTimestamp": 1613499279
+    }
+  }
+}

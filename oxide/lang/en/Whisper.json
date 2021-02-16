@@ -1,0 +1,12 @@
+{
+  "Prefix": "[#ff6666][WHISPER][/#] ",
+  "Message": "[#c0c0c0ff]{0}[/#]",
+  "NoPermission": "You don't have permission to use that commannd",
+  "Whispered": "Whispered {0} ({1}) with message '{2}'",
+  "InvalidArgs": "Invalid arguments. Usage: '{0} <id> <message>'",
+  "InvalidArgsReply": "Invalid arguments. Usage '{0} <message>'",
+  "NotId": "The ID you entered doesn't seem to be a valid Steam ID",
+  "NoPlayer": "No online player found with that Steam ID",
+  "Replied": "You have sent your reply",
+  "Reply;": "[REPLY] {0} replied with message '{1}'"
+}

@@ -1,0 +1,1074 @@
+00:00 [Info] Uninstalling Rust:IO ...
+00:00 [Info] Rust:IO> Uninstalling ...
+00:00 [Info] Rust:IO> No longer ticking
+00:00 [Info] Rust:IO> Stopping server ...
+00:00 [Info] Rust:IO> Removing listeners ...
+00:00 [Info] Rust:IO> Performing maintenance ...
+00:00 [Info] Rust:IO> Closing database ...
+00:00 [Info] Rust:IO> Uninstalled.
+00:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Warning] Calling 'Unload' on 'BGrade v1.1.3' took 112ms
+00:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Warning] Calling 'Unload' on 'BetterLoot v3.5.3' took 114ms
+00:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 113ms
+00:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+00:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Warning] Calling 'Unload' on 'InventoryViewer v3.0.3' took 110ms
+00:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 205ms
+00:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] [Start Protection] Saving protection database...
+00:00 [Info] Unloaded plugin Start Protection v2.3.2 by wazzzup
+00:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+00:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+00:00 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 103ms
+00:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:00 [Info] Loading Oxide Core v2.0.3991...
+00:00 [Info] Loading extensions...
+00:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust v2.0.4891 by Oxide Team and Contributors
+00:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Using Covalence provider for game 'Rust'
+00:00 [Info] Loading plugins...
+00:00 [Info] Loaded plugin Rust v2.0.4891 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:00 [Info] AdminChat, AliasSystem, AutoBroadcast, AutomaticAuthorization, BGrade, BetterChat, BetterChatMentions, BetterLoot, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NTeleportation, NoEscape, NoGiveNotices, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, QuickSmelt, RemoverTool, ServerInfo, ServerRewards, Skins, SmoothRestart, SpawnMini, StackSizeController, StartProtection, Vanish, VehicleDecayProtection, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+00:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+00:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+00:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+00:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:00 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+00:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+00:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] Loaded plugin Start Protection v2.3.2 by wazzzup
+00:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+00:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+00:03 [Info] IP address from Steam query: 0.0.0.0
+00:03 [Info] Updating Rust:IO ...
+00:03 [Info] [BetterLoot] Using '33' active of '35' supported containertypes
+00:03 [Info] [BetterLoot] Updating internals ...
+00:03 [Info] Rust:IO: Update complete
+00:03 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 352ms
+00:03 [Info] [Kill Feed] Loading configuration file!
+00:03 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 119ms
+00:03 [Warning] [Server Rewards] All UI elements have been successfully generated!
+00:03 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 297ms
+00:03 [Info] [Start Protection] Removing 5 old entries from the protection list.
+00:03 [Info] [Start Protection] Start Protection has been enabled [Minutes: 30] (type /sp toggle to disable).
+00:03 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+00:03 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+00:03 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 145ms
+00:03 [Info] [BetterLoot] Removed 1 stacked LootContainer
+00:03 [Info] [BetterLoot] Populated '450' supported containers.
+00:03 [Info] [SmoothRestart] Your servers Oxide build is up to date
+00:03 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+00:03 [Info] Installing Rust:IO ...
+00:03 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+00:03 [Info] Rust:IO> Creating directories ...
+00:03 [Info] Rust:IO> Applying config ...
+00:03 [Info] Rust:IO> Initializing database ...
+00:03 [Info] Rust:IO> Generating map image (this may take a while) ...
+00:03 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7710.534ms
+Postprocess  :  3509.333ms
+  Shadows    :   294.205ms
+  FXAA       :  3200.770ms
+Encoding     :    33.413ms
+Other        :     9.882ms
+--------------------------
+Total        :  11263.162ms
+00:03 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+00:03 [Info] Rust:IO> Installed.
+00:03 [Info] Rust:IO> Now ticking
+00:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 11488ms [GARBAGE COLLECT]
+00:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 1ms [GARBAGE COLLECT]
+00:03 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+00:39 [Info] [Welcomer] • Soaker has joined the server from Switzerland.
+00:39 [Info] [Welcomer] • Pep Guardiola has joined the server from Switzerland.
+01:25 [Info] [Welcomer] • SeeMS has joined the server from France.
+01:34 [Info] [Welcomer] • SeeMS has left the server (Disconnected).
+01:42 [Info] [PlayerRankings] Soaker has been ranked up to player
+02:02 [Info] [Better Chat] [Team] [Newbie] Pep Guardiola: kill
+02:02 [Info] [Better Chat] [Team] [Newbie] Pep Guardiola: kill
+08:21 [Info] [PlayerRankings] Pep Guardiola has been ranked up to player
+09:25 [Info] [Better Chat] [Team] [Player] Pep Guardiola: kill
+09:25 [Info] [Better Chat] [Team] [Player] Pep Guardiola: kill
+09:31 [Info] [Welcomer] • St0rmCrus4er has joined the server from Germany.
+11:15 [Info] [SmoothRestart] Server will restart in 45 minutes!
+11:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+11:31 [Info] [Welcomer] • Pep Guardiola has left the server (Disconnected).
+11:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+11:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+11:54 [Info] [Welcomer] • SoupeDeBaston has joined the server from France.
+11:54 [Info] [Welcomer] • g0atforce has joined the server from Germany.
+11:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+11:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+11:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+11:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+11:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+11:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+11:59 [Info] [Welcomer] • Soaker has left the server (Disconnected).
+11:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+11:59 [Info] [Welcomer] • St0rmCrus4er has left the server (Disconnected).
+11:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 1 seconds!
+12:00 [Info] Uninstalling Rust:IO ...
+12:00 [Info] Rust:IO> Uninstalling ...
+12:00 [Info] Rust:IO> No longer ticking
+12:00 [Info] Rust:IO> Stopping server ...
+12:00 [Info] Rust:IO> Removing listeners ...
+12:00 [Info] Rust:IO> Performing maintenance ...
+12:00 [Info] Rust:IO> Closing database ...
+12:00 [Info] Rust:IO> Uninstalled.
+12:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+12:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+12:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+12:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+12:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+12:00 [Warning] Calling 'Unload' on 'BGrade v1.1.3' took 103ms
+12:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+12:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+12:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+12:00 [Warning] Calling 'Unload' on 'BetterLoot v3.5.3' took 105ms
+12:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+12:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+12:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+12:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+12:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+12:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+12:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+12:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+12:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+12:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+12:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+12:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+12:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+12:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+12:00 [Warning] Calling 'Unload' on 'InventoryViewer v3.0.3' took 105ms
+12:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+12:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+12:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+12:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+12:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+12:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 204ms
+12:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+12:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+12:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+12:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+12:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+12:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+12:00 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 100ms
+12:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+12:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+12:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+12:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+12:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+12:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+12:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+12:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+12:00 [Info] [Start Protection] Saving protection database...
+12:00 [Info] Unloaded plugin Start Protection v2.3.2 by wazzzup
+12:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+12:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+12:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+12:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+12:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+12:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+12:00 [Info] Loading Oxide Core v2.0.3991...
+12:00 [Info] Loading extensions...
+12:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+12:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+12:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+12:00 [Info] Loaded extension Rust v2.0.4891 by Oxide Team and Contributors
+12:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+12:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+12:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:00 [Info] Using Covalence provider for game 'Rust'
+12:00 [Info] Loading plugins...
+12:00 [Info] Loaded plugin Rust v2.0.4891 by Oxide Team and Contributors
+12:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+12:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+12:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+12:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+12:00 [Info] AdminChat, AliasSystem, AutoBroadcast, AutomaticAuthorization, BGrade, BetterChat, BetterChatMentions, BetterLoot, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NTeleportation, NoEscape, NoGiveNotices, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, QuickSmelt, RemoverTool, ServerInfo, ServerRewards, Skins, SmoothRestart, SpawnMini, StackSizeController, StartProtection, Vanish, VehicleDecayProtection, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+12:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+12:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+12:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+12:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+12:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+12:00 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+12:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+12:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+12:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+12:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+12:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+12:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+12:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+12:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+12:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+12:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+12:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+12:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+12:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+12:00 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+12:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+12:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+12:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+12:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+12:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+12:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+12:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+12:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+12:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+12:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+12:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+12:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+12:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+12:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+12:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+12:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+12:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+12:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+12:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+12:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+12:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+12:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+12:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+12:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+12:00 [Info] Loaded plugin Start Protection v2.3.2 by wazzzup
+12:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+12:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+12:00 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+12:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+12:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+12:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+12:03 [Info] IP address from Steam query: 0.0.0.0
+12:03 [Info] Updating Rust:IO ...
+12:03 [Info] [BetterLoot] Using '33' active of '35' supported containertypes
+12:03 [Info] [BetterLoot] Updating internals ...
+12:03 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 103ms
+12:03 [Info] Rust:IO: Update complete
+12:03 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 387ms
+12:03 [Info] [Kill Feed] Loading configuration file!
+12:03 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 132ms
+12:03 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 101ms
+12:03 [Warning] [Server Rewards] All UI elements have been successfully generated!
+12:03 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 320ms
+12:03 [Info] [Start Protection] Removing 4 old entries from the protection list.
+12:03 [Info] [Start Protection] Start Protection has been enabled [Minutes: 30] (type /sp toggle to disable).
+12:03 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+12:03 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+12:03 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 143ms
+12:03 [Info] [BetterLoot] No stacked LootContainer found.
+12:03 [Info] [BetterLoot] Populated '454' supported containers.
+12:03 [Info] [SmoothRestart] Your servers Oxide build is up to date
+12:03 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+12:03 [Info] Installing Rust:IO ...
+12:03 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+12:03 [Info] Rust:IO> Creating directories ...
+12:03 [Info] Rust:IO> Applying config ...
+12:03 [Info] Rust:IO> Initializing database ...
+12:03 [Info] Rust:IO> Generating map image (this may take a while) ...
+12:03 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7625.758ms
+Postprocess  :  3703.202ms
+  Shadows    :   285.977ms
+  FXAA       :  3401.616ms
+Encoding     :    33.872ms
+Other        :    10.579ms
+--------------------------
+Total        :  11373.411ms
+12:03 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+12:03 [Info] Rust:IO> Installed.
+12:03 [Info] Rust:IO> Now ticking
+12:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 11609ms [GARBAGE COLLECT]
+12:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 1ms [GARBAGE COLLECT]
+12:03 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+12:08 [Info] [Welcomer] • St0rmCrus4er has joined the server from Germany.
+12:17 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+12:17 [Info] [Welcomer] • Pep Guardiola has joined the server from Switzerland.
+12:18 [Info] [Welcomer] • Soaker has joined the server from Switzerland.
+12:23 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198284676370
+12:23 [Info] [VoteRewards] 0
+12:43 [Info] [Welcomer] • St0rmCrus4er has left the server (Timed Out).
+12:48 [Info] [Better Chat] [Global] [Regular] Kongen: GG
+12:48 [Info] [Better Chat] [Global] [Regular] Kongen: any good loot in the box?
+12:50 [Info] [Welcomer] • St0rmCrus4er has joined the server from Germany.
+12:53 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+13:32 [Info] [Welcomer] • Soaker has left the server (Disconnected).
+13:35 [Info] [Welcomer] • SeeMS has joined the server from France.
+13:37 [Info] [Better Chat] [Global] [Player] SeeMS: <​3333
+14:03 [Info] [Welcomer] • Rayzen has joined the server from France.
+14:03 [Info] [Better Chat] [Global] [Player] SeeMS: naaan me dite pas que c jujuboss
+14:04 [Info] [Better Chat] [Global] [Newbie] Rayzen: Jv te raid pd
+14:04 [Info] [Better Chat] [Global] [Player] SeeMS: XDDDDD
+14:04 [Info] [Better Chat] [Global] [Player] SeeMS: MDRR
+14:04 [Info] [Better Chat] [Global] [Newbie] Rayzen: Repond discord
+14:04 [Info] [Better Chat] [Global] [Player] SeeMS: merd jpa vu wait
+14:04 [Info] [Better Chat] [Global] [Player] SeeMS: jv voir
+14:04 [Info] [Better Chat] [Global] [Newbie] Rayzen: Frere tu joue sur un serv t solo
+14:05 [Info] [Better Chat] [Global] [Player] SeeMS: mais si y a des joueurs defois
+14:05 [Info] [Better Chat] [Global] [Player] SeeMS: ca monte a 10 et tout
+14:05 [Info] [Better Chat] [Global] [Player] SeeMS: xDDDD
+14:05 [Info] [Better Chat] [Global] [Player] SeeMS: jdecouvre genre les armes
+14:05 [Info] [Better Chat] [Global] [Player] SeeMS: et jv les raid plus tard xd
+14:06 [Info] [Better Chat] [Global] [Player] SeeMS: t là ?
+14:06 [Info] [Better Chat] [Global] [Player] SeeMS: MDR XD
+14:06 [Info] [Better Chat] [Global] [Player] SeeMS: j ecouteur gamer
+14:06 [Info] [Better Chat] [Global] [Player] SeeMS: avec embout
+14:06 [Info] [Better Chat] [Global] [Player] SeeMS: micro
+14:06 [Info] [Better Chat] [Global] [Player] SeeMS: mais c les mm
+14:06 [Info] [Better Chat] [Global] [Player] SeeMS: que lautr froid
+14:06 [Info] [Better Chat] [Global] [Player] SeeMS: frois
+14:06 [Info] [Better Chat] [Global] [Player] SeeMS: fois
+14:06 [Info] [Better Chat] [Global] [Player] SeeMS: si mais
+14:07 [Info] [Better Chat] [Global] [Player] SeeMS: c les ecouteur samsung
+14:07 [Info] [Better Chat] [Global] [Player] SeeMS: avec gros machin
+14:07 [Info] [Better Chat] [Global] [Player] SeeMS: o oreille
+14:07 [Info] [Better Chat] [Global] [Player] SeeMS: qui defonce loreille lstb
+14:07 [Info] [Better Chat] [Global] [Player] SeeMS: att jtenvoi ma loca
+14:08 [Info] [Better Chat] [Global] [Player] SeeMS: fait un /tpa
+14:08 [Info] [Better Chat] [Global] [Player] SeeMS: quand jtenvoi
+14:08 [Info] [Better Chat] [Global] [Player] SeeMS: att
+14:08 [Info] [Better Chat] [Global] [Newbie] Rayzen: tpr
+14:08 [Info] [Better Chat] [Global] [Player] SeeMS: tgl
+14:08 [Info] [Better Chat] [Global] [Player] SeeMS: ca c pour moi xD
+14:08 [Info] [Better Chat] [Global] [Player] SeeMS: att
+14:08 [Info] [Better Chat] [Global] [Player] SeeMS: si toi vien
+14:08 [Info] [Better Chat] [Global] [Player] SeeMS: MDR c lourd
+14:08 [Info] [Better Chat] [Global] [Player] SeeMS: defois jte jure y a des joueurs c lourd
+14:08 [Info] [Better Chat] [Global] [Player] SeeMS: nn toi vien pour tu te met pa loin dma baz
+14:09 [Info] [Better Chat] [Global] [Player] SeeMS: att fo jatt
+14:09 [Info] [Better Chat] [Global] [Player] SeeMS: MDRR
+14:09 [Info] [Better Chat] [Global] [Player] SeeMS: non c toi
+14:10 [Info] [Better Chat] [Global] [Player] SeeMS: vazi vien
+14:10 [Info] [Better Chat] [Global] [Player] SeeMS: voir
+14:10 [Info] [Better Chat] [Global] [Player] SeeMS: non
+14:11 [Info] [Better Chat] [Global] [Player] SeeMS: jentend
+14:11 [Info] [Better Chat] [Global] [Player] SeeMS: quedal
+14:12 [Info] [Better Chat] [Global] [Player] SeeMS: wlh nn
+14:13 [Info] [Better Chat] [Team] [Player] SeeMS: on es pa loin
+14:13 [Info] [Better Chat] [Team] [Player] SeeMS: XD
+14:13 [Info] [Better Chat] [Team] [Player] SeeMS: kes tve
+14:13 [Info] [Better Chat] [Team] [Player] SeeMS: XDDD
+14:13 [Info] [Better Chat] [Team] [Player] SeeMS: si
+14:14 [Info] [Better Chat] [Team] [Player] SeeMS: att jmange
+14:14 [Info] [Better Chat] [Team] [Player] SeeMS: wsh
+14:15 [Info] [Better Chat] [Team] [Player] SeeMS: c koi ca XD
+14:15 [Info] [Better Chat] [Team] [Player] SeeMS: y a qqun
+14:15 [Info] [Better Chat] [Team] [Player] SeeMS: j entendu parler english XD
+14:15 [Info] [Welcomer] • Cerberus has joined the server from Netherlands.
+14:16 [Info] [Better Chat] [Team] [Player] SeeMS: MDR
+14:16 [Info] [Better Chat] [Team] [Player] SeeMS: no raj
+14:16 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+14:16 [Info] [Better Chat] [Team] [Player] SeeMS: defoi c rempli
+14:16 [Info] [Better Chat] [Team] [Player] SeeMS: nn
+14:16 [Info] [Better Chat] [Team] [Player] SeeMS: LA MIENNE
+14:16 [Info] [Better Chat] [Team] [Player] SeeMS: J VU DES BAZ
+14:17 [Info] [Better Chat] [Team] [Player] SeeMS: ET J FAI LA MM
+14:17 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+14:17 [Info] [Better Chat] [Team] [Player] SeeMS: de koi
+14:17 [Info] [Better Chat] [Team] [Player] SeeMS: hein
+14:17 [Info] [Better Chat] [Team] [Player] SeeMS: a ouai
+14:17 [Info] [Better Chat] [Team] [Player] SeeMS: j mm pa fai expré
+14:17 [Info] [Better Chat] [Team] [Player] SeeMS: vien voir les piege
+14:17 [Info] [Better Chat] [Team] [Player] SeeMS: VIEN PD
+14:18 [Info] [Better Chat] [Team] [Player] SeeMS: tva voir
+14:18 [Info] [Better Chat] [Team] [Player] SeeMS: jpa tout entourer encor
+14:18 [Info] [Better Chat] [Team] [Player] SeeMS: MDR OUI
+14:18 [Info] [Better Chat] [Team] [Player] SeeMS: XD
+14:18 [Info] [Better Chat] [Team] [Player] SeeMS: c tjr ca de plus
+14:18 [Info] [Better Chat] [Team] [Player] SeeMS: sauf si c team
+14:19 [Info] [Better Chat] [Team] [Player] SeeMS: euh nn
+14:19 [Info] [Better Chat] [Team] [Player] SeeMS: ouai mai jpa capté encor ca
+14:19 [Info] [Better Chat] [Team] [Player] SeeMS: MDRR
+14:19 [Info] [Better Chat] [Team] [Player] SeeMS: verrou ou porte
+14:20 [Info] [Better Chat] [Team] [Player] SeeMS: normal
+14:20 [Info] [Better Chat] [Team] [Player] SeeMS: c nodecay
+14:20 [Info] [Better Chat] [Team] [Player] SeeMS: le serv
+14:20 [Info] [Welcomer] • chitzo has joined the server from Germany.
+14:21 [Info] [Better Chat] [Team] [Player] SeeMS: uh chpa
+14:21 [Info] [Better Chat] [Global] [Player] SeeMS: ta tout les skins
+14:21 [Info] [Better Chat] [Global] [Player] SeeMS: tape /skin
+14:21 [Info] [Better Chat] [Global] [Player] SeeMS: ta tout XD
+14:21 [Info] [Better Chat] [Global] [Player] SeeMS: MDR XD
+14:21 [Info] [Better Chat] [Global] [Player] SeeMS: si xd
+14:21 [Info] [Better Chat] [Global] [Player] SeeMS: oui
+14:21 [Info] [Better Chat] [Global] [Player] SeeMS: c vert un pe
+14:22 [Info] [Welcomer] • Soaker has joined the server from Switzerland.
+14:22 [Info] [Better Chat] [Global] [Player] SeeMS: koi XD
+14:22 [Info] [Better Chat] [Global] [Player] SeeMS: sal pd
+14:22 [Info] [Better Chat] [Global] [Player] SeeMS: MDRRR
+14:22 [Info] [Better Chat] [Global] [Player] SeeMS: woa
+14:23 [Info] [Better Chat] [Global] [Player] SeeMS: mm moi chu perdu
+14:23 [Info] [Better Chat] [Global] [Player] SeeMS: XD
+14:23 [Info] [Better Chat] [Global] [Player] SeeMS: MDRRR
+14:23 [Info] [Better Chat] [Global] [Player] SeeMS: oui
+14:23 [Info] [Better Chat] [Global] [Player] SeeMS: MDRRR lot moi
+14:23 [Info] [Better Chat] [Global] [Player] SeeMS: euhh on es pa preparé
+14:24 [Info] [Better Chat] [Global] [Player] SeeMS: j kayak
+14:24 [Info] [Better Chat] [Global] [Player] SeeMS: mais on a pa les balle encor
+14:24 [Info] [Better Chat] [Global] [Player] SeeMS: ouai lstb jcompte le fair
+14:24 [Info] [Better Chat] [Global] [Player] SeeMS: mais pa encor pré
+14:24 [Info] [Better Chat] [Global] [Player] SeeMS: j une thompson
+14:24 [Info] [Better Chat] [Global] [Player] SeeMS: et des kalash
+14:24 [Info] [Better Chat] [Global] [Player] SeeMS: btrd tma tuer
+14:25 [Info] [Better Chat] [Global] [Player] SeeMS: j fermer hier
+14:25 [Info] [Better Chat] [Global] [Player] SeeMS: fai un /remove
+14:25 [Info] [Better Chat] [Global] [Player] SeeMS: vise le haut
+14:25 [Info] [Better Chat] [Global] [Player] SeeMS: nike pa tout
+14:25 [Info] [Better Chat] [Global] [Player] SeeMS: uh
+14:25 [Info] [Better Chat] [Global] [Player] SeeMS: v1
+14:26 [Info] [Better Chat] [Global] [Player] SeeMS: ouai
+14:26 [Info] [Better Chat] [Global] [Player] SeeMS: tout en triple mur
+14:26 [Info] [Better Chat] [Global] [Player] SeeMS: XD oué
+14:26 [Info] [Better Chat] [Global] [Player] SeeMS: c moi je cassai xD
+14:26 [Info] [Better Chat] [Global] [Player] SeeMS: ouai jpe en fair
+14:26 [Info] [Better Chat] [Global] [Player] SeeMS: des sac dexplo
+14:26 [Info] [Better Chat] [Global] [Player] SeeMS: si j 4
+14:26 [Info] [Better Chat] [Global] [Player] SeeMS: caiss
+14:27 [Info] [Better Chat] [Global] [Player] SeeMS: jpa encor lot
+14:27 [Info] [Better Chat] [Global] [Player] SeeMS: jfaisai que la maison
+14:27 [Info] [Better Chat] [Global] [Player] SeeMS: j pa mais jpe en fair
+14:27 [Info] [Better Chat] [Global] [Player] SeeMS: j debloquer
+14:27 [Info] [Better Chat] [Global] [Player] SeeMS: ouai j appris de ouf
+14:27 [Info] [Better Chat] [Global] [Player] SeeMS: javai 3 ou 4k de scap
+14:27 [Info] [Better Chat] [Global] [Player] SeeMS: c koi ca
+14:27 [Info] [Better Chat] [Global] [Player] SeeMS: j debloquer
+14:28 [Info] [Better Chat] [Global] [Player] SeeMS: mais ca se fai rapido
+14:28 [Info] [Better Chat] [Global] [Player] SeeMS: tema
+14:28 [Info] [Better Chat] [Global] [Player] SeeMS: la kalash
+14:28 [Info] [Better Chat] [Global] [Player] SeeMS: XD
+14:29 [Info] [Better Chat] [Global] [Player] SeeMS: genre sur un serv com ca
+14:29 [Info] [Better Chat] [Global] [Player] SeeMS: tu decouvre les machins tu raid a la facile
+14:29 [Info] [Better Chat] [Global] [Player] SeeMS: mais nn
+14:29 [Info] [Better Chat] [Global] [Player] SeeMS: c la nuit au usa là
+14:29 [Info] [Better Chat] [Global] [Player] SeeMS: fin daprem et soir
+14:29 [Info] [Better Chat] [Global] [Player] SeeMS: c plus chargé
+14:29 [Info] [Better Chat] [Global] [Player] SeeMS: enfin pa de ouf XD
+14:29 [Info] [Better Chat] [Global] [Player] SeeMS: vazi un otre
+14:29 [Info] [Better Chat] [Global] [Player] SeeMS: jmet dans les caiss
+14:29 [Info] [Better Chat] [Global] [Player] SeeMS: att je ferme les escalier toipt
+14:30 [Info] [Better Chat] [Global] [Player] SeeMS: toit
+14:30 [Info] [Welcomer] • Rayzen has left the server (Disconnected).
+14:31 [Info] [Welcomer] • SeeMS has left the server (Disconnected).
+14:33 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+14:49 [Info] [Better Chat] [Global] [Regular] Kongen: any1 selling cctv cameras?
+14:50 [Info] [Better Chat] [Global] [Player] Pep Guardiola: fess
+14:50 [Info] [Better Chat] [Global] [Player] Pep Guardiola: yess
+14:50 [Info] [Better Chat] [Global] [Regular] Kongen: awsome
+14:50 [Info] [Better Chat] [Global] [Regular] Kongen: how many and how much?
+14:51 [Info] [Better Chat] [Global] [Player] Pep Guardiola: i give you for free if you give my weapons back
+14:51 [Info] [Better Chat] [Global] [Regular] Kongen: allright where do we meet?
+14:51 [Info] [Better Chat] [Global] [Player] Pep Guardiola: my die place
+14:51 [Info] [Better Chat] [Global] [Regular] Kongen: allright
+14:51 [Info] [Better Chat] [Global] [Regular] Kongen: omw
+14:53 [Info] [Better Chat] [Global] [Player] Pep Guardiola: where are you
+14:53 [Info] [Better Chat] [Global] [Regular] Kongen: allmost there
+14:54 [Info] [Better Chat] [Global] [Regular] Kongen: Im here where i shoot you xD
+14:54 [Info] [Better Chat] [Global] [Regular] Kongen: how many do you have?
+14:54 [Info] [Better Chat] [Global] [Player] Pep Guardiola: do you have my guns ?
+14:55 [Info] [Better Chat] [Global] [Player] Pep Guardiola: 5
+14:55 [Info] [Better Chat] [Global] [Regular] Kongen: I got mp5 and LR
+14:55 [Info] [Better Chat] [Global] [Player] Pep Guardiola: ok nice
+14:56 [Info] [Better Chat] [Global] [Regular] Kongen: for real?
+14:56 [Info] [Better Chat] [Global] [Regular] Kongen: really 2v1?
+15:03 [Info] Listing 48 plugins:
+  01 "Admin Chat" (2.0.4) by LaserHydra (0.01s) - AdminChat.cs
+  02 "Alias System" (2.1.3) by LaserHydra (0.00s) - AliasSystem.cs
+  03 "AutoBroadcast" (1.0.8) by Wulf/lukespragg (0.01s) - AutoBroadcast.cs
+  04 "Automatic Authorization" (1.2.4) by k1lly0u/Arainrr (0.10s) - AutomaticAuthorization.cs
+  05 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.05s) - BGrade.cs
+  06 "Better Chat" (5.2.5) by LaserHydra (0.19s) - BetterChat.cs
+  07 "Better Chat Mentions" (1.2.3) by Death (0.00s) - BetterChatMentions.cs
+  08 "BetterLoot" (3.5.3) by Default (1.43s) - BetterLoot.cs
+  09 "Blueprint Manager" (1.1.4) by Orange (0.12s) - BlueprintManager.cs
+  10 "Building Grades" (0.5.1) by Default (0.00s) - BuildingGrades.cs
+  11 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  12 "Rust:IO Clans" (1.7.6) by playrust.io / dcode (0.01s) - Clans.cs
+  13 "Clan Team" (1.0.5) by deivismac (0.00s) - ClanTeam.cs
+  14 "Crafting Controller" (3.2.2) by Whispers88 (0.07s) - CraftingController.cs
+  15 "Gathering Manager" (2.2.75) by Mughisi (0.13s) - GatherManager.cs
+  16 "Godmode" (4.2.9) by Wulf/lukespragg/Arainrr (0.97s) - Godmode.cs
+  17 "HeliControl" (1.4.0) by Shady (0.65s) - HeliControl.cs
+  18 "Image Library" (2.0.56) by Absolut & K1lly0u (0.06s) - ImageLibrary.cs
+  19 "Gesture Wheel" (0.1.3) by Tricky & Mevent (0.00s) - GestureWheel.cs
+  20 "InfoPanel" (1.0.4) by Default (2.03s) - InfoPanel.cs
+  21 "Inventory Cleaner" (2.0.0) by Iv Misticos (0.00s) - InventoryCleaner.cs
+  22 "Inventory Viewer" (3.0.3) by Mughisi (0.14s) - InventoryViewer.cs
+  23 "Kill Feed" (1.18.0) by Tuntenfisch (0.05s) - KillFeed.cs
+  24 "Kits" (3.3.1) by Reneb (0.05s) - Kits.cs
+  25 "Loading Messages" (1.0.6) by CosaNostra/Def (0.21s) - LoadingMessages.cs
+  26 "NTeleportation" (1.4.7) by nivex (0.36s) - NTeleportation.cs
+  27 "No Escape" (2.1.31) by Calytic (1.16s) - NoEscape.cs
+  28 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.cs
+  29 "OnScreenLogo" (1.1.5) by Vlad-00003 (0.02s) - OnScreenLogo.cs
+  30 "PlayerRankings" (3.0.2) by Ankawi (0.06s) - PlayerRankings.cs
+  31 "Playtime Tracker" (0.1.7) by k1lly0u (0.12s) - PlaytimeTracker.cs
+  32 "Popup Notifications" (0.2.0) by emu / k1lly0u (0.00s) - PopupNotifications.cs
+  33 "Quick Smelt" (5.1.3) by Iv Misticos (0.49s) - QuickSmelt.cs
+  34 "Remover Tool" (4.3.23) by Reneb/Fuji/Arainrr (0.03s) - RemoverTool.cs
+  35 "ServerInfo" (0.5.4) by FastBurst (0.06s) - ServerInfo.cs
+  36 "Server Rewards" (0.4.73) by k1lly0u (0.38s) - ServerRewards.cs
+  37 "Skins" (2.1.2) by Iv Misticos (0.49s) - Skins.cs
+  38 "SmoothRestart" (1.2.5) by Fujikura/Visagalis (0.50s) - SmoothRestart.cs
+  39 "Spawn Mini" (2.10.0) by SpooksAU (0.85s) - SpawnMini.cs
+  40 "Stack Size Controller" (2.0.4) by Canopy Sheep (0.52s) - StackSizeController.cs
+  41 "Start Protection" (2.3.2) by wazzzup (0.84s) - StartProtection.cs
+  42 "Vanish" (1.3.8) by Whispers88 (0.00s) - Vanish.cs
+  43 "Vehicle Decay Protection" (1.3.2) by WhiteThunder (0.27s) - VehicleDecayProtection.cs
+  44 "VoteRewards" (2.1.0) by k1lly0u (0.02s) - Voter.cs
+  45 "Welcomer" (1.5.4) by Dana (0.01s) - Welcomer.cs
+  46 "Where is My Horse" (0.2.2) by 2CHEVSKII (0.01s) - WhereIsMyHorse.cs
+  47 "ZLevelsRemastered" (2.9.22) by Default (1.38s) - ZLevelsRemastered.cs
+15:07 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+15:13 [Info] [Welcomer] • [DMA] Gubatrix has joined the server from Germany.
+15:23 [Info] [Welcomer] • [DMA] Admiral Doge has joined the server from Germany.
+15:24 [Info] [NTeleportation] Cerberus teleported back to previous location.
+15:24 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+15:28 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+15:30 [Info] [Better Chat] [Global] [Newbie] St0rmCrus4er: what you want i play my first day i dont have anythingxD
+15:37 [Info] [Better Chat] [Global] [Player] Pep Guardiola: YOUR SOUL
+15:37 [Info] [NTeleportation] [DMA] Gubatrix teleported to SeeMS.
+15:40 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: somebody know who killed me and @[DMA] Admiral Doge ?
+15:48 [Info] [Welcomer] • St0rmCrus4er has left the server (Disconnected).
+15:54 [Info] Listing 48 plugins:
+  01 "Admin Chat" (2.0.4) by LaserHydra (0.01s) - AdminChat.cs
+  02 "Alias System" (2.1.3) by LaserHydra (0.00s) - AliasSystem.cs
+  03 "AutoBroadcast" (1.0.8) by Wulf/lukespragg (0.01s) - AutoBroadcast.cs
+  04 "Automatic Authorization" (1.2.4) by k1lly0u/Arainrr (0.12s) - AutomaticAuthorization.cs
+  05 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.09s) - BGrade.cs
+  06 "Better Chat" (5.2.5) by LaserHydra (0.20s) - BetterChat.cs
+  07 "Better Chat Mentions" (1.2.3) by Death (0.01s) - BetterChatMentions.cs
+  08 "BetterLoot" (3.5.3) by Default (1.71s) - BetterLoot.cs
+  09 "Blueprint Manager" (1.1.4) by Orange (0.16s) - BlueprintManager.cs
+  10 "Building Grades" (0.5.1) by Default (0.00s) - BuildingGrades.cs
+  11 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  12 "Rust:IO Clans" (1.7.6) by playrust.io / dcode (0.01s) - Clans.cs
+  13 "Clan Team" (1.0.5) by deivismac (0.01s) - ClanTeam.cs
+  14 "Crafting Controller" (3.2.2) by Whispers88 (0.08s) - CraftingController.cs
+  15 "Gathering Manager" (2.2.75) by Mughisi (0.13s) - GatherManager.cs
+  16 "Godmode" (4.2.9) by Wulf/lukespragg/Arainrr (1.49s) - Godmode.cs
+  17 "HeliControl" (1.4.0) by Shady (0.72s) - HeliControl.cs
+  18 "Image Library" (2.0.56) by Absolut & K1lly0u (0.06s) - ImageLibrary.cs
+  19 "Gesture Wheel" (0.1.3) by Tricky & Mevent (0.00s) - GestureWheel.cs
+  20 "InfoPanel" (1.0.4) by Default (2.40s) - InfoPanel.cs
+  21 "Inventory Cleaner" (2.0.0) by Iv Misticos (0.00s) - InventoryCleaner.cs
+  22 "Inventory Viewer" (3.0.3) by Mughisi (0.27s) - InventoryViewer.cs
+  23 "Kill Feed" (1.18.0) by Tuntenfisch (0.06s) - KillFeed.cs
+  24 "Kits" (3.3.1) by Reneb (0.07s) - Kits.cs
+  25 "Loading Messages" (1.0.6) by CosaNostra/Def (0.24s) - LoadingMessages.cs
+  26 "NTeleportation" (1.4.7) by nivex (0.43s) - NTeleportation.cs
+  27 "No Escape" (2.1.31) by Calytic (1.61s) - NoEscape.cs
+  28 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.cs
+  29 "OnScreenLogo" (1.1.5) by Vlad-00003 (0.03s) - OnScreenLogo.cs
+  30 "PlayerRankings" (3.0.2) by Ankawi (0.08s) - PlayerRankings.cs
+  31 "Playtime Tracker" (0.1.7) by k1lly0u (0.15s) - PlaytimeTracker.cs
+  32 "Popup Notifications" (0.2.0) by emu / k1lly0u (0.00s) - PopupNotifications.cs
+  33 "Quick Smelt" (5.1.3) by Iv Misticos (0.51s) - QuickSmelt.cs
+  34 "Remover Tool" (4.3.23) by Reneb/Fuji/Arainrr (0.03s) - RemoverTool.cs
+  35 "ServerInfo" (0.5.4) by FastBurst (0.07s) - ServerInfo.cs
+  36 "Server Rewards" (0.4.73) by k1lly0u (0.53s) - ServerRewards.cs
+  37 "Skins" (2.1.2) by Iv Misticos (0.66s) - Skins.cs
+  38 "SmoothRestart" (1.2.5) by Fujikura/Visagalis (0.60s) - SmoothRestart.cs
+  39 "Spawn Mini" (2.10.0) by SpooksAU (1.13s) - SpawnMini.cs
+  40 "Stack Size Controller" (2.0.4) by Canopy Sheep (0.68s) - StackSizeController.cs
+  41 "Start Protection" (2.3.2) by wazzzup (1.12s) - StartProtection.cs
+  42 "Vanish" (1.3.8) by Whispers88 (4.77s) - Vanish.cs
+  43 "Vehicle Decay Protection" (1.3.2) by WhiteThunder (0.36s) - VehicleDecayProtection.cs
+  44 "VoteRewards" (2.1.0) by k1lly0u (0.02s) - Voter.cs
+  45 "Welcomer" (1.5.4) by Dana (0.01s) - Welcomer.cs
+  46 "Where is My Horse" (0.2.2) by 2CHEVSKII (0.01s) - WhereIsMyHorse.cs
+  47 "ZLevelsRemastered" (2.9.22) by Default (1.72s) - ZLevelsRemastered.cs
+15:58 [Info] [NTeleportation] [DMA] Gubatrix teleported to Pep Guardiola.
+16:03 [Info] [NTeleportation] [DMA] Admiral Doge teleported to [DMA] Gubatrix.
+16:09 [Info] [NTeleportation] [AdminMode] Admiral Doge teleported back to previous location.
+16:11 [Info] [Welcomer] • Pep Guardiola has left the server (Disconnected).
+16:12 [Info] [Welcomer] • Soaker has left the server (Disconnected).
+16:13 [Info] [NTeleportation] [DMA] Gubatrix teleported to Kongen.
+16:15 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+16:16 [Info] [NTeleportation] [AdminMode] Gubatrix teleported to [AdminMode] Admiral Doge.
+16:17 [Info] [NTeleportation] Gubatrix teleported to Soaker.
+16:19 [Info] [NTeleportation] Gubatrix teleported to [AdminMode] Admiral Doge.
+16:21 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: x
+16:25 [Warning] [DEBUG] Load requested for plugin which is already loading: TankCommander
+16:25 [Info] TankCommander was compiled successfully in 2214ms
+16:25 [Info] Loaded plugin Tank Commander v0.2.2 by k1lly0u
+16:25 [Info] Group 'admin' granted permission 'tankcommander.use'
+16:25 [Info] Group 'admin' granted permission 'tankcommander.admin'
+16:32 [Warning] Calling 'Unload' on 'TankCommander v0.2.2' took 114ms
+16:32 [Info] Unloaded plugin Tank Commander v0.2.2 by k1lly0u
+16:34 [Info] [NTeleportation] Gubatrix teleported to Admiral Doge.
+16:37 [Info] [NTeleportation] Gubatrix teleported to Admiral Doge.
+16:39 [Info] [NTeleportation] Gubatrix teleported to Admiral Doge.
+16:39 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+16:40 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+16:55 [Info] [Welcomer] • SeeMS has joined the server from France.
+16:55 [Info] [Welcomer] • AlFaKeKs_ has joined the server from Germany.
+17:17 [Info] [Better Chat] [Global] [Player] Cerberus: home 1
+17:46 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+17:46 [Info] SignArtist was compiled successfully in 2117ms
+17:46 [Warning] Calling 'OnServerInitialized' on 'SignArtist v1.2.6' took 792ms
+17:46 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+17:47 [Info] Group 'admin' granted permission 'signartist.url'
+17:47 [Info] Group 'admin' granted permission 'signartist.text'
+17:47 [Info] Group 'admin' granted permission 'signartist.restore'
+17:47 [Info] Group 'admin' granted permission 'signartist.ignoreowner'
+17:47 [Info] Group 'admin' granted permission 'signartist.ignorecd'
+17:47 [Info] Group 'admin' granted permission 'signartist.raw'
+17:47 [Info] Group 'admin' granted permission 'signartist.restoreall'
+17:48 [Warning] [Sign Artist] Couldn't find the required image size for assets/prefabs/misc/xmas/neon_sign/sign.neon.xl.animated.prefab, please report this in the plugin's thread.
+17:48 [Warning] [Sign Artist] Couldn't find the required image size for assets/prefabs/misc/xmas/neon_sign/sign.neon.xl.animated.prefab, please report this in the plugin's thread.
+17:48 [Warning] [Sign Artist] Couldn't find the required image size for assets/prefabs/misc/xmas/neon_sign/sign.neon.xl.animated.prefab, please report this in the plugin's thread.
+17:53 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+17:53 [Info] SignArtist was compiled successfully in 2082ms
+17:53 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+17:53 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+17:56 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+17:56 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+17:59 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+17:59 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+18:00 [Info] Logger was compiled successfully in 2041ms
+18:00 [Warning] [Logger] Could not load a valid configuration file, creating a new configuration file at /home/container/oxide/config/Logger.json
+18:00 [Info] Loaded plugin Logger v2.2.1 by Wulf/lukespragg
+18:01 [Info] Unloaded plugin Logger v2.2.1 by Wulf/lukespragg
+18:01 [Info] Loaded plugin Logger v2.2.1 by Wulf/lukespragg
+18:04 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ...
+18:04 [Info] [Better Chat] [Team] [Admin] [DMA] Admiral Doge: :D
+18:04 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: :D
+18:04 [Info] [Better Chat] [Team] [Player] SeeMS: <​333
+18:04 [Info] [Better Chat] [Global] [Player] SeeMS: <​333
+18:05 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: :(
+18:05 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: donkey
+18:05 [Info] Unloaded plugin Logger v2.2.1 by Wulf/lukespragg
+18:06 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: dont mess with me fucking donut :D
+18:09 [Info] KillFeed was compiled successfully in 2176ms
+18:09 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+18:09 [Info] [Kill Feed] Loading configuration file!
+18:09 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+18:10 [Info] [Kill Feed] [10/18/24/01/2021] Gubatrix                       Head                           lmg.m249                       0.4m                           Admiral Doge
+18:10 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: cxd
+18:12 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+18:12 [Info] [Kill Feed] Loading configuration file!
+18:12 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+18:13 [Info] [Kill Feed] [13/18/24/01/2021] Gubatrix                                                      explosion                      1.1m                           Admiral Doge
+18:13 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+18:13 [Info] [Kill Feed] Loading configuration file!
+18:13 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+18:13 [Info] [NTeleportation] Admiral Doge teleported to Gubatrix.
+18:15 [Info] ZoneManager was compiled successfully in 2289ms
+18:15 [Info] Loaded plugin Zone Manager v3.0.16 by k1lly0u
+18:15 [Info] Group 'admin' granted permission 'zonemanager.zone'
+18:15 [Info] [Kill Feed] [15/18/24/01/2021] SeeMS                                                         bow.hunting                    33.5m                          Boar
+18:17 [Info] Unloaded plugin Zone Manager v3.0.16 by k1lly0u
+18:20 [Info] RockBlock was compiled successfully in 1107ms
+18:20 [Info] Loaded plugin Rock Block v1.1.1 by Nogrod
+18:20 [Info] [Rock Block] Cerberus is suspected of building assets/prefabs/building core/wall/wall.prefab inside a rock at (210.6, 39.7, 47.8)!
+18:20 [Info] [Rock Block] Cerberus is suspected of building assets/prefabs/building core/wall/wall.prefab inside a rock at (210.6, 39.7, 47.8)!
+18:20 [Info] [Rock Block] Cerberus is suspected of building assets/prefabs/building core/wall/wall.prefab inside a rock at (210.6, 39.7, 47.8)!
+18:20 [Info] [Rock Block] Cerberus is suspected of building assets/prefabs/building core/wall/wall.prefab inside a rock at (210.6, 39.7, 47.8)!
+18:20 [Info] [Rock Block] Cerberus is suspected of building assets/prefabs/building core/foundation.triangle/foundation.triangle.prefab inside a rock at (206.7, 39.7, 48.0)!
+18:20 [Info] [Rock Block] Cerberus is suspected of building assets/prefabs/building core/foundation.triangle/foundation.triangle.prefab inside a rock at (206.7, 39.7, 48.0)!
+18:20 [Info] Unloaded plugin Rock Block v1.1.1 by Nogrod
+18:20 [Info] Loaded plugin Rock Block v1.1.1 by Nogrod
+18:20 [Info] [NTeleportation] Gubatrix teleported to Cerberus.
+18:21 [Info] [NTeleportation] Gubatrix teleported to Admiral Doge.
+18:21 [Info] Unloaded plugin Rock Block v1.1.1 by Nogrod
+18:34 [Info] [Welcomer] • AlFaKeKs_ has left the server (Disconnected).
+18:43 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+18:44 [Info] [Welcomer] • Tesla has joined the server from Sweden.
+18:45 [Info] [Better Chat] [Team] [Newbie] Tesla: Still havnt been raided XD
+18:45 [Info] [Better Chat] [Team] [Regular] Kongen: same here xD
+18:45 [Info] [Better Chat] [Team] [Regular] Kongen: wanna do something?
+18:48 [Info] [Welcomer] • schuttn has joined the server from Germany.
+18:50 [Info] [Better Chat] [Team] [Regular] Kongen: large oil rig or raid xD
+18:50 [Info] [Better Chat] [Global] [Newbie] schuttn: boomer?
+18:51 [Info] [Better Chat] [Global] [Newbie] schuttn: boomer du scheiß ratte
+18:52 [Info] [NTeleportation] Gubatrix teleported to Admiral Doge.
+18:55 [Info] [Welcomer] • Gubatrix has left the server (Disconnected).
+18:55 [Info] [Welcomer] • Admiral Doge has left the server (Disconnected).
+18:55 [Info] [Better Chat] [Team] [Regular] Kongen: what you say?
+18:56 [Info] [Better Chat] [Team] [Newbie] Tesla: Thinking of mil tunnels
+18:56 [Info] [Better Chat] [Team] [Regular] Kongen: good loot there?
+18:57 [Info] [Better Chat] [Team] [Newbie] Tesla: 3/4 admin creats
+18:57 [Info] [Better Chat] [Team] [Regular] Kongen: cool
+18:57 [Info] [Better Chat] [Team] [Regular] Kongen: lets do that
+18:57 [Info] [Better Chat] [Team] [Regular] Kongen: 2 each sounds nice
+18:58 [Info] [Better Chat] [Team] [Regular] Kongen: do we need any cards?
+18:58 [Info] [Better Chat] [Team] [Newbie] Tesla: Yes if we want to
+19:00 [Info] [Better Chat] [Team] [Regular] Kongen: omw
+19:00 [Info] [Better Chat] [Team] [Newbie] Tesla: JUst tp
+19:00 [Info] [Better Chat] [Team] [Regular] Kongen: cant tp above water xD
+19:01 [Info] [Better Chat] [Team] [Regular] Kongen: sec
+19:02 [Info] [Better Chat] [Team] [Newbie] Tesla: Do again
+19:03 [Info] [Better Chat] [Team] [Regular] Kongen: forgot bolt lol
+19:03 [Info] [Kill Feed] [03/19/24/01/2021] Kongen                         Hand                           rifle.lr300                    30.5m                          7746996
+19:03 [Info] [Kill Feed] [03/19/24/01/2021] Tesla                          Spine                          rifle.lr300                    18.5m                          8145840
+19:04 [Info] [Kill Feed] [04/19/24/01/2021] Kongen                         Head                           rifle.lr300                    14.1m                          9417557
+19:04 [Info] [Kill Feed] [04/19/24/01/2021] Tesla                          Neck                           rifle.lr300                    7.4m                           7951177
+19:04 [Info] [Kill Feed] [04/19/24/01/2021] Tesla                          Head                           rifle.lr300                    8.4m                           6125853
+19:05 [Info] [Kill Feed] [05/19/24/01/2021] Kongen                         Hip                            rifle.lr300                    17.4m                          6529374
+19:06 [Info] [Kill Feed] [06/19/24/01/2021] Tesla                          Head                           rifle.bolt                     20.0m                          431926
+19:06 [Info] [Kill Feed] [06/19/24/01/2021] Tesla                          Head                           rifle.bolt                     83.1m                          5917193
+19:06 [Info] [Kill Feed] [06/19/24/01/2021] Tesla                          Head                           rifle.bolt                     29.1m                          3152461
+19:06 [Info] [Kill Feed] [06/19/24/01/2021] Tesla                          Head                           rifle.bolt                     35.2m                          5956378
+19:07 [Info] [Kill Feed] [07/19/24/01/2021] Tesla                          Head                           rifle.lr300                    16.1m                          1540603
+19:07 [Info] [Kill Feed] [07/19/24/01/2021] Tesla                          Hand                           rifle.lr300                    2.3m                           1585449
+19:08 [Info] [Kill Feed] [08/19/24/01/2021] Kongen                         Spine                          rifle.lr300                    19.0m                          4333390
+19:08 [Info] [Kill Feed] [08/19/24/01/2021] Kongen                         Hand                           rifle.lr300                    24.8m                          6351000
+19:08 [Info] [Kill Feed] [08/19/24/01/2021] Tesla                          Forearm                        rifle.lr300                    17.2m                          1326443
+19:08 [Info] [Kill Feed] [08/19/24/01/2021] Kongen                         Head                           rifle.lr300                    14.6m                          5526229
+19:09 [Info] [Kill Feed] [09/19/24/01/2021] Kongen                         Forearm                        rifle.lr300                    10.2m                          4866914
+19:09 [Info] [Kill Feed] [09/19/24/01/2021] Kongen                         Head                           rifle.lr300                    37.2m                          8679999
+19:10 [Info] [Kill Feed] [10/19/24/01/2021] Tesla                          Neck                           rifle.lr300                    38.9m                          2375773
+19:10 [Info] [Kill Feed] [10/19/24/01/2021] Tesla                          Hand                           rifle.lr300                    27.3m                          9574411
+19:10 [Info] [Kill Feed] [10/19/24/01/2021] Tesla                          Spine                          rifle.lr300                    10.7m                          401668
+19:11 [Info] [Kill Feed] [11/19/24/01/2021] Tesla                          Arm                            rifle.lr300                    31.1m                          4242934
+19:16 [Info] [Kill Feed] [16/19/24/01/2021] Kongen                         Head                           rifle.lr300                    59.0m                          8784412
+19:23 [Info] [Better Chat] [Team] [Regular] Kongen: found fuse?
+19:24 [Info] [Better Chat] [Team] [Newbie] Tesla: No :(
+19:24 [Info] [Better Chat] [Team] [Regular] Kongen: damn
+19:27 [Info] [Better Chat] [Team] [Regular] Kongen: going outpost quick
+19:28 [Info] [Welcomer] • Triskebab has joined the server from Netherlands.
+19:35 [Info] [Kill Feed] [35/19/24/01/2021] Triskebab                                                     wall.external.high             4.8m                           Triskebab
+19:38 [Info] [Better Chat] [Team] [Regular] Kongen: any luck?
+19:38 [Info] [Better Chat] [Team] [Newbie] Tesla: nO :(
+19:38 [Info] [Better Chat] [Team] [Regular] Kongen: same her
+19:42 [Info] [Better Chat] [Team] [Newbie] Tesla: Brb
+19:42 [Info] [Better Chat] [Team] [Regular] Kongen: only getting useless shit
+19:42 [Info] [Better Chat] [Team] [Regular] Kongen: okay
+19:46 [Info] [Kill Feed] [46/19/24/01/2021] SeeMS                                                         bow.hunting                    20.4m                          Bear
+19:46 [Info] [Kill Feed] [46/19/24/01/2021] SeeMS                                                         bow.hunting                    16.6m                          Bear
+19:47 [Info] [Kill Feed] [47/19/24/01/2021] SeeMS                                                         bow.hunting                    18.9m                          Bear
+19:49 [Info] [Better Chat] [Global] [Newbie] Triskebab: r
+19:49 [Info] [Better Chat] [Global] [Regular] Kongen: ?
+19:49 [Info] [Better Chat] [Global] [Newbie] Triskebab: mistake, sorry
+19:51 [Info] [Kill Feed] [51/19/24/01/2021] SeeMS                          Forearm                        bow.hunting                    15.2m                          5912667
+20:02 [Info] [Better Chat] [Team] [Regular] Kongen: brb
+20:03 [Info] [Welcomer] • Tesla has left the server (Disconnected).
+20:17 [Info] [Kill Feed] [17/20/24/01/2021] Triskebab                                                     longsword                      0.7m                           Chicken
+20:18 [Info] [Kill Feed] [18/20/24/01/2021] Triskebab                                                     longsword                      0.8m                           Chicken
+20:18 [Info] [Welcomer] • Triskebab has left the server (Disconnected).
+20:22 [Info] [Welcomer] • Triskebab has joined the server from Netherlands.
+20:38 [Info] [Welcomer] • chitzo has joined the server from Germany.
+20:39 [Info] [Welcomer] • zogozopuz has joined the server from Germany.
+20:40 [Info] [Welcomer] • Cerberus has left the server (Disconnected).
+20:43 [Info] [Welcomer] • zogozopuz has left the server (Disconnected).
+20:51 [Info] [Kill Feed] [51/20/24/01/2021] chitzo                                                        drowned                                                       chitzo
+20:59 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+21:18 [Info] [Welcomer] • Triskebab has left the server (Disconnected).
+21:22 [Info] [Welcomer] • Triskebab has joined the server from United Kingdom.
+21:34 [Info] [Welcomer] • Triskebab has left the server (Disconnected).
+21:42 [Info] [Welcomer] • Triskebab has joined the server from Netherlands.
+21:43 [Info] [Welcomer] • Triskebab has left the server (Disconnected).
+22:09 [Info] [Welcomer] • Stitch2255 has joined the server from Germany.
+22:13 [Info] [Kill Feed] [13/22/24/01/2021] Helicopter                                                    bullet                         80.1m                          schuttn
+22:13 [Info] [Kill Feed] [13/22/24/01/2021] Bear                                                          bite                           1.7m                           Stitch2255
+22:14 [Info] [Welcomer] • Stitch2255 has left the server (Disconnected).
+22:16 [Info] [Kill Feed] [16/22/24/01/2021] sentry.scientist.static                                       bullet                         73.6m                          schuttn
+23:00 [Info] [Kill Feed] [00/23/24/01/2021] schuttn                                                       heat                           0.6m                           schuttn
+23:12 [Info] [Kill Feed] [12/23/24/01/2021] schuttn                                                       grenade.f1                     17.0m                          Boar
+23:23 [Info] [Better Chat] [Global] [Player] SeeMS: it was me Xd
+23:23 [Info] [Better Chat] [Global] [Newbie] schuttn: you wanne raid me?
+23:23 [Info] [Better Chat] [Global] [Player] SeeMS: no , not for now
+23:23 [Info] [Better Chat] [Global] [Player] SeeMS: xD
+23:23 [Info] [Better Chat] [Global] [Player] SeeMS: dont worry
+23:23 [Info] [Better Chat] [Global] [Newbie] schuttn: i hope so
+23:23 [Info] [Better Chat] [Global] [Newbie] schuttn: :)
+23:23 [Info] [Better Chat] [Global] [Player] SeeMS: ;D
+23:23 [Info] [Better Chat] [Global] [Newbie] schuttn: do you know boomer?
+23:23 [Info] [Better Chat] [Global] [Player] SeeMS: nop
+23:24 [Info] [Better Chat] [Global] [Newbie] schuttn: he raided me yerstday night
+23:24 [Info] [Better Chat] [Global] [Player] SeeMS: oups xD
+23:24 [Info] [Better Chat] [Global] [Newbie] schuttn: was the first day at this server
+23:24 [Info] [Better Chat] [Global] [Player] SeeMS: im new too
+23:24 [Info] [Better Chat] [Global] [Newbie] schuttn: and i am a newbi
+23:24 [Info] [Better Chat] [Global] [Newbie] schuttn: i will walk to him
+23:24 [Info] [Better Chat] [Global] [Player] SeeMS: haha
+23:24 [Info] [Better Chat] [Global] [Newbie] schuttn: cause thats not faiar
+23:24 [Info] [Better Chat] [Global] [Newbie] schuttn: fair
+23:24 [Info] [Better Chat] [Global] [Player] SeeMS: yes
+23:25 [Info] [Better Chat] [Global] [Newbie] schuttn: where are you from?
+23:25 [Info] [Better Chat] [Global] [Player] SeeMS: i got the same thing
+23:25 [Info] [Better Chat] [Global] [Player] SeeMS: they raid me in my second day
+23:25 [Info] [Better Chat] [Global] [Player] SeeMS: france and you?
+23:25 [Info] [Better Chat] [Global] [Newbie] schuttn: alemania
+23:25 [Info] [Better Chat] [Global] [Player] SeeMS: haha we are neighbour
+23:25 [Info] [Better Chat] [Global] [Newbie] schuttn: where is your base?
+23:25 [Info] [Better Chat] [Global] [Newbie] schuttn: nice ^^
+23:26 [Info] [Better Chat] [Global] [Player] SeeMS: in the middle of the map
+23:26 [Info] [Better Chat] [Global] [Newbie] schuttn: can i come and see what you are doing?
+23:26 [Info] [Better Chat] [Global] [Player] SeeMS: hmmmm
+23:26 [Info] [Better Chat] [Global] [Newbie] schuttn: ^^
+23:26 [Info] [Better Chat] [Global] [Player] SeeMS: good question
+23:26 [Info] [Better Chat] [Global] [Player] SeeMS: hahaha
+23:26 [Info] [Better Chat] [Global] [Newbie] schuttn: i dont wanne raid
+23:26 [Info] [Better Chat] [Global] [Newbie] schuttn: anyone at the moment
+23:26 [Info] [Better Chat] [Global] [Player] SeeMS: yep
+23:26 [Info] [Better Chat] [Global] [Player] SeeMS: i heared you with the bomb
+23:27 [Info] [Better Chat] [Global] [Newbie] schuttn: i just will try to build something nice here
+23:27 [Info] [Better Chat] [Global] [Newbie] schuttn: that was a granate what i found
+23:27 [Info] [Better Chat] [Global] [Player] SeeMS: i see xD
+23:27 [Info] [Better Chat] [Global] [Newbie] schuttn: had to try them before someone killed me
+23:27 [Info] [Better Chat] [Global] [Player] SeeMS: lol
+23:28 [Info] [Better Chat] [Global] [Player] SeeMS: "leave me alone ! "
+23:28 [Info] [Better Chat] [Global] [Newbie] schuttn: ?
+23:28 [Info] [Better Chat] [Global] [Newbie] schuttn: yes :D
+23:28 [Info] [Better Chat] [Global] [Player] SeeMS: hahahaha XD
+23:28 [Info] [Better Chat] [Global] [Newbie] schuttn: its cause of the boomer
+23:28 [Info] [Better Chat] [Global] [Player] SeeMS: "fuck you boomer"
+23:28 [Info] [Better Chat] [Global] [Player] SeeMS: if he see that
+23:28 [Info] [Better Chat] [Global] [Player] SeeMS: i think he will raid you again lol
+23:28 [Info] [Better Chat] [Global] [Newbie] schuttn: i hope he will try it when i am online
+23:28 [Info] [Better Chat] [Global] [Player] SeeMS: hahaha
+23:29 [Info] [Better Chat] [Global] [Player] SeeMS: come i give you item for decoration xD
+23:29 [Info] [Better Chat] [Global] [Player] SeeMS: bear things
+23:29 [Info] [Better Chat] [Global] [Newbie] schuttn: ok
+23:29 [Info] [Better Chat] [Global] [Player] SeeMS: i have to buy
+23:29 [Info] [Better Chat] [Global] [Player] SeeMS: a mic
+23:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+23:30 [Info] [Better Chat] [Global] [Player] SeeMS: lol
+23:30 [Info] [Better Chat] [Global] [Player] SeeMS: no thank
+23:30 [Info] [Better Chat] [Global] [Player] SeeMS: wanna see my base so?
+23:31 [Info] [Better Chat] [Global] [Player] SeeMS: hahaha
+23:31 [Info] [Better Chat] [Global] [Player] SeeMS: you just have to put CTRL
+23:31 [Info] [Better Chat] [Global] [Player] SeeMS: on your horse
+23:31 [Info] [Better Chat] [Global] [Player] SeeMS: hahaha
+23:31 [Info] [Better Chat] [Global] [Player] SeeMS: dont kill him hahahahha
+23:32 [Info] [Better Chat] [Global] [Player] SeeMS: what?
+23:32 [Info] [Better Chat] [Global] [Newbie] schuttn: i am going to loot this cabins
+23:32 [Info] [Better Chat] [Global] [Player] SeeMS: okay haha
+23:32 [Info] [Better Chat] [Global] [Newbie] chitzo: hi
+23:32 [Info] [Better Chat] [Global] [Player] SeeMS: you can see my base if you want haha
+23:32 [Info] [Better Chat] [Global] [Newbie] schuttn: you can come with me :D
+23:32 [Info] [Better Chat] [Global] [Newbie] schuttn: ok sure
+23:32 [Info] [Better Chat] [Global] [Player] SeeMS: ok lol
+23:32 [Info] [Better Chat] [Global] [Newbie] schuttn: lets go
+23:32 [Info] [Better Chat] [Global] [Newbie] schuttn: i follow you
+23:32 [Info] [Better Chat] [Global] [Player] SeeMS: 3min with horse
+23:32 [Info] [Better Chat] [Global] [Newbie] schuttn: ok
+23:35 [Info] [Better Chat] [Global] [Player] SeeMS: here
+23:36 [Info] [Better Chat] [Global] [Newbie] schuttn: wow nice
+23:36 [Info] [Better Chat] [Global] [Player] SeeMS: oups
+23:36 [Info] [Better Chat] [Global] [Newbie] schuttn: holy
+23:36 [Info] [Better Chat] [Global] [Player] SeeMS: sorry
+23:36 [Info] [Better Chat] [Global] [Newbie] schuttn: hahha
+23:36 [Info] [Better Chat] [Global] [Player] SeeMS: wait
+23:36 [Info] [Better Chat] [Global] [Newbie] schuttn: that scared me
+23:36 [Info] [Better Chat] [Global] [Player] SeeMS: take
+23:36 [Info] [Better Chat] [Global] [Newbie] schuttn: thanks
+23:37 [Info] [Better Chat] [Global] [Newbie] schuttn: very nice base
+23:37 [Info] [Better Chat] [Global] [Player] SeeMS: come
+23:37 [Info] [Better Chat] [Global] [Newbie] schuttn: you build it alone?
+23:37 [Info] [Better Chat] [Global] [Player] SeeMS: yes
+23:38 [Info] [Better Chat] [Global] [Player] SeeMS: this is my friend
+23:38 [Info] [Better Chat] [Global] [Newbie] schuttn: haha
+23:38 [Info] [Better Chat] [Global] [Player] SeeMS: but always not here xD
+23:38 [Info] [Better Chat] [Global] [Newbie] schuttn: i thought he is dead
+23:38 [Info] [Better Chat] [Global] [Player] SeeMS: we play in another serv
+23:38 [Info] [Better Chat] [Global] [Player] SeeMS: haha
+23:38 [Info] [Kill Feed] [38/23/24/01/2021] SeeMS                          Spine                          hatchet                        0.3m                           Rayzen
+23:38 [Info] [Better Chat] [Global] [Player] SeeMS: now he is
+23:38 [Info] [Better Chat] [Global] [Newbie] schuttn: ah okey
+23:38 [Info] [Better Chat] [Global] [Newbie] schuttn: ^^
+23:38 [Info] [Better Chat] [Global] [Player] SeeMS: never touch my coffer
+23:38 [Info] [Better Chat] [Global] [Player] SeeMS: hahaha
+23:38 [Info] [Better Chat] [Global] [Newbie] schuttn: nonono
+23:39 [Info] [Better Chat] [Global] [Player] SeeMS: here for sniping ect
+23:39 [Info] [Better Chat] [Global] [Newbie] schuttn: yes yes
+23:40 [Info] [Better Chat] [Global] [Player] SeeMS: haha done
+23:40 [Info] [Better Chat] [Global] [Newbie] schuttn: great
+23:40 [Info] [Better Chat] [Global] [Newbie] schuttn: how can i build this roll doors?
+23:40 [Info] [Better Chat] [Global] [Player] SeeMS: where
+23:41 [Info] [Better Chat] [Global] [Newbie] schuttn: wait i show you
+23:41 [Info] [Better Chat] [Global] [Player] SeeMS: oh
+23:41 [Info] [Better Chat] [Global] [Player] SeeMS: i found it
+23:41 [Info] [Better Chat] [Global] [Player] SeeMS: you can learn it
+23:41 [Info] [Better Chat] [Global] [Player] SeeMS: also
+23:41 [Info] [Better Chat] [Global] [Player] SeeMS: but you can found it
+23:41 [Info] [Better Chat] [Global] [Player] SeeMS: hmm wait i see
+23:41 [Info] [Better Chat] [Global] [Player] SeeMS: come
+23:42 [Info] [Better Chat] [Global] [Player] SeeMS: haha
+23:42 [Info] [Better Chat] [Global] [Player] SeeMS: go for it
+23:43 [Info] [Better Chat] [Global] [Player] SeeMS: im newbie too my friend xD
+23:43 [Info] [Better Chat] [Global] [Player] SeeMS: did you used the /kit ?
+23:43 [Info] [Better Chat] [Global] [Player] SeeMS: great
+23:43 [Info] [Better Chat] [Global] [Newbie] schuttn: yes
+23:43 [Info] [Better Chat] [Global] [Player] SeeMS: you found it?
+23:44 [Info] [Better Chat] [Global] [Player] SeeMS: yes
+23:44 [Info] [Better Chat] [Global] [Player] SeeMS: i see yea
+23:44 [Info] [Better Chat] [Global] [Player] SeeMS: you need a lot of scap
+23:44 [Info] [Better Chat] [Global] [Player] SeeMS: so you keep searching haha
+23:44 [Info] [Better Chat] [Global] [Newbie] schuttn: yes
+23:44 [Info] [Better Chat] [Global] [Player] SeeMS: take it haha
+23:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+23:45 [Info] [Better Chat] [Global] [Player] SeeMS: yea
+23:45 [Info] [Better Chat] [Global] [Player] SeeMS: XD
+23:45 [Info] [Better Chat] [Global] [Player] SeeMS: found it
+23:45 [Info] [Better Chat] [Global] [Player] SeeMS: haha
+23:45 [Info] [Better Chat] [Global] [Player] SeeMS: yes !
+23:45 [Info] [Better Chat] [Global] [Player] SeeMS: maybe 12
+23:46 [Info] [Better Chat] [Global] [Player] SeeMS: yep its excellent idea i think
+23:46 [Info] [Better Chat] [Global] [Player] SeeMS: XDDD
+23:46 [Info] [Better Chat] [Global] [Player] SeeMS: hahahahaha
+23:46 [Info] [Better Chat] [Global] [Player] SeeMS: yep i got the same thing
+23:46 [Info] [Better Chat] [Global] [Player] SeeMS: i start the game maybe 7day ago
+23:46 [Info] [Better Chat] [Global] [Player] SeeMS: im newbie
+23:46 [Info] [Better Chat] [Global] [Player] SeeMS: hahaha
+23:46 [Info] [Better Chat] [Global] [Player] SeeMS: you need something?
+23:47 [Info] [Better Chat] [Global] [Player] SeeMS: ok haha
+23:47 [Info] [Better Chat] [Global] [Player] SeeMS: yep i can i think
+23:47 [Info] [Better Chat] [Global] [Player] SeeMS: lol but the fire oen
+23:47 [Info] [Better Chat] [Global] [Player] SeeMS: one
+23:47 [Info] [Better Chat] [Global] [Player] SeeMS: make you scary
+23:48 [Info] [Better Chat] [Global] [Player] SeeMS: hahaha
+23:48 [Info] [Better Chat] [Global] [Player] SeeMS: i will activate it
+23:48 [Info] [Better Chat] [Global] [Player] SeeMS: RUN
+23:48 [Info] [Better Chat] [Global] [Player] SeeMS: hahahahhaa
+23:48 [Info] [Better Chat] [Global] [Player] SeeMS: XDD
+23:49 [Info] [Better Chat] [Global] [Player] SeeMS: now he will shot
+23:49 [Info] [Better Chat] [Global] [Player] SeeMS: XDDDDD
+23:49 [Info] [Better Chat] [Global] [Newbie] schuttn: lol
+23:49 [Info] [Better Chat] [Global] [Player] SeeMS: yep its for protection
+23:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+23:50 [Info] [Better Chat] [Global] [Player] SeeMS: what do you wanna do
+23:50 [Info] [Better Chat] [Global] [Newbie] schuttn: i will go for this box at the factory
+23:50 [Info] [Better Chat] [Global] [Player] SeeMS: oh i see haha
+23:50 [Info] [Better Chat] [Global] [Newbie] schuttn: but after the restart i think
+23:50 [Info] [Better Chat] [Team] [Player] SeeMS: yes
+23:51 [Info] [Better Chat] [Team] [Player] SeeMS: oh wait
+23:51 [Info] [Better Chat] [Team] [Player] SeeMS: i give you something great xD
+23:51 [Info] [Better Chat] [Team] [Player] SeeMS: to break rock
+23:51 [Info] [Better Chat] [Team] [Player] SeeMS: XD
+23:52 [Info] [Better Chat] [Team] [Player] SeeMS: yes metal ect
+23:52 [Info] [Better Chat] [Team] [Player] SeeMS: very powerfull lol
+23:52 [Info] [Better Chat] [Team] [Player] SeeMS: XD
+23:53 [Info] [Better Chat] [Team] [Player] SeeMS: oh he have nothing
+23:54 [Info] [Better Chat] [Team] [Player] SeeMS: eat !
+23:54 [Info] [Better Chat] [Team] [Player] SeeMS: xD
+23:54 [Info] [Better Chat] [Team] [Player] SeeMS: mine is very
+23:54 [Info] [Better Chat] [Team] [Player] SeeMS: looool
+23:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+23:55 [Info] [Better Chat] [Team] [Player] SeeMS: XDDDD
+23:55 [Info] [Better Chat] [Team] [Player] SeeMS: holy shit
+23:55 [Info] [Better Chat] [Team] [Player] SeeMS: wow
+23:55 [Info] [Better Chat] [Team] [Player] SeeMS: shit i have to go back to the house
+23:55 [Info] [Better Chat] [Team] [Player] SeeMS: to put my thing
+23:55 [Info] [Better Chat] [Team] [Player] SeeMS: before the restart
+23:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+23:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+23:57 [Info] [Better Chat] [Global] [Newbie] schuttn: what will happen after the restart?
+23:57 [Info] [Better Chat] [Global] [Newbie] schuttn: are the horses gone?
+23:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+23:58 [Info] [Better Chat] [Team] [Player] SeeMS: i dont think
+23:58 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+23:58 [Info] [Better Chat] [Global] [Newbie] schuttn: my light is gone
+23:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+23:59 [Info] [Better Chat] [Global] [Newbie] schuttn: haha
+23:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+23:59 [Info] [Better Chat] [Team] [Player] SeeMS: XDDD
+23:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 1 seconds!

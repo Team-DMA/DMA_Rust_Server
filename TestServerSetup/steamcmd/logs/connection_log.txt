@@ -73,3 +73,22 @@
 [2021-02-07 19:57:26] [3,3] LogOff()
 [2021-02-07 19:57:26] [2,3] AsyncDisconnect()
 [2021-02-07 19:57:26] [2,3] Log session ended
+
+
+[2021-02-10 15:00:42] Log session started
+[2021-02-10 15:00:42] [0,0] SetSteamID( [U:1:0] )
+[2021-02-10 15:00:43] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-10 15:00:43] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-10 15:00:43] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2021-02-10 15:00:43] [0,0] SetSteamID( [a:1:0] )
+[2021-02-10 15:00:43] [0,0] SetSteamID( [a:1:0] )
+[2021-02-10 15:00:43] [0,0] Server says 50% of connections should be websockets, we rolled 59 - using UDP as default.
+[2021-02-10 15:00:43] [1,2] Connect() starting connection (eNetQOSLevelHigh, 155.133.250.146:27024, UDP)
+[2021-02-10 15:00:44] [1,2] ConnectionCompleted() (155.133.250.146:27021, UDP)
+[2021-02-10 15:00:44] [1,2] RecvMsgClientLogOnResponse() : [a:1:2070769956] 'OK'
+[2021-02-10 15:00:45] IPv6 HTTP connectivity test (ipv6check-http.steamcontent.com / [2a01:bc80:5:101::9b85:fa24]:80 ([2a01:bc80:5:101::9b85:fa24]:80)) - TIMEOUT
+[2021-02-10 15:00:47] IPv6 UDP connectivity test (ipv6check-udp.steamcontent.com / 2a01:bc80:5:101::9b85:fa36) - TIMEOUT
+[2021-02-10 15:02:08] [3,2] ResetVoiceRecording() (was recording: 0) (last get voice time: 1612965728 seconds ago)
+[2021-02-10 15:02:08] [3,2] LogOff()
+[2021-02-10 15:02:08] [2,2] AsyncDisconnect()
+[2021-02-10 15:02:08] [2,2] Log session ended

@@ -1,0 +1,61 @@
+{
+  "clans": {
+    "DMA": {
+      "description": "Doesnt mean anything",
+      "invited": [],
+      "members": [
+        "76561198070936229",
+        "76561198121059907",
+        "76561198849569341",
+        "76561198207339716"
+      ],
+      "moderators": [],
+      "owner": "76561198070936229",
+      "tag": "DMA"
+    },
+    "esp": {
+      "description": "yes",
+      "invited": [],
+      "members": [
+        "76561198303527991",
+        "76561198121881003",
+        "76561199092615273",
+        "76561198261870571"
+      ],
+      "moderators": [],
+      "owner": "76561198303527991",
+      "tag": "esp"
+    },
+    "HR": {
+      "description": "Rude",
+      "invited": [],
+      "members": [
+        "76561197991119483"
+      ],
+      "moderators": [],
+      "owner": "76561197991119483",
+      "tag": "HR"
+    },
+    "SPT": {
+      "description": "friendly",
+      "invited": [],
+      "members": [
+        "76561198363969281",
+        "76561198837968558"
+      ],
+      "moderators": [],
+      "owner": "76561198363969281",
+      "tag": "SPT"
+    },
+    "Venom": {
+      "description": "Ita",
+      "invited": [],
+      "members": [
+        "76561199075725557"
+      ],
+      "moderators": [],
+      "owner": "76561199075725557",
+      "tag": "Venom"
+    }
+  }
+}

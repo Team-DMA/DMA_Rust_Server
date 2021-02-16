@@ -1,0 +1,8 @@
+{
+  "Notification.TooMuchDamage": "This drone is too damaged to fly. Repair it to continue use",
+  "Notification.WaterDamage": "Drones can't swim... n00b",
+  "Notification.Destroyed": "Your drone has been destroyed",
+  "Notification.Controls": "<size=18><color=#ffa500>COBALT DRONE</color></size><size=14> - <color=#ce422b>Controls</color></size>\nForward/BackwardLeft/Right - Movement\nSprint/Duck - Ascend/Descend\nJump - Exit controls",
+  "Error.NoFlyPermissions": "You do not have permission to fly drones",
+  "Error.NoPermission": "You do not have permission to use this command"
+}

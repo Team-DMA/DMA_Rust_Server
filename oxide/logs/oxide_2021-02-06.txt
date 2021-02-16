@@ -1,0 +1,1285 @@
+00:00 [Info] Uninstalling Rust:IO ...
+00:00 [Info] Rust:IO> Uninstalling ...
+00:00 [Info] Rust:IO> No longer ticking
+00:00 [Info] Rust:IO> Stopping server ...
+00:00 [Info] Rust:IO> Removing listeners ...
+00:00 [Info] Rust:IO> Performing maintenance ...
+00:00 [Info] Rust:IO> Closing database ...
+00:00 [Info] Rust:IO> Uninstalled.
+00:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Unloaded plugin AdminHammer v1.12.0 by mvrb
+00:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:00 [Info] Unloaded plugin Auto Purge v2.1.1 by misticos
+00:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Unloaded plugin Backpacks v3.4.0 by LaserHydra
+00:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Unloaded plugin Better Say v3.0.1 by LaserHydra
+00:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Unloaded plugin DronePilot v1.0.0 by k1lly0u
+00:00 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+00:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+00:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Unloaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+00:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 123ms
+00:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Info] Unloaded plugin Notice v1.0.1 by LaserHydra
+00:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Unloaded plugin PrivateMessages v1.1.11 by MisterPixie
+00:00 [Info] Unloaded plugin Private Messages GUI v1.0.2 by Tricky
+00:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+00:00 [Info] Unloaded plugin Scrap Heli Storage v0.0.5 by yetzt
+00:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+00:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+00:00 [Info] Unloaded plugin Slap v2.0.0 by Wulf
+00:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] [Start Protection] Saving protection database...
+00:00 [Info] Unloaded plugin Start Protection v2.3.2 by wazzzup
+00:00 [Info] Unloaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+00:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Unloaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+00:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+00:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+00:00 [Info] Loading Oxide Core v2.0.3991...
+00:00 [Info] Loading extensions...
+00:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust v2.0.4902 by Oxide Team and Contributors
+00:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Using Covalence provider for game 'Rust'
+00:00 [Info] Loading plugins...
+00:00 [Info] Loaded plugin Rust v2.0.4902 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:00 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+00:00 [Info] AdminChat, AdminHammer, AliasSystem, AutoBroadcast, AutoPurge, AutomaticAuthorization, BGrade, Backpacks, BetterChat, BetterChatMentions, BetterLoot, BetterSay, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, DronePilot, EasyAirdrop, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NPCDropGun, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, SAMSiteAuth, ScrapHeliStorage, ServerInfo, ServerRewards, SignArtist, Skins, SkipNightVote, Slap, SmoothRestart, SpawnMini, StackSizeController, StartProtection, UpkeepDisplayFix, Vanish, VehicleDecayProtection, VehicleLicence, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+00:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+00:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+00:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+00:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+00:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:00 [Info] Loaded plugin Auto Purge v2.1.1 by misticos
+00:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Loaded plugin Backpacks v3.4.0 by LaserHydra
+00:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+00:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Loaded plugin DronePilot v1.0.0 by k1lly0u
+00:00 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+00:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:00 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+00:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+00:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Loaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+00:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Warning] Missing plugin name prefix 'notice.' for permission 'cannotice' (by plugin 'Notice')
+00:00 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+00:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+00:00 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+00:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+00:00 [Info] Loaded plugin Scrap Heli Storage v0.0.5 by yetzt
+00:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+00:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+00:00 [Info] Loaded plugin Slap v2.0.0 by Wulf
+00:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] Loaded plugin Start Protection v2.3.2 by wazzzup
+00:00 [Info] Loaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+00:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Loaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+00:00 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+00:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+00:02 [Info] IP address from Steam query: 0.0.0.0
+00:02 [Info] Updating Rust:IO ...
+00:02 [Info] [Auto Purge] The purge has been started.
+00:02 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+00:02 [Info] [BetterLoot] Updating internals ...
+00:02 [Info] Rust:IO: Update complete
+00:02 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 210ms
+00:02 [Info] [Kill Feed] Loading configuration file!
+00:02 [Warning] [Server Rewards] All UI elements have been successfully generated!
+00:02 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 415ms [GARBAGE COLLECT]
+00:02 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+00:02 [Info] [Start Protection] Entry list up to date.
+00:02 [Info] [Start Protection] Start Protection has been enabled [Minutes: 30] (type /sp toggle to disable).
+00:02 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+00:02 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+00:02 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 125ms
+00:03 [Info] [BetterLoot] No stacked LootContainer found.
+00:03 [Info] [BetterLoot] Populated '450' supported containers.
+00:03 [Info] [SmoothRestart] Your servers Oxide build is up to date
+00:03 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+00:03 [Info] Installing Rust:IO ...
+00:03 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+00:03 [Info] Rust:IO> Creating directories ...
+00:03 [Info] Rust:IO> Applying config ...
+00:03 [Info] Rust:IO> Initializing database ...
+00:03 [Info] Rust:IO> Generating map image (this may take a while) ...
+00:03 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7005.779ms
+Postprocess  :  3338.258ms
+  Shadows    :   209.017ms
+  FXAA       :  3115.785ms
+Encoding     :    74.601ms
+Other        :     9.415ms
+--------------------------
+Total        :  10428.053ms
+00:03 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+00:03 [Info] Rust:IO> Installed.
+00:03 [Info] Rust:IO> Now ticking
+00:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 10599ms [GARBAGE COLLECT]
+00:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 1ms [GARBAGE COLLECT]
+00:03 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+00:03 [Info] [Auto Purge] The purge has been completed. Purged entities: 0.
+00:03 [Info] [Welcomer] • _.Markitus._ has joined the server from Spain.
+00:04 [Info] [Welcomer] • tana23vlc has joined the server from Spain.
+00:06 [Info] [Kill Feed] [06/00/06/02/2021] _.Markitus._                                                  shotgun.pump                   6.3m                           Boar
+00:06 [Info] [Welcomer] • Kappa has joined the server from Germany.
+00:06 [Info] [Welcomer] • Ginganinja has joined the server from Netherlands.
+00:06 [Info] [Kill Feed] [06/00/06/02/2021] Boar                                                          bite                           0.3m                           BatmaLord
+00:07 [Info] [Welcomer] • Curufinwe has joined the server from Turkey.
+00:07 [Info] [Welcomer] • Ginganinja has left the server (Disconnected).
+00:08 [Info] [Kill Feed] [08/00/06/02/2021] Curufinwe                                                     suicide                                                       Curufinwe
+00:09 [Info] [Kill Feed] [09/00/06/02/2021] tana23vlc                                                     pistol.revolver                7.4m                           Boar
+00:09 [Info] [Better Chat] [Global] [Newbie] Curufinwe: :D
+00:09 [Info] [Better Chat] [Global] [Player] Kappa: ninjda are u on?
+00:10 [Info] [Better Chat] [Global] [Newbie] Curufinwe: can we get test generator ?
+00:10 [Info] [Better Chat] [Global] [Player] Kappa: never get that one here
+00:11 [Info] [Better Chat] [Global] [Newbie] Curufinwe: are you sure
+00:11 [Info] [Better Chat] [Global] [Player] Kappa: sure about what?
+00:11 [Info] [Better Chat] [Global] [Newbie] Curufinwe: old dma
+00:11 [Info] [Better Chat] [Global] [Newbie] Curufinwe: had elecktricial kit
+00:12 [Info] [Better Chat] [Global] [Player] Kappa: server just update 2 days before
+00:12 [Info] [Better Chat] [Global] [Newbie] Curufinwe: ok
+00:13 [Info] [Kill Feed] [13/00/06/02/2021] _.Markitus._                                                  hatchet                        1.1m                           Chicken
+00:13 [Info] [Kill Feed] [13/00/06/02/2021] _.Markitus._                                                  shotgun.pump                   1.5m                           Boar
+00:19 [Info] [Kill Feed] [19/00/06/02/2021] _.Markitus._                   Arm                            shotgun.pump                   0.4m                           MacCirrhose
+00:22 [Info] [Kill Feed] [22/00/06/02/2021] Curufinwe                                                     pistol.revolver                22.2m                          Boar
+00:29 [Info] [Kill Feed] [29/00/06/02/2021] tana23vlc                      Head                           pistol.revolver                2.3m                           Gerduardo
+00:45 [Info] [Kill Feed] [45/00/06/02/2021] Kappa                                                         bow.hunting                    11.4m                          Wolf
+01:02 [Info] [Welcomer] • _.Markitus._ has left the server (Disconnected).
+01:05 [Info] [Welcomer] • Kappa has left the server (Disconnected).
+01:45 [Info] [Kill Feed] [45/01/06/02/2021] sentry.scientist.static                                       bullet                         68.1m                          3757030
+01:56 [Info] [Welcomer] • Curufinwe has left the server (Disconnected).
+02:38 [Info] [Welcomer] • tana23vlc has left the server (Disconnected).
+05:41 [Info] [Welcomer] • chitzo has joined the server from Germany.
+05:51 [Info] [Kill Feed] [51/05/06/02/2021] sentry.bandit.static                                          bullet                         23.7m                          1222016
+06:11 [Info] [PlayerRankings] chitzo has been ranked up to pro
+06:27 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+07:28 [Info] [Welcomer] • Kappa has joined the server from Germany.
+07:56 [Info] [Kill Feed] [56/07/06/02/2021] Kappa                                                         pistol.python                  15.2m                          Boar
+07:57 [Info] [Kill Feed] [57/07/06/02/2021] Kappa                                                         pistol.python                  8.7m                           Boar
+08:03 [Info] [Kill Feed] [03/08/06/02/2021] Kappa                                                         pistol.python                  8.2m                           Boar
+08:22 [Info] Listing 65 plugins:
+  01 "Admin Chat" (2.0.4) by LaserHydra (0.00s) - AdminChat.cs
+  02 "AdminHammer" (1.12.0) by mvrb (0.00s) - AdminHammer.cs
+  03 "Alias System" (2.1.3) by LaserHydra (0.00s) - AliasSystem.cs
+  04 "AutoBroadcast" (1.0.8) by Wulf/lukespragg (0.01s) - AutoBroadcast.cs
+  05 "Auto Purge" (2.1.1) by misticos (0.01s) - AutoPurge.cs
+  06 "Automatic Authorization" (1.2.4) by k1lly0u/Arainrr (0.13s) - AutomaticAuthorization.cs
+  07 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.04s) - BGrade.cs
+  08 "Backpacks" (3.4.0) by LaserHydra (1.75s) - Backpacks.cs
+  09 "Better Chat" (5.2.5) by LaserHydra (0.02s) - BetterChat.cs
+  10 "Better Chat Mentions" (1.2.3) by Death (0.00s) - BetterChatMentions.cs
+  11 "BetterLoot" (3.5.3) by Default (3.98s) - BetterLoot.cs
+  12 "Better Say" (3.0.1) by LaserHydra (0.01s) - BetterSay.cs
+  13 "Blueprint Manager" (1.1.4) by Orange (0.07s) - BlueprintManager.cs
+  14 "Building Grades" (0.5.1) by Default (0.00s) - BuildingGrades.cs
+  15 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  16 "Rust:IO Clans" (1.7.6) by playrust.io / dcode (0.01s) - Clans.cs
+  17 "Clan Team" (1.0.5) by deivismac (0.00s) - ClanTeam.cs
+  18 "Crafting Controller" (3.2.2) by Whispers88 (0.04s) - CraftingController.cs
+  19 "DronePilot" (1.0.0) by k1lly0u (0.10s) - DronePilot.cs
+  20 "Easy Airdrop" (3.2.5) by LaserHydra (0.00s) - EasyAirdrop.cs
+  21 "Gathering Manager" (2.2.75) by Mughisi (0.10s) - GatherManager.cs
+  22 "Godmode" (4.2.9) by Wulf/lukespragg/Arainrr (0.64s) - Godmode.cs
+  23 "HeliControl" (1.4.0) by Shady (73.54s) - HeliControl.cs
+  24 "Image Library" (2.0.56) by Absolut & K1lly0u (0.07s) - ImageLibrary.cs
+  25 "Gesture Wheel" (0.1.3) by Tricky & Mevent (0.00s) - GestureWheel.cs
+  26 "InfoPanel" (1.0.4) by Default (2.09s) - InfoPanel.cs
+  27 "Inventory Cleaner" (2.0.0) by Iv Misticos (0.00s) - InventoryCleaner.cs
+  28 "Inventory Viewer" (3.0.3) by Mughisi (0.20s) - InventoryViewer.cs
+  29 "Kill Feed" (1.18.0) by Tuntenfisch (0.05s) - KillFeed.cs
+  30 "Kits" (3.3.1) by Reneb (0.04s) - Kits.cs
+  31 "Loading Messages" (1.0.6) by CosaNostra/Def (0.05s) - LoadingMessages.cs
+  32 "NPC Drop Gun" (2.0.4) by 2CHEVSKII (0.02s) - NPCDropGun.cs
+  33 "NTeleportation" (1.4.7) by nivex (0.24s) - NTeleportation.cs
+  34 "No Escape" (2.1.31) by Calytic (0.76s) - NoEscape.cs
+  35 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.cs
+  36 "Notice" (1.0.1) by LaserHydra (0.00s) - Notice.cs
+  37 "OnScreenLogo" (1.1.5) by Vlad-00003 (0.02s) - OnScreenLogo.cs
+  38 "PlayerRankings" (3.0.2) by Ankawi (0.06s) - PlayerRankings.cs
+  39 "Playtime Tracker" (0.1.7) by k1lly0u (0.24s) - PlaytimeTracker.cs
+  40 "Popup Notifications" (0.2.0) by emu / k1lly0u (0.00s) - PopupNotifications.cs
+  41 "PrivateMessages" (1.1.11) by MisterPixie (0.00s) - PrivateMessages.cs
+  42 "Private Messages GUI" (1.0.2) by Tricky (0.00s) - PrivateMessagesGUI.cs
+  43 "Quick Smelt" (5.1.3) by Iv Misticos (0.39s) - QuickSmelt.cs
+  44 "Remover Tool" (4.3.23) by Reneb/Fuji/Arainrr (0.02s) - RemoverTool.cs
+  45 "SAMSiteAuth" (2.3.3) by haggbart (0.00s) - SAMSiteAuth.cs
+  46 "Scrap Heli Storage" (0.0.5) by yetzt (0.13s) - ScrapHeliStorage.cs
+  47 "ServerInfo" (0.5.4) by FastBurst (0.05s) - ServerInfo.cs
+  48 "Server Rewards" (0.4.73) by k1lly0u (0.49s) - ServerRewards.cs
+  49 "Sign Artist" (1.2.6) by Whispers88 (0.00s) - SignArtist.cs
+  50 "Skins" (2.1.2) by Iv Misticos (0.51s) - Skins.cs
+  51 "SkipNightVote" (0.1.4) by k1lly0u (0.06s) - SkipNightVote.cs
+  52 "Slap" (2.0.0) by Wulf (0.00s) - Slap.cs
+  53 "SmoothRestart" (1.2.5) by Fujikura/Visagalis (0.92s) - SmoothRestart.cs
+  54 "Spawn Mini" (2.10.0) by SpooksAU (0.44s) - SpawnMini.cs
+  55 "Stack Size Controller" (2.0.4) by Canopy Sheep (0.55s) - StackSizeController.cs
+  56 "Start Protection" (2.3.2) by wazzzup (0.49s) - StartProtection.cs
+  57 "Upkeep Display Fix" (1.0.1) by WhiteThunder (0.40s) - UpkeepDisplayFix.cs
+  58 "Vanish" (1.3.8) by Whispers88 (0.00s) - Vanish.cs
+  59 "Vehicle Decay Protection" (1.3.2) by WhiteThunder (0.97s) - VehicleDecayProtection.cs
+  60 "Vehicle Licence" (1.7.9) by Sorrow/TheDoc/Arainrr (0.56s) - VehicleLicence.cs
+  61 "VoteRewards" (2.1.0) by k1lly0u (0.02s) - Voter.cs
+  62 "Welcomer" (1.5.4) by Dana (0.01s) - Welcomer.cs
+  63 "Where is My Horse" (0.2.2) by 2CHEVSKII (0.00s) - WhereIsMyHorse.cs
+  64 "ZLevelsRemastered" (2.9.22) by Default (1.64s) - ZLevelsRemastered.cs
+08:23 [Info] [Better Say] SERVER: Hello Kappa :'D
+08:38 [Info] [Welcomer] • Kappa has left the server (Disconnected).
+09:08 [Info] [Welcomer] • Kappa has joined the server from Germany.
+09:11 [Info] [Better Say] SERVER: Hello Kappa :'D
+09:11 [Info] [Better Chat] [Global] [Player] Kappa: Hi admin :)
+09:12 [Info] [Better Chat] [Global] [Player] Kappa: Admin is there a setting for heli and cargo?
+09:12 [Info] [Better Chat] [Global] [Player] Kappa: i feel like i play for 2 h and 0 from them :(
+09:15 [Info] [Better Say] SERVER: Hmm idk. They spawn when they spawn. It's rust sided
+09:16 [Info] [Better Say] SERVER: But I can spawn a Heli or CH47 if u want
+09:16 [Info] [Better Chat] [Global] [Player] Kappa: no need ty :) i just wanted to ask if it a settings
+09:18 [Info] [Better Say] SERVER: Maybe I can look for it so they will spawn more often
+09:18 [Info] [HeliControl] Helicopter Inbound!
+09:18 [Info] [Better Say] SERVER: I have called a CH47. You can fight it if u want haha
+09:19 [Info] [Better Chat] [Global] [Player] Kappa: what is CH47?
+09:21 [Info] [Better Say] SERVER: The big Cargo Heli with scientists in it
+09:21 [Info] [Better Chat] [Global] [Player] Kappa: ah i didnt know you can fight it :D
+09:25 [Info] [Better Say] SERVER: You can. It has better loot
+09:25 [Info] [Better Chat] [Global] [Player] Kappa: do i need rocker luncher?
+09:28 [Info] [Better Say] SERVER: Or much ammo
+09:51 [Info] [Welcomer] • Kappa has left the server (Disconnected).
+09:58 [Info] [Welcomer] • Joker™ has joined the server from Germany.
+10:05 [Info] [Kill Feed] [05/10/06/02/2021] Joker™                                                        landmine                       1.1m                           Joker™
+10:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+10:39 [Info] [Kill Feed] [39/10/06/02/2021] Joker™                                                        suicide                                                       Joker™
+10:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+10:49 [Info] [Welcomer] • Joker™ has left the server (Disconnected).
+10:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+10:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+10:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+10:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+10:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+10:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+10:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 9 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 8 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 7 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 6 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 1 seconds!
+11:00 [Info] Uninstalling Rust:IO ...
+11:00 [Info] Rust:IO> Uninstalling ...
+11:00 [Info] Rust:IO> No longer ticking
+11:00 [Info] Rust:IO> Stopping server ...
+11:00 [Info] Rust:IO> Removing listeners ...
+11:00 [Info] Rust:IO> Performing maintenance ...
+11:00 [Info] Rust:IO> Closing database ...
+11:00 [Info] Rust:IO> Uninstalled.
+11:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+11:00 [Info] Unloaded plugin AdminHammer v1.12.0 by mvrb
+11:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+11:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+11:00 [Info] Unloaded plugin Auto Purge v2.1.1 by misticos
+11:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+11:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+11:00 [Info] Unloaded plugin Backpacks v3.4.0 by LaserHydra
+11:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+11:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+11:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+11:00 [Info] Unloaded plugin Better Say v3.0.1 by LaserHydra
+11:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+11:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+11:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+11:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+11:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+11:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+11:00 [Info] Unloaded plugin DronePilot v1.0.0 by k1lly0u
+11:00 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+11:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+11:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+11:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+11:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+11:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+11:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+11:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+11:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+11:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+11:00 [Info] Unloaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+11:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+11:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 128ms
+11:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+11:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+11:00 [Info] Unloaded plugin Notice v1.0.1 by LaserHydra
+11:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+11:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+11:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+11:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+11:00 [Info] Unloaded plugin PrivateMessages v1.1.11 by MisterPixie
+11:00 [Info] Unloaded plugin Private Messages GUI v1.0.2 by Tricky
+11:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+11:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+11:00 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+11:00 [Info] Unloaded plugin Scrap Heli Storage v0.0.5 by yetzt
+11:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+11:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+11:00 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+11:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+11:00 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+11:00 [Info] Unloaded plugin Slap v2.0.0 by Wulf
+11:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+11:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+11:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+11:00 [Info] [Start Protection] Saving protection database...
+11:00 [Info] Unloaded plugin Start Protection v2.3.2 by wazzzup
+11:00 [Info] Unloaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+11:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+11:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+11:00 [Info] Unloaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+11:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+11:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+11:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+11:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+11:00 [Info] Loading Oxide Core v2.0.3991...
+11:00 [Info] Loading extensions...
+11:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+11:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+11:00 [Info] Loaded extension Rust v2.0.4902 by Oxide Team and Contributors
+11:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+11:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+11:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+11:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+11:00 [Info] Using Covalence provider for game 'Rust'
+11:00 [Info] Loading plugins...
+11:00 [Info] Loaded plugin Rust v2.0.4902 by Oxide Team and Contributors
+11:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+11:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+11:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+11:00 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+11:00 [Info] AdminChat, AdminHammer, AliasSystem, AutoBroadcast, AutoPurge, AutomaticAuthorization, BGrade, Backpacks, BetterChat, BetterChatMentions, BetterLoot, BetterSay, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, DronePilot, EasyAirdrop, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NPCDropGun, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, SAMSiteAuth, ScrapHeliStorage, ServerInfo, ServerRewards, SignArtist, Skins, SkipNightVote, Slap, SmoothRestart, SpawnMini, StackSizeController, StartProtection, UpkeepDisplayFix, Vanish, VehicleDecayProtection, VehicleLicence, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+11:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+11:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+11:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+11:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+11:00 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+11:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+11:00 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+11:00 [Info] Loaded plugin Auto Purge v2.1.1 by misticos
+11:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+11:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+11:00 [Info] Loaded plugin Backpacks v3.4.0 by LaserHydra
+11:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+11:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+11:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+11:00 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+11:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+11:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+11:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+11:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+11:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+11:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+11:00 [Info] Loaded plugin DronePilot v1.0.0 by k1lly0u
+11:00 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+11:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+11:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+11:00 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+11:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+11:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+11:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+11:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+11:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+11:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+11:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+11:00 [Info] Loaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+11:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+11:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+11:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+11:00 [Warning] Missing plugin name prefix 'notice.' for permission 'cannotice' (by plugin 'Notice')
+11:00 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+11:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+11:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+11:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+11:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+11:00 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+11:00 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+11:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+11:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+11:00 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+11:00 [Info] Loaded plugin Scrap Heli Storage v0.0.5 by yetzt
+11:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+11:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+11:00 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+11:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+11:00 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+11:00 [Info] Loaded plugin Slap v2.0.0 by Wulf
+11:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+11:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+11:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+11:00 [Info] Loaded plugin Start Protection v2.3.2 by wazzzup
+11:00 [Info] Loaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+11:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+11:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+11:00 [Info] Loaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+11:00 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+11:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+11:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+11:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+11:02 [Info] IP address from Steam query: 0.0.0.0
+11:02 [Info] Updating Rust:IO ...
+11:02 [Info] [Auto Purge] The purge has been started.
+11:02 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+11:02 [Info] [BetterLoot] Updating internals ...
+11:02 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 224ms
+11:02 [Info] [Kill Feed] Loading configuration file!
+11:02 [Info] Rust:IO: Update complete
+11:02 [Warning] [Server Rewards] All UI elements have been successfully generated!
+11:02 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 296ms
+11:02 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+11:02 [Info] [Start Protection] Entry list up to date.
+11:02 [Info] [Start Protection] Start Protection has been enabled [Minutes: 30] (type /sp toggle to disable).
+11:02 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+11:02 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+11:02 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 123ms
+11:03 [Info] [BetterLoot] No stacked LootContainer found.
+11:03 [Info] [BetterLoot] Populated '450' supported containers.
+11:03 [Info] [SmoothRestart] Your servers Oxide build is up to date
+11:03 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+11:03 [Info] Installing Rust:IO ...
+11:03 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+11:03 [Info] Rust:IO> Creating directories ...
+11:03 [Info] Rust:IO> Applying config ...
+11:03 [Info] Rust:IO> Initializing database ...
+11:03 [Info] Rust:IO> Generating map image (this may take a while) ...
+11:03 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  6881.062ms
+Postprocess  :  3116.527ms
+  Shadows    :   204.580ms
+  FXAA       :  2899.399ms
+Encoding     :    39.509ms
+Other        :     9.174ms
+--------------------------
+Total        :  10046.273ms
+11:03 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+11:03 [Info] Rust:IO> Installed.
+11:03 [Info] Rust:IO> Now ticking
+11:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 10216ms [GARBAGE COLLECT]
+11:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 1ms [GARBAGE COLLECT]
+11:03 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+11:03 [Info] [Auto Purge] The purge has been completed. Purged entities: 0.
+11:18 [Info] [Welcomer] • Joker™ has joined the server from Germany.
+11:30 [Info] [Welcomer] • Kawa47NL has joined the server from Netherlands.
+11:31 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: Hi
+11:31 [Info] [Better Chat] [Global] [Newbie] Joker™: heey
+11:34 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: also new to the server.?
+11:34 [Info] [Better Chat] [Global] [Newbie] Joker™: yes
+11:37 [Info] [Kill Feed] [37/11/06/02/2021] Kawa47NL                                                      bow.hunting                    9.1m                           Wolf
+11:58 [Info] [Kill Feed] [58/11/06/02/2021] Joker™                                                        barricade.wood                 1.9m                           Joker™
+11:59 [Info] [Welcomer] • Joker™ has left the server (Disconnected).
+12:07 [Info] [Welcomer] • StefSalvatore has joined the server from Germany.
+12:07 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: sa
+12:08 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: Hi.?
+12:08 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: hi
+12:11 [Info] [Kill Feed] [11/12/06/02/2021] StefSalvatore                                                 hatchet                        0.7m                           Chicken
+12:11 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: &voteday
+12:12 [Info] [Welcomer] • ✪ Mendo has joined the server from Germany.
+12:19 [Info] [Welcomer] • Joker™ has joined the server from Germany.
+12:22 [Info] [Kill Feed] [22/12/06/02/2021] StefSalvatore                                                 smg.2                          27.3m                          Boar
+12:23 [Info] [Kill Feed] [23/12/06/02/2021] StefSalvatore                                                 smg.2                          27.3m                          Boar
+12:23 [Info] [Kill Feed] [23/12/06/02/2021] StefSalvatore                                                 hatchet                        0.8m                           Chicken
+12:23 [Info] [Kill Feed] [23/12/06/02/2021] StefSalvatore                                                 hatchet                        0.8m                           Chicken
+12:33 [Info] [Welcomer] • Kawa47NL has left the server (Disconnected).
+12:35 [Info] [Welcomer] • Eeaz has joined the server from Germany.
+12:40 [Info] [Welcomer] • ✪ Mendo has left the server (Disconnected).
+12:42 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198263245769
+12:42 [Info] [VoteRewards] 0
+12:49 [Info] [Welcomer] • Eeaz has left the server (Disconnected).
+13:02 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198263245769
+13:02 [Info] [VoteRewards] 0
+13:04 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: where u from mate
+13:06 [Info] [Better Chat] [Global] [Newbie] Joker™: me?
+13:06 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: yeah
+13:06 [Info] [Better Chat] [Global] [Newbie] Joker™: germany
+13:06 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: u are admin ?
+13:06 [Info] [Better Chat] [Global] [Newbie] Joker™: n´o
+13:06 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: okey mate
+13:06 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: dont kill me pls mate
+13:06 [Info] [Better Chat] [Global] [Newbie] Joker™: nono
+13:07 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: thx mate
+13:16 [Info] [Welcomer] • Cjoux has joined the server from Germany.
+13:22 [Info] [Welcomer] • Cjoux has left the server (Disconnected).
+13:25 [Info] [Welcomer] • _.Markitus._ has joined the server from Spain.
+13:28 [Info] [Welcomer] • Joker™ has left the server (Disconnected).
+13:44 [Info] [Kill Feed] [44/13/06/02/2021] sentry.bandit.static                                          bullet                         33.2m                          _.Markitus._
+13:48 [Info] [Kill Feed] [48/13/06/02/2021] sentry.bandit.static                                          bullet                         38.4m                          _.Markitus._
+13:54 [Info] [Kill Feed] [54/13/06/02/2021] sentry.bandit.static                                          bullet                         34.3m                          _.Markitus._
+13:56 [Info] [Kill Feed] [56/13/06/02/2021] sentry.bandit.static                                          bullet                         38.1m                          _.Markitus._
+13:57 [Info] [Welcomer] • _.Markitus._ has left the server (Disconnected).
+14:06 [Info] [Kill Feed] [06/14/06/02/2021] StefSalvatore                                                 smg.2                          24.4m                          Boar
+14:41 [Info] [Welcomer] • Kawa47NL has joined the server from Netherlands.
+15:07 [Info] [Welcomer] • StefSalvatore has left the server (Disconnected).
+15:08 [Info] [Welcomer] • StefSalvatore has joined the server from Germany.
+15:16 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: hey
+15:16 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: Hey
+15:16 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: how u doing
+15:16 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: doing decent,  grinding the bp's
+15:17 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: ha okey
+15:17 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: you.?
+15:17 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: nothing
+15:18 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: this map pvp or pve
+15:18 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: ?
+15:19 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: pvp i think
+15:19 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: okey mate
+15:22 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: are u any team ?
+15:23 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: m\nah , just started yesterday on this server
+15:24 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: lets be a team together
+15:24 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: hahaha  i know nothing about you.?
+15:24 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: hahaha
+15:25 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: what do you wanna learn
+15:25 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: learn what.?
+15:25 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: you sad ı know nothing about you
+15:27 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: ah ok,  how old are you.?
+15:27 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: 21 u
+15:27 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: 46
+15:27 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: wtf :D
+15:31 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: ım just walking if you will see me but dont kill me sir
+15:31 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: where is your house
+15:32 [Info] [Better Chat] [Global] [Newbie] Kawa47NL: on mars
+15:32 [Info] [Kill Feed] [32/15/06/02/2021] StefSalvatore                                                 rifle.semiauto                 38.3m                          Bear
+15:39 [Info] [Welcomer] • Kawa47NL has left the server (Disconnected).
+15:48 [Info] [Welcomer] • StefSalvatore has left the server (Disconnected).
+16:01 [Info] [Welcomer] • stefan.floessel has joined the server from Germany.
+16:21 [Info] [Welcomer] • Curufinwe has joined the server from Turkey.
+16:25 [Info] [Kill Feed] [25/16/06/02/2021] Curufinwe                      Head                           smg.mp5                        21.2m                          621418
+16:26 [Info] [Welcomer] • stefan.floessel has left the server (Disconnected).
+16:40 [Info] [Welcomer] • Curufinwe has left the server (Disconnected).
+17:10 [Info] [Kill Feed] [10/17/06/02/2021] Curufinwe                                                     suicide                                                       Curufinwe
+17:20 [Info] [Welcomer] • luca-schuemann has joined the server from Germany.
+17:34 [Info] [Welcomer] • Kawa47NL has joined the server from Netherlands.
+17:45 [Info] [Better Chat] [Global] [Newbie] luca-schuemann: 7info
+17:55 [Info] [Kill Feed] [55/17/06/02/2021] Bear                                                          bite                           2.4m                           luca-schuemann
+17:55 [Info] [Kill Feed] [55/17/06/02/2021] luca-schuemann                 Neck                           hatchet                        0.5m                           Kongen
+18:02 [Info] [Kill Feed] [02/18/06/02/2021] Bear                                                          bite                           2.4m                           luca-schuemann
+18:02 [Info] [Welcomer] • luca-schuemann has left the server (Disconnected).
+18:13 [Info] [Welcomer] • StefSalvatore has joined the server from Netherlands.
+18:32 [Info] [Welcomer] • Shakes has joined the server from Germany.
+18:35 [Info] [Welcomer] • Herr Tendro has joined the server from Germany.
+18:37 [Info] [Welcomer] • Herr Tendro has left the server (Disconnected).
+18:37 [Info] [Kill Feed] [37/18/06/02/2021] Shakes                                                        drowned                                                       Shakes
+18:40 [Info] [Welcomer] • Shakes has left the server (Disconnected).
+18:41 [Info] [Welcomer] • Kawa47NL has left the server (Disconnected).
+18:45 [Info] [Welcomer] • _.Markitus._ has joined the server from Spain.
+18:51 [Info] [Welcomer] • tana23vlc has joined the server from Spain.
+19:14 [Info] [Welcomer] • Curufinwe has joined the server from Turkey.
+19:15 [Info] [Welcomer] • Curufinwe has left the server (Disconnected).
+19:28 [Info] [Kill Feed] [28/19/06/02/2021] spikes_static                                                 slash                          2.6m                           _.Markitus._
+19:29 [Info] [Better Chat] [Team] [Newbie] tana23vlc: tpa
+19:35 [Info] [Kill Feed] [35/19/06/02/2021] spikes_static                                                 slash                          1.8m                           _.Markitus._
+19:51 [Info] [Kill Feed] [51/19/06/02/2021] spikes_static                                                 slash                          0.8m                           _.Markitus._
+19:52 [Info] [Welcomer] • Kappa has joined the server from Germany.
+19:53 [Info] Group 'admin' already has permission 'dronepilot.create'
+19:53 [Info] [Better Chat] [Team] [Player] Kappa: hi all
+19:53 [Info] [Better Chat] [Global] [Player] Kappa: hi all
+19:53 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: hi
+19:55 [Info] [Welcomer] • Kappa has left the server (Timed Out).
+19:55 [Info] [Welcomer] • _.Markitus._ has left the server (Timed Out).
+19:55 [Info] [Welcomer] • tana23vlc has left the server (Timed Out).
+19:56 [Info] [Welcomer] • _.Markitus._ has joined the server from Spain.
+19:57 [Info] [Welcomer] • Kappa has joined the server from Germany.
+19:57 [Info] [Better Chat] [Team] [Newbie] _.Markitus._: ADMIN
+19:57 [Info] [Better Chat] [Team] [Newbie] _.Markitus._: ¿
+19:58 [Info] [Welcomer] • tana23vlc has joined the server from Spain.
+19:58 [Info] [Better Say] SERVER: I need to restart the serverl, it throws errors and idk why
+20:00 [Info] Loading Oxide Core v2.0.3991...
+20:00 [Info] Loading extensions...
+20:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+20:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+20:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+20:00 [Info] Loaded extension Rust v2.0.4903 by Oxide Team and Contributors
+20:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+20:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+20:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:00 [Info] Using Covalence provider for game 'Rust'
+20:00 [Info] Loading plugins...
+20:00 [Info] Loaded plugin Rust v2.0.4903 by Oxide Team and Contributors
+20:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+20:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+20:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:00 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+20:00 [Info] AdminChat, AdminHammer, AliasSystem, AutoBroadcast, AutoPurge, AutomaticAuthorization, BGrade, Backpacks, BetterChat, BetterChatMentions, BetterLoot, BetterSay, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, DronePilot, EasyAirdrop, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NPCDropGun, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, SAMSiteAuth, ScrapHeliStorage, ServerInfo, ServerRewards, SignArtist, Skins, SkipNightVote, Slap, SmoothRestart, SpawnMini, StackSizeController, StartProtection, UpkeepDisplayFix, Vanish, VehicleDecayProtection, VehicleLicence, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+20:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+20:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+20:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+20:00 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+20:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+20:00 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+20:00 [Info] Loaded plugin Auto Purge v2.1.1 by misticos
+20:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+20:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+20:00 [Info] Loaded plugin Backpacks v3.4.0 by LaserHydra
+20:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+20:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+20:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+20:00 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+20:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+20:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+20:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+20:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+20:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+20:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+20:00 [Info] Loaded plugin DronePilot v1.0.0 by k1lly0u
+20:00 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+20:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+20:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+20:00 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+20:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+20:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+20:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+20:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+20:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+20:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+20:00 [Info] Loaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+20:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+20:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+20:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:00 [Warning] Missing plugin name prefix 'notice.' for permission 'cannotice' (by plugin 'Notice')
+20:00 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+20:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+20:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+20:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+20:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+20:00 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+20:00 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+20:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+20:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+20:00 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+20:00 [Info] Loaded plugin Scrap Heli Storage v0.0.5 by yetzt
+20:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+20:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+20:00 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+20:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+20:00 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+20:00 [Info] Loaded plugin Slap v2.0.0 by Wulf
+20:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+20:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+20:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+20:00 [Info] Loaded plugin Start Protection v2.3.2 by wazzzup
+20:00 [Info] Loaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+20:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+20:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+20:00 [Info] Loaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+20:00 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+20:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+20:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+20:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+20:01 [Info] Loading Oxide Core v2.0.3991...
+20:01 [Info] Loading extensions...
+20:01 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+20:01 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+20:01 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+20:01 [Info] Loaded extension Rust v2.0.4903 by Oxide Team and Contributors
+20:01 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+20:01 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+20:01 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:01 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:01 [Info] Using Covalence provider for game 'Rust'
+20:01 [Info] Loading plugins...
+20:01 [Info] Loaded plugin Rust v2.0.4903 by Oxide Team and Contributors
+20:01 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+20:01 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+20:01 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:01 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:01 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+20:01 [Info] AdminChat, AdminHammer, AliasSystem, AutoBroadcast, AutoPurge, AutomaticAuthorization, BGrade, Backpacks, BetterChat, BetterChatMentions, BetterLoot, BetterSay, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, DronePilot, EasyAirdrop, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NPCDropGun, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, SAMSiteAuth, ScrapHeliStorage, ServerInfo, ServerRewards, SignArtist, Skins, SkipNightVote, Slap, SmoothRestart, SpawnMini, StackSizeController, StartProtection, UpkeepDisplayFix, Vanish, VehicleDecayProtection, VehicleLicence, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+20:01 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+20:01 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+20:01 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+20:01 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+20:01 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+20:01 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+20:01 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+20:01 [Info] Loaded plugin Auto Purge v2.1.1 by misticos
+20:01 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+20:01 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+20:01 [Info] Loaded plugin Backpacks v3.4.0 by LaserHydra
+20:01 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+20:01 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+20:01 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+20:01 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+20:01 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+20:01 [Info] Loaded plugin Building Grades v0.5.1 by Default
+20:01 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+20:01 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+20:01 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+20:01 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+20:01 [Info] Loaded plugin DronePilot v1.0.0 by k1lly0u
+20:01 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+20:01 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+20:01 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+20:01 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+20:01 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+20:01 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+20:01 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+20:01 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+20:01 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+20:01 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+20:01 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+20:01 [Info] Loaded plugin Kits v3.3.1 by Reneb
+20:01 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+20:01 [Info] Loaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+20:01 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+20:01 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+20:01 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:01 [Warning] Missing plugin name prefix 'notice.' for permission 'cannotice' (by plugin 'Notice')
+20:01 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+20:01 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+20:01 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+20:01 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+20:01 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+20:01 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+20:01 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+20:01 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+20:01 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+20:01 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+20:01 [Info] Loaded plugin Scrap Heli Storage v0.0.5 by yetzt
+20:01 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+20:01 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+20:01 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+20:01 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+20:01 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+20:01 [Info] Loaded plugin Slap v2.0.0 by Wulf
+20:01 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+20:01 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+20:01 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+20:01 [Info] Loaded plugin Start Protection v2.3.2 by wazzzup
+20:01 [Info] Loaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+20:01 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+20:01 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+20:01 [Info] Loaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+20:01 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+20:01 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+20:01 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+20:01 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+20:04 [Info] IP address from Steam query: 0.0.0.0
+20:04 [Info] Updating Rust:IO ...
+20:04 [Info] [Auto Purge] The purge has been started.
+20:04 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+20:04 [Info] [BetterLoot] Updating internals ...
+20:04 [Info] Rust:IO: Update complete
+20:04 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 233ms
+20:04 [Info] [Kill Feed] Loading configuration file!
+20:04 [Warning] [Server Rewards] All UI elements have been successfully generated!
+20:04 [Warning] Calling 'LoadImageList' on 'ImageLibrary v2.0.56' took 102ms
+20:04 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 376ms
+20:04 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+20:04 [Info] [Start Protection] Removing 4 old entries from the protection list.
+20:04 [Info] [Start Protection] Start Protection has been enabled [Minutes: 30] (type /sp toggle to disable).
+20:04 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+20:04 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+20:04 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 138ms
+20:04 [Info] [BetterLoot] No stacked LootContainer found.
+20:04 [Info] [BetterLoot] Populated '450' supported containers.
+20:04 [Info] [SmoothRestart] Your servers Oxide build is up to date
+20:04 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+20:04 [Info] Installing Rust:IO ...
+20:04 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+20:04 [Info] Rust:IO> Creating directories ...
+20:04 [Info] Rust:IO> Applying config ...
+20:04 [Info] Rust:IO> Initializing database ...
+20:04 [Info] Rust:IO> Generating map image (this may take a while) ...
+20:04 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  8441.467ms
+Postprocess  :  3834.877ms
+  Shadows    :   287.994ms
+  FXAA       :  3528.744ms
+Encoding     :    31.873ms
+Other        :     9.890ms
+--------------------------
+Total        :  12318.107ms
+20:04 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+20:04 [Info] Rust:IO> Installed.
+20:04 [Info] Rust:IO> Now ticking
+20:04 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 12500ms [GARBAGE COLLECT]
+20:04 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 2ms [GARBAGE COLLECT]
+20:04 [Info] Rust:IO> Failed to look up external IP address: Cannot resolve destination host
+20:04 [Info] [Auto Purge] The purge has been completed. Purged entities: 0.
+20:05 [Info] [Welcomer] • tana23vlc has joined the server from Spain.
+20:06 [Info] [Welcomer] • _.Markitus._ has joined the server from Spain.
+20:07 [Info] [Kill Feed] [07/20/06/02/2021] _.Markitus._                                                  hatchet                        0.7m                           Wolf
+20:07 [Info] [Kill Feed] [07/20/06/02/2021] Chicken                                                       generic                                                       Chicken
+20:08 [Info] [Welcomer] • Kappa has joined the server from Germany.
+20:09 [Info] [Better Chat] [Global] [Player] Kappa: :( i see it is 10 min back in time
+20:09 [Info] [Better Say] SERVER: Yes because there were some errors
+20:09 [Info] [Welcomer] • [DMA] Admiral Doge has joined the server from Germany.
+20:10 [Info] [NTeleportation] [DMA] Admiral Doge teleported to tana23vlc.
+20:10 [Info] [Welcomer] • chitzo has joined the server from Germany.
+20:11 [Info] [Kill Feed] [11/20/06/02/2021] spikes_static                                                 slash                          1.3m                           _.Markitus._
+20:11 [Info] [Welcomer] • Baljetrauma has joined the server from Denmark.
+20:12 [Info] [Welcomer] • Baljetrauma has left the server (Disconnected).
+20:12 [Info] [Better Chat] [Team] [Player] Kappa: hi there :P
+20:12 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: admin =
+20:12 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: ?
+20:12 [Info] [Welcomer] • StefSalvatore has joined the server from Netherlands.
+20:12 [Info] [Better Chat] [Team] [Pro] chitzo: hey
+20:13 [Info] [Better Say] SERVER: ?
+20:13 [Info] [Kill Feed] [13/20/06/02/2021] tana23vlc                      Head                           pickaxe                        0.7m                           _.Markitus._
+20:13 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode]Admiral Doge: yes
+20:13 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: hi admin
+20:13 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode]Admiral Doge: hi
+20:13 [Info] [Better Chat] [Team] [Pro] chitzo: wow!!!!
+20:13 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode]Admiral Doge: sup
+20:14 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: give me mp5 or ak7 and scrap ?
+20:15 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode]Admiral Doge: there are enough in lot boxes and also you can trade with others
+20:15 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode]Admiral Doge: *loot
+20:16 [Info] [Better Chat] [Team] [Player] Kappa: we need gears to make a door and i will bild a wall around
+20:17 [Info] [Better Chat] [Team] [Pro] chitzo: i have
+20:17 [Info] [Welcomer] • TheSamus13 has joined the server from Spain.
+20:18 [Info] [Welcomer] • Jass has joined the server from Spain.
+20:18 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: I have died and I was going to look for the things in the backpack and since the rollback has been made I have not been able to 
+20:18 [Info] [Better Chat] [Global] [Player] Kappa: so u did not die :D ?!
+20:19 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: ...
+20:20 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode]Admiral Doge: what do you had @_.Markitus._
+20:20 [Info] [Better Chat] [Team] [Player] Kappa: ty :*
+20:20 [Info] [Better Chat] [Team] [Player] Kappa: no that is enough
+20:20 [Info] [Better Chat] [Team] [Pro] chitzo: ok
+20:22 [Info] [Welcomer] • SeeMS has joined the server from France.
+20:22 [Info] [Kill Feed] [22/20/06/02/2021] Jass                                                          shotgun.pump                   8.1m                           Wolf
+20:22 [Info] [Better Chat] [Team] [Pro] chitzo: this is a huge base
+20:22 [Info] [Better Chat] [Global] [Pro] SeeMS: hi
+20:22 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: hey
+20:23 [Info] [Better Chat] [Team] [Player] Kappa: do u have food for the hourse?
+20:23 [Info] [Better Chat] [Global] [Pro] chitzo: hello
+20:23 [Info] [Better Chat] [Global] [Newbie] StefSalvatore: come ım not kill you
+20:23 [Info] [Better Chat] [Global] [Pro] SeeMS: did somebody know when the new map comes?
+20:23 [Info] [Better Chat] [Team] [Pro] chitzo: YES
+20:23 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: I had metal, sulfur, wood con of explosive and 1 c4 (important) the rest was not important He had metal, sulfur wood, can of exp
+20:24 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198277367987
+20:24 [Info] [VoteRewards] 0
+20:24 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198379379518
+20:24 [Info] [VoteRewards] 0
+20:24 [Info] [Kill Feed] [24/20/06/02/2021] StefSalvatore                  Head                           smg.2                          5.1m                           _.Markitus._
+20:25 [Info] [Kill Feed] [25/20/06/02/2021] SeeMS                                                         smg.2                          33.4m                          Boar
+20:25 [Info] [Kill Feed] [25/20/06/02/2021] SeeMS                                                         smg.2                          13.8m                          Boar
+20:25 [Info] [Welcomer] • StefSalvatore has left the server (Disconnected).
+20:26 [Info] [Better Chat] [Global] [Pro] SeeMS: Admin when the new map comes ?
+20:26 [Info] [Better Say] SERVER: Maybe monday or tomorrow evening
+20:26 [Info] [Kill Feed] [26/20/06/02/2021] Boar                                                          bite                           0.4m                           ☢LUCIFER☢
+20:26 [Info] [Better Chat] [Global] [Pro] SeeMS: great <​3
+20:28 [Info] [Kill Feed] [28/20/06/02/2021] Kappa                                                         pistol.python                  47.0m                          Bear
+20:28 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode]Admiral Doge: its alright now? @_.Markitus._
+20:29 [Info] [Better Chat] [Team] [Player] Kappa: nice ! :P
+20:30 [Info] [Better Chat] [Team] [Newbie] tana23vlc: ups  me friend diner  markitus
+20:30 [Info] [Better Chat] [Team] [Newbie] tana23vlc: life real
+20:33 [Info] [Welcomer] • TheSamus13 has left the server (Disconnected).
+20:33 [Info] [Welcomer] • Jass has left the server (Disconnected).
+20:33 [Info] [Better Chat] [Team] [Player] Kappa: can u make 1 more garage door
+20:34 [Info] [Better Chat] [Global] [Newbie] _.Markitus._: Thx i going diner
+20:34 [Info] [Better Chat] [Team] [Player] Kappa: i made starirs for u
+20:34 [Info] [Better Chat] [Team] [Pro] chitzo: i haved it
+20:34 [Info] [Better Chat] [Team] [Player] Kappa: here on the house
+20:34 [Info] [Better Chat] [Team] [Player] Kappa: we will need door to enter
+20:37 [Info] [Kill Feed] [37/20/06/02/2021] _.Markitus._                                                  wall.external.high             4.9m                           _.Markitus._
+20:38 [Info] [Better Chat] [Team] [Player] Kappa: ty
+20:38 [Info] [Welcomer] • Admiral Doge has left the server (Disconnected).
+20:43 [Info] [Kill Feed] [43/20/06/02/2021] chitzo                                                        hatchet                        1.0m                           Chicken
+20:46 [Info] [Better Chat] [Team] [Player] Kappa: i will do the electricity
+20:46 [Info] [Better Chat] [Team] [Pro] chitzo: i can change this door
+20:46 [Info] [Better Chat] [Team] [Pro] chitzo: yes?
+20:46 [Info] [Better Chat] [Team] [Player] Kappa: hm no it is better
+20:46 [Info] [Better Chat] [Team] [Pro] chitzo: ok
+20:46 [Info] [Better Chat] [Team] [Player] Kappa: that way u force your self to close
+20:47 [Info] [Better Chat] [Team] [Player] Kappa: that way raiders can not get in
+20:47 [Info] [Better Chat] [Team] [Pro] chitzo: ok
+20:49 [Info] [Better Chat] [Team] [Pro] chitzo: you need more stone?
+20:49 [Info] [Better Chat] [Team] [Player] Kappa: y
+20:52 [Info] [Better Chat] [Team] [Player] Kappa: it is heli tower
+20:52 [Info] [Better Chat] [Team] [Pro] chitzo: wow!!
+20:53 [Info] [Welcomer] • SeeMS has left the server (Disconnected).
+20:53 [Info] [Better Chat] [Team] [Pro] chitzo: you know that when they see this , they will want to raide us
+20:54 [Info] [Better Chat] [Team] [Player] Kappa: no way :D
+20:54 [Info] [Better Chat] [Team] [Player] Kappa: do u have more wood
+20:54 [Info] [Better Chat] [Team] [Pro] chitzo: yess
+20:54 [Info] [Better Chat] [Team] [Player] Kappa: type /kit
+20:54 [Info] [Better Chat] [Team] [Player] Kappa: and redeem the first one
+20:54 [Info] [Better Chat] [Team] [Player] Kappa: it is every day and it is a lot of recurces
+20:55 [Info] [Better Chat] [Team] [Pro] chitzo: i al ready use
+20:56 [Info] [Better Chat] [Team] [Pro] chitzo: hey kappa we must make a port on the shore to put the boat
+20:56 [Info] [Better Chat] [Team] [Pro] chitzo: you take the wood?
+20:57 [Info] [Better Chat] [Team] [Player] Kappa: no
+20:58 [Info] [Better Chat] [Team] [Player] Kappa: ty
+20:59 [Info] [Better Chat] [Team] [Player] Kappa: okay hard part :( putting turbine :O
+21:01 [Info] [Better Chat] [Team] [Pro] chitzo: kappa
+21:01 [Info] [Better Chat] [Team] [Player] Kappa: y?
+21:02 [Info] [Better Chat] [Team] [Pro] chitzo: where are y
+21:02 [Info] [Better Chat] [Team] [Player] Kappa: inside for electronics why?
+21:02 [Info] [Better Chat] [Team] [Pro] chitzo: more stone
+21:04 [Info] [Better Chat] [Team] [Player] Kappa: perfect ty!
+21:05 [Info] [PlayerRankings] Kappa has been ranked up to regular
+21:08 [Info] [Better Chat] [Team] [Regular] Kappa: perfect
+21:16 [Info] [Better Chat] [Team] [Pro] chitzo: kappa we need that door
+21:16 [Info] [Better Chat] [Team] [Regular] Kappa: can u make some wood
+21:17 [Info] [Better Chat] [Team] [Pro] chitzo: i have only stone
+21:17 [Info] [Better Chat] [Team] [Regular] Kappa: wait i will teach u how :P
+21:18 [Info] [Better Chat] [Team] [Regular] Kappa: niceeeee
+21:19 [Info] [Better Chat] [Team] [Regular] Kappa: cut them alll :O
+21:20 [Info] [Better Chat] [Team] [Regular] Kappa: okay that is enought
+21:22 [Info] [Better Chat] [Team] [Regular] Kappa: try now
+21:22 [Info] [Better Chat] [Team] [Regular] Kappa: use remove
+21:25 [Info] [Better Chat] [Team] [Regular] Kappa: ah i fall
+21:25 [Info] [Better Chat] [Team] [Regular] Kappa: in the cage :D
+21:26 [Info] [Better Chat] [Team] [Pro] chitzo: you need help?
+21:26 [Info] [Better Chat] [Team] [Regular] Kappa: yes pls
+21:27 [Info] [Better Chat] [Team] [Regular] Kappa: it is okay :)
+21:27 [Info] [Better Chat] [Team] [Pro] chitzo: haha
+21:27 [Info] [Better Chat] [Team] [Pro] chitzo: how do you fall there?
+21:27 [Info] [Better Chat] [Team] [Pro] chitzo: hahaha
+21:27 [Info] [Better Chat] [Team] [Regular] Kappa: from roof
+21:27 [Info] [Better Chat] [Team] [Regular] Kappa: im trying to bring electricty
+21:27 [Info] [Better Chat] [Team] [Pro] chitzo: haha
+21:28 [Info] [Better Chat] [Team] [Regular] Kappa: it is buggy
+21:29 [Info] [Better Chat] [Team] [Regular] Kappa: u try
+21:29 [Info] [Better Chat] [Team] [Regular] Kappa: come pro
+21:30 [Info] [Better Chat] [Team] [Regular] Kappa: hold it
+21:30 [Info] [Better Chat] [Team] [Regular] Kappa: u go up
+21:30 [Info] [Better Chat] [Team] [Regular] Kappa: place it on the hot bar
+21:31 [Info] [Better Chat] [Team] [Regular] Kappa: u go there and there is button on the thingy
+21:31 [Info] [Better Chat] [Team] [Regular] Kappa: left click and u will connect
+21:31 [Info] [Better Chat] [Team] [Regular] Kappa: without switching u come down and bring the line here
+21:31 [Info] [Better Chat] [Team] [Regular] Kappa: can u connect?
+21:32 [Info] [Better Chat] [Team] [Regular] Kappa: see it is buggy :(
+21:32 [Info] [Better Chat] [Team] [Pro] chitzo: ohhhh
+21:32 [Info] [Better Chat] [Team] [Regular] Kappa: it shold connect there
+21:32 [Info] [Better Chat] [Team] [Pro] chitzo: shit
+21:33 [Info] [Better Chat] [Team] [Regular] Kappa: okay watch me how to go down
+21:34 [Info] [Better Chat] [Team] [Regular] Kappa: when u falll u go fowar
+21:34 [Info] [Better Chat] [Team] [Regular] Kappa: :D
+21:34 [Info] [Better Chat] [Team] [Regular] Kappa: okay
+21:34 [Info] [Better Chat] [Team] [Regular] Kappa: come now here
+21:34 [Info] [Better Chat] [Team] [Regular] Kappa: u need to connect to swtich
+21:35 [Info] [Better Chat] [Team] [Regular] Kappa: u need to connect it there
+21:35 [Info] [Better Chat] [Team] [Regular] Kappa: is it saying "too long"?
+21:36 [Info] [Better Chat] [Team] [Regular] Kappa: what about here
+21:37 [Info] [Better Chat] [Team] [Regular] Kappa: here
+21:37 [Info] [Better Chat] [Team] [Regular] Kappa: get out
+21:37 [Info] [Better Chat] [Team] [Regular] Kappa: no no here
+21:38 [Info] [Better Chat] [Team] [Regular] Kappa: okay wait
+21:39 [Info] [Better Chat] [Team] [Regular] Kappa: follow
+21:40 [Info] [Better Chat] [Team] [Regular] Kappa: can it connect to 1 now?
+21:41 [Info] [Better Chat] [Team] [Regular] Kappa: no
+21:41 [Info] [Better Chat] [Team] [Regular] Kappa: u need to connect it here first
+21:41 [Info] [Better Chat] [Team] [Regular] Kappa: can
+21:41 [Info] [Better Chat] [Team] [Regular] Kappa: i have it now
+21:42 [Info] [Better Chat] [Team] [Regular] Kappa: yes u did a connection there
+21:42 [Info] [Better Chat] [Team] [Regular] Kappa: remove the cable and again
+21:42 [Info] [Better Chat] [Team] [Regular] Kappa: no no
+21:42 [Info] [Better Chat] [Team] [Regular] Kappa: just remove from hands
+21:43 [Info] [Better Chat] [Team] [Regular] Kappa: and will be gone
+21:43 [Info] [Better Chat] [Team] [Regular] Kappa: will stay only if connect to switcher
+21:43 [Info] [Better Chat] [Team] [Regular] Kappa: so try again from top to the one on the wall
+21:44 [Info] [Better Chat] [Team] [Regular] Kappa: with your ass first
+21:44 [Info] [Better Chat] [Team] [Regular] Kappa: go back
+21:44 [Info] [Better Chat] [Team] [Regular] Kappa: u look otherway and go backwro
+21:45 [Info] [Better Chat] [Team] [Regular] Kappa: niceeee
+21:45 [Info] [Better Chat] [Team] [Regular] Kappa: okay now connect the exit here
+21:45 [Info] [Welcomer] • Dr_Judge has joined the server from Germany.
+21:46 [Info] [Welcomer] • Eeaz has joined the server from Germany.
+21:46 [Info] [Better Chat] [Team] [Regular] Kappa: did it connect again?
+21:47 [Info] [Better Chat] [Team] [Pro] chitzo: where i can connect it?
+21:47 [Info] [Better Chat] [Team] [Regular] Kappa: follow
+21:48 [Info] [Kill Feed] [48/21/06/02/2021] Eeaz                                                          hatchet                        1.1m                           Boar
+21:49 [Info] [Better Chat] [Team] [Regular] Kappa: again take the out and follow me
+21:50 [Info] [Kill Feed] [50/21/06/02/2021] Eeaz                                                          hatchet                        0.6m                           Chicken
+21:50 [Info] [Kill Feed] [50/21/06/02/2021] Eeaz                                                          hatchet                        0.6m                           Chicken
+21:50 [Info] [Better Chat] [Global] [Newbie] Dr_Judge: buy
+21:50 [Info] [Kill Feed] [50/21/06/02/2021] _.Markitus._                                                  guntrap                        4.9m                           _.Markitus._
+21:50 [Info] [Better Chat] [Team] [Regular] Kappa: on top of the white
+21:51 [Info] [Better Chat] [Team] [Regular] Kappa: hm dotn looks it is connected
+21:52 [Info] [Better Chat] [Team] [Regular] Kappa: okay then take from bottom
+21:52 [Info] [Better Chat] [Team] [Regular] Kappa: and connect here to the battery
+21:53 [Info] [Kill Feed] [53/21/06/02/2021] tana23vlc                                                     guntrap                        5.0m                           tana23vlc
+21:54 [Info] [Welcomer] • Joker™ has joined the server from Germany.
+21:55 [Info] [Better Chat] [Team] [Pro] chitzo: where is the battery?
+21:55 [Info] [Better Chat] [Team] [Regular] Kappa: behind u
+21:56 [Info] [Better Chat] [Team] [Regular] Kappa: done
+21:56 [Info] [Better Chat] [Team] [Regular] Kappa: now u see the electricty is going up
+21:56 [Info] [Better Chat] [Team] [Regular] Kappa: u need to hold cable
+21:57 [Info] [Kill Feed] [57/21/06/02/2021] _.Markitus._                                                  guntrap                        5.3m                           _.Markitus._
+21:57 [Info] [Better Chat] [Team] [Pro] chitzo: i am dying i will get some food
+22:00 [Info] [Better Chat] [Team] [Regular] Kappa: i will finish the wall and then we can go airfield for some loot
+22:01 [Info] [Better Chat] [Team] [Pro] chitzo: ok im ready
+22:02 [Info] [Better Chat] [Team] [Regular] Kappa: okay lets go but get ready your gun ! :)
+22:05 [Info] [Better Chat] [Team] [Regular] Kappa: scream if u see someone
+22:05 [Info] [Better Chat] [Team] [Pro] chitzo: OK
+22:06 [Info] [Better Chat] [Team] [Regular] Kappa: time to go to big house
+22:08 [Info] [Kill Feed] [08/22/06/02/2021] Dr_Judge                                                      heat                                                          Dr_Judge
+22:09 [Info] [Better Chat] [Team] [Regular] Kappa: okay time to go home
+22:10 [Info] [Better Chat] [Team] [Pro] chitzo: THE HORSE
+22:10 [Info] [Kill Feed] [10/22/06/02/2021] Eeaz                                                          hatchet                        0.8m                           Boar
+22:10 [Info] [Better Chat] [Team] [Regular] Kappa: ok boss
+22:11 [Info] [Better Chat] [Team] [Pro] chitzo: We need to finish the wall
+22:12 [Info] [Better Chat] [Team] [Pro] chitzo: there is new people in the server
+22:12 [Info] [Better Chat] [Team] [Regular] Kappa: oh yes :O
+22:13 [Info] [Better Chat] [Team] [Regular] Kappa: 2 more walls
+22:14 [Info] [Better Chat] [Team] [Pro] chitzo: we have our base like wtd
+22:14 [Info] [Better Chat] [Team] [Pro] chitzo: twd
+22:14 [Info] [Better Chat] [Team] [Regular] Kappa: what is twd?
+22:14 [Info] [Better Chat] [Team] [Pro] chitzo: really?
+22:15 [Info] [Better Chat] [Team] [Pro] chitzo: the walking dead
+22:15 [Info] [Better Chat] [Team] [Pro] chitzo: alexandria
+22:16 [Info] [Better Chat] [Team] [Regular] Kappa: nope do nto remember :(
+22:17 [Info] [Better Chat] [Team] [Regular] Kappa: but it is done we have a compawn
+22:18 [Info] [Kill Feed] [18/22/06/02/2021] tana23vlc                                                     guntrap                        4.0m                           tana23vlc
+22:18 [Info] [Better Chat] [Team] [Pro] chitzo: we are the best in this server hahaa
+22:18 [Info] [Better Chat] [Team] [Regular] Kappa: best builders ! :D
+22:18 [Info] [Better Chat] [Team] [Regular] Kappa: u scared me :D
+22:19 [Info] [Kill Feed] [19/22/06/02/2021] Joker™                                                        salvaged.sword                 0.7m                           Chicken
+22:19 [Info] [Kill Feed] [19/22/06/02/2021] Joker™                                                        salvaged.sword                 0.9m                           Chicken
+22:19 [Info] [Kill Feed] [19/22/06/02/2021] Joker™                                                        salvaged.sword                 0.9m                           Chicken
+22:20 [Info] [Better Chat] [Team] [Pro] chitzo: sorry my computer is touch screen
+22:23 [Info] [Better Chat] [Team] [Regular] Kappa: okay come inside
+22:24 [Info] [Better Chat] [Team] [Regular] Kappa: we need to do some changes
+22:24 [Info] [Better Chat] [Team] [Regular] Kappa: u need to build that wall
+22:24 [Info] [Better Chat] [Team] [Regular] Kappa: so when u log in and im not here u can go out okay?
+22:25 [Info] [Better Chat] [Team] [Regular] Kappa: pls try
+22:25 [Info] [Better Chat] [Team] [Regular] Kappa: now /remove
+22:26 [Info] [Better Chat] [Team] [Regular] Kappa: yes that will be your wall to go out
+22:26 [Info] [Better Chat] [Team] [Regular] Kappa: nice so when u log out u should make this one and upgrade to metal okay?
+22:27 [Info] [Better Chat] [Team] [Pro] chitzo: ok
+22:27 [Info] [Better Chat] [Team] [Regular] Kappa: mine will be here
+22:27 [Info] [Better Chat] [Team] [Pro] chitzo: ok
+22:28 [Info] [Better Chat] [Team] [Pro] chitzo: t?
+22:28 [Info] [Better Chat] [Team] [Regular] Kappa: so that way they can not raid is
+22:28 [Info] [Better Chat] [Team] [Pro] chitzo: ?
+22:29 [Info] [Better Chat] [Team] [Regular] Kappa: if im off this block to go to your sutff?
+22:31 [Info] [Better Chat] [Team] [Pro] chitzo: i dont understand the question?
+22:31 [Info] [Better Chat] [Team] [Regular] Kappa: is that wall that i will place here
+22:31 [Info] [Better Chat] [Team] [Regular] Kappa: block u to go to your loot room and out
+22:32 [Info] [Better Chat] [Team] [Pro] chitzo: it will not block me
+22:33 [Info] [Better Chat] [Team] [Regular] Kappa: so did u understand we need to have walls when we log out
+22:33 [Info] [Better Chat] [Team] [Regular] Kappa: mine will be here and yours on the stairs
+22:33 [Info] [Better Chat] [Team] [Pro] chitzo: yess
+22:33 [Info] [Better Chat] [Team] [Regular] Kappa: okay time for traps :D
+22:34 [Info] [Better Chat] [Team] [Regular] Kappa: can u make ammo
+22:34 [Info] [Better Chat] [Team] [Regular] Kappa: it is called handmade shellfs
+22:38 [Info] [Kill Feed] [38/22/06/02/2021] Joker™                         Head                           salvaged.sword                 0.8m                           tana23vlc
+22:40 [Info] [Kill Feed] [40/22/06/02/2021] Joker™                                                        suicide                                                       Joker™
+22:41 [Info] [Kill Feed] [41/22/06/02/2021] Joker™                                                        suicide                                                       Joker™
+22:42 [Info] [Kill Feed] [42/22/06/02/2021] _.Markitus._                   Neck                           rifle.lr300                    13.9m                          Joker™
+22:42 [Info] [Better Chat] [Team] [Pro] chitzo: what kind of ammo
+22:43 [Info] [Better Chat] [Team] [Regular] Kappa: it is done
+22:43 [Info] [Better Chat] [Team] [Pro] chitzo: im back
+22:43 [Info] [Better Chat] [Team] [Regular] Kappa: check inside
+22:44 [Info] [Better Chat] [Team] [Pro] chitzo: is is a fact they will come here
+22:44 [Info] [Better Chat] [Team] [Regular] Kappa: to raid us?
+22:44 [Info] [Better Chat] [Team] [Pro] chitzo: yes haha
+22:44 [Info] [Better Chat] [Team] [Regular] Kappa: idk :D
+22:45 [Info] [Better Chat] [Team] [Regular] Kappa: brb
+22:45 [Info] [Better Chat] [Team] [Pro] chitzo: our base looks very nice and atractive to be raid
+22:46 [Info] [Better Chat] [Team] [Pro] chitzo: what kind of music you like
+22:46 [Info] [Better Chat] [Team] [Pro] chitzo: ?
+22:47 [Info] [Better Chat] [Team] [Regular] Kappa: electro
+22:48 [Info] [Better Chat] [Team] [Pro] chitzo: do you know what is PERREO?
+22:48 [Info] [Better Chat] [Team] [Pro] chitzo: HAHA
+22:48 [Info] [Better Chat] [Team] [Regular] Kappa: no
+22:48 [Info] [Better Chat] [Team] [Pro] chitzo: NO?
+22:48 [Info] [Better Chat] [Team] [Pro] chitzo: SURE?
+22:49 [Info] [Better Chat] [Team] [Regular] Kappa: yes dont know :(
+22:49 [Info] [Better Chat] [Team] [Regular] Kappa: what is it?
+22:49 [Info] [Better Chat] [Team] [Regular] Kappa: sound like latino :)
+22:49 [Info] [Better Chat] [Team] [Regular] Kappa: nice :)
+22:50 [Info] [Better Chat] [Team] [Regular] Kappa: i can dance a bit salsa and bachata :D
+22:50 [Info] [Better Chat] [Team] [Regular] Kappa: nice :D
+22:51 [Info] [Better Chat] [Team] [Regular] Kappa: i will send u now mine
+22:51 [Info] [Better Chat] [Team] [Pro] chitzo: THE SALSA IS FROM WHERE I COME FROM
+22:53 [Info] [Better Chat] [Team] [Regular] Kappa: done :) check steam
+22:56 [Info] [Better Chat] [Global] [Newbie] Eeaz: 7REMOVE
+22:57 [Info] [Better Chat] [Team] [Pro] chitzo: WHERE DO YOU ARE GOING TO PUT THE HELIPAD
+22:58 [Info] [Welcomer] • Dr_Judge has left the server (Disconnected).
+22:58 [Info] [Kill Feed] [58/22/06/02/2021] _.Markitus._                                                  guntrap                        3.2m                           _.Markitus._
+22:58 [Info] [Kill Feed] [58/22/06/02/2021] tana23vlc                                                     guntrap                        3.2m                           tana23vlc
+22:59 [Info] [Better Chat] [Team] [Regular] Kappa: wait i need to check thosuse raidsers
+23:00 [Info] [Better Chat] [Team] [Pro] chitzo: OKIS
+23:00 [Info] [Better Chat] [Team] [Pro] chitzo: WE NEED MAKE C4
+23:02 [Info] [Kill Feed] [02/23/06/02/2021] Kappa                          Hand                           pistol.python                  4.1m                           tana23vlc
+23:03 [Info] [Better Chat] [Team] [Regular] Kappa: 1 down
+23:04 [Info] [Better Chat] [Team] [Pro] chitzo: omg!!
+23:05 [Info] [Better Chat] [Team] [Pro] chitzo: you are a bad guy
+23:05 [Info] [Better Chat] [Team] [Regular] Kappa: i dont know i wan to go deep i alrady have 2 guns
+23:06 [Info] [Better Chat] [Team] [Pro] chitzo: haha
+23:06 [Info] [Kill Feed] [06/23/06/02/2021] tana23vlc                      Head                           pistol.revolver                4.3m                           Kappa
+23:07 [Info] [Better Chat] [Team] [Regular] Kappa: ah he get me
+23:07 [Info] [Better Chat] [Team] [Pro] chitzo: haha
+23:14 [Info] [Kill Feed] [14/23/06/02/2021] _.Markitus._                   Head                           smg.thompson                   0.8m                           Kappa
+23:15 [Info] [Better Chat] [Team] [Regular] Kappa: found where they live :D
+23:16 [Info] [Better Chat] [Team] [Pro] chitzo: give me the coordinates
+23:16 [Info] [Better Chat] [Team] [Regular] Kappa: i put the marker
+23:16 [Info] [Better Chat] [Team] [Regular] Kappa: why u need to know ?
+23:17 [Info] [Better Chat] [Team] [Pro] chitzo: when they are offline i will raid them
+23:17 [Info] [Better Chat] [Team] [Regular] Kappa: nicee :D
+23:17 [Info] [Better Chat] [Team] [Regular] Kappa: they are duo with
+23:17 [Info] [Better Chat] [Team] [Regular] Kappa: markitus +
+23:17 [Info] [Better Chat] [Team] [Regular] Kappa: tana23
+23:18 [Info] [Better Chat] [Team] [Pro] chitzo: i will raid them at 5 am
+23:19 [Info] [Better Chat] [Team] [Regular] Kappa: :O
+23:19 [Info] [Better Chat] [Team] [Pro] chitzo: when the server is empty
+23:19 [Info] [Better Chat] [Team] [Regular] Kappa: haha okay :)
+23:20 [Info] [Better Chat] [Team] [Pro] chitzo: so we need to make c4
+23:20 [Info] [Better Chat] [Team] [Regular] Kappa: ok boss
+23:20 [Info] [Better Chat] [Team] [Pro] chitzo: their house is big?
+23:21 [Info] [Better Chat] [Team] [Regular] Kappa: yes lmost like ours
+23:21 [Info] [Better Chat] [Team] [Pro] chitzo: do you se the mini helicopter/
+23:22 [Info] [Better Chat] [Team] [Regular] Kappa: no
+23:22 [Info] [Better Chat] [Team] [Pro] chitzo: in the middle of tyhe road
+23:22 [Info] [Better Chat] [Team] [Regular] Kappa: coming will try to land on our roof
+23:23 [Info] [Better Chat] [Team] [Pro] chitzo: we can fly and see their base
+23:23 [Info] [Better Chat] [Team] [Regular] Kappa: no they are online will kill us
+23:24 [Info] [Better Chat] [Team] [Pro] chitzo: shit
+23:24 [Info] [Better Chat] [Team] [Regular] Kappa: wish me luck
+23:24 [Info] [Better Chat] [Team] [Pro] chitzo: you going back?
+23:25 [Info] [Better Chat] [Team] [Regular] Kappa: no mini :D
+23:26 [Info] [Better Chat] [Team] [Regular] Kappa: done :P
+23:26 [Info] [Better Chat] [Team] [Regular] Kappa: come
+23:26 [Info] [Better Chat] [Team] [Regular] Kappa: do u have hammer
+23:27 [Info] [Better Chat] [Team] [Regular] Kappa: we have our mini now :D
+23:29 [Info] [Better Chat] [Team] [Regular] Kappa: them they raid more :(
+23:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+23:30 [Info] [Better Chat] [Team] [Pro] chitzo: ohh
+23:30 [Info] [Better Chat] [Team] [Pro] chitzo: we have kill them
+23:30 [Info] [Better Chat] [Team] [Regular] Kappa: okay but nto today im sleepY :(
+23:31 [Info] [Better Chat] [Team] [Pro] chitzo: me to so i can try 5 am
+23:31 [Info] [Better Chat] [Team] [Regular] Kappa: come inside
+23:33 [Info] [Better Chat] [Team] [Regular] Kappa: take
+23:33 [Info] [Better Chat] [Team] [Pro] chitzo: thanks you are the best!
+23:35 [Info] [Better Chat] [Team] [Pro] chitzo: you are leaving?
+23:35 [Info] [Better Chat] [Team] [Regular] Kappa: y
+23:36 [Info] [Better Chat] [Team] [Pro] chitzo: ok i build my wall im leaving to
+23:36 [Info] [Better Chat] [Team] [Regular] Kappa: perfect :) and upgrade it to metal
+23:36 [Info] [Better Chat] [Team] [Pro] chitzo: ok
+23:37 [Info] [Better Chat] [Team] [Regular] Kappa: gn see u
+23:37 [Info] [Better Chat] [Team] [Pro] chitzo: see you take care! :D
+23:37 [Info] [Better Chat] [Team] [Regular] Kappa: :)
+23:37 [Info] [Welcomer] • Kappa has left the server (Disconnected).
+23:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+23:46 [Info] [Kill Feed] [46/23/06/02/2021] tana23vlc                      Head                           salvaged.cleaver               0.4m                           gamer
+23:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+23:52 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+23:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+23:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+23:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+23:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+23:58 [Info] [Welcomer] • _.Markitus._ has left the server (Disconnected).
+23:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 9 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 8 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 7 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 6 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 1 seconds!

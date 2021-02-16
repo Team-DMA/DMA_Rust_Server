@@ -1,0 +1,126 @@
+{
+  "Items": [
+    {
+      "ID": -1758372725,
+      "Position": 2,
+      "Amount": 5,
+      "Condition": 98.25,
+      "MaxCondition": 100.0,
+      "AmmoType": 785728077,
+      "Contents": [
+        {
+          "ID": -132516482,
+          "Amount": 1
+        },
+        {
+          "ID": -1850571427,
+          "Position": 1,
+          "Amount": 5,
+          "Condition": 100.0,
+          "MaxCondition": 100.0
+        }
+      ]
+    },
+    {
+      "ID": 60528587,
+      "Position": 5,
+      "Amount": 1,
+      "Condition": 100.0,
+      "MaxCondition": 100.0
+    },
+    {
+      "ID": -798293154,
+      "Position": 7,
+      "Amount": 5,
+      "Condition": 100.0,
+      "MaxCondition": 100.0
+    },
+    {
+      "ID": 1326180354,
+      "Position": 9,
+      "Amount": 10,
+      "Condition": 350.0,
+      "MaxCondition": 350.0
+    },
+    {
+      "ID": 833533164,
+      "Position": 11,
+      "Amount": 2,
+      "Skin": 892062620,
+      "Condition": 100.0,
+      "MaxCondition": 100.0
+    },
+    {
+      "ID": 1079279582,
+      "Position": 1,
+      "Amount": 10
+    },
+    {
+      "ID": -321733511,
+      "Position": 3,
+      "Amount": 250
+    },
+    {
+      "ID": 1796682209,
+      "Amount": 1,
+      "Condition": 88.0,
+      "MaxCondition": 100.0,
+      "AmmoType": 785728077,
+      "Contents": [
+        {
+          "ID": 442289265,
+          "Amount": 2,
+          "Condition": 300.0,
+          "MaxCondition": 300.0
+        },
+        {
+          "ID": -1850571427,
+          "Position": 1,
+          "Amount": 2,
+          "Condition": 88.0,
+          "MaxCondition": 100.0
+        },
+        {
+          "ID": -132516482,
+          "Position": 2,
+          "Amount": 2,
+          "Condition": 300.0,
+          "MaxCondition": 300.0
+        }
+      ]
+    },
+    {
+      "ID": 1381010055,
+      "Position": 10,
+      "Amount": 15024
+    },
+    {
+      "ID": 304481038,
+      "Position": 4,
+      "Amount": 5
+    },
+    {
+      "ID": -119235651,
+      "Position": 6,
+      "Amount": 5,
+      "Contents": [
+        {
+          "ID": -1779180711,
+          "Amount": 500
+        }
+      ]
+    },
+    {
+      "ID": -119235651,
+      "Position": 8,
+      "Amount": 5,
+      "Contents": [
+        {
+          "ID": -1779180711,
+          "Amount": 500
+        }
+      ]
+    }
+  ],
+  "OwnerID": 76561198093724980
+}

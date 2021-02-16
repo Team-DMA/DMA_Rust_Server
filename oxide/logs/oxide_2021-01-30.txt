@@ -1,0 +1,2570 @@
+00:00 [Info] Uninstalling Rust:IO ...
+00:00 [Info] Rust:IO> Uninstalling ...
+00:00 [Info] Rust:IO> No longer ticking
+00:00 [Info] Rust:IO> Stopping server ...
+00:00 [Info] Rust:IO> Removing listeners ...
+00:00 [Info] Rust:IO> Performing maintenance ...
+00:00 [Info] Rust:IO> Closing database ...
+00:00 [Info] Rust:IO> Uninstalled.
+00:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Warning] Calling 'Unload' on 'BGrade v1.1.3' took 140ms
+00:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Warning] Calling 'Unload' on 'BetterLoot v3.5.3' took 145ms
+00:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Unloaded plugin Better Say v3.0.1 by LaserHydra
+00:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+00:00 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 149ms
+00:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+00:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Warning] Calling 'Unload' on 'InventoryViewer v3.0.3' took 142ms
+00:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 275ms
+00:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Info] Unloaded plugin Notice v1.0.1 by LaserHydra
+00:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Unloaded plugin PrivateMessages v1.1.11 by MisterPixie
+00:00 [Info] Unloaded plugin Private Messages GUI v1.0.2 by Tricky
+00:00 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 146ms
+00:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+00:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Unloaded plugin Slap v2.0.0 by Wulf
+00:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] [Start Protection] Saving protection database...
+00:00 [Info] Unloaded plugin Start Protection v2.3.2 by wazzzup
+00:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+00:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+00:00 [Info] Loading Oxide Core v2.0.3991...
+00:00 [Info] Loading extensions...
+00:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust v2.0.4891 by Oxide Team and Contributors
+00:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Using Covalence provider for game 'Rust'
+00:00 [Info] Loading plugins...
+00:00 [Info] Loaded plugin Rust v2.0.4891 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:00 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+00:00 [Info] AdminChat, AliasSystem, AutoBroadcast, AutomaticAuthorization, BGrade, BetterChat, BetterChatMentions, BetterLoot, BetterSay, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, EasyAirdrop, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, ServerInfo, ServerRewards, SignArtist, Skins, Slap, SmoothRestart, SpawnMini, StackSizeController, StartProtection, Vanish, VehicleDecayProtection, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+00:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+00:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+00:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+00:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+00:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+00:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:00 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+00:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+00:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Warning] Missing plugin name prefix 'notice.' for permission 'cannotice' (by plugin 'Notice')
+00:00 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+00:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+00:00 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+00:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+00:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Loaded plugin Slap v2.0.0 by Wulf
+00:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] Loaded plugin Start Protection v2.3.2 by wazzzup
+00:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+00:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+00:03 [Info] IP address from Steam query: 0.0.0.0
+00:03 [Info] Updating Rust:IO ...
+00:03 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+00:03 [Info] [BetterLoot] Updating internals ...
+00:03 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 129ms
+00:03 [Info] Rust:IO: Update complete
+00:03 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 503ms
+00:03 [Info] [Kill Feed] Loading configuration file!
+00:03 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 159ms
+00:03 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 128ms
+00:03 [Warning] [Server Rewards] All UI elements have been successfully generated!
+00:03 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 324ms
+00:03 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+00:03 [Info] [Start Protection] Removing 1 old entries from the protection list.
+00:03 [Info] [Start Protection] Start Protection has been enabled [Minutes: 30] (type /sp toggle to disable).
+00:03 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+00:03 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+00:03 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 168ms
+00:03 [Info] [BetterLoot] No stacked LootContainer found.
+00:03 [Info] [BetterLoot] Populated '454' supported containers.
+00:03 [Info] [SmoothRestart] Your servers Oxide build is up to date
+00:03 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+00:03 [Info] Installing Rust:IO ...
+00:03 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+00:03 [Info] Rust:IO> Creating directories ...
+00:03 [Info] Rust:IO> Applying config ...
+00:03 [Info] Rust:IO> Initializing database ...
+00:03 [Info] Rust:IO> Generating map image (this may take a while) ...
+00:03 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7545.436ms
+Postprocess  :  3705.469ms
+  Shadows    :   286.892ms
+  FXAA       :  3398.517ms
+Encoding     :    29.122ms
+Other        :     9.167ms
+--------------------------
+Total        :  11289.194ms
+00:03 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+00:03 [Info] Rust:IO> Installed.
+00:03 [Info] Rust:IO> Now ticking
+00:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 11555ms [GARBAGE COLLECT]
+00:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 2ms [GARBAGE COLLECT]
+00:03 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+00:53 [Info] [Kill Feed] [53/00/30/01/2021] sentry.bandit.static                                          bullet                         29.6m                          801891
+01:06 [Info] [Kill Feed] [06/01/30/01/2021] sentry.scientist.static                                       bullet                         79.0m                          3791645
+02:21 [Info] [Kill Feed] [21/02/30/01/2021] sentry.scientist.static                                       bullet                         77.8m                          5265128
+06:25 [Info] [Kill Feed] [25/06/30/01/2021] sentry.bandit.static                                          bullet                         35.4m                          9415606
+07:29 [Info] [Welcomer] • Dennis1200 has joined the server from Germany.
+07:31 [Info] [Kill Feed] [31/07/30/01/2021] Dennis1200                                                    suicide                                                       Dennis1200
+07:33 [Info] [Kill Feed] [33/07/30/01/2021] Bear                                                          bite                           1.1m                           Dennis1200
+07:33 [Info] [Kill Feed] [33/07/30/01/2021] Dennis1200                                                    suicide                                                       Dennis1200
+08:00 [Info] [Kill Feed] [00/08/30/01/2021] scraptransporthelicopter                                      explosion                      2.3m                           Dennis1200
+08:04 [Info] [Welcomer] • Dennis1200 has left the server (Disconnected).
+11:20 [Info] [Welcomer] • Guido has joined the server from Norway.
+11:21 [Info] [Kill Feed] [21/11/30/01/2021] sentry.bandit.static                                          bullet                         39.0m                          9774896
+11:22 [Info] [Welcomer] • Guido has left the server (Disconnected).
+11:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+11:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+11:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+11:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+11:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+11:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+11:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+11:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+11:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 9 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 8 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 7 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 6 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+11:59 [Info] [SmoothRestart] Server will restart in 1 seconds!
+12:00 [Info] Uninstalling Rust:IO ...
+12:00 [Info] Rust:IO> Uninstalling ...
+12:00 [Info] Rust:IO> No longer ticking
+12:00 [Info] Rust:IO> Stopping server ...
+12:00 [Info] Rust:IO> Removing listeners ...
+12:00 [Info] Rust:IO> Performing maintenance ...
+12:00 [Info] Rust:IO> Closing database ...
+12:00 [Info] Rust:IO> Uninstalled.
+12:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+12:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+12:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+12:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+12:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+12:00 [Warning] Calling 'Unload' on 'BGrade v1.1.3' took 147ms
+12:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+12:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+12:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+12:00 [Warning] Calling 'Unload' on 'BetterLoot v3.5.3' took 134ms
+12:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+12:00 [Info] Unloaded plugin Better Say v3.0.1 by LaserHydra
+12:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+12:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+12:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+12:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+12:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+12:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+12:00 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+12:00 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 133ms
+12:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+12:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+12:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+12:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+12:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+12:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+12:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+12:00 [Warning] Calling 'Unload' on 'InventoryViewer v3.0.3' took 141ms
+12:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+12:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+12:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+12:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+12:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+12:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 281ms
+12:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+12:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+12:00 [Info] Unloaded plugin Notice v1.0.1 by LaserHydra
+12:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+12:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+12:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+12:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+12:00 [Info] Unloaded plugin PrivateMessages v1.1.11 by MisterPixie
+12:00 [Info] Unloaded plugin Private Messages GUI v1.0.2 by Tricky
+12:00 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 132ms
+12:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+12:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+12:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+12:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+12:00 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+12:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+12:00 [Info] Unloaded plugin Slap v2.0.0 by Wulf
+12:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+12:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+12:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+12:00 [Info] [Start Protection] Saving protection database...
+12:00 [Info] Unloaded plugin Start Protection v2.3.2 by wazzzup
+12:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+12:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+12:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+12:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+12:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+12:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+12:00 [Info] Loading Oxide Core v2.0.3991...
+12:00 [Info] Loading extensions...
+12:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+12:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+12:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+12:00 [Info] Loaded extension Rust v2.0.4891 by Oxide Team and Contributors
+12:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+12:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+12:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+12:00 [Info] Using Covalence provider for game 'Rust'
+12:00 [Info] Loading plugins...
+12:00 [Info] Loaded plugin Rust v2.0.4891 by Oxide Team and Contributors
+12:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+12:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+12:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+12:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+12:00 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+12:00 [Info] AdminChat, AliasSystem, AutoBroadcast, AutomaticAuthorization, BGrade, BetterChat, BetterChatMentions, BetterLoot, BetterSay, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, CraftingController, EasyAirdrop, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, ServerInfo, ServerRewards, SignArtist, Skins, Slap, SmoothRestart, SpawnMini, StackSizeController, StartProtection, Vanish, VehicleDecayProtection, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+12:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+12:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+12:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+12:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+12:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+12:00 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+12:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+12:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+12:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+12:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+12:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+12:00 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+12:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+12:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+12:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+12:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+12:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+12:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+12:00 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+12:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+12:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+12:00 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+12:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+12:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+12:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+12:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+12:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+12:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+12:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+12:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+12:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+12:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+12:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+12:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+12:00 [Warning] Missing plugin name prefix 'notice.' for permission 'cannotice' (by plugin 'Notice')
+12:00 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+12:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+12:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+12:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+12:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+12:00 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+12:00 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+12:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+12:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+12:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+12:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+12:00 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+12:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+12:00 [Info] Loaded plugin Slap v2.0.0 by Wulf
+12:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+12:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+12:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+12:00 [Info] Loaded plugin Start Protection v2.3.2 by wazzzup
+12:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+12:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+12:00 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+12:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+12:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+12:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+12:03 [Info] IP address from Steam query: 0.0.0.0
+12:03 [Info] Updating Rust:IO ...
+12:03 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+12:03 [Info] [BetterLoot] Updating internals ...
+12:03 [Info] Rust:IO: Update complete
+12:03 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 125ms
+12:03 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 502ms
+12:03 [Info] [Kill Feed] Loading configuration file!
+12:03 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 155ms
+12:03 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 124ms
+12:03 [Warning] [Server Rewards] All UI elements have been successfully generated!
+12:03 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 306ms
+12:03 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+12:03 [Info] [Start Protection] Removing 2 old entries from the protection list.
+12:03 [Info] [Start Protection] Start Protection has been enabled [Minutes: 30] (type /sp toggle to disable).
+12:03 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+12:03 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+12:03 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 181ms
+12:03 [Info] [BetterLoot] No stacked LootContainer found.
+12:03 [Info] [BetterLoot] Populated '454' supported containers.
+12:03 [Info] [SmoothRestart] Your servers Oxide build is up to date
+12:03 [Warning] [Start Protection] Waiting for ImageLibrary to finish image processing!
+12:03 [Info] Installing Rust:IO ...
+12:03 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+12:03 [Info] Rust:IO> Creating directories ...
+12:03 [Info] Rust:IO> Applying config ...
+12:03 [Info] Rust:IO> Initializing database ...
+12:03 [Info] Rust:IO> Generating map image (this may take a while) ...
+12:03 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7993.049ms
+Postprocess  :  3912.809ms
+  Shadows    :   213.031ms
+  FXAA       :  3626.868ms
+Encoding     :    32.667ms
+Other        :     9.615ms
+--------------------------
+Total        :  11948.140ms
+12:03 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+12:03 [Info] Rust:IO> Installed.
+12:03 [Info] Rust:IO> Now ticking
+12:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 12222ms [GARBAGE COLLECT]
+12:03 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 2ms [GARBAGE COLLECT]
+12:03 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+12:15 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+12:54 [Info] [Welcomer] • SeeMS has joined the server from France.
+12:54 [Info] [Better Chat] [Team] [Supporter] Kongen: yoyo :)
+12:54 [Info] [Better Chat] [Team] [Regular] SeeMS: hellooo friend
+12:54 [Info] [Better Chat] [Team] [Regular] SeeMS: sup
+12:55 [Info] [Better Chat] [Team] [Supporter] Kongen: not much bro just chilling and waiting to the grate to be upen, how are you?
+12:55 [Info] [Better Chat] [Team] [Regular] SeeMS: fine
+12:55 [Info] [Better Chat] [Team] [Regular] SeeMS: i would add u on steam xD
+12:55 [Info] [Better Chat] [Team] [Supporter] Kongen: you can do that, and also on discord if you have it
+12:55 [Info] [Better Chat] [Team] [Regular] SeeMS: done !
+12:56 [Info] [Better Chat] [Team] [Regular] SeeMS: yes i have too xD
+12:56 [Info] [Better Chat] [Team] [Supporter] Kongen: done
+12:56 [Info] [Better Chat] [Team] [Regular] SeeMS: great
+12:56 [Info] [Better Chat] [Team] [Regular] SeeMS: what do u want to do :p
+12:56 [Info] [Better Chat] [Team] [Supporter] Kongen: I just did a little farming
+12:56 [Info] [Better Chat] [Team] [Regular] SeeMS: haha
+12:56 [Info] [Better Chat] [Team] [Supporter] Kongen: now I waiting for grate to upen xD
+12:56 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+12:56 [Info] [Better Chat] [Team] [Supporter] Kongen: and though about going dome and maybe some oil rig xD
+12:56 [Info] [Better Chat] [Team] [Regular] SeeMS: i would like to
+12:57 [Info] [Better Chat] [Team] [Supporter] Kongen: and raid soaker after :)
+12:57 [Info] [Better Chat] [Team] [Regular] SeeMS: lets do that togheter xD
+12:57 [Info] [Kill Feed] [57/12/30/01/2021] Bear                                                          bite                           0.9m                           Sylon
+12:57 [Info] [Better Chat] [Team] [Supporter] Kongen: sure :)
+12:57 [Info] [Better Chat] [Team] [Supporter] Kongen: 4M on grate
+12:57 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+12:57 [Info] [Better Chat] [Team] [Supporter] Kongen: you have heli? xD
+12:58 [Info] [Better Chat] [Team] [Regular] SeeMS: yes
+12:58 [Info] [Better Chat] [Team] [Regular] SeeMS: with 35 hp
+12:58 [Info] [Better Chat] [Team] [Supporter] Kongen: awsome oh
+12:58 [Info] [Better Chat] [Team] [Regular] SeeMS: lol
+12:58 [Info] [Better Chat] [Team] [Supporter] Kongen: repair it :)
+12:58 [Info] [Better Chat] [Team] [Regular] SeeMS: 31
+12:58 [Info] [Better Chat] [Team] [Regular] SeeMS: i dont have ress to do that xd
+12:58 [Info] [Better Chat] [Team] [Supporter] Kongen: what you need?
+12:58 [Info] [Better Chat] [Team] [Regular] SeeMS: hmm idk xd
+12:58 [Info] [Better Chat] [Team] [Regular] SeeMS: never repared helic before
+12:58 [Info] [Better Chat] [Team] [Supporter] Kongen: will think HQM, metal or scraps xD
+12:59 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+12:59 [Info] [Better Chat] [Team] [Supporter] Kongen: I think scraps xD
+12:59 [Info] [Better Chat] [Team] [Regular] SeeMS: xd will use /mymini
+12:59 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+12:59 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+12:59 [Info] [Better Chat] [Team] [Supporter] Kongen: I have one but you cant fly personal mini xD
+12:59 [Info] [Better Chat] [Team] [Supporter] Kongen: so sad xD
+12:59 [Info] [Better Chat] [Team] [Regular] SeeMS: xDD
+13:00 [Info] [Kill Feed] [00/13/30/01/2021] minicopter.entity                                             explosion                      1.0m                           SeeMS
+13:00 [Info] [Better Chat] [Team] [Supporter] Kongen: damn
+13:00 [Info] [Better Chat] [Team] [Regular] SeeMS: xdddd
+13:01 [Info] [Better Chat] [Team] [Regular] SeeMS: well thats done xD
+13:01 [Info] [Better Chat] [Team] [Supporter] Kongen: 40 secs
+13:01 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+13:01 [Info] [Better Chat] [Team] [Supporter] Kongen: zZ
+13:01 [Info] [Better Chat] [Team] [Supporter] Kongen: whould be great with more c4
+13:02 [Info] [Better Chat] [Team] [Supporter] Kongen: ....
+13:02 [Info] [Better Chat] [Team] [Regular] SeeMS: ? XD
+13:02 [Info] [Better Chat] [Team] [Supporter] Kongen: crappy loot xD
+13:03 [Info] [Better Chat] [Team] [Regular] SeeMS: XD
+13:03 [Info] [Better Chat] [Team] [Regular] SeeMS: always crappy loot
+13:03 [Info] [Better Chat] [Team] [Regular] SeeMS: no chance xd
+13:03 [Info] [Better Chat] [Team] [Supporter] Kongen: yup xD
+13:03 [Info] [Better Chat] [Team] [Supporter] Kongen: 1 out of 1000 is good xD
+13:03 [Info] [Better Chat] [Team] [Supporter] Kongen: so was that your personal heli?
+13:04 [Info] [Better Chat] [Team] [Regular] SeeMS: no xD
+13:04 [Info] [Better Chat] [Team] [Supporter] Kongen: allright
+13:05 [Info] [Better Chat] [Team] [Regular] SeeMS: i maked a tp position on the helic magasin xD
+13:05 [Info] [Better Chat] [Team] [Supporter] Kongen: nice
+13:05 [Info] [Better Chat] [Team] [Supporter] Kongen: so I still bring mats to repair your heli?
+13:06 [Info] [Better Chat] [Team] [Supporter] Kongen: so dome and oil rig after?
+13:06 [Info] [Better Chat] [Team] [Regular] SeeMS: ok xD
+13:06 [Info] [Better Chat] [Team] [Regular] SeeMS: coming to u
+13:06 [Info] [Better Chat] [Team] [Supporter] Kongen: I can tp xD
+13:07 [Info] [Better Chat] [Team] [Regular] SeeMS: yes
+13:07 [Info] [Better Chat] [Team] [Supporter] Kongen: I do
+13:07 [Info] [NTeleportation] Kongen teleported to SeeMS.
+13:07 [Info] [Better Chat] [Team] [Supporter] Kongen: fk
+13:07 [Info] [Better Chat] [Team] [Supporter] Kongen: pick me up QQ
+13:07 [Info] [Better Chat] [Team] [Regular] SeeMS: coming xd
+13:07 [Info] [Better Chat] [Team] [Supporter] Kongen: I died at bandit
+13:08 [Info] [Better Chat] [Team] [Supporter] Kongen: I though I chould tp
+13:08 [Info] [Better Chat] [Team] [Regular] SeeMS: XD
+13:08 [Info] [Better Chat] [Team] [Supporter] Kongen: go back to my bodt
+13:08 [Info] [Better Chat] [Team] [Supporter] Kongen: body
+13:08 [Info] [Better Chat] [Team] [Supporter] Kongen: oh you are allmost here
+13:08 [Info] [Better Chat] [Team] [Regular] SeeMS: oh ok XD
+13:08 [Info] [Better Chat] [Team] [Regular] SeeMS: im here
+13:09 [Info] [Better Chat] [Team] [Supporter] Kongen: on the ground?
+13:09 [Info] [Better Chat] [Team] [Regular] SeeMS: yes
+13:09 [Info] [NTeleportation] Kongen teleported to SeeMS.
+13:09 [Info] [Better Chat] [Team] [Supporter] Kongen: my mark ^^
+13:09 [Info] [Better Chat] [Team] [Regular] SeeMS: oh where
+13:09 [Info] [Better Chat] [Team] [Supporter] Kongen: at bandit
+13:10 [Info] [Better Chat] [Team] [Regular] SeeMS: XD
+13:11 [Info] [NTeleportation] Kongen teleported to SeeMS.
+13:12 [Info] [Better Chat] [Team] [Supporter] Kongen: dome behind you
+13:12 [Info] [Better Chat] [Team] [Supporter] Kongen: there
+13:12 [Info] [Better Chat] [Team] [Supporter] Kongen: on the top
+13:12 [Info] [Better Chat] [Team] [Supporter] Kongen: 4 boxes ^^
+13:13 [Info] [Better Chat] [Team] [Regular] SeeMS: XD
+13:13 [Info] [Better Chat] [Team] [Supporter] Kongen: I got things there gives TT ^^
+13:13 [Info] [Better Chat] [Team] [Regular] SeeMS: nice
+13:14 [Info] [Better Chat] [Team] [Supporter] Kongen: gonna tp back to base you stay on top til I tp back?
+13:14 [Info] [Better Chat] [Team] [Regular] SeeMS: ok
+13:14 [Info] [Better Chat] [Team] [Regular] SeeMS: :D XD
+13:14 [Info] [Better Chat] [Team] [Supporter] Kongen: good then I wont die again xD
+13:14 [Info] [Better Chat] [Team] [Regular] SeeMS: XD
+13:14 [Info] [NTeleportation] Kongen teleported to SeeMS.
+13:15 [Info] [Better Chat] [Team] [Regular] SeeMS: done ? XD
+13:15 [Info] [Better Chat] [Team] [Supporter] Kongen: yup
+13:15 [Info] [Better Chat] [Team] [Regular] SeeMS: shit u're so fast xD
+13:15 [Info] [Better Chat] [Team] [Supporter] Kongen: you rdy for oil or do you need anything?
+13:15 [Info] [Better Chat] [Team] [Regular] SeeMS: need to take my wep
+13:15 [Info] [Better Chat] [Team] [Regular] SeeMS: and repar some wep
+13:15 [Info] [Better Chat] [Team] [Regular] SeeMS: but i never repar anything xD
+13:15 [Info] [Better Chat] [Team] [Supporter] Kongen: I have in base xD
+13:15 [Info] [Better Chat] [Team] [Supporter] Kongen: ak or LR xD
+13:15 [Info] [Better Chat] [Team] [Supporter] Kongen: kk
+13:15 [Info] [Better Chat] [Global] [Regular] SeeMS: lr xD
+13:16 [Info] [Better Chat] [Team] [Supporter] Kongen: let me tp again if I can
+13:16 [Info] [Better Chat] [Team] [Regular] SeeMS: i can give u my lr
+13:16 [Info] [Better Chat] [Team] [Regular] SeeMS: and u repar it xd
+13:16 [Info] [Better Chat] [Team] [Supporter] Kongen: CD qq
+13:16 [Info] [Better Chat] [Team] [Supporter] Kongen: 3m CD xD
+13:16 [Info] [Better Chat] [Team] [Regular] SeeMS: XD
+13:16 [Info] [Better Chat] [Team] [Regular] SeeMS: need my lr ?
+13:17 [Info] [Better Chat] [Team] [Supporter] Kongen: nah Im good but we need cards xD
+13:17 [Info] [Better Chat] [Team] [Supporter] Kongen: gonna tp back when I can and pick them up
+13:17 [Info] [Better Chat] [Team] [Regular] SeeMS: oh ok xD
+13:17 [Info] [Better Chat] [Team] [Regular] SeeMS: i have too
+13:17 [Info] [Better Chat] [Team] [Regular] SeeMS: red, blue
+13:17 [Info] [Better Chat] [Team] [Supporter] Kongen: idc who get it xD
+13:17 [Info] [Better Chat] [Team] [Regular] SeeMS: green maybe but not sure
+13:17 [Info] [Better Chat] [Team] [Supporter] Kongen: got all 3 xD
+13:17 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+13:17 [Info] [Better Chat] [Team] [Supporter] Kongen: but I think red is fine xD
+13:17 [Info] [Better Chat] [Team] [Regular] SeeMS: sure xD
+13:18 [Info] [Better Chat] [Team] [Regular] SeeMS: oh box respawn
+13:18 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+13:18 [Info] [Better Chat] [Team] [Supporter] Kongen: 35 secs xD
+13:19 [Info] [Better Chat] [Team] [Regular] SeeMS: so long when u're waiting xd
+13:19 [Info] [Better Chat] [Team] [Supporter] Kongen: you needed an LR?
+13:19 [Info] [Better Chat] [Team] [Regular] SeeMS: yes
+13:19 [Info] [Better Chat] [Team] [Supporter] Kongen: k
+13:19 [Info] [Better Chat] [Team] [Regular] SeeMS: and i will go to my base , secure some stuff
+13:19 [Info] [Better Chat] [Team] [Supporter] Kongen: okay
+13:22 [Info] [Better Chat] [Team] [Supporter] Kongen: let me know when I can tp to you
+13:23 [Info] [Better Chat] [Team] [Supporter] Kongen: you got x16 scope?
+13:23 [Info] [Better Chat] [Team] [Regular] SeeMS: nop
+13:23 [Info] [Better Chat] [Team] [Regular] SeeMS: i dont have bolt
+13:23 [Info] [Better Chat] [Team] [Supporter] Kongen: then we need to go to bandit
+13:23 [Info] [Better Chat] [Team] [Regular] SeeMS: lol
+13:23 [Info] [Better Chat] [Team] [Supporter] Kongen: so I can snipe oil rig xD
+13:24 [Info] [Better Chat] [Team] [Regular] SeeMS: ye
+13:24 [Info] [Better Chat] [Team] [Supporter] Kongen: Im rdy
+13:26 [Info] [Better Chat] [Team] [Regular] SeeMS: need to make some syringue
+13:26 [Info] [Better Chat] [Team] [Supporter] Kongen: also got fuse :)
+13:26 [Info] [Better Chat] [Team] [Supporter] Kongen: I got 58 of them xD
+13:26 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+13:28 [Info] [Better Chat] [Team] [Regular] SeeMS: little bit
+13:28 [Info] [Better Chat] [Global] [Supporter] Kongen: of?
+13:28 [Info] [Better Chat] [Global] [Regular] SeeMS: time X
+13:28 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+13:28 [Info] [Better Chat] [Global] [Regular] SeeMS: XD
+13:29 [Info] Listing 55 plugins:
+  01 "Admin Chat" (2.0.4) by LaserHydra (0.01s) - AdminChat.cs
+  02 "Alias System" (2.1.3) by LaserHydra (0.00s) - AliasSystem.cs
+  03 "AutoBroadcast" (1.0.8) by Wulf/lukespragg (0.01s) - AutoBroadcast.cs
+  04 "Automatic Authorization" (1.2.4) by k1lly0u/Arainrr (0.05s) - AutomaticAuthorization.cs
+  05 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.00s) - BGrade.cs
+  06 "Better Chat" (5.2.5) by LaserHydra (0.17s) - BetterChat.cs
+  07 "Better Chat Mentions" (1.2.3) by Death (0.00s) - BetterChatMentions.cs
+  08 "BetterLoot" (3.5.3) by Default (1.02s) - BetterLoot.cs
+  09 "Better Say" (3.0.1) by LaserHydra (0.00s) - BetterSay.cs
+  10 "Blueprint Manager" (1.1.4) by Orange (0.02s) - BlueprintManager.cs
+  11 "Building Grades" (0.5.1) by Default (0.00s) - BuildingGrades.cs
+  12 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  13 "Rust:IO Clans" (1.7.6) by playrust.io / dcode (0.01s) - Clans.cs
+  14 "Clan Team" (1.0.5) by deivismac (0.00s) - ClanTeam.cs
+  15 "Crafting Controller" (3.2.2) by Whispers88 (0.02s) - CraftingController.cs
+  16 "Easy Airdrop" (3.2.5) by LaserHydra (0.00s) - EasyAirdrop.cs
+  17 "Gathering Manager" (2.2.75) by Mughisi (0.14s) - GatherManager.cs
+  18 "Godmode" (4.2.9) by Wulf/lukespragg/Arainrr (0.19s) - Godmode.cs
+  19 "HeliControl" (1.4.0) by Shady (14.05s) - HeliControl.cs
+  20 "Image Library" (2.0.56) by Absolut & K1lly0u (0.06s) - ImageLibrary.cs
+  21 "Gesture Wheel" (0.1.3) by Tricky & Mevent (0.00s) - GestureWheel.cs
+  22 "InfoPanel" (1.0.4) by Default (2.56s) - InfoPanel.cs
+  23 "Inventory Cleaner" (2.0.0) by Iv Misticos (0.00s) - InventoryCleaner.cs
+  24 "Inventory Viewer" (3.0.3) by Mughisi (0.02s) - InventoryViewer.cs
+  25 "Kill Feed" (1.18.0) by Tuntenfisch (0.03s) - KillFeed.cs
+  26 "Kits" (3.3.1) by Reneb (0.04s) - Kits.cs
+  27 "Loading Messages" (1.0.6) by CosaNostra/Def (0.04s) - LoadingMessages.cs
+  28 "NTeleportation" (1.4.7) by nivex (0.27s) - NTeleportation.cs
+  29 "No Escape" (2.1.31) by Calytic (0.41s) - NoEscape.cs
+  30 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.cs
+  31 "Notice" (1.0.1) by LaserHydra (0.00s) - Notice.cs
+  32 "OnScreenLogo" (1.1.5) by Vlad-00003 (0.02s) - OnScreenLogo.cs
+  33 "PlayerRankings" (3.0.2) by Ankawi (0.02s) - PlayerRankings.cs
+  34 "Playtime Tracker" (0.1.7) by k1lly0u (0.06s) - PlaytimeTracker.cs
+  35 "Popup Notifications" (0.2.0) by emu / k1lly0u (0.00s) - PopupNotifications.cs
+  36 "PrivateMessages" (1.1.11) by MisterPixie (0.00s) - PrivateMessages.cs
+  37 "Private Messages GUI" (1.0.2) by Tricky (0.00s) - PrivateMessagesGUI.cs
+  38 "Quick Smelt" (5.1.3) by Iv Misticos (0.66s) - QuickSmelt.cs
+  39 "Remover Tool" (4.3.23) by Reneb/Fuji/Arainrr (0.01s) - RemoverTool.cs
+  40 "ServerInfo" (0.5.4) by FastBurst (0.04s) - ServerInfo.cs
+  41 "Server Rewards" (0.4.73) by k1lly0u (0.33s) - ServerRewards.cs
+  42 "Sign Artist" (1.2.6) by Whispers88 (0.00s) - SignArtist.cs
+  43 "Skins" (2.1.2) by Iv Misticos (0.18s) - Skins.cs
+  44 "Slap" (2.0.0) by Wulf (0.00s) - Slap.cs
+  45 "SmoothRestart" (1.2.5) by Fujikura/Visagalis (0.28s) - SmoothRestart.cs
+  46 "Spawn Mini" (2.10.0) by SpooksAU (0.34s) - SpawnMini.cs
+  47 "Stack Size Controller" (2.0.4) by Canopy Sheep (0.12s) - StackSizeController.cs
+  48 "Start Protection" (2.3.2) by wazzzup (0.32s) - StartProtection.cs
+  49 "Vanish" (1.3.8) by Whispers88 (0.00s) - Vanish.cs
+  50 "Vehicle Decay Protection" (1.3.2) by WhiteThunder (0.39s) - VehicleDecayProtection.cs
+  51 "VoteRewards" (2.1.0) by k1lly0u (0.02s) - Voter.cs
+  52 "Welcomer" (1.5.4) by Dana (0.01s) - Welcomer.cs
+  53 "Where is My Horse" (0.2.2) by 2CHEVSKII (0.00s) - WhereIsMyHorse.cs
+  54 "ZLevelsRemastered" (2.9.22) by Default (0.65s) - ZLevelsRemastered.cs
+13:31 [Info] [Better Chat] [Global] [Regular] SeeMS: should i take
+13:31 [Info] [Better Chat] [Global] [Regular] SeeMS: some medi kit?
+13:31 [Info] [Better Chat] [Global] [Supporter] Kongen: nah xD
+13:31 [Info] [Better Chat] [Team] [Regular] SeeMS: xD k
+13:31 [Info] [Better Chat] [Global] [Supporter] Kongen: bandage is fine
+13:31 [Info] [Better Chat] [Global] [Supporter] Kongen: got 45 of them
+13:32 [Info] [Better Chat] [Global] [Supporter] Kongen: rdy eddy? xD
+13:32 [Info] [Better Chat] [Team] [Regular] SeeMS: will be ready in like 1 or 2min xd
+13:33 [Info] [Better Chat] [Team] [Regular] SeeMS: u tok the cards?
+13:33 [Info] [Better Chat] [Global] [Supporter] Kongen: yup red one
+13:33 [Info] [Better Chat] [Team] [Regular] SeeMS: i have the 3 card xd
+13:33 [Info] [Better Chat] [Global] [Supporter] Kongen: green and blue isnt that good xD
+13:33 [Info] [Better Chat] [Global] [Supporter] Kongen: red room is better
+13:33 [Info] [Better Chat] [Team] [Regular] SeeMS: xD hope for good lot
+13:33 [Info] [Better Chat] [Global] [Supporter] Kongen: same here
+13:34 [Info] [Better Chat] [Team] [Regular] SeeMS: some c4 will be fine
+13:34 [Info] [Better Chat] [Global] [Supporter] Kongen: yup
+13:34 [Info] [Better Chat] [Team] [Regular] SeeMS: or rocket at less
+13:34 [Info] [Better Chat] [Global] [Supporter] Kongen: only have 17 c4 left xD
+13:34 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+13:34 [Info] [Better Chat] [Team] [Regular] SeeMS: i have 20 with me
+13:34 [Info] [Better Chat] [Global] [Supporter] Kongen: cool
+13:34 [Info] [Better Chat] [Team] [Regular] SeeMS: should secure that
+13:34 [Info] [Better Chat] [Team] [Regular] SeeMS: cuz we dont need lol
+13:34 [Info] [Better Chat] [Global] [Supporter] Kongen: ya do that
+13:34 [Info] [Better Chat] [Team] [Regular] SeeMS: not now lol
+13:34 [Info] [Better Chat] [Global] [Supporter] Kongen: why not?
+13:34 [Info] [Better Chat] [Global] [Supporter] Kongen: if you die xD
+13:35 [Info] [Better Chat] [Global] [Supporter] Kongen: 20 is alot to lose
+13:35 [Info] [Better Chat] [Team] [Regular] SeeMS: i mean we dont need it for oil
+13:35 [Info] [Better Chat] [Team] [Regular] SeeMS: but we will after XD
+13:35 [Info] [Better Chat] [Team] [Regular] SeeMS: should wait for the morning lol
+13:35 [Info] [Better Chat] [Team] [Regular] SeeMS: or u will see nothing with sniper i think xDD
+13:35 [Info] [Better Chat] [Global] [Supporter] Kongen: ya
+13:36 [Info] [Kill Feed] [36/13/30/01/2021] Kongen                                                        rifle.lr300                    1.2m                           Bear
+13:36 [Info] [Better Chat] [Global] [Supporter] Kongen: I will go bandit xD
+13:37 [Info] [Better Chat] [Team] [Regular] SeeMS: k xd
+13:37 [Info] [Better Chat] [Global] [Supporter] Kongen: need that scope xD
+13:37 [Info] [Better Chat] [Global] [Supporter] Kongen: then I tp to you when its morning
+13:38 [Info] [Better Chat] [Team] [Regular] SeeMS: great
+13:41 [Info] [Better Chat] [Global] [Supporter] Kongen: safe to tp?
+13:41 [Info] [Better Chat] [Team] [Regular] SeeMS: yes
+13:41 [Info] [NTeleportation] Kongen teleported to SeeMS.
+13:42 [Info] [Better Chat] [Team] [Supporter] Kongen: why not use metal ones?
+13:42 [Info] [Better Chat] [Team] [Regular] SeeMS: dont have xd
+13:42 [Info] [Better Chat] [Team] [Supporter] Kongen: you can craft them
+13:42 [Info] [Better Chat] [Team] [Supporter] Kongen: just need frags and metal blades
+13:42 [Info] [Better Chat] [Team] [Regular] SeeMS: yep i just have this on me
+13:42 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+13:42 [Info] [Better Chat] [Team] [Regular] SeeMS: so better to put it here
+13:42 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+13:43 [Info] [Better Chat] [Team] [Regular] SeeMS: need some cloth will search
+13:44 [Info] [Better Chat] [Team] [Regular] SeeMS: take
+13:44 [Info] [Better Chat] [Team] [Regular] SeeMS: u dont have protect lol
+13:44 [Info] [Better Chat] [Team] [Supporter] Kongen: I do
+13:44 [Info] [Better Chat] [Team] [Regular] SeeMS: lol
+13:44 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+13:45 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+13:45 [Info] [Better Chat] [Team] [Regular] SeeMS: its better i think
+13:45 [Info] [Better Chat] [Team] [Regular] SeeMS: this one
+13:45 [Info] [Better Chat] [Team] [Supporter] Kongen: best one :)
+13:45 [Info] [Better Chat] [Team] [Supporter] Kongen: no
+13:45 [Info] [Better Chat] [Team] [Supporter] Kongen: riot takes 25% and metal face gives 50%
+13:45 [Info] [Better Chat] [Team] [Regular] SeeMS: oh xd
+13:46 [Info] [Better Chat] [Team] [Supporter] Kongen: rdy?
+13:46 [Info] [Better Chat] [Team] [Regular] SeeMS: need some medic and then i will be
+13:47 [Info] [Better Chat] [Team] [Regular] SeeMS: i have like 7 bandage xd
+13:47 [Info] [Better Chat] [Team] [Regular] SeeMS: only
+13:47 [Info] [Better Chat] [Team] [Regular] SeeMS: uh
+13:47 [Info] [Better Chat] [Global] [Regular] SeeMS: more
+13:47 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+13:47 [Info] [Better Chat] [Global] [Regular] SeeMS: 13
+13:47 [Info] [Better Chat] [Global] [Regular] SeeMS: ty xD
+13:47 [Info] [Better Chat] [Global] [Regular] SeeMS: 28
+13:47 [Info] [Better Chat] [Global] [Regular] SeeMS: well wait i take the helic
+13:50 [Info] [Better Chat] [Team] [Supporter] Kongen: you want the small one?
+13:50 [Info] [Better Chat] [Global] [Regular] SeeMS: idk wich one u prefer?
+13:50 [Info] [Better Chat] [Team] [Supporter] Kongen: lets take both then xD
+13:50 [Info] [Better Chat] [Global] [Regular] SeeMS: xD
+13:52 [Info] [Better Chat] [Team] [Supporter] Kongen: they running like chickens xD
+13:52 [Info] [Better Chat] [Team] [Regular] SeeMS: XDD
+13:52 [Info] [Kill Feed] [52/13/30/01/2021] Kongen                         Head                           rifle.bolt                     158.3m                         2208320
+13:53 [Info] [Kill Feed] [53/13/30/01/2021] Kongen                         Forearm                        rifle.bolt                     172.7m                         549907
+13:53 [Info] [Kill Feed] [53/13/30/01/2021] Kongen                         Head                           rifle.bolt                     174.8m                         1715610
+13:53 [Info] [Kill Feed] [53/13/30/01/2021] Kongen                         Head                           rifle.bolt                     178.8m                         2375946
+13:56 [Info] [Kill Feed] [56/13/30/01/2021] Kongen                         Head                           rifle.bolt                     113.0m                         9897140
+13:56 [Info] [Kill Feed] [56/13/30/01/2021] Kongen                         Neck                           rifle.bolt                     120.7m                         5963353
+13:56 [Info] [Kill Feed] [56/13/30/01/2021] Kongen                         Head                           rifle.bolt                     144.8m                         4312927
+13:56 [Info] [Kill Feed] [56/13/30/01/2021] Kongen                         Head                           rifle.bolt                     126.7m                         5293851
+13:57 [Info] [Better Chat] [Team] [Regular] SeeMS: bottom xD
+13:57 [Info] [Kill Feed] [57/13/30/01/2021] Kongen                         Head                           rifle.bolt                     113.6m                         2694170
+13:57 [Info] [Better Chat] [Team] [Supporter] Kongen: cicle around
+13:58 [Info] [Kill Feed] [58/13/30/01/2021] Kongen                         Head                           rifle.bolt                     83.5m                          1970640
+13:59 [Info] [Better Chat] [Team] [Supporter] Kongen: lets try to land?
+13:59 [Info] [Kill Feed] [59/13/30/01/2021] Kongen                         Knee                           rifle.lr300                    95.6m                          2168160
+13:59 [Info] [Kill Feed] [59/13/30/01/2021] Kongen                         Hand                           rifle.lr300                    75.6m                          4433388
+13:59 [Info] [Better Chat] [Team] [Regular] SeeMS: op*
+13:59 [Info] [Better Chat] [Team] [Regular] SeeMS: top
+13:59 [Info] [Kill Feed] [59/13/30/01/2021] Kongen                         Chest                          rifle.bolt                     117.9m                         2708706
+13:59 [Info] [Better Chat] [Team] [Regular] SeeMS: in the 1first
+14:00 [Info] [Better Chat] [Team] [Supporter] Kongen: head shot and he run xD
+14:00 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+14:00 [Info] [Better Chat] [Team] [Regular] SeeMS: landing
+14:00 [Info] [Better Chat] [Team] [Supporter] Kongen: k
+14:00 [Info] [Better Chat] [Team] [Supporter] Kongen: not in the middle
+14:01 [Info] [Better Chat] [Team] [Supporter] Kongen: on the edge
+14:01 [Info] [Better Chat] [Team] [Supporter] Kongen: on H pad but not in the middle
+14:03 [Info] [Kill Feed] [03/14/30/01/2021] Kongen                         Head                           rifle.lr300                    13.3m                          7854216
+14:05 [Info] [Better Chat] [Team] [Supporter] Kongen: cant remember where the fuse goes xD
+14:05 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+14:06 [Info] [Better Chat] [Team] [Supporter] Kongen: remember it?
+14:06 [Info] [Better Chat] [Team] [Regular] SeeMS: nop
+14:06 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+14:06 [Info] [Better Chat] [Team] [Regular] SeeMS: wait 3sec
+14:06 [Info] [Better Chat] [Team] [Regular] SeeMS: have to go wc xDD
+14:06 [Info] [Better Chat] [Team] [Supporter] Kongen: allright
+14:07 [Info] [Better Chat] [Team] [Regular] SeeMS: k im redy
+14:08 [Info] [Better Chat] [Team] [Supporter] Kongen: havent found it yet xD
+14:08 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+14:08 [Info] [Better Chat] [Team] [Supporter] Kongen: there are something I oversee
+14:08 [Info] [Better Chat] [Team] [Regular] SeeMS: blue card here
+14:08 [Info] [Better Chat] [Team] [Supporter] Kongen: we need to plant fuse first
+14:08 [Info] [Better Chat] [Team] [Regular] SeeMS: ok xD
+14:08 [Info] [Better Chat] [Team] [Supporter] Kongen: or they remov that?
+14:09 [Info] [Better Chat] [Team] [Supporter] Kongen: only have red card
+14:09 [Info] [Better Chat] [Team] [Supporter] Kongen: let me try
+14:09 [Info] [Better Chat] [Team] [Regular] SeeMS: XDDD
+14:09 [Info] [Better Chat] [Team] [Supporter] Kongen: nope need fuse
+14:10 [Info] [Better Chat] [Team] [Supporter] Kongen: but where? xD
+14:10 [Info] [Better Chat] [Team] [Regular] SeeMS: searching xd
+14:10 [Info] [Better Chat] [Global] [Regular] SeeMS: should do that fast before the night
+14:10 [Info] [Better Chat] [Global] [Regular] SeeMS: xd
+14:11 [Info] [Better Chat] [Team] [Supporter] Kongen: yup
+14:11 [Info] [Better Chat] [Team] [Regular] SeeMS: should be on the top hmm
+14:11 [Info] [Better Chat] [Team] [Supporter] Kongen: you sure?
+14:13 [Info] [Better Chat] [Team] [Supporter] Kongen: where is that air system
+14:13 [Info] [Better Chat] [Team] [Regular] SeeMS: normaly it should be but dont know
+14:13 [Info] [Better Chat] [Team] [Supporter] Kongen: you got blue and green card?
+14:13 [Info] [Better Chat] [Team] [Regular] SeeMS: nop
+14:14 [Info] [Better Chat] [Team] [Supporter] Kongen: there are a npc hidding somewhere
+14:14 [Info] [Better Chat] [Team] [Regular] SeeMS: fuk
+14:14 [Info] [Better Chat] [Team] [Regular] SeeMS: where is this shit
+14:15 [Info] [Better Chat] [Team] [Supporter] Kongen: found it
+14:15 [Info] [Better Chat] [Team] [Regular] SeeMS: top
+14:15 [Info] [Better Chat] [Team] [Supporter] Kongen: y
+14:15 [Info] [Better Chat] [Team] [Regular] SeeMS: coming
+14:15 [Info] [Better Chat] [Team] [Supporter] Kongen: look
+14:15 [Info] [Better Chat] [Team] [Regular] SeeMS: oh xD
+14:16 [Info] [Better Chat] [Team] [Supporter] Kongen: hmm
+14:16 [Info] [Better Chat] [Team] [Supporter] Kongen: wtf
+14:16 [Info] [Better Chat] [Team] [Regular] SeeMS: we need blue card maybe lol
+14:16 [Info] [Better Chat] [Team] [Supporter] Kongen: omg
+14:16 [Info] [Better Chat] [Team] [Regular] SeeMS: i can go take it
+14:16 [Info] [Better Chat] [Team] [Regular] SeeMS: and back
+14:16 [Info] [Better Chat] [Team] [Regular] SeeMS: with helic its pretty fast lol
+14:17 [Info] [Better Chat] [Team] [Supporter] Kongen: but you cant tp
+14:17 [Info] [Better Chat] [Team] [Supporter] Kongen: on water
+14:17 [Info] [Better Chat] [Team] [Regular] SeeMS: yep
+14:17 [Info] [Better Chat] [Team] [Regular] SeeMS: i come back with helic
+14:17 [Info] [Better Chat] [Team] [Regular] SeeMS: k?
+14:17 [Info] [Better Chat] [Team] [Supporter] Kongen: thats blue omg
+14:17 [Info] [Better Chat] [Team] [Supporter] Kongen: sure
+14:17 [Info] [Better Chat] [Team] [Regular] SeeMS: xDDD
+14:17 [Info] [Better Chat] [Team] [Regular] SeeMS: lets go
+14:17 [Info] [Better Chat] [Team] [Supporter] Kongen: so large oil rig is red I think
+14:17 [Info] [Better Chat] [Team] [Regular] SeeMS: uhh
+14:18 [Info] [Better Chat] [Team] [Regular] SeeMS: where is the helic? xd
+14:18 [Info] [Better Chat] [Team] [Supporter] Kongen: idk
+14:18 [Info] [Better Chat] [Team] [Regular] SeeMS: wtff
+14:18 [Info] [Better Chat] [Team] [Regular] SeeMS: omg
+14:18 [Info] [Better Chat] [Team] [Regular] SeeMS: making me crazy
+14:18 [Info] [Better Chat] [Team] [Regular] SeeMS: this shit
+14:19 [Info] [Better Chat] [Team] [Regular] SeeMS: should be here
+14:19 [Info] [Better Chat] [Team] [Supporter] Kongen: maybe is fail down from up here
+14:19 [Info] [Better Chat] [Team] [Regular] SeeMS: i dont think
+14:19 [Info] [Better Chat] [Team] [Regular] SeeMS: it was stable
+14:19 [Info] [Better Chat] [Team] [Supporter] Kongen: bro
+14:19 [Info] [Better Chat] [Team] [Supporter] Kongen: come up here
+14:19 [Info] [Better Chat] [Team] [Regular] SeeMS: k
+14:20 [Info] [Better Chat] [Team] [Supporter] Kongen: gonna use my special abilities xD
+14:20 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+14:20 [Info] [Better Chat] [Team] [Supporter] Kongen: how much stuff you got on you?
+14:21 [Info] [Better Chat] [Team] [Regular] SeeMS: too much lol
+14:21 [Info] [Better Chat] [Team] [Supporter] Kongen: how much?
+14:21 [Info] [Better Chat] [Team] [Regular] SeeMS: full
+14:21 [Info] [Better Chat] [Team] [Supporter] Kongen: damn
+14:21 [Info] [Better Chat] [Team] [Supporter] Kongen: I got 9 spaces free
+14:21 [Info] [Better Chat] [Team] [Regular] SeeMS: i ve 1 free
+14:21 [Info] [Better Chat] [Team] [Supporter] Kongen: you see
+14:21 [Info] [Better Chat] [Team] [Regular] SeeMS: or no wait
+14:22 [Info] [Better Chat] [Team] [Regular] SeeMS: 5 free
+14:22 [Info] [Better Chat] [Team] [Supporter] Kongen: you can give me, then you can die, then I tp to you for loot and back to get the rest?
+14:22 [Info] [Better Chat] [Team] [Regular] SeeMS: u cant tp
+14:22 [Info] [Better Chat] [Team] [Supporter] Kongen: yes
+14:22 [Info] [Better Chat] [Team] [Supporter] Kongen: special abillites xD
+14:23 [Info] [Better Chat] [Team] [Regular] SeeMS: oh supporter abbilities xd
+14:23 [Info] [Better Chat] [Team] [Supporter] Kongen: yup
+14:23 [Info] [Better Chat] [Team] [Regular] SeeMS: k xDD
+14:23 [Info] [Better Chat] [Team] [Regular] SeeMS: well take
+14:23 [Info] [Better Chat] [Team] [Supporter] Kongen: 13 spaces free now
+14:24 [Info] [Better Chat] [Team] [Supporter] Kongen: Im full now
+14:24 [Info] [Better Chat] [Team] [Regular] SeeMS: take this one
+14:24 [Info] [Better Chat] [Team] [Supporter] Kongen: pistol?
+14:24 [Info] [Better Chat] [Team] [Regular] SeeMS: y
+14:24 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+14:24 [Info] [Better Chat] [Team] [Supporter] Kongen: thats it?
+14:25 [Info] [Better Chat] [Team] [Supporter] Kongen: whay does pistol bullets?
+14:25 [Info] [Better Chat] [Global] [Regular] SeeMS: well i kill my self xD
+14:25 [Info] [Better Chat] [Global] [Regular] SeeMS: for my m5 xd
+14:25 [Info] [Better Chat] [Team] [Supporter] Kongen: 10 of one and 16 of an other
+14:25 [Info] [Better Chat] [Team] [Supporter] Kongen: thoses
+14:25 [Info] [Better Chat] [Team] [Supporter] Kongen: look
+14:25 [Info] [Better Chat] [Team] [Regular] SeeMS: x
+14:25 [Info] [Better Chat] [Team] [Supporter] Kongen: why them?
+14:25 [Info] [Better Chat] [Team] [Regular] SeeMS: OH
+14:25 [Info] [Better Chat] [Team] [Regular] SeeMS: i dont need
+14:25 [Info] [Better Chat] [Team] [Regular] SeeMS: that xD
+14:25 [Info] [Better Chat] [Team] [Regular] SeeMS: its ok
+14:26 [Info] [Better Chat] [Team] [Regular] SeeMS: well i kill mslf
+14:26 [Info] [Kill Feed] [26/14/30/01/2021] SeeMS                                                         suicide                                                       SeeMS
+14:26 [Info] [Better Chat] [Team] [Regular] SeeMS: =
+14:26 [Info] [Better Chat] [Team] [Supporter] Kongen: safe place?
+14:26 [Info] [Better Chat] [Team] [Regular] SeeMS: no wait xD
+14:27 [Info] [Better Chat] [Team] [Regular] SeeMS: safe
+14:27 [Info] [NTeleportation] Kongen teleported to SeeMS.
+14:27 [Info] [Better Chat] [Global] [Supporter] Kongen: brb
+14:27 [Info] [NTeleportation] Kongen teleported back to previous location.
+14:28 [Info] [NTeleportation] Kongen teleported to SeeMS.
+14:28 [Info] [Better Chat] [Global] [Supporter] Kongen: got blue card?
+14:28 [Info] [Better Chat] [Team] [Regular] SeeMS: not yet
+14:28 [Info] [Better Chat] [Team] [Regular] SeeMS: come here
+14:28 [Info] [Better Chat] [Global] [Supporter] Kongen: just take blue card I tp back
+14:28 [Info] [NTeleportation] Kongen teleported back to previous location.
+14:28 [Info] [Better Chat] [Team] [Regular] SeeMS: k
+14:29 [Info] [Better Chat] [Global] [Supporter] Kongen: let me know when you got blue on you
+14:29 [Info] [Better Chat] [Global] [Supporter] Kongen: oh forgot your LR I got it on my
+14:29 [Info] [Better Chat] [Global] [Supporter] Kongen: me*
+14:29 [Info] [Better Chat] [Team] [Regular] SeeMS: done
+14:29 [Info] [Better Chat] [Global] [Supporter] Kongen: lets see if I can do this
+14:29 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+14:30 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+14:30 [Info] [Better Chat] [Team] [Regular] SeeMS: great xD
+14:31 [Info] [Better Chat] [Team] [Supporter] Kongen: rdy?
+14:31 [Info] [Better Chat] [Team] [Regular] SeeMS: y
+14:31 [Info] [Kill Feed] [31/14/30/01/2021] Kongen                         Arm                            rifle.lr300                    3.1m                           5118043
+14:31 [Info] [Better Chat] [Team] [Supporter] Kongen: shit
+14:31 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+14:32 [Info] [Better Chat] [Team] [Supporter] Kongen: dont do anything
+14:32 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+14:32 [Info] [Better Chat] [Team] [Supporter] Kongen: rdy to run?
+14:32 [Info] [Better Chat] [Team] [Regular] SeeMS: fuk
+14:32 [Info] [Better Chat] [Team] [Regular] SeeMS: blocked xD
+14:32 [Info] [Better Chat] [Team] [Supporter] Kongen: sec
+14:32 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+14:32 [Info] [Better Chat] [Team] [Regular] SeeMS: rdy
+14:32 [Info] [Better Chat] [Team] [Supporter] Kongen: lets see where the spot is
+14:32 [Info] [Better Chat] [Team] [Supporter] Kongen: see
+14:33 [Info] [Better Chat] [Team] [Supporter] Kongen: in that corner
+14:33 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+14:33 [Info] [Better Chat] [Team] [Regular] SeeMS: yea
+14:33 [Info] [Better Chat] [Team] [Supporter] Kongen: that corner
+14:33 [Info] [Better Chat] [Team] [Regular] SeeMS: k
+14:35 [Info] [Kill Feed] [35/14/30/01/2021] SeeMS                          Stomach                        rifle.ak                       26.9m                          493906
+14:35 [Info] [Kill Feed] [35/14/30/01/2021] Kongen                         Head                           rifle.lr300                    0.7m                           SeeMS
+14:35 [Info] [Kill Feed] [35/14/30/01/2021] Kongen                         Head                           rifle.lr300                    22.2m                          8377208
+14:35 [Info] [Better Chat] [Team] [Supporter] Kongen: fk
+14:35 [Info] [Better Chat] [Team] [Regular] SeeMS: fu xD
+14:35 [Info] [Kill Feed] [35/14/30/01/2021] Kongen                         Arm                            rifle.lr300                    14.9m                          7549073
+14:35 [Info] [Kill Feed] [35/14/30/01/2021] Kongen                         Head                           rifle.lr300                    14.4m                          1168907
+14:36 [Info] [Kill Feed] [36/14/30/01/2021] Kongen                         Head                           rifle.lr300                    14.4m                          8643354
+14:36 [Info] [NTeleportation] SeeMS teleported back to previous location.
+14:36 [Info] [Kill Feed] [36/14/30/01/2021] Kongen                         Head                           rifle.lr300                    14.9m                          9998175
+14:36 [Info] [Better Chat] [Team] [Regular] SeeMS: im here
+14:36 [Info] [Better Chat] [Team] [Regular] SeeMS: but cover me
+14:36 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+14:36 [Info] [Better Chat] [Team] [Supporter] Kongen: I think I got them all
+14:37 [Info] [Better Chat] [Team] [Supporter] Kongen: 10m
+14:38 [Info] [Better Chat] [Team] [Regular] SeeMS: shit xd
+14:38 [Info] [Better Chat] [Team] [Supporter] Kongen: ?
+14:38 [Info] [Better Chat] [Team] [Regular] SeeMS: was lucky xD
+14:39 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+14:39 [Info] [Better Chat] [Team] [Supporter] Kongen: now we just wait xD
+14:39 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+14:40 [Info] [Better Chat] [Team] [Supporter] Kongen: I hope for c4 or L9 xD
+14:40 [Info] [Better Chat] [Team] [Regular] SeeMS: xD just not crappy lot plz xD
+14:40 [Info] [Better Chat] [Team] [Supporter] Kongen: m9 is also good
+14:41 [Info] [Better Chat] [Team] [Supporter] Kongen: lets try heli xD
+14:41 [Info] [Better Chat] [Team] [Supporter] Kongen: cant see it
+14:41 [Info] [Better Chat] [Team] [Regular] SeeMS: same xd
+14:41 [Info] [Better Chat] [Team] [Regular] SeeMS: here
+14:42 [Info] [Better Chat] [Team] [Supporter] Kongen: I hitted it
+14:42 [Info] [Better Chat] [Team] [Supporter] Kongen: come here
+14:43 [Info] [Better Chat] [Team] [Supporter] Kongen: watchout for rockets
+14:43 [Info] [Kill Feed] [43/14/30/01/2021] SeeMS                                                         heat                           1.3m                           SeeMS
+14:43 [Info] [Kill Feed] [43/14/30/01/2021] Kongen                                                        heat                           2.2m                           Kongen
+14:43 [Info] [Better Chat] [Team] [Regular] SeeMS: my gosh
+14:43 [Info] [Better Chat] [Team] [Regular] SeeMS: fire on the ground
+14:43 [Info] [Better Chat] [Team] [Supporter] Kongen: SHIT
+14:43 [Info] [Better Chat] [Team] [Regular] SeeMS: killed me xD
+14:43 [Info] [Better Chat] [Team] [Supporter] Kongen: oh ya
+14:43 [Info] [Better Chat] [Team] [Supporter] Kongen: same here
+14:44 [Info] [Better Chat] [Team] [Supporter] Kongen: fk
+14:44 [Info] [Better Chat] [Team] [Supporter] Kongen: need heli now
+14:44 [Info] [Better Chat] [Team] [Regular] SeeMS: yea will come
+14:44 [Info] [Better Chat] [Team] [Regular] SeeMS: with it
+14:44 [Info] [Better Chat] [Team] [Supporter] Kongen: need scraps?
+14:44 [Info] [Better Chat] [Team] [Regular] SeeMS: it ok
+14:44 [Info] [Better Chat] [Team] [Supporter] Kongen: tp to your heli base
+14:44 [Info] [Better Chat] [Team] [Regular] SeeMS: yes
+14:44 [Info] [Better Chat] [Team] [Supporter] Kongen: I come with scraps and fuel
+14:45 [Info] [Better Chat] [Team] [Regular] SeeMS: in 10 sec im in
+14:45 [Info] [Better Chat] [Team] [Supporter] Kongen: k
+14:45 [Info] [Better Chat] [Team] [Regular] SeeMS: done
+14:45 [Info] [NTeleportation] Kongen teleported to SeeMS.
+14:45 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+14:46 [Info] [Better Chat] [Team] [Supporter] Kongen: I wait outside
+14:46 [Info] [Better Chat] [Team] [Regular] SeeMS: ty
+14:46 [Info] [Better Chat] [Team] [Regular] SeeMS: k
+14:46 [Info] [Better Chat] [Team] [Supporter] Kongen: didnt know it was me the rockets was for xD
+14:46 [Info] [Better Chat] [Team] [Supporter] Kongen: ran in loot rum xD
+14:46 [Info] [Better Chat] [Team] [Supporter] Kongen: but the fire daaaaamn
+14:47 [Info] [Better Chat] [Team] [Regular] SeeMS: yes
+14:47 [Info] [Better Chat] [Team] [Regular] SeeMS: my hp down to 0 in like  5sec
+14:47 [Info] [Better Chat] [Team] [Supporter] Kongen: ya
+14:47 [Info] [Better Chat] [Team] [Regular] SeeMS: waiting for u
+14:47 [Info] [Better Chat] [Team] [Supporter] Kongen: I cant mount remember
+14:47 [Info] [Better Chat] [Team] [Supporter] Kongen: thats why I wait outside
+14:48 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+14:48 [Info] [Better Chat] [Team] [Regular] SeeMS: oh u know i come
+14:48 [Info] [Better Chat] [Team] [Supporter] Kongen: you need to leave bandit before I can mount on heli
+14:48 [Info] [Better Chat] [Team] [Regular] SeeMS: oh ok XD
+14:49 [Info] [Better Chat] [Team] [Supporter] Kongen: oh well loot should be rdy now
+14:49 [Info] [Better Chat] [Team] [Supporter] Kongen: or allmost
+14:49 [Info] [Better Chat] [Team] [Regular] SeeMS: fuk see nothing
+14:49 [Info] [Better Chat] [Team] [Supporter] Kongen: then in the middle of the H pad this time xD
+14:50 [Info] [Better Chat] [Team] [Supporter] Kongen: I see
+14:50 [Info] [Better Chat] [Team] [Supporter] Kongen: you can do it
+14:50 [Info] [Better Chat] [Team] [Supporter] Kongen: up
+14:50 [Info] [Better Chat] [Team] [Supporter] Kongen: there you go
+14:51 [Info] [Better Chat] [Team] [Supporter] Kongen: nice and easy xD
+14:51 [Info] [Better Chat] [Team] [Regular] SeeMS: ufff
+14:52 [Info] [Better Chat] [Team] [Supporter] Kongen: rdy to see?
+14:52 [Info] [Better Chat] [Team] [Regular] SeeMS: yes xD
+14:52 [Info] [Better Chat] [Team] [Supporter] Kongen: fk
+14:52 [Info] [Better Chat] [Team] [Supporter] Kongen: take what you want
+14:52 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+14:53 [Info] [Better Chat] [Team] [Regular] SeeMS: nothing great xd
+14:53 [Info] [Better Chat] [Team] [Supporter] Kongen: nope crappy loot
+14:53 [Info] [Better Chat] [Team] [Regular] SeeMS: ye
+14:53 [Info] [Better Chat] [Team] [Regular] SeeMS: want to do the second oil?
+14:53 [Info] [Better Chat] [Team] [Supporter] Kongen: need to do something irl first
+14:53 [Info] [Better Chat] [Team] [Regular] SeeMS: ok xD
+14:53 [Info] [Better Chat] [Team] [Regular] SeeMS: same thing
+14:54 [Info] [Better Chat] [Team] [Supporter] Kongen: I will be back in a hour or so
+14:54 [Info] [Better Chat] [Team] [Regular] SeeMS: oh ok :D
+14:54 [Info] [Better Chat] [Team] [Supporter] Kongen: but I need a ride xD
+14:54 [Info] [Better Chat] [Team] [Supporter] Kongen: to the land so I can tp
+14:54 [Info] [Better Chat] [Team] [Regular] SeeMS: ok xD
+14:55 [Info] [Better Chat] [Team] [Supporter] Kongen: forward not backwards xD
+14:55 [Info] [Better Chat] [Team] [Regular] SeeMS: XDDD
+14:55 [Info] [Better Chat] [Team] [Supporter] Kongen: its hard to see
+14:56 [Info] [Better Chat] [Team] [Regular] SeeMS: they are a resistance
+14:56 [Info] [Better Chat] [Team] [Regular] SeeMS: bcs of the time i think
+14:56 [Info] [Better Chat] [Team] [Regular] SeeMS: wind ect
+14:56 [Info] [Better Chat] [Team] [Regular] SeeMS: its too hard xD
+14:56 [Info] [Better Chat] [Team] [Supporter] Kongen: damn
+14:56 [Info] [Better Chat] [Team] [Supporter] Kongen: you can do it
+14:56 [Info] [Better Chat] [Team] [Supporter] Kongen: there you go
+14:56 [Info] [Better Chat] [Team] [Supporter] Kongen: up
+14:56 [Info] [Better Chat] [Team] [Supporter] Kongen: go
+14:57 [Info] [Better Chat] [Team] [Regular] SeeMS: look at the H
+14:57 [Info] [Better Chat] [Team] [Regular] SeeMS: i made xDDD
+14:57 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+14:57 [Info] [Better Chat] [Team] [Supporter] Kongen: so big xD
+14:57 [Info] [Better Chat] [Team] [Regular] SeeMS: xDDD
+14:57 [Info] [Better Chat] [Team] [Supporter] Kongen: you getting better and better with heli
+14:57 [Info] [Better Chat] [Team] [Regular] SeeMS: yep i feel xD
+14:58 [Info] [Better Chat] [Team] [Supporter] Kongen: well I will log off for now, whats your disord?
+14:58 [Info] [Better Chat] [Team] [Regular] SeeMS: its uh wait
+14:58 [Info] [Better Chat] [Team] [Supporter] Kongen: I give you mine
+14:58 [Info] [Better Chat] [Team] [Regular] SeeMS: yes
+14:58 [Info] [Better Chat] [Team] [Supporter] Kongen: Kongen#4806
+14:59 [Info] [Better Chat] [Team] [Regular] SeeMS: ok !
+14:59 [Info] [Better Chat] [Team] [Regular] SeeMS: cya
+14:59 [Info] [Better Chat] [Team] [Supporter] Kongen: cya
+14:59 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+15:29 [Info] [Welcomer] • millehansen94 has joined the server from Denmark.
+15:29 [Info] [Kill Feed] [29/15/30/01/2021] millehansen94                                                 hatchet                        1.5m                           Chicken
+15:32 [Info] [Kill Feed] [32/15/30/01/2021] millehansen94                  Arm                            shotgun.pump                   0.9m                           Rec
+15:34 [Info] [Better Chat] [Global] [Newbie] millehansen94: so you did the whole map off
+15:36 [Info] [Kill Feed] [36/15/30/01/2021] millehansen94                  Arm                            shotgun.pump                   0.6m                           Max™
+15:36 [Info] [Better Chat] [Global] [Newbie] millehansen94: IM MAD
+15:36 [Info] [Better Chat] [Global] [Newbie] millehansen94: I WANT THE LAST SERVER BACK
+15:37 [Info] [Better Chat] [Global] [Newbie] millehansen94: mahut :(
+15:43 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198435219738
+15:43 [Info] [VoteRewards] 0
+15:45 [Info] [Better Chat] [Global] [Newbie] millehansen94: pwease mahut if gef is in here can you say to mahut i want the last server back
+15:48 [Info] [Better Chat] [Global] [Newbie] millehansen94: i have one question
+15:48 [Info] [Better Chat] [Global] [Newbie] millehansen94: can i be an admin?
+15:49 [Info] [Better Chat] [Global] [Newbie] millehansen94: say yes pwease
+15:51 [Info] [Better Chat] [Global] [Newbie] millehansen94: ya
+15:51 [Info] [Better Chat] [Global] [Newbie] millehansen94: MY GOID
+15:53 [Info] [Welcomer] • millehansen94 has left the server (Disconnected).
+15:53 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+16:00 [Info] [Kill Feed] [00/16/30/01/2021] Kongen                                                        rifle.lr300                    35.5m                          Stag
+16:38 [Info] [Better Chat] [Team] [Regular] SeeMS: hi
+16:38 [Info] [Better Chat] [Team] [Regular] SeeMS: im back xD
+16:38 [Info] [Better Chat] [Team] [Supporter] Kongen: wb bro
+16:38 [Info] [Better Chat] [Team] [Regular] SeeMS: ty :D
+16:39 [Info] [Better Chat] [Global] [Regular] SeeMS: lets try soaker or later?
+16:39 [Info] [Welcomer] • PofJonko has joined the server from Netherlands.
+16:40 [Info] [Better Chat] [Team] [Regular] SeeMS: ups xD
+16:40 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+16:40 [Info] [Better Chat] [Team] [Regular] SeeMS: he's not here so its fine xd
+16:40 [Info] [Better Chat] [Team] [Supporter] Kongen: sue lets do it
+16:40 [Info] [Better Chat] [Team] [Supporter] Kongen: sure*
+16:40 [Info] [Better Chat] [Team] [Regular] SeeMS: k
+16:40 [Info] [Better Chat] [Team] [Regular] SeeMS: 20 c4
+16:41 [Info] [Better Chat] [Team] [Supporter] Kongen: let me grap mine xD
+16:41 [Info] [Better Chat] [Team] [Regular] SeeMS: should be enought
+16:41 [Info] [Better Chat] [Team] [Regular] SeeMS: xd k u can tp
+16:41 [Info] [Better Chat] [Team] [Supporter] Kongen: sec
+16:41 [Info] [Better Chat] [Team] [Supporter] Kongen: need to tp to base
+16:41 [Info] [Better Chat] [Team] [Regular] SeeMS: oh ok wait i tok my rocket too
+16:41 [Info] [Better Chat] [Team] [Regular] SeeMS: and lets wait for the morning
+16:41 [Info] [Better Chat] [Team] [Supporter] Kongen: k
+16:43 [Info] [Better Chat] [Team] [Supporter] Kongen: you need anything?
+16:43 [Info] [Better Chat] [Team] [Regular] SeeMS: its ok xD
+16:43 [Info] [Better Chat] [Team] [Supporter] Kongen: allright
+16:44 [Info] [Better Chat] [Team] [Regular] SeeMS: i bring more c4
+16:44 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+16:45 [Info] [Better Chat] [Team] [Regular] SeeMS: k u can tp when u want xd
+16:45 [Info] [Better Chat] [Team] [Supporter] Kongen: crafting ^^
+16:46 [Info] [Better Chat] [Team] [Regular] SeeMS: :D
+16:46 [Info] [Better Chat] [Team] [Supporter] Kongen: more c4 ^^
+16:46 [Info] [Better Chat] [Team] [Supporter] Kongen: just to be sure
+16:46 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+16:46 [Info] [Better Chat] [Team] [Regular] SeeMS: bring some explosif bal
+16:46 [Info] [Better Chat] [Team] [Regular] SeeMS: if u have for turret
+16:46 [Info] [Better Chat] [Team] [Supporter] Kongen: kk
+16:47 [Info] [Better Chat] [Team] [Supporter] Kongen: I have 668 atm
+16:47 [Info] [Better Chat] [Team] [Regular] SeeMS: nice xD
+16:47 [Info] [Better Chat] [Team] [Supporter] Kongen: should be enough for thoses 3 turrets
+16:47 [Info] [Better Chat] [Team] [Regular] SeeMS: oh shit airdrop on my base xd
+16:47 [Info] [Better Chat] [Team] [Regular] SeeMS: yes
+16:47 [Info] [Better Chat] [Team] [Supporter] Kongen: gogo xD
+16:50 [Info] [Better Chat] [Team] [Supporter] Kongen: can I tp?
+16:50 [Info] [Better Chat] [Team] [Regular] SeeMS: y
+16:51 [Info] [Better Chat] [Team] [Supporter] Kongen: forgot food damn
+16:51 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+16:51 [Info] [Better Chat] [Team] [Supporter] Kongen: I got repair bench with me
+16:51 [Info] [Better Chat] [Team] [Supporter] Kongen: my mark
+16:52 [Info] [Better Chat] [Team] [Regular] SeeMS: cant see it
+16:52 [Info] [Better Chat] [Team] [Supporter] Kongen: E14
+16:52 [Info] [Better Chat] [Team] [Supporter] Kongen: around there
+16:52 [Info] [Better Chat] [Team] [Supporter] Kongen: no turrets lol
+16:53 [Info] [Better Chat] [Team] [Supporter] Kongen: same spot
+16:53 [Info] [Welcomer] • PofJonko has left the server (Disconnected).
+16:53 [Info] [Better Chat] [Team] [Regular] SeeMS: y he didnt nothing wtf xd
+16:53 [Info] [Better Chat] [Team] [Supporter] Kongen: need ladders lol
+16:54 [Info] [Better Chat] [Team] [Supporter] Kongen: brb I tp
+16:54 [Info] [Better Chat] [Team] [Regular] SeeMS: shit i dont have
+16:54 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+16:54 [Info] [Better Chat] [Team] [Regular] SeeMS: k
+16:55 [Info] [NTeleportation] Kongen teleported to SeeMS.
+16:56 [Info] [Better Chat] [Team] [Supporter] Kongen: thats new
+16:56 [Info] [Better Chat] [Team] [Supporter] Kongen: remember trap
+16:56 [Info] [Better Chat] [Team] [Regular] SeeMS: y
+16:57 [Info] [Better Chat] [Team] [Regular] SeeMS: 2 now xd
+16:58 [Info] [Kill Feed] [58/16/30/01/2021] SeeMS                                                         explosive.timed                                               SeeMS
+16:58 [Info] [Better Chat] [Team] [Supporter] Kongen: shit
+16:58 [Info] [Better Chat] [Team] [Regular] SeeMS: omg
+16:58 [Info] [Better Chat] [Team] [Regular] SeeMS: lmfao xDDD
+16:58 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+16:58 [Info] [Better Chat] [Team] [Supporter] Kongen: food here
+16:59 [Info] [Better Chat] [Team] [Regular] SeeMS: ty
+16:59 [Info] [Better Chat] [Team] [Regular] SeeMS: ladder maybe
+16:59 [Info] [Better Chat] [Team] [Supporter] Kongen: blow up ?
+17:00 [Info] [Better Chat] [Team] [Regular] SeeMS: my god
+17:00 [Info] [Better Chat] [Team] [Regular] SeeMS: i cant xd
+17:00 [Info] [Better Chat] [Team] [Regular] SeeMS: how u do xD
+17:01 [Info] [Better Chat] [Team] [Supporter] Kongen: let me try again
+17:01 [Info] [Better Chat] [Team] [Regular] SeeMS: u jump?
+17:01 [Info] [Better Chat] [Team] [Supporter] Kongen: kinda of
+17:01 [Info] [Better Chat] [Team] [Supporter] Kongen: with ctrl down
+17:01 [Info] [Better Chat] [Team] [Regular] SeeMS: oh ok xddd
+17:01 [Info] [Better Chat] [Team] [Supporter] Kongen: yay
+17:01 [Info] [Better Chat] [Team] [Supporter] Kongen: wait
+17:02 [Info] [Better Chat] [Team] [Supporter] Kongen: rdy to throw
+17:02 [Info] [Better Chat] [Team] [Supporter] Kongen: no
+17:02 [Info] [Better Chat] [Team] [Supporter] Kongen: you go down
+17:02 [Info] [Better Chat] [Team] [Regular] SeeMS: more? xD
+17:02 [Info] [Better Chat] [Team] [Supporter] Kongen: we throw at the same time and then out
+17:02 [Info] [Better Chat] [Team] [Regular] SeeMS: it will touch u
+17:02 [Info] [Better Chat] [Team] [Regular] SeeMS: the c4
+17:02 [Info] [Better Chat] [Team] [Supporter] Kongen: so we take 2 doors at the same time
+17:02 [Info] [Better Chat] [Team] [Supporter] Kongen: we need to go down the ladders and out
+17:02 [Info] [Better Chat] [Team] [Supporter] Kongen: k?
+17:03 [Info] [Better Chat] [Team] [Regular] SeeMS: oh ok xD
+17:03 [Info] [Better Chat] [Team] [Supporter] Kongen: we have 10 secs
+17:03 [Info] [Better Chat] [Team] [Regular] SeeMS: hmmm
+17:03 [Info] [Better Chat] [Team] [Supporter] Kongen: rdy to throw
+17:03 [Info] [Better Chat] [Team] [Supporter] Kongen: 3
+17:03 [Info] [Better Chat] [Team] [Regular] SeeMS: in the same door ?
+17:03 [Info] [Better Chat] [Team] [Supporter] Kongen: only one door
+17:03 [Info] [Better Chat] [Team] [Regular] SeeMS: k xD
+17:03 [Info] [Better Chat] [Team] [Supporter] Kongen: and I take one here
+17:03 [Info] [Better Chat] [Team] [Supporter] Kongen: 3
+17:03 [Info] [Better Chat] [Team] [Regular] SeeMS: ok xD
+17:03 [Info] [Better Chat] [Team] [Supporter] Kongen: 2
+17:03 [Info] [Better Chat] [Team] [Supporter] Kongen: 1
+17:03 [Info] [Better Chat] [Team] [Supporter] Kongen: go
+17:03 [Info] [Welcomer] • [DMA] Gubatrix has joined the server from Germany.
+17:04 [Info] [Better Chat] [Global] [Regular] SeeMS: hi guba xd
+17:04 [Info] [Better Chat] [Team] [Admin] [DMA] Gubatrix: hi
+17:04 [Info] [Better Chat] [Global] [Supporter] Kongen: yoyo
+17:04 [Info] [Better Chat] [Team] [Regular] SeeMS: i take this one
+17:04 [Info] [Better Chat] [Team] [Supporter] Kongen: GOGO
+17:04 [Info] [Better Chat] [Team] [Regular] SeeMS: rdy?
+17:05 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+17:05 [Info] [Better Chat] [Team] [Supporter] Kongen: all the way up
+17:06 [Info] [Better Chat] [Team] [Regular] SeeMS: this one look pretty xd
+17:06 [Info] [Better Chat] [Team] [Regular] SeeMS: rdy?
+17:06 [Info] [Better Chat] [Team] [Supporter] Kongen: no
+17:06 [Info] [Better Chat] [Team] [Regular] SeeMS: xDD
+17:06 [Info] [Better Chat] [Team] [Supporter] Kongen: trap
+17:06 [Info] [Better Chat] [Team] [Regular] SeeMS: oh ok
+17:06 [Info] [Better Chat] [Team] [Supporter] Kongen: mini!!!! :D
+17:06 [Info] [Better Chat] [Team] [Regular] SeeMS: :O
+17:07 [Info] [Better Chat] [Team] [Regular] SeeMS: shit xD
+17:07 [Info] [Better Chat] [Team] [Supporter] Kongen: clear
+17:07 [Info] [Better Chat] [Team] [Regular] SeeMS: how he put it here
+17:07 [Info] [Better Chat] [Team] [Regular] SeeMS: the fuuuk
+17:07 [Info] [Better Chat] [Team] [Supporter] Kongen: by push xD
+17:07 [Info] [Better Chat] [Team] [Regular] SeeMS: xDD
+17:08 [Info] [Better Chat] [Team] [Supporter] Kongen: remember we have repair bench ^^
+17:08 [Info] [Better Chat] [Team] [Regular] SeeMS: ye XD
+17:09 [Info] [Better Chat] [Team] [Regular] SeeMS: door again
+17:09 [Info] [Better Chat] [Team] [Regular] SeeMS: garage xd
+17:10 [Info] [Better Chat] [Team] [Supporter] Kongen: carefull xD
+17:10 [Info] [Better Chat] [Team] [Supporter] Kongen: thats outside
+17:10 [Info] [Better Chat] [Team] [Regular] SeeMS: oh k shit
+17:10 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+17:10 [Info] [Better Chat] [Team] [Regular] SeeMS: yes it is
+17:11 [Info] [Better Chat] [Team] [Regular] SeeMS: 191 scrap xd
+17:11 [Info] [Welcomer] • [DMA] Admiral Doge has joined the server from Germany.
+17:11 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+17:12 [Info] [Kill Feed] [12/17/30/01/2021] Kongen                                                        explosive.timed                6.1m                           Soaker
+17:12 [Info] [Better Chat] [Team] [Regular] SeeMS: lol
+17:12 [Info] [Kill Feed] [12/17/30/01/2021] SeeMS                                                         guntrap                        3.6m                           SeeMS
+17:12 [Info] [Better Chat] [Team] [Regular] SeeMS: xDDDD
+17:12 [Info] [Better Chat] [Team] [Supporter] Kongen: dont forget traps bro
+17:12 [Info] StackSizeController was compiled successfully in 1930ms
+17:12 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+17:12 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+17:12 [Info] [Better Chat] [Team] [Regular] SeeMS: can i tp xd
+17:13 [Info] [Better Chat] [Team] [Supporter] Kongen: 4m for tp
+17:13 [Info] [Better Chat] [Team] [Regular] SeeMS: yes .. XD
+17:13 [Info] [Better Chat] [Team] [Supporter] Kongen: I think we are close to loot :)
+17:13 [Info] [Better Chat] [Team] [Regular] SeeMS: oh i have heli
+17:13 [Info] [Better Chat] [Team] [Regular] SeeMS: coming
+17:13 [Info] [Better Chat] [Team] [Supporter] Kongen: gogo
+17:13 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+17:13 [Info] [Better Chat] [Team] [Supporter] Kongen: should I go in again?
+17:13 [Info] [Better Chat] [Team] [Supporter] Kongen: and take trap out?
+17:13 [Info] [Better Chat] [Team] [Regular] SeeMS: hmmm trap will not kill u? xd
+17:14 [Info] [Better Chat] [Team] [Supporter] Kongen: nope
+17:14 [Info] [Better Chat] [Team] [Regular] SeeMS: try xD
+17:14 [Info] [Better Chat] [Team] [Supporter] Kongen: dont think I can shoot when Im on the ladder
+17:14 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+17:14 [Info] [Better Chat] [Team] [Supporter] Kongen: nope I can
+17:15 [Info] [Better Chat] [Team] [Supporter] Kongen: hes smart :D
+17:15 [Info] [Kill Feed] [15/17/30/01/2021] Kongen                                                        guntrap                        2.0m                           Kongen
+17:15 [Info] [Better Chat] [Team] [Regular] SeeMS: shit
+17:15 [Info] [Better Chat] [Team] [Admin] [DMA] Gubatrix: xd
+17:15 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+17:15 [Info] [Better Chat] [Team] [Supporter] Kongen: fk I fail down xD
+17:15 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+17:15 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:15 [Info] [Better Chat] [Team] [Regular] SeeMS: i come take u with helic?
+17:15 [Info] [Better Chat] [Team] [Supporter] Kongen: ya
+17:15 [Info] [Better Chat] [Team] [Regular] SeeMS: k coming
+17:15 [Info] [Better Chat] [Team] [Supporter] Kongen: but I throwed c4 so its should be gone
+17:16 [Info] [Better Chat] [Team] [Regular] SeeMS: k nice
+17:16 [Info] [Better Chat] [Team] [Regular] SeeMS: coming
+17:16 [Info] [Better Chat] [Team] [Supporter] Kongen: gonna make some ladders
+17:16 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i can sell a car with 54 stacks storage
+17:16 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: and 2 seats
+17:16 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: with much fuel
+17:16 [Info] [Better Chat] [Global] [Regular] SeeMS: great
+17:16 [Info] [Better Chat] [Global] [Regular] SeeMS: im interessed
+17:16 [Info] [Better Chat] [Team] [Supporter] Kongen: w
+17:16 [Info] [Better Chat] [Global] [Regular] SeeMS: but later xD
+17:16 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: gay
+17:16 [Info] [Better Chat] [Global] [Regular] SeeMS: u gay !
+17:16 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: <​3
+17:16 [Info] [Better Chat] [Global] [Regular] SeeMS: <​3
+17:17 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: <​3
+17:17 [Info] [Better Chat] [Team] [Supporter] Kongen: tp or?
+17:17 [Info] [Better Chat] [Team] [Regular] SeeMS: im here xD
+17:17 [Info] [Better Chat] [Team] [Supporter] Kongen: k
+17:17 [Info] [Better Chat] [Team] [Regular] SeeMS: so fast
+17:18 [Info] [Better Chat] [Team] [Regular] SeeMS: the helic xd
+17:18 [Info] [Better Chat] [Team] [Supporter] Kongen: yup
+17:19 [Info] [Better Chat] [Team] [Supporter] Kongen: I fail down the ladder when I tryed to get up again after I throwed c4 QQ
+17:19 [Info] [Better Chat] [Team] [Regular] SeeMS: XD
+17:19 [Info] [Better Chat] [Team] [Supporter] Kongen: but good I throwed atleast xD
+17:20 [Info] [Better Chat] [Team] [Regular] SeeMS: carful xD
+17:20 [Info] [Better Chat] [Team] [Regular] SeeMS: XDDD
+17:20 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+17:20 [Info] [Better Chat] [Team] [Supporter] Kongen: let me take that
+17:20 [Info] [Better Chat] [Team] [Regular] SeeMS: tXDD
+17:21 [Info] [Better Chat] [Team] [Supporter] Kongen: awts
+17:21 [Info] [Better Chat] [Team] [Regular] SeeMS: xDDD
+17:21 [Info] [Better Chat] [Team] [Regular] SeeMS: take from my bag if u need xD
+17:22 [Info] [Better Chat] [Team] [Supporter] Kongen: 20 c4 xD
+17:22 [Info] [Better Chat] [Team] [Supporter] Kongen: come
+17:22 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+17:22 [Info] [Better Chat] [Team] [Supporter] Kongen: 112 frags xD
+17:23 [Info] [Better Chat] [Team] [Supporter] Kongen: holy shit
+17:23 [Info] [Better Chat] [Team] [Regular] SeeMS: shiit
+17:23 [Info] [Better Chat] [Team] [Supporter] Kongen: you want this
+17:23 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+17:23 [Info] [Better Chat] [Team] [Regular] SeeMS: omg
+17:23 [Info] [Better Chat] [Team] [Regular] SeeMS: XDDDD
+17:23 [Info] [Better Chat] [Team] [Regular] SeeMS: wtff
+17:23 [Info] [Better Chat] [Team] [Supporter] Kongen: you just got half of them
+17:23 [Info] [Better Chat] [Team] [Regular] SeeMS: he got 10k
+17:23 [Info] [Better Chat] [Team] [Regular] SeeMS: how is that possible xD
+17:23 [Info] [Better Chat] [Team] [Supporter] Kongen: yup
+17:23 [Info] [Better Chat] [Team] [Supporter] Kongen: idk
+17:24 [Info] [Better Chat] [Team] [Supporter] Kongen: you need cloths?
+17:24 [Info] [Better Chat] [Team] [Regular] SeeMS: ye
+17:24 [Info] [Better Chat] [Team] [Regular] SeeMS: wtf xD
+17:24 [Info] [Better Chat] [Team] [Supporter] Kongen: from my base
+17:24 [Info] [Better Chat] [Team] [Regular] SeeMS: oh ok xD
+17:24 [Info] [Better Chat] [Team] [Supporter] Kongen: where is tc xD
+17:24 [Info] [Better Chat] [Team] [Supporter] Kongen: damn cards
+17:25 [Info] [Better Chat] [Team] [Regular] SeeMS: idk xD
+17:25 [Info] [Better Chat] [Team] [Regular] SeeMS: i think it should be surrounded by wall
+17:25 [Info] [Better Chat] [Team] [Supporter] Kongen: closed off you mean?
+17:25 [Info] [NTeleportation] [DMA] Admiral Doge teleported to Kongen.
+17:25 [Info] [Better Chat] [Team] [Regular] SeeMS: yea
+17:26 [Info] [Better Chat] [Team] [Supporter] Kongen: but
+17:26 [Info] [Better Chat] [Team] [Supporter] Kongen: I think we should leave it
+17:26 [Info] [Better Chat] [Team] [Regular] SeeMS: why?
+17:26 [Info] [Better Chat] [Team] [Supporter] Kongen: dont think he have anything in tc
+17:27 [Info] [Better Chat] [Team] [Regular] SeeMS: idk xD
+17:27 [Info] [Better Chat] [Team] [Supporter] Kongen: maybe I found the spot
+17:27 [Info] [Better Chat] [Team] [Supporter] Kongen: you see
+17:27 [Info] [Better Chat] [Team] [Regular] SeeMS: here?
+17:27 [Info] [Better Chat] [Team] [Supporter] Kongen: I think so
+17:28 [Info] [Better Chat] [Team] [Regular] SeeMS: k lets see
+17:29 [Info] [Better Chat] [Team] [Supporter] Kongen: wait
+17:30 [Info] [Better Chat] [Team] [Regular] SeeMS: nothhing xD
+17:30 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+17:30 [Info] [Better Chat] [Team] [Supporter] Kongen: its sealed off
+17:30 [Info] [Better Chat] [Team] [Supporter] Kongen: hmm
+17:30 [Info] [Better Chat] [Team] [Supporter] Kongen: or maybe just walls
+17:30 [Info] [Better Chat] [Team] [Regular] SeeMS: idk xD
+17:30 [Info] [NTeleportation] [DMA] Gubatrix teleported to Kongen.
+17:32 [Info] [Better Chat] [Team] [Regular] SeeMS: hmm nothing xd
+17:32 [Info] [Better Chat] [Team] [Supporter] Kongen: there are room here but idk
+17:32 [Info] [Better Chat] [Team] [Supporter] Kongen: the strong side is out her
+17:32 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: what would u guys think about a custom map on this server?
+17:33 [Info] [Better Chat] [Global] [Supporter] Kongen: as long is not small xD
+17:33 [Info] [Better Chat] [Global] [Regular] SeeMS: could be a good idea  xD
+17:33 [Info] [Better Chat] [Global] [Regular] SeeMS: u think
+17:33 [Info] [Better Chat] [Global] [Regular] SeeMS: ups
+17:33 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: idk about the size, maybe about the size of this map
+17:33 [Info] [Better Chat] [Team] [Regular] SeeMS: u think they are room ?
+17:33 [Info] [Better Chat] [Team] [Supporter] Kongen: why put strong side in here?
+17:33 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: but it would be great because we could completly customize the map
+17:33 [Info] [Better Chat] [Team] [Regular] SeeMS: yep true
+17:34 [Info] [Better Chat] [Team] [Supporter] Kongen: its should face out xD
+17:34 [Info] [Better Chat] [Team] [Regular] SeeMS: i destroy it
+17:34 [Info] [Better Chat] [Global] [Supporter] Kongen: as long you can do pve and pvp on that map ^^
+17:34 [Info] [Better Chat] [Team] [Supporter] Kongen: brb
+17:35 [Info] [Kill Feed] [35/17/30/01/2021] SeeMS                                                         explosive.timed                                               SeeMS
+17:35 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes we could make some more safezones and just zones for pve and some zones for pvp
+17:35 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xdddd
+17:35 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: xd
+17:35 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xD
+17:35 [Info] [Better Chat] [Global] [Regular] SeeMS: my god
+17:35 [Info] [Better Chat] [Global] [Regular] SeeMS: xdd
+17:35 [Info] [Better Chat] [Team] [Supporter] Kongen: oh damn
+17:35 [Info] [Better Chat] [Team] [Regular] SeeMS: k tell me when i can tp xD
+17:36 [Info] [Better Chat] [Team] [Supporter] Kongen: kk xD
+17:37 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:37 [Info] [Better Chat] [Global] [Supporter] Kongen: wtf is that music xD
+17:37 [Info] [Better Chat] [Team] [Supporter] Kongen: but I got something for you as well when you come here again
+17:37 [Info] [Better Chat] [Global] [Supporter] Kongen: lol
+17:38 [Info] [Better Chat] [Team] [Supporter] Kongen: 2m xD
+17:38 [Info] [Admin Chat] Kongen: what about making some events or quest system?
+17:38 [Info] [Admin Chat] Gubatrix: would be  nice
+17:38 [Info] [Better Chat] [Global] [Supporter] Kongen: lol
+17:39 [Info] [Better Chat] [Global] [Supporter] Kongen: thoses sounds
+17:39 [Info] [Better Chat] [Team] [Supporter] Kongen: 20 secs
+17:40 [Info] [Better Chat] [Team] [Supporter] Kongen: gogo
+17:40 [Info] [Better Chat] [Team] [Supporter] Kongen: go tp
+17:41 [Info] [Better Chat] [Team] [Supporter] Kongen: maybe we should save the last c4?
+17:42 [Info] [Better Chat] [Team] [Supporter] Kongen: that scrap and metal
+17:42 [Info] [Better Chat] [Team] [Supporter] Kongen: and sheet metal
+17:42 [Info] [Better Chat] [Team] [Regular] SeeMS: shit xD
+17:42 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+17:43 [Info] [Better Chat] [Team] [Regular] SeeMS: i hope it wasnt ours helic
+17:43 [Info] [Better Chat] [Team] [Supporter] Kongen: if you dont want sheet I will take it
+17:43 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: sry for heli
+17:43 [Info] [Better Chat] [Global] [Regular] SeeMS: i hope its not our helic xDDDD
+17:43 [Info] [Better Chat] [Global] [Regular] SeeMS: k lets raid the garage !
+17:43 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: maybe
+17:43 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:43 [Info] [Better Chat] [Global] [Supporter] Kongen: shit
+17:43 [Info] [Better Chat] [Global] [Supporter] Kongen: it is? xD
+17:43 [Info] [Better Chat] [Global] [Regular] SeeMS: we have 2 helic
+17:43 [Info] [Better Chat] [Global] [Regular] SeeMS: xD
+17:44 [Info] [Better Chat] [Team] [Supporter] Kongen: one here
+17:44 [Info] [Better Chat] [Global] [Regular] SeeMS: pay me
+17:44 [Info] [Better Chat] [Global] [Regular] SeeMS: the helic cost
+17:44 [Info] [Better Chat] [Global] [Regular] SeeMS: com here xD
+17:44 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: no money no english
+17:44 [Info] [Better Chat] [Team] [Supporter] Kongen: look at that scrap I gave you xD
+17:44 [Info] [Better Chat] [Global] [Supporter] Kongen: lol
+17:44 [Info] [Better Chat] [Global] [Regular] SeeMS: XD
+17:44 [Info] [Better Chat] [Team] [Supporter] Kongen: gonna tp and then eat
+17:45 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i can give u a storage car
+17:45 [Info] [Better Chat] [Global] [Regular] SeeMS: oh wow
+17:45 [Info] [Better Chat] [Team] [Supporter] Kongen: then we can take large oil rig
+17:45 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+17:45 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: 54 slots
+17:45 [Info] [Better Chat] [Global] [Regular] SeeMS: oh yeah
+17:45 [Info] [Better Chat] [Global] [Supporter] Kongen: damn
+17:45 [Info] [Better Chat] [Global] [Regular] SeeMS: xD
+17:45 [Info] [Better Chat] [Global] [Supporter] Kongen: thats alot
+17:45 [Info] [Better Chat] [Global] [Regular] SeeMS: so now its mine !
+17:45 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: maybe
+17:45 [Info] [Better Chat] [Global] [Regular] SeeMS: xDD
+17:45 [Info] [Better Chat] [Global] [Supporter] Kongen: cya later, dinner time
+17:45 [Info] [Better Chat] [Global] [Regular] SeeMS: cyaa
+17:45 [Info] [Better Chat] [Team] [Regular] SeeMS: ok xD
+17:46 [Info] [NTeleportation] [DMA] Gubatrix teleported to Admiral Doge.
+17:46 [Info] [Better Chat] [Global] [Supporter] Kongen: I want 20 home tp instead of 10 xD
+17:46 [Info] [Better Chat] [Global] [Supporter] Kongen: only have one tp left QQ
+17:47 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 148ms [GARBAGE COLLECT]
+17:47 [Info] NTeleportation was compiled successfully in 2232ms
+17:47 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+17:47 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 186ms
+17:47 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+17:47 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: now u got 20
+17:47 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ^^
+17:47 [Info] [Better Chat] [Global] [Supporter] Kongen: yay :D
+17:48 [Info] [Better Chat] [Global] [Regular] SeeMS: :O
+17:48 [Info] [Better Chat] [Global] [Supporter] Kongen: allright cya xD
+17:48 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+17:57 [Info] [NTeleportation] Gubatrix teleported to SeeMS.
+17:58 [Info] [Better Chat] [Global] [Regular] SeeMS: XD
+17:58 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ?
+17:58 [Info] [Better Chat] [Global] [Regular] SeeMS: im on the garage
+17:58 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: lol
+17:58 [Info] [Better Chat] [Global] [Regular] SeeMS: with helic xd
+17:58 [Info] [Better Chat] [Global] [Regular] SeeMS: not on it but near
+17:58 [Info] [Better Chat] [Global] [Regular] SeeMS: xD
+17:58 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: land here and come to the front
+17:59 [Info] [Better Chat] [Global] [Regular] SeeMS: no no
+17:59 [Info] [Better Chat] [Global] [Regular] SeeMS: will die xd
+17:59 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i can give you the car xd
+17:59 [Info] [Better Chat] [Global] [Regular] SeeMS: oh ok
+17:59 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: but land behind garage
+17:59 [Info] [Better Chat] [Global] [Regular] SeeMS: OK XD
+17:59 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: not to front
+17:59 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: because of sam site
+17:59 [Info] [Better Chat] [Global] [Regular] SeeMS: YES
+18:00 [Info] [Better Chat] [Global] [Regular] SeeMS: yes *
+18:00 [Info] [Better Chat] [Global] [Regular] SeeMS: XD
+18:01 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: here is the car
+18:01 [Info] [Better Chat] [Global] [Regular] SeeMS: oh
+18:01 [Info] [Better Chat] [Global] [Regular] SeeMS: how many scrap
+18:01 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: nothing because of your heli
+18:01 [Info] [Better Chat] [Global] [Regular] SeeMS: let me watch
+18:01 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: here is the key
+18:01 [Info] [Better Chat] [Global] [Regular] SeeMS: oh yes
+18:01 [Info] [Better Chat] [Global] [Regular] SeeMS: that TRUE
+18:01 [Info] [Better Chat] [Global] [Regular] SeeMS: XD
+18:01 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: two keys
+18:02 [Info] [Better Chat] [Global] [Regular] SeeMS: lets try this xd
+18:03 [Info] [Better Chat] [Global] [Regular] SeeMS: holy shit
+18:03 [Info] [Better Chat] [Global] [Regular] SeeMS: so fast
+18:03 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: no no only 75kW
+18:03 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: wait i will drive out xd
+18:03 [Info] [Better Chat] [Global] [Regular] SeeMS: XDD
+18:03 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: do u have a licence
+18:03 [Info] [Better Chat] [Global] [Regular] SeeMS: good idea xd
+18:03 [Info] [Better Chat] [Global] [Regular] SeeMS: no i dont xd
+18:04 [Info] [Better Chat] [Global] [Regular] SeeMS: cya
+18:04 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes
+18:04 [Info] [Better Chat] [Global] [Regular] SeeMS: hope i will not die
+18:04 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+18:04 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: its not that fast
+18:04 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: xd
+18:04 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: my racing car is actually like 3,5x faster
+18:04 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: you have to park the car in cupboard range to not decay
+18:05 [Info] [Better Chat] [Global] [Regular] SeeMS: oh ok XD
+18:05 [Info] [Better Chat] [Team] [Regular] SeeMS: holy shit
+18:05 [Info] [Better Chat] [Global] [Regular] SeeMS: shit this is nice
+18:05 [Info] [Better Chat] [Global] [Regular] SeeMS: can put lot on lit
+18:05 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes
+18:05 [Info] [Better Chat] [Global] [Regular] SeeMS: oh ye xD
+18:06 [Info] [Kill Feed] [06/18/30/01/2021] SeeMS                                                         generic                        2.2m                           Stag
+18:06 [Info] [Better Chat] [Global] [Regular] SeeMS: XDDDDD
+18:06 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+18:06 [Info] [Better Chat] [Global] [Regular] SeeMS: i killed animal with my car xd
+18:06 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: lol
+18:07 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: xd
+18:15 [Info] [Better Chat] [Global] [Regular] SeeMS: great XD
+18:15 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: nice
+18:15 [Info] [Better Chat] [Global] [Regular] SeeMS: very nice car xD
+18:15 [Info] [Better Chat] [Global] [Regular] SeeMS: you have another ?
+18:15 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: do u have a garage for this nice boy
+18:15 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: not at the moment, my garage maybe get some in the next days
+18:15 [Info] [Better Chat] [Global] [Regular] SeeMS: not for the moment XD
+18:15 [Info] [Better Chat] [Global] [Regular] SeeMS: but i put it in safe place
+18:16 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: good
+18:16 [Info] [Better Chat] [Global] [Regular] SeeMS: in my house xD
+18:16 [Info] [Better Chat] [Global] [Regular] SeeMS: its a palace, bigger than the garage
+18:16 [Info] [Better Chat] [Global] [Regular] SeeMS: :O XDD
+18:16 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: chill
+18:16 [Info] [Better Chat] [Global] [Regular] SeeMS: XD
+18:16 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: one tank and your house is down^^
+18:16 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xD
+18:16 [Info] [Better Chat] [Global] [Regular] SeeMS: XDDD
+18:16 [Info] [Better Chat] [Global] [Regular] SeeMS: nooo tok me hours XD
+18:17 [Info] [Better Chat] [Global] [Regular] SeeMS: we can buy tank ? xd
+18:17 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: no i wont raid you bro
+18:17 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: not at the moment but if we will have the custom map then maybe xd
+18:17 [Info] [NTeleportation] Gubatrix teleported to Admiral Doge.
+18:17 [Info] [Better Chat] [Global] [Regular] SeeMS: Xd
+18:20 [Info] [Better Chat] [Global] [Regular] SeeMS: hm if i put my stuff inside and the car explode
+18:20 [Info] [Better Chat] [Global] [Regular] SeeMS: i lost the stuff?
+18:20 [Info] [Better Chat] [Global] [Regular] SeeMS: xd
+18:20 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: it will spawn outside the car xd
+18:21 [Info] [Better Chat] [Global] [Regular] SeeMS: ohh ok XD
+18:21 [Info] [NTeleportation] Gubatrix teleported to SeeMS.
+18:21 [Info] [NTeleportation] Gubatrix teleported to Admiral Doge.
+18:22 [Info] [Welcomer] • chitzo has joined the server from Germany.
+18:22 [Info] [Better Chat] [Global] [Regular] SeeMS: hi chitzo
+18:29 [Info] [Kill Feed] [29/18/30/01/2021] [DMA] Admiral Doge                                            cold                                                          [DMA] Admiral Doge
+18:32 [Info] [Kill Feed] [32/18/30/01/2021] [DMA] Gubatrix                                                cold                                                          [DMA] Gubatrix
+18:39 [Info] [PlayerRankings] chitzo has been ranked up to regular
+18:46 [Info] [Better Chat] [Global] [Regular] SeeMS: oh shit xd
+18:47 [Info] [Better Chat] [Global] [Regular] SeeMS: i put all the key on the cars
+18:47 [Info] [Better Chat] [Global] [Regular] SeeMS: and i can't open the coffer now xd
+18:49 [Info] [NTeleportation] Admiral Doge teleported to SeeMS.
+18:49 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: i can open it
+18:49 [Info] [Better Chat] [Global] [Regular] SeeMS: me i cant XD
+18:50 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: do you need both keys
+18:50 [Info] [Better Chat] [Global] [Regular] SeeMS: yes XD
+18:50 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: I tp to you
+18:50 [Info] [Better Chat] [Global] [Regular] SeeMS: ty XD
+18:50 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: np
+18:50 [Info] [Better Chat] [Global] [Regular] SeeMS: look at this palace xD
+18:50 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: its very big here
+18:51 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: xd
+18:51 [Info] [Better Chat] [Global] [Regular] SeeMS: XD
+18:51 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: cya
+18:52 [Info] [Better Chat] [Global] [Regular] SeeMS: cya <​33
+18:59 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+19:00 [Info] [Better Chat] [Team] [Supporter] Kongen: yoyo
+19:00 [Info] [Better Chat] [Global] [Supporter] Kongen: hey guys
+19:00 [Info] [Better Chat] [Team] [Regular] SeeMS: hii
+19:00 [Info] [Better Chat] [Team] [Supporter] Kongen: sup?
+19:00 [Info] [Better Chat] [Team] [Regular] SeeMS: i buyed a car xd
+19:00 [Info] [Better Chat] [Team] [Supporter] Kongen: awsome
+19:00 [Info] [Better Chat] [Team] [Regular] SeeMS: fine and u
+19:00 [Info] [Better Chat] [Team] [Regular] SeeMS: u have 3 box on the car
+19:00 [Info] [Better Chat] [Team] [Supporter] Kongen: Im good just done eating xD
+19:00 [Info] [Better Chat] [Team] [Regular] SeeMS: we *
+19:00 [Info] [Better Chat] [Team] [Supporter] Kongen: damn
+19:00 [Info] [Better Chat] [Team] [Regular] SeeMS: we can have a lot of loot xD
+19:01 [Info] [Better Chat] [Team] [Regular] SeeMS: fuk
+19:02 [Info] [Better Chat] [Team] [Supporter] Kongen: ?
+19:02 [Info] [Better Chat] [Team] [Regular] SeeMS: building problem xD
+19:02 [Info] [Better Chat] [Team] [Supporter] Kongen: again? xD
+19:02 [Info] [Better Chat] [Team] [Regular] SeeMS: ye little one xD
+19:02 [Info] [Better Chat] [Team] [Regular] SeeMS: wanna come to see? xd
+19:02 [Info] [Better Chat] [Team] [Supporter] Kongen: need help? xD
+19:02 [Info] [Better Chat] [Team] [Regular] SeeMS: ye come xd
+19:02 [Info] [Better Chat] [Team] [Supporter] Kongen: let me do something first
+19:02 [Info] [Better Chat] [Team] [Regular] SeeMS: k XD
+19:06 [Info] [Better Chat] [Team] [Supporter] Kongen: can I tp?
+19:06 [Info] [Better Chat] [Team] [Regular] SeeMS: y
+19:07 [Info] [Better Chat] [Team] [Regular] SeeMS: there
+19:07 [Info] [Better Chat] [Team] [Regular] SeeMS: xD
+19:07 [Info] [Better Chat] [Team] [Regular] SeeMS: i want to close it xD
+19:07 [Info] [Better Chat] [Team] [Supporter] Kongen: remove
+19:07 [Info] [Better Chat] [Team] [Supporter] Kongen: thoses two
+19:08 [Info] [Better Chat] [Team] [Regular] SeeMS: shit
+19:08 [Info] [Better Chat] [Team] [Regular] SeeMS: cant cuz im raid blocked
+19:08 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+19:08 [Info] [Better Chat] [Team] [Regular] SeeMS: idk why xd
+19:08 [Info] [Better Chat] [Team] [Regular] SeeMS: come
+19:08 [Info] [Better Chat] [Team] [Regular] SeeMS: or first
+19:08 [Info] [Better Chat] [Team] [Regular] SeeMS: take this
+19:09 [Info] [Better Chat] [Team] [Regular] SeeMS: i removed turret here
+19:09 [Info] [Better Chat] [Team] [Regular] SeeMS: all is inside
+19:09 [Info] [Better Chat] [Team] [Regular] SeeMS: xd
+19:09 [Info] [Better Chat] [Team] [Supporter] Kongen: I see
+19:10 [Info] [Better Chat] [Team] [Regular] SeeMS: lok at those box xd
+19:10 [Info] [Better Chat] [Team] [Supporter] Kongen: damn
+19:10 [Info] [Better Chat] [Team] [Regular] SeeMS: XDD
+19:10 [Info] [Better Chat] [Team] [Regular] SeeMS: drive for test XDD
+19:10 [Info] [Better Chat] [Team] [Regular] SeeMS: XDDDDD
+19:11 [Info] [Better Chat] [Team] [Regular] SeeMS: XDDD
+19:11 [Info] [Better Chat] [Team] [Supporter] Kongen: lol
+19:11 [Info] [Better Chat] [Team] [Supporter] Kongen: bug?
+19:11 [Info] [Better Chat] [Team] [Regular] SeeMS: y
+19:11 [Info] [Better Chat] [Team] [Regular] SeeMS: pretty hard
+19:11 [Info] [Better Chat] [Team] [Regular] SeeMS: to drive xD
+19:12 [Info] [Better Chat] [Team] [Regular] SeeMS: a get it for free
+19:12 [Info] [Better Chat] [Team] [Supporter] Kongen: nice
+19:12 [Info] [Better Chat] [Team] [Supporter] Kongen: easy to drive
+19:12 [Info] [Better Chat] [Team] [Regular] SeeMS: cuz guba destroy our helic
+19:12 [Info] [Better Chat] [Team] [Regular] SeeMS: oh XD
+19:12 [Info] [Better Chat] [Team] [Supporter] Kongen: try
+19:13 [Info] [Better Chat] [Team] [Supporter] Kongen: smooth :D
+19:13 [Info] [Better Chat] [Team] [Regular] SeeMS: y XD
+19:13 [Info] [Better Chat] [Team] [Supporter] Kongen: can you put on thoses boxes or do you need a car key?
+19:14 [Info] [Better Chat] [Team] [Supporter] Kongen: put lock
+19:14 [Info] [Better Chat] [Team] [Regular] SeeMS: u need key
+19:14 [Info] [Better Chat] [Team] [Supporter] Kongen: I see
+19:14 [Info] [Better Chat] [Team] [Supporter] Kongen: thats kinda nice
+19:14 [Info] [Better Chat] [Team] [Regular] SeeMS: for loting y xD
+19:14 [Info] [Better Chat] [Team] [Supporter] Kongen: drive by
+19:14 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+19:14 [Info] [Better Chat] [Team] [Supporter] Kongen: road trip :D
+19:15 [Info] [Better Chat] [Team] [Regular] SeeMS: its nice on the road xD
+19:15 [Info] [Better Chat] [Team] [Regular] SeeMS: holy shit XD
+19:15 [Info] [NTeleportation] Gubatrix teleported to Admiral Doge.
+19:16 [Info] [Better Chat] [Team] [Regular] SeeMS: omg XD
+19:16 [Info] [Better Chat] [Team] [Supporter] Kongen: need gas
+19:17 [Info] [Better Chat] [Team] [Regular] SeeMS: have 10m on it
+19:17 [Info] [Better Chat] [Team] [Supporter] Kongen: did I hit you?
+19:17 [Info] [Better Chat] [Team] [Regular] SeeMS: y XD
+19:17 [Info] [Better Chat] [Team] [Supporter] Kongen: I see
+19:17 [Info] [Better Chat] [Team] [Regular] SeeMS: ive killed animal with
+19:17 [Info] [Better Chat] [Team] [Regular] SeeMS: the car
+19:17 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+19:17 [Info] [Better Chat] [Team] [Regular] SeeMS: XD
+19:17 [Info] [Better Chat] [Team] [Supporter] Kongen: why it say E?
+19:17 [Info] [Better Chat] [Team] [Regular] SeeMS: up xd
+19:17 [Info] [Better Chat] [Team] [Regular] SeeMS: think it bug
+19:18 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+19:18 [Info] [Better Chat] [Team] [Regular] SeeMS: one box for u one for me
+19:18 [Info] [Better Chat] [Team] [Regular] SeeMS: and one we shared XD
+19:19 [Info] [Better Chat] [Team] [Regular] SeeMS: shit u're good with the car xD
+19:19 [Info] [Better Chat] [Team] [Supporter] Kongen: you need to remove all the stuff from grates or they wont respawn
+19:20 [Info] [Better Chat] [Team] [Regular] SeeMS: we need to take it one by one xD
+19:22 [Info] [Better Chat] [Team] [Regular] SeeMS: XDD
+19:22 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+19:25 [Info] [Better Chat] [Team] [Supporter] Kongen: lets do oil rig xD
+19:25 [Info] [Better Chat] [Team] [Regular] SeeMS: XDD
+19:25 [Info] [Better Chat] [Team] [Regular] SeeMS: we will need helic for that xD
+19:26 [Info] [Better Chat] [Team] [Regular] SeeMS: my helic is on M5
+19:26 [Info] [Better Chat] [Team] [Supporter] Kongen: we buy one
+19:26 [Info] [Better Chat] [Team] [Regular] SeeMS: ok XD
+19:26 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i have one more storage car for u if u want
+19:26 [Info] [Better Chat] [Team] [Regular] SeeMS: go we dont care push xDDD
+19:26 [Info] [Better Chat] [Global] [Supporter] Kongen: cool
+19:26 [Info] [Better Chat] [Global] [Regular] SeeMS: nice
+19:26 [Info] [Better Chat] [Team] [Supporter] Kongen: I think this way is a stupid way xD
+19:26 [Info] [Better Chat] [Global] [Regular] SeeMS: the same one?
+19:27 [Info] [Better Chat] [Team] [Regular] SeeMS: XD
+19:27 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: nearly the same and also 54 slots
+19:27 [Info] [Better Chat] [Team] [Regular] SeeMS: put F
+19:27 [Info] [Better Chat] [Team] [Regular] SeeMS: XD
+19:27 [Info] [Better Chat] [Team] [Regular] SeeMS: click on F xDD
+19:27 [Info] [Better Chat] [Global] [Regular] SeeMS: awesome xD
+19:27 [Info] [Better Chat] [Team] [Supporter] Kongen: shit
+19:27 [Info] [Better Chat] [Team] [Regular] SeeMS: oh shit XDDDD
+19:28 [Info] [Better Chat] [Team] [Regular] SeeMS: XDDDDD
+19:29 [Info] [Better Chat] [Team] [Supporter] Kongen: wtf
+19:29 [Info] [Better Chat] [Team] [Regular] SeeMS: damnn XDDDDD
+19:29 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: should i bring the car to u?
+19:29 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: where are u?
+19:29 [Info] [Better Chat] [Global] [Regular] SeeMS: i will come with helic
+19:29 [Info] [Better Chat] [Global] [Supporter] Kongen: diving like crazy
+19:30 [Info] [Better Chat] [Global] [Regular] SeeMS: XD
+19:30 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: watch out for the sam site
+19:30 [Info] [NTeleportation] Gubatrix teleported to Kongen.
+19:30 [Info] [Better Chat] [Global] [Regular] SeeMS: y i got experience with the sam site now
+19:30 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: good
+19:30 [Info] [Better Chat] [Global] [Regular] SeeMS: got crashed by yours and kongen
+19:30 [Info] [Better Chat] [Global] [Supporter] Kongen: fk
+19:30 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: u can just drive along the road to our base so it would be easy
+19:30 [Info] [Better Chat] [Team] [Regular] SeeMS: XDDDD
+19:31 [Info] [Better Chat] [Global] [Supporter] Kongen: wrong button
+19:31 [Info] [Better Chat] [Global] [Regular] SeeMS: yes ;D
+19:31 [Info] [Better Chat] [Team] [Regular] SeeMS: XDDDD
+19:31 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: we also provide repair service at our garage^^
+19:31 [Info] [Better Chat] [Global] [Supporter] Kongen: damn its hard around here
+19:31 [Info] [Better Chat] [Global] [Regular] SeeMS: we will come soon for repair yes ^^ xd
+19:31 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: if we will make the custom map i will look for it that the map will have many roads and not like on this random map^^
+19:31 [Info] [Better Chat] [Team] [Regular] SeeMS: XDD
+19:31 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xD
+19:32 [Info] [Better Chat] [Team] [Regular] SeeMS: LOL
+19:32 [Info] [Better Chat] [Team] [Regular] SeeMS: you're loting with the car
+19:32 [Info] [Better Chat] [Team] [Regular] SeeMS: hahahahaha XD
+19:32 [Info] [Better Chat] [Team] [Supporter] Kongen: wtf
+19:32 [Info] [Better Chat] [Team] [Regular] SeeMS: XDDDD
+19:32 [Info] [Better Chat] [Team] [Regular] SeeMS: lets lot wood XDDDDD
+19:32 [Info] [Better Chat] [Team] [Regular] SeeMS: hahaha
+19:32 [Info] [Better Chat] [Global] [Regular] chitzo: hello
+19:32 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: hello bro
+19:32 [Info] [Better Chat] [Team] [Regular] SeeMS: behind
+19:33 [Info] [Better Chat] [Global] [Regular] SeeMS: hi
+19:33 [Info] [Better Chat] [Global] [Regular] SeeMS: come XD
+19:33 [Info] [Better Chat] [Global] [Regular] SeeMS: with the car
+19:33 [Info] [Better Chat] [Global] [Regular] SeeMS: XD
+19:33 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ?
+19:33 [Info] [Better Chat] [Global] [Regular] chitzo: guys who raided my house today?
+19:33 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: idk @chitzo
+19:33 [Info] [Better Chat] [Global] [Regular] SeeMS: i speak to kongen XD
+19:33 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: oh xd
+19:34 [Info] Group 'pro' already exists
+19:34 [Info] Groups:
+default, admin, supporters, moderators, vip, regular, player, pro
+19:34 [Info] [Better Chat] [Global] [Regular] SeeMS: wait
+19:34 [Info] [Better Chat] [Global] [Supporter] Kongen: oh no
+19:34 [Info] [Better Chat] [Team] [Regular] SeeMS: dont worry XD
+19:34 [Info] [Better Chat] [Team] [Regular] SeeMS: wait xd
+19:34 [Info] [Better Chat] [Global] [Regular] chitzo: was you gubatrix?
+19:35 [Info] [Better Chat] [Team] [Regular] SeeMS: k come XD
+19:35 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: no @chitzo
+19:35 [Info] [Better Chat] [Team] [Regular] SeeMS: look to nice xD
+19:35 [Info] [NTeleportation] Admiral Doge teleported to chitzo.
+19:36 [Info] [Better Chat] [Team] [Regular] SeeMS: XDDD
+19:36 [Info] [Better Chat] [Global] [Supporter] Kongen: where do you live chitzo? xD
+19:36 [Info] [Better Chat] [Team] [Supporter] Kongen: idd it does
+19:36 [Info] [Better Chat] [Global] [Regular] SeeMS: so we come raid u ^^
+19:36 [Info] [Better Chat] [Global] [Supporter] Kongen: shhhh ^^
+19:36 [Info] [Better Chat] [Global] [Regular] chitzo: i cant go in or out of my house :(
+19:36 [Info] [Better Chat] [Global] [Regular] SeeMS: xdddd
+19:36 [Info] [Better Chat] [Global] [Supporter] Kongen: why not?
+19:36 [Info] [Better Chat] [Global] [Regular] SeeMS: oh
+19:37 [Info] [Better Chat] [Team] [Supporter] Kongen: look the dmg on one ride xD
+19:37 [Info] [Better Chat] [Team] [Regular] SeeMS: fuuuk XD
+19:37 [Info] [Better Chat] [Team] [Regular] SeeMS: still better cuz if it was me driving
+19:37 [Info] [Better Chat] [Team] [Regular] SeeMS: believe me
+19:37 [Info] [Better Chat] [Team] [Regular] SeeMS: will be worst xd
+19:37 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+19:37 [Info] [Better Chat] [Team] [Regular] SeeMS: im good with helic but not car xd
+19:37 [Info] [NTeleportation] Gubatrix teleported to Kongen.
+19:38 [Info] [Better Chat] [Team] [Supporter] Kongen: ya I know
+19:38 [Info] [Better Chat] [Team] [Regular] SeeMS: no with this one xd
+19:38 [Info] [Better Chat] [Team] [Supporter] Kongen: lets do this oil rig I tp to base for cards
+19:38 [Info] [Better Chat] [Global] [Regular] chitzo: who raided me put a new door with code
+19:38 [Info] [Better Chat] [Team] [Regular] SeeMS: k xD
+19:38 [Info] [Better Chat] [Team] [Regular] SeeMS: i have
+19:38 [Info] [Better Chat] [Team] [Regular] SeeMS: i think
+19:38 [Info] [Better Chat] [Team] [Supporter] Kongen: blue and red?
+19:38 [Info] [Better Chat] [Team] [Regular] SeeMS: y
+19:38 [Info] [Better Chat] [Team] [Regular] SeeMS: i bring that
+19:38 [Info] [Better Chat] [Team] [Regular] SeeMS: take a look here
+19:38 [Info] [Better Chat] [Global] [Supporter] Kongen: but you have tc in your base?
+19:39 [Info] [Better Chat] [Team] [Regular] SeeMS: but keep distance
+19:39 [Info] [Better Chat] [Team] [Regular] SeeMS: y
+19:39 [Info] [Better Chat] [Global] [Supporter] Kongen: if you have you can just use ./remove command
+19:39 [Info] [Better Chat] [Global] [Regular] chitzo: no
+19:39 [Info] [Better Chat] [Global] [Supporter] Kongen: why not?
+19:39 [Info] [Better Chat] [Global] [Supporter] Kongen: you need building privilege for remove things in bases
+19:39 [Info] BetterChat and BetterChatMentions were compiled successfully in 2295ms
+19:39 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+19:39 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+19:39 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+19:39 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+19:39 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+19:39 [Info] PlayerRankings was compiled successfully in 207ms
+19:39 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+19:39 [Info] [PlayerRankings] SeeMS has been ranked up to pro
+19:39 [Info] [PlayerRankings] Kongen has been ranked up to pro
+19:39 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+19:40 [Info] [Better Chat] [Global] [Pro] SeeMS: oh im pro now
+19:40 [Info] [Better Chat] [Global] [Pro] SeeMS: muahaha
+19:40 [Info] [Better Chat] [Global] [Supporter] Kongen: ya same here
+19:40 [Info] [Better Chat] [Global] [Pro] SeeMS: XD
+19:40 [Info] [NTeleportation] Gubatrix teleported to chitzo.
+19:40 [Info] [Better Chat] [Team] [Pro] SeeMS: fuk
+19:41 [Info] [Better Chat] [Global] [Regular] chitzo: i try to change and it gave me currente
+19:41 [Info] [Better Chat] [Team] [Pro] SeeMS: ive blue and green
+19:41 [Info] [Better Chat] [Team] [Pro] SeeMS: not the red one ..
+19:41 [Info] [Better Chat] [Global] [Supporter] Kongen: I tp then
+19:41 [Info] [Better Chat] [Global] [Regular] chitzo: current
+19:41 [Info] [Better Chat] [Team] [Pro] SeeMS: i should have idk why xd
+19:41 [Info] [Better Chat] [Team] [Supporter] Kongen: damn
+19:41 [Info] [Better Chat] [Global] [Supporter] Kongen: weird
+19:41 [Info] AdminHammer was compiled successfully in 1949ms
+19:41 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+19:41 [Info] [Better Chat] [Global] [Supporter] Kongen: I cant tp
+19:41 [Info] [Better Chat] [Team] [Pro] SeeMS: fuk xD
+19:41 [Info] Group 'admn' doesn't exist
+19:41 [Info] [Better Chat] [Team] [Supporter] Kongen: I need to be away from your base I guess
+19:41 [Info] Group 'admin' granted permission 'adminhammer.allow'
+19:42 [Info] [Better Chat] [Global] [Regular] chitzo: guys now its here im scare
+19:42 [Info] [Better Chat] [Team] [Pro] SeeMS: oh ok xD
+19:42 [Info] [Better Chat] [Global] [Regular] chitzo: im scared
+19:42 [Info] [Better Chat] [Global] [Supporter] Kongen: of what? xD
+19:42 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:42 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:42 [Info] [Better Chat] [Global] [Regular] chitzo: hahaha
+19:42 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561199130245866
+19:42 [Info] [AdminHammer] [AdminMode] Admiral Doge [76561198121059907] used AdminHammer on a wall owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-520.8, 39.6, -253.8)
+19:42 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:42 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:42 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:42 [Info] [AdminHammer] [AdminMode] Admiral Doge [76561198121059907] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:42 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+19:42 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:42 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:42 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:42 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:42 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:42 [Info] [AdminHammer] [AdminMode] Admiral Doge [76561198121059907] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:42 [Info] [Admin Chat] Kongen: I cant use my home tp
+19:42 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:42 [Info] [AdminHammer] [AdminMode] Admiral Doge [76561198121059907] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:43 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: bro i looked for it, its literally your door and your lock, nobody raided u @chitzo
+19:43 [Info] [Admin Chat] Gubatrix: lol why?
+19:43 [Info] [Admin Chat] Gubatrix: oh wait a sec
+19:43 [Info] [Admin Chat] Kongen: kk
+19:43 [Info] [Better Chat] [Team] [Pro] SeeMS: xd
+19:43 [Info] [AdminHammer] This wall.doorway is owned by www.steamcommunity.com/profiles/76561199130245866
+19:43 [Info] [AdminHammer] [AdminMode] Admiral Doge [76561198121059907] used AdminHammer on a wall.doorway owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:43 [Info] Group 'pro' parent changed to 'regular'
+19:43 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:43 [Info] [AdminHammer] [AdminMode] Admiral Doge [76561198121059907] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:43 [Info] [Admin Chat] Gubatrix: now?
+19:43 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:43 [Info] [AdminHammer] [AdminMode] Admiral Doge [76561198121059907] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:43 [Info] [Admin Chat] Kongen: now it works :)
+19:43 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:43 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:43 [Info] [Admin Chat] Gubatrix: good
+19:43 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:43 [Info] [AdminHammer] [AdminMode] Admiral Doge [76561198121059907] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:43 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:43 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-525.4, 42.6, -252.7)
+19:44 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:44 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:44 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:44 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:44 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:44 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:44 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:44 [Info] [AdminHammer] This wall.doorway is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a wall.doorway owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:44 [Info] [AdminHammer] This wall.doorway is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a wall.doorway owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:44 [Info] [AdminHammer] This wall.doorway is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a wall.doorway owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:44 [Info] [Better Chat] [Team] [Pro] SeeMS: i wan to buy a bolt xd
+19:44 [Info] [Better Chat] [Team] [Pro] SeeMS: will see how
+19:44 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: should i delete your door? @chitzo
+19:44 [Info] [Better Chat] [Team] [Supporter] Kongen: I got one
+19:44 [Info] [Better Chat] [Team] [Pro] SeeMS: oh
+19:44 [Info] [Better Chat] [Team] [Pro] SeeMS: but anyway
+19:44 [Info] [AdminHammer] 1. 76561199130245866 <color=green> chitzo </color> (76561199130245866) 
+
+19:44 [Info] [AdminHammer] This box.wooden.large is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] This box.wooden.large is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a box.wooden.large owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-527.9, 44.1, -253.8)
+19:44 [Info] [Better Chat] [Team] [Pro] SeeMS: i dont need
+19:44 [Info] [Better Chat] [Team] [Pro] SeeMS: cuz i drive the helic
+19:44 [Info] [Better Chat] [Team] [Supporter] Kongen: oh flying right xD
+19:44 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:44 [Info] [AdminHammer] [AdminMode] Admiral Doge [76561198121059907] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-524.9, 42.6, -254.8)
+19:44 [Info] [Better Chat] [Global] [Regular] chitzo: try rob a delicate defenseless lady hahaha
+19:45 [Info] [Better Chat] [Global] [Supporter] Kongen: that sounds bad tho
+19:45 [Info] [PrivateMessages] [PM]Gubatrix->Admiral Doge:hallo123
+19:45 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Admiral Doge: should i say your pw :D
+19:46 [Info] [AdminHammer] This woodbox_deployed is owned by www.steamcommunity.com/profiles/76561199130245866
+19:46 [Info] [AdminHammer] This woodbox_deployed is owned by www.steamcommunity.com/profiles/76561199130245866
+19:46 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a woodbox_deployed owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-525.9, 42.7, -249.7)
+19:46 [Info] [Admin Chat] [AdminMode] Admiral Doge: chitzo
+19:46 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Admiral Doge: can you go out or not @ chitzo
+19:46 [Info] [Admin Chat] Gubatrix: chi
+19:47 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: .@chitzo
+19:47 [Info] [Better Chat] [Global] [Regular] chitzo: are you here?
+19:47 [Info] [Better Chat] [Global] [Regular] chitzo: its you?
+19:47 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i'm asking you again, is it now okay?
+19:47 [Info] [Better Chat] [Team] [Supporter] Kongen: after oil I fix your wall :)
+19:48 [Info] [Better Chat] [Team] [Pro] SeeMS: oh ye XXD
+19:48 [Info] [Better Chat] [Team] [Supporter] Kongen: forgot about it
+19:48 [Info] [Better Chat] [Team] [Supporter] Kongen: got heli or should I tp?
+19:48 [Info] [Better Chat] [Team] [Pro] SeeMS: my heli still on m5
+19:48 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:48 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-528.4, 39.6, -249.0)
+19:48 [Info] [Better Chat] [Team] [Pro] SeeMS: in the garage xd
+19:48 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561198068052289
+19:48 [Info] [AdminHammer] [AdminMode] Admiral Doge [76561198121059907] used AdminHammer on a door.hinged.metal owned by <color=green> SeeMS </color> (76561198068052289) [76561198068052289] located at (-533.5, 39.6, -245.9)
+19:48 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561198068052289
+19:48 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> SeeMS </color> (76561198068052289) [76561198068052289] located at (-533.5, 39.6, -245.9)
+19:48 [Info] [Better Chat] [Team] [Pro] SeeMS: i can tp
+19:48 [Info] [Better Chat] [Team] [Pro] SeeMS: and buy helic
+19:48 [Info] [Better Chat] [Team] [Supporter] Kongen: oh k
+19:49 [Info] [Better Chat] [Team] [Pro] SeeMS: k lets do that
+19:49 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Admiral Doge: now you can
+19:49 [Info] [Better Chat] [Global] [Regular] chitzo: thanks your so sweet
+19:49 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: in your ivnentory you got a new door
+19:49 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Admiral Doge: you have a new door in you inventory
+19:49 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: haha @SeeMS you little bastard xd
+19:49 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Admiral Doge: haha @SeeMS
+19:49 [Info] [Better Chat] [Global] [Pro] SeeMS: XDDDDD
+19:49 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: how old are u @chitzo
+19:50 [Info] [Better Chat] [Global] [Pro] SeeMS: sup xd
+19:50 [Info] [AdminHammer] This wall.doorway is owned by www.steamcommunity.com/profiles/76561199130245866
+19:50 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a wall.doorway owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-533.5, 39.6, -245.9)
+19:50 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: we know what you did there @SeeMS
+19:50 [Info] [AdminHammer] This door.hinged.toptier is owned by www.steamcommunity.com/profiles/76561199130245866
+19:50 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.toptier owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-533.5, 39.6, -245.9)
+19:50 [Info] [AdminHammer] This door.hinged.toptier is owned by www.steamcommunity.com/profiles/76561199130245866
+19:50 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.toptier owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-533.5, 39.6, -245.9)
+19:50 [Info] [Better Chat] [Global] [Pro] SeeMS: XDDDD
+19:50 [Info] [AdminHammer] This door.hinged.toptier is owned by www.steamcommunity.com/profiles/76561199130245866
+19:50 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.toptier owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-533.5, 39.6, -245.9)
+19:50 [Info] [AdminHammer] This door.hinged.toptier is owned by www.steamcommunity.com/profiles/76561199130245866
+19:50 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.toptier owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-533.5, 39.6, -245.9)
+19:50 [Info] [Better Chat] [Global] [Supporter] Kongen: they know what you did last summer? xD
+19:50 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: actually
+19:50 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: also know what u did this summer
+19:50 [Info] [Better Chat] [Global] [Regular] chitzo: 32 haha
+19:50 [Info] [AdminHammer] This door.hinged.metal is owned by www.steamcommunity.com/profiles/76561199130245866
+19:50 [Info] [AdminHammer] Gubatrix [76561198070936229] used AdminHammer on a door.hinged.metal owned by <color=green> chitzo </color> (76561199130245866) [76561199130245866] located at (-531.0, 39.6, -247.5)
+19:50 [Info] [Better Chat] [Global] [Supporter] Kongen: oh shit
+19:50 [Info] [Better Chat] [Global] [Pro] SeeMS: XDDDDDDD
+19:50 [Info] [Better Chat] [Global] [Pro] SeeMS: how u know XD
+19:51 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: because you raided chitzo xdd @SeeMS
+19:51 [Info] [Better Chat] [Global] [Supporter] Kongen: bad SeeMS :D
+19:51 [Info] [Better Chat] [Global] [Pro] SeeMS: XDDDD
+19:51 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+19:51 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: xd
+19:51 [Info] [Better Chat] [Global] [Pro] SeeMS: i did nothing to u chiitzo
+19:51 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+19:51 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: why u guys dont have a clan?
+19:51 [Info] [Better Chat] [Global] [Supporter] Kongen: we have
+19:52 [Info] [Better Chat] [Global] [Pro] SeeMS: they dont know about what u think
+19:52 [Info] [Better Chat] [Global] [Supporter] Kongen: we called "Bad Boys"
+19:52 [Info] [Better Chat] [Global] [Pro] SeeMS: kongen
+19:52 [Info] [Better Chat] [Global] [Pro] SeeMS: stil a secret
+19:52 [Info] [Better Chat] [Global] [Pro] SeeMS: hahaha xD
+19:52 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+19:52 [Info] [Better Chat] [Global] [Supporter] Kongen: gogo we need that heli xD
+19:52 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: but with /clan you can also have a cool clantag^^
+19:52 [Info] [Better Chat] [Team] [Pro] SeeMS: ive to toke my weapon now
+19:52 [Info] [Better Chat] [Team] [Supporter] Kongen: allright
+19:52 [Info] [NTeleportation] Gubatrix teleported to Kongen.
+19:52 [Info] [NTeleportation] Admiral Doge teleported to Kongen.
+19:53 [Info] [Better Chat] [Team] [Supporter] Kongen: I need food ingame
+19:53 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: so you dont wanna have my second car?
+19:53 [Info] [Better Chat] [Team] [Pro] SeeMS: i wan it
+19:53 [Info] [Better Chat] [Global] [Pro] SeeMS: i wan it
+19:53 [Info] [Better Chat] [Global] [Pro] SeeMS: but we will do the oil with kongen
+19:53 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: homos
+19:53 [Info] [Better Chat] [Global] [Pro] SeeMS: so after that i would like to try
+19:53 [Info] [Better Chat] [Global] [Pro] SeeMS: u homo guba
+19:53 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: nice
+19:53 [Info] [Better Chat] [Global] [Pro] SeeMS: XD
+19:53 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: lol
+19:53 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+19:53 [Info] [Better Chat] [Global] [Supporter] Kongen: gaaaaaaaaaaaaaaaaaaaaaaay !!!
+19:53 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: noooo
+19:53 [Info] [Better Chat] [Global] [Pro] SeeMS: uuuuu this gay
+19:54 [Info] [Better Chat] [Global] [Pro] SeeMS: XD
+19:54 [Info] [Better Chat] [Global] [Pro] SeeMS: <​33
+19:54 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: dont eat so loud
+19:54 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+19:54 [Info] [Better Chat] [Global] [Regular] chitzo: i thought it was boomer hahaha
+19:54 [Info] [NTeleportation] Gubatrix teleported to Kongen.
+19:54 [Info] [Better Chat] [Global] [Pro] SeeMS: yes probably boomer
+19:54 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes i also think
+19:54 [Info] [Better Chat] [Global] [Pro] SeeMS: seeMS help u only <​3
+19:54 [Info] [Better Chat] [Global] [Pro] SeeMS: but ive already attacked boomer
+19:54 [Info] [Better Chat] [Global] [Regular] chitzo: sure?
+19:54 [Info] [Better Chat] [Global] [Pro] SeeMS: he dont have base anymore xd
+19:54 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes @SeeMS is a good guy, he will literally give ass for scrap
+19:55 [Info] [Better Chat] [Global] [Pro] SeeMS: oh shit
+19:55 [Info] [Better Chat] [Global] [Pro] SeeMS: XDDDD
+19:55 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+19:55 [Info] [Better Chat] [Global] [Supporter] Kongen: oh shit
+19:55 [Info] [Better Chat] [Global] [Pro] SeeMS: chitzo she is a woman
+19:55 [Info] [Better Chat] [Global] [Pro] SeeMS: so .. XD
+19:55 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes and she will fuck u with a dildo
+19:55 [Info] [Better Chat] [Global] [Pro] SeeMS: but i still dont give my ass
+19:55 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: good
+19:55 [Info] [Better Chat] [Global] [Pro] SeeMS: omg XDDD
+19:55 [Info] [Better Chat] [Global] [Pro] SeeMS: not true
+19:55 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: #HeteroBro
+19:55 [Info] [Better Chat] [Global] [Pro] SeeMS: dont trust him
+19:55 [Info] [Better Chat] [Global] [Regular] chitzo: omg
+19:56 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: be nice guys
+19:56 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: stfu @Admiral Doge
+19:56 [Info] [Better Chat] [Global] [Supporter] Kongen: lol
+19:56 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: u stfu
+19:56 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: no u
+19:56 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: no u
+19:56 [Info] [NTeleportation] Gubatrix teleported to chitzo.
+19:56 [Info] [Better Chat] [Global] [Pro] SeeMS: #guba_gay
+19:56 [Info] [Better Chat] [Global] [Pro] SeeMS: sound good
+19:56 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: oh okay
+19:56 [Info] [Better Chat] [Global] [Pro] SeeMS: XDDDD
+19:56 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: yes xd
+19:57 [Info] [Better Chat] [Team] [Pro] SeeMS: <​3
+19:57 [Info] [Better Chat] [Team] [Pro] SeeMS: well wait i tok my weapon
+19:57 [Info] [NTeleportation] Admiral Doge teleported to chitzo.
+19:57 [Info] [Better Chat] [Global] [Supporter] Kongen: if you like pina colada
+19:57 [Info] [Better Chat] [Global] [Supporter] Kongen: And gettin' caught in the rain
+19:57 [Info] [Better Chat] [Global] [Supporter] Kongen: lol
+19:57 [Info] [Better Chat] [Team] [Supporter] Kongen: :)
+19:57 [Info] [Better Chat] [Global] [Pro] SeeMS: shit
+19:58 [Info] [Better Chat] [Global] [Pro] SeeMS: dont need the guitar
+19:58 [Info] [Better Chat] [Global] [Pro] SeeMS: for raid
+19:58 [Info] [Better Chat] [Global] [Pro] SeeMS: wait
+19:58 [Info] [Better Chat] [Global] [Regular] chitzo: what are they going to do now?
+19:58 [Info] [Better Chat] [Global] [Supporter] Kongen: large oil rig :)
+19:58 [Info] [Better Chat] [Team] [Pro] SeeMS: well im ready
+19:58 [Info] [Better Chat] [Global] [Pro] SeeMS: shit the night
+19:58 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+19:58 [Info] [Better Chat] [Team] [Supporter] Kongen: same
+19:59 [Info] [Better Chat] [Global] [Pro] SeeMS: we will wait for the morning then
+19:59 [Info] [Better Chat] [Global] [Supporter] Kongen: ya fk night xD
+19:59 [Info] [NTeleportation] Gubatrix teleported to chitzo.
+19:59 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: wow all the fireworks
+19:59 [Info] [Better Chat] [Team] [Supporter] Kongen: where is schuttn?
+19:59 [Info] [Better Chat] [Team] [Pro] SeeMS: idk
+20:00 [Info] [Better Chat] [Team] [Supporter] Kongen: gogo
+20:00 [Info] [Better Chat] [Global] [Supporter] Kongen: <​3
+20:00 [Info] [Better Chat] [Team] [Pro] SeeMS: ye
+20:00 [Info] [Better Chat] [Team] [Pro] SeeMS: going to buy helic
+20:01 [Info] [Better Chat] [Global] [Supporter] Kongen: awsome
+20:01 [Info] [Kill Feed] [01/20/30/01/2021] sentry.bandit.static                                          bullet                         37.1m                          8001313
+20:01 [Info] [Better Chat] [Global] [Supporter] Kongen: there are scraps in the car
+20:01 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: youre scrap
+20:01 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+20:02 [Info] [Better Chat] [Team] [Pro] SeeMS: do u
+20:02 [Info] [Better Chat] [Global] [Pro] SeeMS: do u
+20:02 [Info] [Better Chat] [Global] [Pro] SeeMS: have a race car ? ;D
+20:02 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes
+20:02 [Info] [Better Chat] [Global] [Pro] SeeMS: how much
+20:02 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: hmm idk
+20:02 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: muuuch
+20:02 [Info] [Better Chat] [Global] [Pro] SeeMS: xdd
+20:02 [Info] [Kill Feed] [02/20/30/01/2021] sentry.scientist.static                                       bullet                         87.1m                          6237298
+20:03 [Info] [Better Chat] [Global] [Supporter] Kongen: dont let SeeMS drive xD
+20:03 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: actually
+20:03 [Info] [Better Chat] [Global] [Pro] SeeMS: xd
+20:03 [Info] [Better Chat] [Team] [Pro] SeeMS: coming
+20:03 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: yes xd
+20:03 [Info] [Better Chat] [Team] [Supporter] Kongen: kk
+20:03 [Info] [Better Chat] [Global] [Regular] chitzo: my first language is spanish but i can try to comunicate with you in english. Where are you?
+20:03 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i also can speak german
+20:03 [Info] [Better Chat] [Global] [Pro] SeeMS: i speak spanish
+20:03 [Info] [Better Chat] [Global] [Pro] SeeMS: but i know just the bad words ^^
+20:03 [Info] [Better Chat] [Global] [Regular] chitzo: en verdad?
+20:03 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: italian too ^^
+20:04 [Info] [Better Chat] [Global] [Supporter] Kongen: damn
+20:04 [Info] [Better Chat] [Global] [Regular] chitzo: hablas espanol?
+20:04 [Info] [Better Chat] [Global] [Pro] SeeMS: hola como esta
+20:04 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: si
+20:04 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: puego
+20:04 [Info] [Better Chat] [Global] [Pro] SeeMS: si senior
+20:04 [Info] [Better Chat] [Global] [Supporter] Kongen: someone didnt miss the school xD
+20:04 [Info] [Better Chat] [Global] [Regular] chitzo: bien y tu
+20:04 [Info] [Better Chat] [Global] [Regular] chitzo: jajaja
+20:04 [Info] [Better Chat] [Global] [Pro] SeeMS: bien bien
+20:04 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: bien
+20:04 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: bien
+20:04 [Info] [Better Chat] [Global] [Pro] SeeMS: i speak french too
+20:04 [Info] [Better Chat] [Global] [Supporter] Kongen: show off xD
+20:04 [Info] [Better Chat] [Global] [Regular] chitzo: donde estan y yo llego
+20:04 [Info] [Better Chat] [Global] [Pro] SeeMS: comment vous allez les amis ?
+20:05 [Info] [Better Chat] [Global] [Pro] SeeMS: xd
+20:05 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: bien
+20:05 [Info] [Better Chat] [Global] [Regular] chitzo: hahaha
+20:05 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: est tu
+20:05 [Info] [Better Chat] [Global] [Pro] SeeMS: je suis ?
+20:05 [Info] [Better Chat] [Global] [Pro] SeeMS: XD
+20:05 [Info] [Better Chat] [Global] [Pro] SeeMS: omg
+20:05 [Info] [Better Chat] [Global] [Pro] SeeMS: fail me xd
+20:05 [Info] [Better Chat] [Team] [Supporter] Kongen: quick xD
+20:05 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: oui oui je suis ami
+20:05 [Info] [Better Chat] [Global] [Pro] SeeMS: ups wrong chat xd
+20:05 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: qu´est ce que tu vous dire mon frere
+20:05 [Info] [Better Chat] [Global] [Pro] SeeMS: tu es un bon ami ?
+20:06 [Info] [Better Chat] [Global] [Pro] SeeMS: XDDD
+20:06 [Info] [Better Chat] [Global] [Pro] SeeMS: shit
+20:06 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: oui
+20:06 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: oui je suis un bon ami
+20:06 [Info] [Better Chat] [Global] [Pro] SeeMS: RIP french langue
+20:06 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: i can speak 5 languages
+20:06 [Info] [Better Chat] [Global] [Regular] chitzo: tell me your coordinates ?
+20:06 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i can speak 7
+20:06 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: M5
+20:06 [Info] [Better Chat] [Global] [Supporter] Kongen: I speak 2 xD
+20:06 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+20:06 [Info] [Better Chat] [Team] [Pro] SeeMS: where we go
+20:06 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: xd
+20:06 [Info] [Better Chat] [Global] [Regular] chitzo: ok im going there
+20:06 [Info] [Better Chat] [Team] [Pro] SeeMS: i mean wich on
+20:07 [Info] [Better Chat] [Global] [Supporter] Kongen: large oil rig
+20:07 [Info] [Better Chat] [Team] [Pro] SeeMS: this one?
+20:07 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i also have now a very small full armored vehicle
+20:07 [Info] [Better Chat] [Global] [Supporter] Kongen: nice
+20:07 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: with 95kW
+20:07 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: your dick is very small
+20:07 [Info] [Better Chat] [Global] [Supporter] Kongen: might be something for SeeMS
+20:07 [Info] [Better Chat] [Global] [Supporter] Kongen: that mormored car
+20:07 [Info] [Better Chat] [Team] [Pro] SeeMS: yes
+20:08 [Info] [Better Chat] [Team] [Pro] SeeMS: the ouioui cars
+20:08 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:09 [Info] [Kill Feed] [09/20/30/01/2021] Kongen                         Arm                            rifle.bolt                     143.0m                         282173
+20:10 [Info] [Better Chat] [Team] [Supporter] Kongen: wtf
+20:10 [Info] [Better Chat] [Team] [Pro] SeeMS: xD
+20:10 [Info] [Kill Feed] [10/20/30/01/2021] Kongen                         Head                           rifle.bolt                     183.5m                         1345021
+20:10 [Info] [Kill Feed] [10/20/30/01/2021] Kongen                         Hip                            rifle.bolt                     195.7m                         5643158
+20:11 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: so no cars for you?
+20:11 [Info] [Better Chat] [Global] [Pro] SeeMS: car for me yes i wan it
+20:11 [Info] [Better Chat] [Global] [Pro] SeeMS: we will come with kongen
+20:11 [Info] [Better Chat] [Global] [Pro] SeeMS: to take it
+20:11 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: good
+20:11 [Info] [Better Chat] [Global] [Pro] SeeMS: after our operation
+20:11 [Info] [Better Chat] [Global] [Pro] SeeMS: ;D
+20:12 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: my garage is closing at 12 AM ingame time
+20:12 [Info] [Better Chat] [Team] [Pro] SeeMS: on the left some one
+20:12 [Info] [Better Chat] [Team] [Supporter] Kongen: wtf
+20:12 [Info] [Better Chat] [Team] [Supporter] Kongen: good Im not a sniper irl xD
+20:12 [Info] [Better Chat] [Team] [Pro] SeeMS: xdd
+20:12 [Info] [Kill Feed] [12/20/30/01/2021] Kongen                         Head                           rifle.bolt                     139.7m                         524326
+20:13 [Info] [Kill Feed] [13/20/30/01/2021] Kongen                         Head                           rifle.bolt                     133.1m                         1765328
+20:13 [Info] [NTeleportation] Gubatrix teleported to chitzo.
+20:13 [Info] [NTeleportation] Gubatrix teleported to Kongen.
+20:13 [Info] [Kill Feed] [13/20/30/01/2021] Kongen                         Arm                            rifle.bolt                     110.1m                         9092466
+20:13 [Info] [Kill Feed] [13/20/30/01/2021] Kongen                         Head                           rifle.bolt                     97.7m                          5128904
+20:14 [Info] [NTeleportation] Admiral Doge teleported to Kongen.
+20:14 [Info] [Kill Feed] [14/20/30/01/2021] Kongen                         Head                           rifle.bolt                     99.8m                          8740471
+20:14 [Info] [Kill Feed] [14/20/30/01/2021] Kongen                         Head                           rifle.bolt                     90.2m                          811739
+20:14 [Info] [Kill Feed] [14/20/30/01/2021] Kongen                         Head                           rifle.bolt                     70.0m                          2843629
+20:14 [Info] [Kill Feed] [14/20/30/01/2021] Kongen                         Hand                           rifle.bolt                     101.9m                         5327194
+20:15 [Info] [Better Chat] [Global] [Pro] SeeMS: wtf
+20:15 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+20:15 [Info] [Kill Feed] [15/20/30/01/2021] Kongen                         Head                           rifle.bolt                     44.9m                          1371289
+20:16 [Info] [Kill Feed] [16/20/30/01/2021] Kongen                         Head                           rifle.bolt                     92.6m                          9599676
+20:16 [Info] [Better Chat] [Team] [Pro] SeeMS: ahead
+20:16 [Info] [Better Chat] [Team] [Supporter] Kongen: turn around?
+20:17 [Info] [Better Chat] [Team] [Pro] SeeMS: i see 3
+20:17 [Info] [Better Chat] [Team] [Pro] SeeMS: on the base
+20:17 [Info] [Kill Feed] [17/20/30/01/2021] Kongen                         Head                           rifle.bolt                     104.4m                         9878864
+20:17 [Info] [Better Chat] [Team] [Pro] SeeMS: on the first base
+20:17 [Info] [Kill Feed] [17/20/30/01/2021] Kongen                         Head                           rifle.bolt                     79.0m                          8680506
+20:17 [Info] [Better Chat] [Team] [Pro] SeeMS: nice
+20:18 [Info] [Kill Feed] [18/20/30/01/2021] Kongen                         Head                           rifle.bolt                     43.2m                          3289342
+20:19 [Info] [Better Chat] [Global] [Pro] SeeMS: someone shot on us
+20:19 [Info] [Better Chat] [Team] [Supporter] Kongen: someone is shooting me
+20:19 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: scientists?
+20:19 [Info] [Better Chat] [Global] [Pro] SeeMS: nah xD
+20:19 [Info] [Better Chat] [Team] [Pro] SeeMS: its guba probably
+20:20 [Info] [Kill Feed] [20/20/30/01/2021] Kongen                         Head                           rifle.bolt                     151.4m                         8313472
+20:20 [Info] [Kill Feed] [20/20/30/01/2021] Kongen                         Neck                           rifle.bolt                     149.0m                         6514515
+20:20 [Info] [Better Chat] [Team] [Pro] SeeMS: landing?
+20:20 [Info] [Better Chat] [Team] [Supporter] Kongen: one more
+20:21 [Info] [Better Chat] [Global] [Pro] SeeMS: wtfff
+20:21 [Info] [Better Chat] [Team] [Pro] SeeMS: too much
+20:21 [Info] [Better Chat] [Team] [Supporter] Kongen: they are trolling us
+20:21 [Info] [Better Chat] [Team] [Pro] SeeMS: yes
+20:22 [Info] [Kill Feed] [22/20/30/01/2021] 6477185                                                       bullet                                                        6477185
+20:22 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: lol
+20:22 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: lul
+20:22 [Info] [Better Chat] [Team] [Supporter] Kongen: just land xD
+20:23 [Info] [Kill Feed] [23/20/30/01/2021] SeeMS                          Forearm                        rifle.lr300                    50.7m                          3155461
+20:23 [Info] [Kill Feed] [23/20/30/01/2021] Kongen                         Head                           rifle.lr300                    40.6m                          9787329
+20:23 [Info] [Kill Feed] [23/20/30/01/2021] SeeMS                          Hand                           rifle.lr300                    14.7m                          7159056
+20:24 [Info] [Kill Feed] [24/20/30/01/2021] SeeMS                          Forearm                        rifle.lr300                    3.4m                           5042614
+20:24 [Info] [Kill Feed] [24/20/30/01/2021] SeeMS                          Spine                          rifle.lr300                    3.7m                           2253434
+20:25 [Info] [Better Chat] [Team] [Pro] SeeMS: wtf
+20:26 [Info] [Kill Feed] [26/20/30/01/2021] SeeMS                          Arm                            rifle.lr300                    11.2m                          1994020
+20:27 [Info] [Kill Feed] [27/20/30/01/2021] Kongen                         Stomach                        rifle.lr300                    42.0m                          7647205
+20:27 [Info] [Kill Feed] [27/20/30/01/2021] Kongen                         Head                           rifle.lr300                    41.8m                          4209463
+20:27 [Info] [Kill Feed] [27/20/30/01/2021] Kongen                         Head                           rifle.lr300                    36.3m                          377735
+20:27 [Info] [Better Chat] [Team] [Pro] SeeMS: wtf
+20:27 [Info] [Better Chat] [Team] [Pro] SeeMS: kills me in one shot
+20:28 [Info] [Better Chat] [Team] [Supporter] Kongen: fk
+20:28 [Info] [Better Chat] [Team] [Pro] SeeMS: fuking shit
+20:28 [Info] [Better Chat] [Team] [Pro] SeeMS: they kill me in like 2ball
+20:28 [Info] [Better Chat] [Team] [Supporter] Kongen: I tryed to get you up
+20:28 [Info] [Kill Feed] [28/20/30/01/2021] 730566                                                        lmg.m249                       10.1m                          SeeMS
+20:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: rip
+20:28 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: F
+20:28 [Info] [Better Chat] [Global] [Pro] SeeMS: wtf
+20:28 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+20:28 [Info] [Kill Feed] [28/20/30/01/2021] 730566                                                        bullet                                                        730566
+20:28 [Info] [Better Chat] [Global] [Pro] SeeMS: they kill me with 2 balle
+20:28 [Info] [Kill Feed] [28/20/30/01/2021] 4023840                                                       bullet                                                        4023840
+20:28 [Info] [Better Chat] [Global] [Pro] SeeMS: wtf
+20:28 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: wtf
+20:28 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: wtf
+20:28 [Info] [Kill Feed] [28/20/30/01/2021] [DMA] Gubatrix                 Chest                          lmg.m249                       4.3m                           2166104
+20:29 [Info] [Better Chat] [Team] [Supporter] Kongen: damn
+20:29 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i'm helping
+20:29 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+20:29 [Info] [Better Chat] [Global] [Regular] chitzo: de camino
+20:29 [Info] [Kill Feed] [29/20/30/01/2021] [DMA] Admiral Doge             Neck                           lmg.m249                       6.9m                           3584288
+20:29 [Info] [Kill Feed] [29/20/30/01/2021] [DMA] Gubatrix                 Chest                          lmg.m249                       8.4m                           8323397
+20:29 [Info] [Kill Feed] [29/20/30/01/2021] [DMA] Gubatrix                 Pelvis                         lmg.m249                       10.9m                          8868230
+20:29 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ez
+20:29 [Info] [Better Chat] [Team] [Pro] SeeMS: i will take helic
+20:29 [Info] [Better Chat] [Team] [Supporter] Kongen: k
+20:29 [Info] [Better Chat] [Team] [Pro] SeeMS: in 10sec
+20:29 [Info] [Kill Feed] [29/20/30/01/2021] [DMA] Gubatrix                 Head                           lmg.m249                       2.8m                           2239225
+20:29 [Info] [Better Chat] [Team] [Pro] SeeMS: my gosh i cant
+20:29 [Info] [Better Chat] [Global] [Pro] SeeMS: my god
+20:29 [Info] [Better Chat] [Global] [Pro] SeeMS: keys are on my lot
+20:30 [Info] [Better Chat] [Global] [Pro] SeeMS: my god
+20:30 [Info] [Better Chat] [Global] [Supporter] Kongen: damn
+20:30 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i can bring you the items if u want
+20:30 [Info] [Better Chat] [Global] [Supporter] Kongen: I got a key
+20:30 [Info] [Kill Feed] [30/20/30/01/2021] [DMA] Gubatrix                 Head                           lmg.m249                       15.8m                          8728431
+20:30 [Info] [Better Chat] [Global] [Pro] SeeMS: ye i would like
+20:30 [Info] [Better Chat] [Global] [Supporter] Kongen: or tp whould be nice :D
+20:30 [Info] [NTeleportation] Gubatrix teleported Kongen to Gubatrix.
+20:30 [Info] [NTeleportation] Gubatrix teleported SeeMS to Kongen.
+20:30 [Info] [Kill Feed] [30/20/30/01/2021] Helicopter                                                    bullet                         43.1m                          [DMA] Admiral Doge
+20:31 [Info] [Kill Feed] [31/20/30/01/2021] Helicopter                                                    bullet                         33.9m                          SeeMS
+20:31 [Info] [Better Chat] [Global] [Pro] SeeMS: my do
+20:31 [Info] [Better Chat] [Global] [Pro] SeeMS: wtf
+20:31 [Info] [Better Chat] [Global] [Pro] SeeMS: aaaaaaaa
+20:32 [Info] [Kill Feed] [32/20/30/01/2021] SeeMS                                                         suicide                                                       SeeMS
+20:32 [Info] [Better Chat] [Global] [Pro] SeeMS: tp mee
+20:32 [Info] [NTeleportation] Gubatrix teleported SeeMS to Gubatrix.
+20:32 [Info] [Better Chat] [Global] [Supporter] Kongen: sec
+20:32 [Info] [Better Chat] [Global] [Pro] SeeMS: XD
+20:33 [Info] [Better Chat] [Global] [Pro] SeeMS: fuk u helic
+20:33 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+20:33 [Info] [Better Chat] [Global] [Supporter] Kongen: done
+20:33 [Info] [Better Chat] [Global] [Pro] SeeMS: gg
+20:33 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: gg
+20:33 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: gg
+20:34 [Info] [Better Chat] [Global] [Supporter] Kongen: ty xD
+20:34 [Info] [Better Chat] [Global] [Supporter] Kongen: my wep just broke after heli was down xD
+20:34 [Info] [Better Chat] [Global] [Supporter] Kongen: good timing
+20:34 [Info] [Better Chat] [Global] [Pro] SeeMS: who stole my lot
+20:34 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes
+20:34 [Info] [Better Chat] [Global] [Pro] SeeMS: oinnn
+20:35 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i didnt take anything
+20:35 [Info] [Better Chat] [Global] [Pro] SeeMS: oh its me
+20:35 [Info] [Better Chat] [Global] [Supporter] Kongen: lol
+20:35 [Info] [Better Chat] [Global] [Pro] SeeMS: who is
+20:35 [Info] [Better Chat] [Global] [Pro] SeeMS: guba
+20:35 [Info] [Better Chat] [Global] [Supporter] Kongen: now I hope for good loot
+20:35 [Info] [Better Chat] [Global] [Pro] SeeMS: here
+20:35 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ????
+20:35 [Info] [Better Chat] [Global] [Pro] SeeMS: guba jump
+20:35 [Info] [Better Chat] [Global] [Pro] SeeMS: ok
+20:35 [Info] [Better Chat] [Global] [Pro] SeeMS: turn
+20:35 [Info] [Better Chat] [Global] [Pro] SeeMS: now
+20:35 [Info] [Better Chat] [Global] [Pro] SeeMS: XDDDD
+20:36 [Info] [Better Chat] [Global] [Pro] SeeMS: KIDDING
+20:36 [Info] [Better Chat] [Global] [Pro] SeeMS: dont worry xd
+20:36 [Info] [Kill Feed] [36/20/30/01/2021] [DMA] Gubatrix                 Head                           lmg.m249                       1.6m                           SeeMS
+20:36 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: y tho xd
+20:36 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+20:36 [Info] [NTeleportation] Gubatrix teleported SeeMS to Gubatrix.
+20:36 [Info] [Better Chat] [Global] [Pro] SeeMS: xd
+20:36 [Info] [Kill Feed] [36/20/30/01/2021] Kongen                         Hand                           rifle.bolt                     1.6m                           8077229
+20:37 [Info] [Kill Feed] [37/20/30/01/2021] [DMA] Gubatrix                 Head                           lmg.m249                       0.6m                           6509187
+20:37 [Info] [Better Chat] [Team] [Pro] SeeMS: i want to let them togheter
+20:37 [Info] [Better Chat] [Team] [Pro] SeeMS: and kill them xdddd
+20:37 [Info] [Better Chat] [Team] [Pro] SeeMS: what do u think xd
+20:38 [Info] [Better Chat] [Global] [Supporter] Kongen: sure we can try xD
+20:38 [Info] [NTeleportation] Gubatrix teleported to chitzo.
+20:38 [Info] [Better Chat] [Team] [Pro] SeeMS: XDDD
+20:38 [Info] [NTeleportation] Admiral Doge teleported to chitzo.
+20:38 [Info] [Better Chat] [Global] [Pro] SeeMS: come here guys
+20:38 [Info] [NTeleportation] Gubatrix teleported to chitzo.
+20:38 [Info] [Better Chat] [Team] [Supporter] Kongen: maybe they have admin on xD
+20:38 [Info] [Better Chat] [Global] [Pro] SeeMS: guuuys xD
+20:38 [Info] [Better Chat] [Team] [Pro] SeeMS: idont think
+20:38 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: let them together and kill them admiral
+20:38 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: oh wrong chat
+20:38 [Info] [Better Chat] [Global] [Pro] SeeMS: XDDDDDDD
+20:38 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+20:38 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: oh shit xd
+20:38 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: fuck
+20:39 [Info] [Better Chat] [Global] [Pro] SeeMS: XDDDDDDDDD
+20:39 [Info] [Better Chat] [Global] [Pro] SeeMS: shit XDDDDD
+20:39 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: u can come here guys
+20:39 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: we dont do nothing
+20:39 [Info] [Better Chat] [Global] [Pro] SeeMS: where u are
+20:39 [Info] [Better Chat] [Global] [Pro] SeeMS: idk
+20:39 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: here
+20:39 [Info] [Better Chat] [Global] [Regular] chitzo: guys i cant see you in thr map
+20:39 [Info] [NTeleportation] Admiral Doge teleported to chitzo.
+20:39 [Info] [Better Chat] [Global] [Pro] SeeMS: that's why they run
+20:39 [Info] [Better Chat] [Global] [Pro] SeeMS: out
+20:40 [Info] [Better Chat] [Global] [Pro] SeeMS: when i said that
+20:40 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+20:40 [Info] [Better Chat] [Global] [Pro] SeeMS: xDD
+20:40 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: you can only see ppl in your team/clan @chitzo
+20:40 [Info] [Better Chat] [Team] [Supporter] Kongen: OMFG
+20:40 [Info] [Better Chat] [Team] [Supporter] Kongen: crappy loot again
+20:40 [Info] [Better Chat] [Team] [Pro] SeeMS: whut
+20:40 [Info] [NTeleportation] Gubatrix teleported to chitzo.
+20:40 [Info] [Better Chat] [Team] [Supporter] Kongen: take a look
+20:41 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+20:41 [Info] [Better Chat] [Team] [Pro] SeeMS: wtf
+20:41 [Info] [Better Chat] [Team] [Pro] SeeMS: this is shit
+20:41 [Info] [Better Chat] [Global] [Regular] chitzo: hahaha
+20:41 [Info] [Better Chat] [Global] [Supporter] Kongen: we need better loot on oil rig xD
+20:41 [Info] [Better Chat] [Global] [Pro] SeeMS: oh yes yes yes
+20:41 [Info] [Better Chat] [Global] [Pro] SeeMS: actually its shit
+20:42 [Info] [NTeleportation] Gubatrix teleported to chitzo.
+20:42 [Info] [Better Chat] [Team] [Pro] SeeMS: always dispea
+20:42 [Info] [Better Chat] [Team] [Pro] SeeMS: r
+20:42 [Info] [Better Chat] [Team] [Pro] SeeMS: the helic
+20:43 [Info] [Better Chat] [Team] [Supporter] Kongen: and heli is gone again
+20:43 [Info] [Better Chat] [Global] [Pro] SeeMS: noo
+20:43 [Info] [Better Chat] [Global] [Supporter] Kongen: yay
+20:43 [Info] [NTeleportation] Admiral Doge teleported to chitzo.
+20:43 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ?
+20:43 [Info] [Better Chat] [Global] [Pro] SeeMS: when we come with helic in oil
+20:43 [Info] [Better Chat] [Global] [Pro] SeeMS: the helic dispear
+20:43 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: lol
+20:43 [Info] [Better Chat] [Global] [Pro] SeeMS: idk why
+20:43 [Info] [Better Chat] [Global] [Regular] chitzo: they are trolling me hahaha
+20:43 [Info] [Better Chat] [Global] [Pro] SeeMS: we put it on the H
+20:43 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: the helic explodes when the other came
+20:44 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: no it was destroyed by ch47
+20:44 [Info] [Better Chat] [Global] [Pro] SeeMS: oh
+20:44 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+20:44 [Info] [Better Chat] [Global] [Pro] SeeMS: fuk
+20:44 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: dont land on H
+20:44 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: xdd
+20:44 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i can bring you one for some BJs
+20:44 [Info] [Better Chat] [Team] [Pro] SeeMS: take my rocket
+20:44 [Info] [Better Chat] [Team] [Supporter] Kongen: nah xD
+20:44 [Info] [Better Chat] [Team] [Pro] SeeMS: XD
+20:44 [Info] [Better Chat] [Team] [Pro] SeeMS: k i shot XD
+20:45 [Info] [Better Chat] [Team] [Pro] SeeMS: fuuuk
+20:45 [Info] [Better Chat] [Team] [Pro] SeeMS: hurt
+20:45 [Info] [Better Chat] [Team] [Pro] SeeMS: me xD
+20:45 [Info] [Better Chat] [Team] [Pro] SeeMS: gg
+20:45 [Info] [Better Chat] [Global] [Supporter] Kongen: easy xD
+20:45 [Info] [Better Chat] [Team] [Supporter] Kongen: I have xD
+20:45 [Info] [Better Chat] [Team] [Supporter] Kongen: 43 left
+20:45 [Info] [Better Chat] [Team] [Pro] SeeMS: Xd
+20:46 [Info] [Better Chat] [Team] [Supporter] Kongen: now we need heli xD
+20:46 [Info] [Better Chat] [Team] [Pro] SeeMS: ye
+20:46 [Info] [Better Chat] [Team] [Pro] SeeMS: xd
+20:46 [Info] [Better Chat] [Team] [Supporter] Kongen: maybe we should take boat in the future
+20:46 [Info] [Better Chat] [Team] [Pro] SeeMS: let's ask
+20:47 [Info] [Better Chat] [Team] [Pro] SeeMS: guba free taxi
+20:47 [Info] [Better Chat] [Team] [Pro] SeeMS: maybe
+20:47 [Info] [Better Chat] [Team] [Pro] SeeMS: fuk too hot
+20:47 [Info] [Better Chat] [Team] [Pro] SeeMS: 64°
+20:47 [Info] [Better Chat] [Team] [Pro] SeeMS: xD
+20:48 [Info] [Better Chat] [Team] [Pro] SeeMS: shit
+20:48 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: sup
+20:48 [Info] [Better Chat] [Team] [Pro] SeeMS: ye
+20:48 [Info] [Better Chat] [Team] [Pro] SeeMS: boat
+20:48 [Info] [Better Chat] [Global] [Pro] SeeMS: good well we just gotta swimwell we just gotta swimwell we just gotta swim
+20:48 [Info] [Better Chat] [Global] [Pro] SeeMS: shit
+20:48 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:48 [Info] [Better Chat] [Global] [Pro] SeeMS: bug Xd
+20:49 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: wtf
+20:49 [Info] [Better Chat] [Global] [Regular] chitzo: so funy hahah
+20:49 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ? @chitzo
+20:49 [Info] [Better Chat] [Global] [Pro] SeeMS: from the oil to land
+20:49 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: idk what u mean @chitzo
+20:49 [Info] [Better Chat] [Global] [Pro] SeeMS: if some one bring a boat for us
+20:49 [Info] [Better Chat] [Global] [Pro] SeeMS: we will pay him
+20:49 [Info] [Better Chat] [Global] [Pro] SeeMS: a lot
+20:49 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: lol
+20:50 [Info] [Better Chat] [Global] [Pro] SeeMS: but not with the ass
+20:50 [Info] [Better Chat] [Global] [Pro] SeeMS: only guba do that
+20:50 [Info] [Better Chat] [Global] [Supporter] Kongen: lol
+20:50 [Info] [Better Chat] [Global] [Pro] SeeMS: guba <​3
+20:50 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ?
+20:50 [Info] [Better Chat] [Global] [Pro] SeeMS: we have to
+20:50 [Info] [Better Chat] [Global] [Pro] SeeMS: swim then
+20:50 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: just wait i bring u a heli
+20:50 [Info] [Better Chat] [Global] [Pro] SeeMS: oh ok
+20:50 [Info] [NTeleportation] Admiral Doge teleported to SeeMS.
+20:50 [Info] [Better Chat] [Global] [Pro] SeeMS: xd
+20:51 [Info] [Better Chat] [Global] [Supporter] Kongen: in the future we wont use heli
+20:51 [Info] [Better Chat] [Global] [Pro] SeeMS: y
+20:51 [Info] [Better Chat] [Global] [Supporter] Kongen: they despawn xD
+20:51 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: no they dont
+20:51 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: it was destroyed by ch47 xd
+20:51 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: where are u?
+20:51 [Info] [Better Chat] [Global] [Supporter] Kongen: oh
+20:51 [Info] [Better Chat] [Global] [Pro] SeeMS: here
+20:51 [Info] [Better Chat] [Global] [Regular] chitzo: quien estaba tocando musica?
+20:52 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: musica bien
+20:52 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: where are u @SeeMS
+20:52 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: musica muchos bien
+20:52 [Info] [Better Chat] [Global] [Pro] SeeMS: la music est excellente !
+20:52 [Info] [Better Chat] [Global] [Pro] SeeMS: coming
+20:53 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i am at oil rig in 1min
+20:53 [Info] [Better Chat] [Global] [Supporter] Kongen: awsome
+20:53 [Info] [Better Chat] [Team] [Pro] SeeMS: becarful kongen xd
+20:53 [Info] [Better Chat] [Team] [Pro] SeeMS: look bad for us i think xd
+20:53 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:54 [Info] [Better Chat] [Team] [Supporter] Kongen: dont think so
+20:54 [Info] [Better Chat] [Global] [Pro] SeeMS: SAW YOU
+20:54 [Info] [Better Chat] [Team] [Supporter] Kongen: just shoot down heli twice xD
+20:54 [Info] [Better Chat] [Global] [Pro] SeeMS: XDDD
+20:54 [Info] [Better Chat] [Global] [Pro] SeeMS: he was here
+20:54 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: no
+20:54 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: who you saw
+20:54 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: stop lying
+20:54 [Info] [Better Chat] [Global] [Pro] SeeMS: yes yes
+20:54 [Info] [Better Chat] [Global] [Pro] SeeMS: i think
+20:54 [Info] [Better Chat] [Global] [Pro] SeeMS: it was guba
+20:54 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: no
+20:54 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i am in the heli xd
+20:55 [Info] [Better Chat] [Global] [Pro] SeeMS: so its admiral
+20:55 [Info] [Better Chat] [Global] [Pro] SeeMS: but i saw someone
+20:55 [Info] [Better Chat] [Global] [Pro] SeeMS: xd
+20:55 [Info] [Better Chat] [Global] [Supporter] Kongen: I see it
+20:55 [Info] [Better Chat] [Global] [Supporter] Kongen: the big one xD
+20:55 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: like my penis lol
+20:55 [Info] [Better Chat] [Global] [Pro] SeeMS: xd
+20:55 [Info] [Better Chat] [Global] [Supporter] Kongen: not what she said
+20:55 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xd
+20:55 [Info] [Better Chat] [Global] [Admin] [DMA] Admiral Doge: im in helic
+20:55 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+20:56 [Info] [Better Chat] [Global] [Pro] SeeMS: holy shit
+20:56 [Info] [Better Chat] [Global] [Pro] SeeMS: so nice
+20:56 [Info] [Better Chat] [Global] [Pro] SeeMS: im pro with helic
+20:56 [Info] [Better Chat] [Global] [Pro] SeeMS: guys
+20:56 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: nice
+20:56 [Info] [Better Chat] [Global] [Pro] SeeMS: leeets
+20:56 [Info] [Better Chat] [Global] [Supporter] Kongen: carefull its much heavyer
+20:57 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes
+20:57 [Info] [Better Chat] [Global] [Supporter] Kongen: damn my legs are tripping
+20:57 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: actually xdd
+20:58 [Info] [Better Chat] [Team] [Supporter] Kongen: uuuh a base xD
+20:58 [Info] [Better Chat] [Global] [Pro] SeeMS: MY EARS
+20:58 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+20:58 [Info] [Better Chat] [Global] [Pro] SeeMS: i will kill u
+20:58 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: xddd
+20:59 [Info] [Better Chat] [Global] [Pro] SeeMS: wtf
+20:59 [Info] [Better Chat] [Global] [Pro] SeeMS: who jump
+20:59 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: both
+20:59 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: suicide
+20:59 [Info] [Better Chat] [Global] [Supporter] Kongen: lol
+20:59 [Info] [Better Chat] [Global] [Pro] SeeMS: xd
+20:59 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: life is too boring
+21:00 [Info] [Better Chat] [Global] [Supporter] Kongen: I think death is more boring
+21:00 [Info] [NTeleportation] Gubatrix teleported to chitzo.
+21:00 [Info] [NTeleportation] [AdminMode] Admiral Doge teleported to chitzo.
+21:00 [Info] [Better Chat] [Global] [Pro] SeeMS: and u're not dead
+21:00 [Info] [Better Chat] [Global] [Pro] SeeMS: by the jump
+21:00 [Info] [Better Chat] [Global] [Pro] SeeMS: i think not
+21:00 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: ofc i am dead
+21:00 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Admiral Doge: we have jet packs
+21:00 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i am a fucking ghost
+21:02 [Info] [Kill Feed] [02/21/30/01/2021] SeeMS                                                         rifle.ak                       1.4m                           Wolf
+21:02 [Info] [Better Chat] [Global] [Pro] SeeMS: fuking dogs
+21:02 [Info] [Better Chat] [Global] [Pro] SeeMS: bit me
+21:04 [Info] [Kill Feed] [04/21/30/01/2021] SeeMS                                                         rifle.ak                       13.3m                          Boar
+21:05 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+21:05 [Info] [Kill Feed] [05/21/30/01/2021] SeeMS                                                         rifle.ak                       73.0m                          Boar
+21:05 [Info] [Better Chat] [Global] [Pro] SeeMS: fuking dog fuking boar
+21:06 [Info] [Better Chat] [Global] [Pro] SeeMS: i prefer the small one
+21:06 [Info] [Better Chat] [Global] [Pro] SeeMS: helic
+21:06 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: oof
+21:06 [Info] [Better Chat] [Global] [Supporter] Kongen: like I said xD
+21:06 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: but i think u can maybe place boxes in the heli
+21:06 [Info] [Better Chat] [Global] [Pro] SeeMS: oh
+21:06 [Info] [Better Chat] [Global] [Pro] SeeMS: change everything
+21:06 [Info] [Kill Feed] [06/21/30/01/2021] SeeMS                                                         rifle.ak                       33.7m                          Boar
+21:06 [Info] [NTeleportation] Gubatrix teleported to SeeMS.
+21:06 [Info] [Kill Feed] [06/21/30/01/2021] SeeMS                                                         rifle.ak                       24.2m                          Boar
+21:06 [Info] [Better Chat] [Global] [Supporter] Kongen: if you can code that I guess you can
+21:06 [Info] [Better Chat] [Global] [Supporter] Kongen: normal there are no boxes
+21:07 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: okay
+21:07 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i will try
+21:07 [Info] [Better Chat] [Global] [Supporter] Kongen: the big one is just for bigger groups xD
+21:07 [Info] [Better Chat] [Global] [Supporter] Kongen: I have seen a vids with 8 ppls in there
+21:07 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: i will try to code it maybe
+21:07 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: lol
+21:07 [Info] [NTeleportation] Gubatrix teleported to [AdminMode] Admiral Doge.
+21:07 [Info] [Better Chat] [Global] [Supporter] Kongen: if you can its a game changer for us xD
+21:07 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: yes
+21:07 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: need to go
+21:08 [Info] [Better Chat] [Global] [Admin] [DMA] Gubatrix: cya tomorrow
+21:08 [Info] [Better Chat] [Global] [Supporter] Kongen: cya :)
+21:08 [Info] [Better Chat] [Global] [Pro] SeeMS: cya <​3
+21:08 [Info] [Welcomer] • Gubatrix has left the server (Disconnected).
+21:08 [Info] [Better Chat] [Team] [Pro] SeeMS: guba guy ^^
+21:08 [Info] [Better Chat] [Team] [Pro] SeeMS: xdddd
+21:08 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+21:08 [Info] [Better Chat] [Team] [Pro] SeeMS: i should stop saying that
+21:08 [Info] [Better Chat] [Team] [Pro] SeeMS: befor i get ban xddd
+21:08 [Info] [Better Chat] [Team] [Supporter] Kongen: dont think you do xD
+21:09 [Info] [Better Chat] [Team] [Pro] SeeMS: XD
+21:09 [Info] [Better Chat] [Team] [Supporter] Kongen: its just for fun and he know it :)
+21:09 [Info] [Better Chat] [Team] [Pro] SeeMS: ye XD
+21:09 [Info] [Better Chat] [Global] [Admin] [DMA] [AdminMode] Admiral Doge: cya tomorrow
+21:09 [Info] [Better Chat] [Global] [Supporter] Kongen: cya :)
+21:09 [Info] [Better Chat] [Global] [Pro] SeeMS: cya doge <​3
+21:09 [Info] [Welcomer] • Admiral Doge has left the server (Disconnected).
+21:09 [Info] [Better Chat] [Team] [Pro] SeeMS: im in the same place
+21:09 [Info] [Better Chat] [Team] [Pro] SeeMS: u know why?
+21:09 [Info] [Better Chat] [Team] [Supporter] Kongen: no?
+21:10 [Info] [Better Chat] [Team] [Pro] SeeMS: cuz i still searching for those lot
+21:10 [Info] [Better Chat] [Team] [Pro] SeeMS: of doge and guba
+21:10 [Info] [Better Chat] [Team] [Pro] SeeMS: xDDD
+21:10 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+21:10 [Info] [Better Chat] [Team] [Supporter] Kongen: ya they have best weps
+21:10 [Info] [Better Chat] [Team] [Supporter] Kongen: m9 and L9
+21:10 [Info] [Better Chat] [Team] [Pro] SeeMS: im sure they have crazy thing
+21:10 [Info] [Better Chat] [Team] [Supporter] Kongen: best guns
+21:10 [Info] [Better Chat] [Team] [Pro] SeeMS: u can come for search if u want xD
+21:10 [Info] [Better Chat] [Team] [Pro] SeeMS: its arround here but idk where exactly
+21:11 [Info] [NTeleportation] Kongen teleported Kongen to SeeMS.
+21:11 [Info] [Better Chat] [Team] [Pro] SeeMS: if they died
+21:11 [Info] [Better Chat] [Team] [Pro] SeeMS: im not sure
+21:11 [Info] [Better Chat] [Team] [Pro] SeeMS: if he trolled me when he says hes dead
+21:11 [Info] [Better Chat] [Team] [Pro] SeeMS: or not
+21:11 [Info] [Better Chat] [Team] [Pro] SeeMS: but it was like here
+21:11 [Info] [Better Chat] [Team] [Supporter] Kongen: I think trol
+21:11 [Info] [Better Chat] [Team] [Pro] SeeMS: xd
+21:11 [Info] [Better Chat] [Team] [Pro] SeeMS: i think too
+21:11 [Info] [Better Say] SERVER: xd
+21:11 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+21:11 [Info] [Better Chat] [Team] [Pro] SeeMS: shit
+21:12 [Info] [Better Chat] [Team] [Pro] SeeMS: XD
+21:12 [Info] [Better Say] SERVER: We were dead somewhere
+21:12 [Info] [Better Chat] [Team] [Pro] SeeMS: tell me where
+21:12 [Info] [Better Chat] [Team] [Pro] SeeMS: and i will give u
+21:12 [Info] [Better Chat] [Team] [Pro] SeeMS: my ass
+21:12 [Info] [Better Chat] [Team] [Pro] SeeMS: k?
+21:12 [Info] [Better Say] SERVER: No bro, need to go, cya
+21:12 [Info] [Better Chat] [Team] [Pro] SeeMS: xDDD
+21:12 [Info] [Better Chat] [Team] [Pro] SeeMS: im sure its troll again
+21:12 [Info] [Better Chat] [Team] [Pro] SeeMS: so hmm
+21:12 [Info] [Better Chat] [Team] [Supporter] Kongen: yup xD
+21:13 [Info] [Better Chat] [Team] [Pro] SeeMS: was here
+21:14 [Info] [Better Chat] [Team] [Supporter] Kongen: they probly tp to there garage
+21:14 [Info] [Better Chat] [Team] [Pro] SeeMS: y
+21:14 [Info] [Better Chat] [Team] [Pro] SeeMS: if they died
+21:14 [Info] [Better Chat] [Team] [Pro] SeeMS: i will see the lot
+21:14 [Info] [Better Chat] [Team] [Pro] SeeMS: but i see nothing actualy
+21:14 [Info] [Better Chat] [Team] [Pro] SeeMS: so 95% not true xd
+21:15 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+21:15 [Info] [Better Chat] [Team] [Supporter] Kongen: I will tp back to base and maybe watch a movie xD
+21:15 [Info] [Better Chat] [Team] [Pro] SeeMS: same thing
+21:15 [Info] [Better Chat] [Team] [Supporter] Kongen: maybe some serie
+21:15 [Info] [Better Chat] [Team] [Pro] SeeMS: watch gotham if u didnt xD
+21:16 [Info] [Better Chat] [Team] [Supporter] Kongen: I have seen it nice serie
+21:16 [Info] [Better Chat] [Team] [Supporter] Kongen: but is there more seasons now?
+21:16 [Info] [Better Chat] [Team] [Pro] SeeMS: i tok the big helic to my base maybe we will need it
+21:16 [Info] [Better Chat] [Team] [Pro] SeeMS: y
+21:16 [Info] [Better Chat] [Team] [Pro] SeeMS: 5 season
+21:16 [Info] [Better Chat] [Team] [Supporter] Kongen: been few years since I saw that
+21:18 [Info] [Better Chat] [Team] [Supporter] Kongen: well I will go off
+21:18 [Info] [Better Chat] [Team] [Supporter] Kongen: cya tomorrow?
+21:19 [Info] [Better Chat] [Team] [Pro] SeeMS: y will be heere
+21:19 [Info] [Better Chat] [Team] [Pro] SeeMS: have a good night bro
+21:19 [Info] [Better Chat] [Team] [Supporter] Kongen: u2 bro :)
+21:19 [Info] [Better Chat] [Team] [Pro] SeeMS: :D
+21:19 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+21:24 [Info] [Welcomer] • SeeMS has left the server (Disconnected).
+21:31 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+22:15 [Info] [Welcomer] • Kappa has joined the server from Germany.
+22:21 [Info] [Kill Feed] [21/22/30/01/2021] Kappa                          Head                           hatchet                        0.2m                           kevinkoch2904
+22:49 [Info] [Kill Feed] [49/22/30/01/2021] Kappa                          Arm                            salvaged.cleaver               0.2m                           GodOfRust
+22:51 [Info] [Kill Feed] [51/22/30/01/2021] Kappa                                                         pistol.revolver                10.1m                          Boar
+22:54 [Info] [Welcomer] • chitzo has joined the server from Germany.
+23:08 [Info] [NTeleportation] Kappa teleported back to previous location.
+23:15 [Info] [Better Chat] [Global] [Newbie] Kappa: are u new here?
+23:15 [Info] [Better Chat] [Global] [Newbie] Kappa: 1 h old
+23:15 [Info] [Better Chat] [Global] [Newbie] Kappa: bulgaria and y?
+23:15 [Info] [Better Chat] [Global] [Regular] chitzo: puerto rico
+23:16 [Info] [Better Chat] [Global] [Newbie] Kappa: nice :)
+23:16 [Info] [Better Chat] [Global] [Newbie] Kappa: what is your name?
+23:16 [Info] [Better Chat] [Global] [Regular] chitzo: victoria
+23:17 [Info] [Better Chat] [Global] [Regular] chitzo: and yours?
+23:17 [Info] [Better Chat] [Global] [Newbie] Kappa: nice to meat you my name is Nick
+23:17 [Info] [Better Chat] [Global] [Newbie] Kappa: and my mic sucks :(
+23:22 [Info] [Better Chat] [Global] [Regular] chitzo: where are you going ?
+23:23 [Info] [Better Chat] [Global] [Newbie] Kappa: to power plan
+23:23 [Info] [Better Chat] [Global] [Newbie] Kappa: create will be there soon
+23:23 [Info] [Better Chat] [Global] [Newbie] Kappa: and u?
+23:25 [Info] [Better Chat] [Global] [Regular] chitzo: continue looking for things and some food
+23:25 [Info] [Better Chat] [Global] [Regular] chitzo: you already have your house?
+23:25 [Info] [Better Chat] [Global] [Newbie] Kappa: yes small one
+23:26 [Info] [Better Chat] [Global] [Regular] chitzo: where?
+23:27 [Info] [Better Chat] [Global] [Newbie] Kappa: close to gas station
+23:27 [Info] [Better Chat] [Global] [Regular] chitzo: nice!
+23:27 [Info] [Better Chat] [Global] [Newbie] Kappa: and u ?
+23:28 [Info] [Better Chat] [Global] [Regular] chitzo: near at the beach
+23:28 [Info] [Better Chat] [Global] [Newbie] Kappa: do u do oil rig?
+23:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+23:30 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+23:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+23:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+23:54 [Info] [Kill Feed] [54/23/30/01/2021] sentry.scientist.static                                       bullet                         50.9m                          878385
+23:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+23:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+23:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+23:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+23:59 [Info] [Welcomer] • Kappa has left the server (Disconnected).
+23:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 9 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 8 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 7 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 6 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 1 seconds!

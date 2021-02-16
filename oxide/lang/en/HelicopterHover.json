@@ -1,0 +1,11 @@
+{
+  "OnlyAdmins": "This command is exclusive to admins",
+  "NotFlying": "The helicopter is not flying",
+  "Mounted": "Use '/hover' to toggle hover",
+  "NoPermission": "You do not have permission to hover",
+  "CantHoverTwoOccupants": "Cannot hover with two occupants",
+  "HelicopterEnabled": "Helicopter hover: enabled",
+  "HelicopterDisabled": "Helicopter hover: disabled",
+  "NotInHelicopter": "You are not in a helicopter",
+  "NoPassengerToggle": "Passengers cannot toggle hover"
+}
