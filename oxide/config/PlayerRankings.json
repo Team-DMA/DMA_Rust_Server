@@ -9,11 +9,31 @@
   },
   "C": {
     "Oxide Group": "regular",
-    "Playtime": 25.0
+    "Playtime": 20.0
   },
   "D": {
     "Oxide Group": "pro",
-    "Playtime": 50.0
+    "Playtime": 45.0
+  },
+  "E": {
+    "Oxide Group": "veteran",
+    "Playtime": 75.0
+  },
+  "F": {
+    "Oxide Group": "hero",
+    "Playtime": 100.0
+  },
+  "G": {
+    "Oxide Group": "legend",
+    "Playtime": 140.0
+  },
+  "H": {
+    "Oxide Group": "mythic",
+    "Playtime": 180.0
+  },
+  "I": {
+    "Oxide Group": "immortal",
+    "Playtime": 250.0
   },
   "Settings": {
     "Ignore Admins": false

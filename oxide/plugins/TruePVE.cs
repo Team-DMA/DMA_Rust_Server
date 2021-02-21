@@ -745,6 +745,7 @@ namespace Oxide.Plugins
             defaultRuleSet.AddRule("highwalls cannot hurt players");
             defaultRuleSet.AddRule("barricades cannot hurt players");
             defaultRuleSet.AddRule("mini cannot hurt mini");
+            defaultRuleSet.AddRule("npcs can hurt players");
 
             data.ruleSets.Add(defaultRuleSet); // add ruleset to rulesets list
 
@@ -1020,20 +1021,7 @@ namespace Oxide.Plugins
             RuleSet ruleSet = GetRuleSet(entityLocations, initiatorLocations);
 
             if (trace) Trace($"Using RuleSet \"{ruleSet.name}\"", 1);
-
-            // handle suicide
-            if (hitInfo.damageTypes?.Get(DamageType.Suicide) > 0)
-            {
-                bool flag = ruleSet.HasFlag(RuleFlags.SuicideBlocked);
-                if (trace) Trace($"DamageType is suicide; blocked? { (flag ? "true; block and return" : "false; continue processing") }", 1);
-                if (flag)
-                {
-                    SendMessage(entity as BasePlayer, "Error_NoSuicide");
-                    return false;
-                }
-                return true;
-            }
-            
+           
             // Check storage containers and doors for locks
             if (ruleSet.HasFlag(RuleFlags.LockedBoxesImmortal) && entity is StorageContainer || ruleSet.HasFlag(RuleFlags.LockedDoorsImmortal) && entity is Door)
             {
@@ -1072,9 +1060,17 @@ namespace Oxide.Plugins
                 if (trace) Trace("Initiator empty; allow and return", 1);
                 return true;
             }
+            
+            // handle suicide
+            if (ruleSet.HasFlag(RuleFlags.SuicideBlocked) && hitInfo.damageTypes.Has(DamageType.Suicide) && !entity.IsNpc && entity is BasePlayer)
+            {
+                if (trace) Trace("DamageType is suicide, with SuicideBlocked flag; block and return", 1);
+                SendMessage(entity as BasePlayer, "Error_NoSuicide");
+                return false;
+            }
 
             // allow players to hurt themselves
-            if (ruleSet.HasFlag(RuleFlags.SelfDamage) && hitInfo.Initiator == entity && entity is BasePlayer)
+            if (ruleSet.HasFlag(RuleFlags.SelfDamage) && !entity.IsNpc && hitInfo.Initiator == entity && entity is BasePlayer)
             {
                 if (trace) Trace($"SelfDamage flag; player inflicted damage to self; allow and return", 1);
                 return true;
@@ -1294,7 +1290,7 @@ namespace Oxide.Plugins
             return null;
         }
 
-        private object OnSamSiteTarget(SamSite samSite, BaseMountable m)
+        private object OnSamSiteTarget(SamSite ss, BaseMountable m)
         {
             var player = GetMountedPlayer(m);
 
@@ -1303,7 +1299,7 @@ namespace Oxide.Plugins
                 return null;
             }
 
-            object extCanEntityBeTargeted = Interface.CallHook("CanEntityBeTargeted", new object[] { player, samSite });
+            object extCanEntityBeTargeted = Interface.CallHook("CanEntityBeTargeted", new object[] { player, ss });
 
             if (extCanEntityBeTargeted is bool)
             {
@@ -1312,10 +1308,11 @@ namespace Oxide.Plugins
                     return null;
                 }
 
+				ss.CancelInvoke(ss.WeaponTick);
                 return false;
             }
 
-            RuleSet ruleSet = GetRuleSet(player, samSite);
+            RuleSet ruleSet = GetRuleSet(player, ss);
 
             if (ruleSet == null)
             {
@@ -1325,11 +1322,12 @@ namespace Oxide.Plugins
             if (ruleSet.HasFlag(RuleFlags.SamSitesIgnorePlayers))
             {
                 var entityLocations = GetLocationKeys(m);
-                var initiatorLocations = GetLocationKeys(samSite);
+                var initiatorLocations = GetLocationKeys(ss);
                 // check for exclusion zones (zones with no rules mapped)
                 if (CheckExclusion(entityLocations, initiatorLocations, false)) return null;
                 // check for exclusions in entity groups
-                if (CheckExclusion(player, samSite)) return null;
+                if (CheckExclusion(player, ss)) return null;
+                ss.CancelInvoke(ss.WeaponTick);
                 return false;
             }
 

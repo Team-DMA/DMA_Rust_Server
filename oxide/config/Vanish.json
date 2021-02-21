@@ -10,7 +10,7 @@
   "Sound effect to use when reappearing": "assets/prefabs/npc/patrol helicopter/effects/rocket_fire.prefab",
   "Enable GUI": true,
   "Icon URL (.png or .jpg)": "http://i.imgur.com/Gr5G3YI.png",
-  "Image Color": "1 1 1 0.3",
-  "Image AnchorMin": "0.175 0.027",
-  "Image AnchorMax": "0.22 0.09"
+  "Image Color": "1 1 1 0.5",
+  "Image AnchorMin": "0.260 0.027",
+  "Image AnchorMax": "0.305 0.09"
 }

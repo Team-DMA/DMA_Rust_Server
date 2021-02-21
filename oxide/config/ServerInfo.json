@@ -106,6 +106,14 @@
               "/voteday - Allows the user to cast their vote"
             ],
             "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>Ranks:</b></size></color>",
+              "/ranks - Show a list of ranks, playtime required, and own playtime"
+            ],
+            "ImageSettings": []
           }
         ],
         "TabButtonAnchor": 4,

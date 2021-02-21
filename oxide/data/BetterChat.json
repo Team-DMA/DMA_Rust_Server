@@ -20,14 +20,15 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    }
+    },
+    "ConsolePresentation": "[Admin] Joe321: Hi there!"
   },
   {
     "GroupName": "moderators",
     "Priority": 1,
     "Title": {
       "Text": "[Moderator]",
-      "Color": "#A981FF",
+      "Color": "#BAB6BD",
       "Size": 15,
       "Hidden": false,
       "HiddenIfNotPrimary": true
@@ -43,7 +44,8 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    }
+    },
+    "ConsolePresentation": "[Moderator] Joe321: Hi there!"
   },
   {
     "GroupName": "supporters",
@@ -66,7 +68,8 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    }
+    },
+    "ConsolePresentation": "[Supporter] Joe321: Hi there!"
   },
   {
     "GroupName": "vip",
@@ -89,11 +92,132 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    }
+    },
+    "ConsolePresentation": "[VIP] Joe321: Hi there!"
+  },
+  {
+    "GroupName": "immortal",
+    "Priority": 4,
+    "Title": {
+      "Text": "[Immortal]",
+      "Color": "#F5DE4E",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": true
+    },
+    "Username": {
+      "Color": "#55AAFF",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "#FFFFFF",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    },
+    "ConsolePresentation": "[Immortal] Joe321: Hi there!"
+  },
+  {
+    "GroupName": "mythic",
+    "Priority": 5,
+    "Title": {
+      "Text": "[Mythic]",
+      "Color": "#D4D4D4",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": true
+    },
+    "Username": {
+      "Color": "#55AAFF",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "#FFFFFF",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    },
+    "ConsolePresentation": "[Mythic] Joe321: Hi there!"
+  },
+  {
+    "GroupName": "legend",
+    "Priority": 6,
+    "Title": {
+      "Text": "[Legend]",
+      "Color": "#E0876C",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": true
+    },
+    "Username": {
+      "Color": "#55AAFF",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "#FFFFFF",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    },
+    "ConsolePresentation": "[Legend] Joe321: Hi there!"
+  },
+  {
+    "GroupName": "hero",
+    "Priority": 7,
+    "Title": {
+      "Text": "[Hero]",
+      "Color": "#BAE021",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": true
+    },
+    "Username": {
+      "Color": "#55AAFF",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "#FFFFFF",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    },
+    "ConsolePresentation": "[Hero] Joe321: Hi there!"
+  },
+  {
+    "GroupName": "veteran",
+    "Priority": 8,
+    "Title": {
+      "Text": "[Veteran]",
+      "Color": "#7F85DB",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": true
+    },
+    "Username": {
+      "Color": "#55AAFF",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "#FFFFFF",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    },
+    "ConsolePresentation": "[Veteran] Joe321: Hi there!"
   },
   {
     "GroupName": "pro",
-    "Priority": 4,
+    "Priority": 9,
     "Title": {
       "Text": "[Pro]",
       "Color": "#824F21",
@@ -112,11 +236,12 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    }
+    },
+    "ConsolePresentation": "[Pro] Joe321: Hi there!"
   },
   {
     "GroupName": "regular",
-    "Priority": 5,
+    "Priority": 10,
     "Title": {
       "Text": "[Regular]",
       "Color": "#4AFAD4",
@@ -135,11 +260,12 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    }
+    },
+    "ConsolePresentation": "[Regular] Joe321: Hi there!"
   },
   {
     "GroupName": "player",
-    "Priority": 6,
+    "Priority": 11,
     "Title": {
       "Text": "[Player]",
       "Color": "#9EFC5C",
@@ -158,11 +284,12 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    }
+    },
+    "ConsolePresentation": "[Player] Joe321: Hi there!"
   },
   {
     "GroupName": "default",
-    "Priority": 7,
+    "Priority": 12,
     "Title": {
       "Text": "[Newbie]",
       "Color": "#55AAFF",
@@ -181,6 +308,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    }
+    },
+    "ConsolePresentation": "[Newbie] Joe321: Hi there!"
   }
 ]
