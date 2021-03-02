@@ -127,7 +127,7 @@ namespace Oxide.Plugins
 
         #region Stored Data
         private readonly string Layer = "UI_Emotions";
-        private readonly string Perm = "gestures.use";
+        private const string Perm = "gesturewheel.use";
         List<ulong> Players = new List<ulong>();
         #endregion
 

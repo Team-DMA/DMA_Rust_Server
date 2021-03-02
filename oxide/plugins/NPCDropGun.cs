@@ -38,7 +38,8 @@ namespace Oxide.Plugins
 			}
 		}
 
-		void OnPlayerCorpse(BasePlayer player, PlayerCorpse corpse)
+		//void OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse) //outdated --> void OnPlayerCorpse(BasePlayer player, PlayerCorpse corpse)
+		void OnPlayerCorpseSpawned(BasePlayer player, PlayerCorpse corpse)
 		{
 			if (!player || !corpse || !delayedItems.ContainsKey(player))
 			{

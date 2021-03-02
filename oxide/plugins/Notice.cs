@@ -11,10 +11,13 @@ namespace Oxide.Plugins
     [Description("Notice players anonymously")]
     class Notice : RustPlugin
     {
+		
+		private const string Perm = "notice.canNotice";
+		
         void Loaded()
         {
             LoadDefaultConfig();
-            if (!permission.PermissionExists("canNotice")) permission.RegisterPermission("canNotice", this);
+            if (!permission.PermissionExists(Perm)) permission.RegisterPermission(Perm, this);
         }
 
         protected override void LoadDefaultConfig()
@@ -28,7 +31,7 @@ namespace Oxide.Plugins
         void cmdNotice(BasePlayer player, string cmd, string[] args)
         {
             string uid = player.userID.ToString();
-            if (!permission.UserHasPermission(uid, "canNotice"))
+            if (!permission.UserHasPermission(uid, Perm))
             {
                 SendChatMessage(player, "NOTICE", "You have no permission to use this command!");
                 return;

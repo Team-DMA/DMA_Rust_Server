@@ -154,3 +154,52 @@
 [2021-02-10 15:00:42] Verification complete
 [2021-02-10 15:00:45] Clearing cached metrics (E:\Rust Server\TestServerSetup\steamcmd\package\steam_cmd_metrics.bin)
 [2021-02-10 15:02:08] Shutdown
+
+
+[2021-02-23 19:42:22] Startup - updater built Feb  7 2021 21:17:47
+[2021-02-23 19:42:22] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2021-02-23 19:42:22] Using the following download hosts for Public, Realm steamglobal
+[2021-02-23 19:42:22] 1. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 0, source = 'baked in'
+[2021-02-23 19:42:22] Checking for update on startup
+[2021-02-23 19:42:22] Suche nach verfügbaren Updates...
+[2021-02-23 19:42:22] Downloading manifest: http://media.steampowered.com/client/steam_cmd_win32
+[2021-02-23 19:42:23] Package file steamcmd_bins_win32.zip.vz.4a9716916d4ba378cf7379fd758f58f6e60d4c8b_5396939 missing or incorrect size
+[2021-02-23 19:42:23] Package file steamcmd_steamservice_win32.zip.vz.f1447a51b3038225890278007f64cea3d857a700_1159033 missing or incorrect size
+[2021-02-23 19:42:23] Package file steamcmd_steamerrorreporter_win32.zip.cf66ff900ae41d28ae07992e35599061f17b6805 missing or incorrect size
+[2021-02-23 19:42:23] Package file steamcmd_win32.zip.vz.36af119450d3dbac534d1dfefde57e1b31f5eee4_1211195 missing or incorrect size
+[2021-02-23 19:42:23] Add pending download: http://media.steampowered.com/client/steamcmd_bins_win32.zip.vz.4a9716916d4ba378cf7379fd758f58f6e60d4c8b_5396939
+[2021-02-23 19:42:23] Add pending download: http://media.steampowered.com/client/steamcmd_steamservice_win32.zip.vz.f1447a51b3038225890278007f64cea3d857a700_1159033
+[2021-02-23 19:42:23] Add pending download: http://media.steampowered.com/client/steamcmd_steamerrorreporter_win32.zip.cf66ff900ae41d28ae07992e35599061f17b6805
+[2021-02-23 19:42:23] Add pending download: http://media.steampowered.com/client/steamcmd_win32.zip.vz.36af119450d3dbac534d1dfefde57e1b31f5eee4_1211195
+[2021-02-23 19:42:23] Update wird heruntergeladen (314 von 7,759 KB)...
+[2021-02-23 19:42:23] Update wird heruntergeladen (3,747 von 7,759 KB)...
+[2021-02-23 19:42:23] Update wird heruntergeladen (6,887 von 7,759 KB)...
+[2021-02-23 19:42:24] Update wird heruntergeladen (7,759 von 7,759 KB)...
+[2021-02-23 19:42:24] Download ist abgeschlossen.
+[2021-02-23 19:42:24] Saving metrics to disk (E:\Rust Server\TestServerSetup\steamcmd\package\steam_cmd_metrics.bin)
+[2021-02-23 19:42:24] uninstalled manifest found in E:\Rust Server\TestServerSetup\steamcmd\package\steam_cmd_win32 (1).
+[2021-02-23 19:42:24] Found pending update
+[2021-02-23 19:42:24] Update wird installiert...
+[2021-02-23 19:42:24] Paket wird extrahiert...
+[2021-02-23 19:42:27] Update wird installiert...
+[2021-02-23 19:42:27] Committing NTFS transaction (0 non-transactional backup files)
+[2021-02-23 19:42:27] Bereinigen...
+[2021-02-23 19:42:27] Aktualisierung abgeschlossen, Steamcmd wird geladen...
+[2021-02-23 19:42:27] Shutdown
+
+
+[2021-02-23 19:42:28] Startup - updater built Feb 12 2021 15:23:01
+[2021-02-23 19:42:28] Loading cached metrics from disk (E:\Rust Server\TestServerSetup\steamcmd\package\steam_cmd_metrics.bin)
+[2021-02-23 19:42:28] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2021-02-23 19:42:28] Using the following download hosts for Public, Realm steamglobal
+[2021-02-23 19:42:28] 1. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2021-02-23 19:42:28] Checking for update on startup
+[2021-02-23 19:42:28] Suche nach verfügbaren Updates...
+[2021-02-23 19:42:28] Downloading manifest: http://media.steampowered.com/client/steam_cmd_win32
+[2021-02-23 19:42:28] Download skipped: /client/steam_cmd_win32 version 1613176656, installed version 1613176656, downloaded version 0
+[2021-02-23 19:42:28] Nothing to do
+[2021-02-23 19:42:28] Installation wird überprüft...
+[2021-02-23 19:42:28] Performing checksum verification of executable files
+[2021-02-23 19:42:31] Verification complete
+[2021-02-23 19:42:33] Clearing cached metrics (E:\Rust Server\TestServerSetup\steamcmd\package\steam_cmd_metrics.bin)
+[2021-02-23 19:43:27] Shutdown
