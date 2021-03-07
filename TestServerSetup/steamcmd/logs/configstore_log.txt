@@ -49,3 +49,58 @@
 [2021-02-23 19:42:32] Failed to read store 'userlocal' from 'E:\Rust Server\TestServerSetup\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
 [2021-02-23 19:42:33] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
 [2021-02-23 19:43:07] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+
+
+[2021-03-04 16:16:48] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-04 16:16:48] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+
+
+[2021-03-04 16:21:00] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-04 16:21:00] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-04 16:21:09] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-04 16:21:10] Failed to read store 'userlocal' from 'E:\Rust Server\TestServerSetup\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2021-03-04 16:21:11] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-04 16:22:23] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-04 16:22:53] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-04 16:23:24] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-04 16:26:58] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+
+
+[2021-03-04 22:21:57] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-04 22:21:58] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-04 22:21:58] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-04 22:21:59] Failed to read store 'userlocal' from 'E:\Rust Server\TestServerSetup\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2021-03-04 22:21:59] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-04 22:22:06] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+
+
+[2021-03-05 00:25:08] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-05 00:25:08] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-05 00:25:14] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-05 00:25:16] Failed to read store 'userlocal' from 'E:\Rust Server\TestServerSetup\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2021-03-05 00:25:16] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+
+
+[2021-03-05 02:00:35] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-05 02:00:35] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-05 02:00:39] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-05 02:00:40] Failed to read store 'userlocal' from 'E:\Rust Server\TestServerSetup\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2021-03-05 02:00:40] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+
+
+[2021-03-05 02:04:13] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-05 02:04:13] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-05 02:04:13] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-05 02:04:14] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-05 02:04:14] Failed to read store 'userlocal' from 'E:\Rust Server\TestServerSetup\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2021-03-05 02:04:15] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-05 02:04:15] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+
+
+[2021-03-06 08:19:12] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-06 08:19:13] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-06 08:19:13] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-06 08:19:14] Failed to read store 'userlocal' from 'E:\Rust Server\TestServerSetup\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2021-03-06 08:19:15] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-06 08:19:48] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-06 08:20:52] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'

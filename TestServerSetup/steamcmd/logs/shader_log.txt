@@ -13,3 +13,24 @@
 
 
 [2021-02-23 19:42:31] Shader manager disabled due to running as steamcmd
+
+
+[2021-03-04 16:16:48] Shader manager disabled due to running as steamcmd
+
+
+[2021-03-04 16:21:00] Shader manager disabled due to running as steamcmd
+
+
+[2021-03-04 22:21:58] Shader manager disabled due to running as steamcmd
+
+
+[2021-03-05 00:25:08] Shader manager disabled due to running as steamcmd
+
+
+[2021-03-05 02:00:35] Shader manager disabled due to running as steamcmd
+
+
+[2021-03-05 02:04:13] Shader manager disabled due to running as steamcmd
+
+
+[2021-03-06 08:19:13] Shader manager disabled due to running as steamcmd

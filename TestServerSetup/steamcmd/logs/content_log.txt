@@ -211,3 +211,198 @@
 [2021-02-23 19:43:26] HTTP (SteamCache,160) - cache55-fra1.steamcontent.com (155.133.250.100:443 / 155.133.250.100:443, host: cache55-fra1.steamcontent.com): Closing connection
 [2021-02-23 19:43:26] HTTP (SteamCache,264) - cache29-fra1.steamcontent.com (155.133.250.41:443 / 155.133.250.41:443, host: cache29-fra1.steamcontent.com): Closing connection
 [2021-02-23 19:43:26] HTTP (SteamCache,156) - cache51-fra1.steamcontent.com (155.133.250.98:443 / 155.133.250.98:443, host: cache51-fra1.steamcontent.com): Closing connection
+
+
+[2021-03-04 16:16:48] Loaded 0 apps from install folder "E:\Rust Server\TestServerSetup\steamcmd\steamapps\appmanifest_*.acf".
+
+
+[2021-03-04 16:21:00] Loaded 0 apps from install folder "E:\Rust Server\TestServerSetup\steamcmd\steamapps\appmanifest_*.acf".
+[2021-03-04 16:21:32] Loaded 1 apps from install folder "e:\rust\steamapps\appmanifest_*.acf".
+[2021-03-04 16:21:52] AppID 258550 state changed : Update Required,Fully Installed,
+[2021-03-04 16:21:52] AppID 258550 scheduler update : Priority First, timeSinceLastPlayed=1614871312, appDisableSecondsRemaining=0
+[2021-03-04 16:21:52] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,
+[2021-03-04 16:21:52] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2021-03-04 16:21:52] AppID 258550 update changed : Running,
+[2021-03-04 16:21:52] AppID 258550 update changed : Running,Reconfiguring,
+[2021-03-04 16:21:53] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 5 / Launcher 3)
+[2021-03-04 16:21:53] Created download interface of type 'SteamCache' (7) to host cache5-fra2.steamcontent.com (cache5-fra2.steamcontent.com)
+[2021-03-04 16:21:53] Created download interface of type 'SteamCache' (7) to host cache66-fra1.steamcontent.com (cache66-fra1.steamcontent.com)
+[2021-03-04 16:21:53] Created download interface of type 'SteamCache' (7) to host cache52-fra1.steamcontent.com (cache52-fra1.steamcontent.com)
+[2021-03-04 16:21:53] Created ipv4-only http client
+[2021-03-04 16:21:53] HTTP (SteamCache,155) - cache5-fra2.steamcontent.com (155.133.226.3:443 / 155.133.226.3:443, host: cache5-fra2.steamcontent.com): cache5-fra2.steamcontent.com/depot/258554/manifest/503248424250477474/5 - received 200 (OK) HTTP response
+[2021-03-04 16:21:53] HTTP (SteamCache,155) - cache5-fra2.steamcontent.com (155.133.226.3:443 / 155.133.226.3:443, host: cache5-fra2.steamcontent.com): cache5-fra2.steamcontent.com/depot/258551/manifest/1559189093426346896/5 - received 200 (OK) HTTP response
+[2021-03-04 16:21:54] AppID 258550 update changed : Running,
+[2021-03-04 16:21:54] AppID 258550 update changed : Running,Validating,
+[2021-03-04 16:21:54] AppID 258550 update changed : Running,
+[2021-03-04 16:21:54] AppID 258550 update changed : Running,Preallocating,
+[2021-03-04 16:21:54] AppID 258550 update changed : Running,
+[2021-03-04 16:21:54] AppID 258550 update started : download 0/580564448, store 0/0, reuse 0/1899956597, delta 0/0, stage 0/4031954278 
+[2021-03-04 16:21:54] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2021-03-04 16:21:54] AppID 258550 update changed : Running,Downloading,
+[2021-03-04 16:21:54] AppID 258550 update changed : Running,Downloading,Staging,
+[2021-03-04 16:21:54] Downloading 51 chunks from depot 258551
+[2021-03-04 16:21:57] Downloading 2027 chunks from depot 258554
+[2021-03-04 16:22:05] Increasing target number of download connections to 4 (rate was 0.000, now 55.453)
+[2021-03-04 16:22:05] Created download interface of type 'SteamCache' (7) to host cache54-fra1.steamcontent.com (cache54-fra1.steamcontent.com)
+[2021-03-04 16:22:17] Increasing target number of download connections to 5 (rate was 55.453, now 92.841)
+[2021-03-04 16:22:17] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2021-03-04 16:23:06] Current download rate: 0.000 Mbps
+[2021-03-04 16:23:44] AppID 258550 update changed : Running,
+[2021-03-04 16:23:44] AppID 258550 update changed : Running,Committing,
+[2021-03-04 16:23:44] AppID 258550 starting commit from "e:\rust\steamapps\downloading\258550" to "e:\rust" : 65 updated, 20 moved, 0 deleted files
+[2021-03-04 16:23:44] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2021-03-04 16:23:44] AppID 258550 finished update, mounted depots (BuildID 6329809) : 258551 (1559189093426346896),258554 (503248424250477474),
+[2021-03-04 16:23:44] AppID 258550 update changed : Running,
+[2021-03-04 16:23:44] AppID 258550 update changed : None
+[2021-03-04 16:23:44] AppID 258550 state changed : Fully Installed,Update Queued,
+[2021-03-04 16:23:44] AppID 258550 state changed : Fully Installed,
+[2021-03-04 16:23:44] AppID 258550 scheduler finished : removed from schedule
+[2021-03-04 16:23:55] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.18:443 / 155.133.226.18:443, host: cache2-fra2.steamcontent.com): Closing connection
+[2021-03-04 16:23:55] HTTP (SteamCache,49) - cache66-fra1.steamcontent.com (155.133.250.105:80 / 155.133.250.105:80, host: cache66-fra1.steamcontent.com): Closing connection
+[2021-03-04 16:23:55] HTTP (SteamCache,157) - cache52-fra1.steamcontent.com (155.133.250.66:443 / 155.133.250.66:443, host: cache52-fra1.steamcontent.com): Closing connection
+[2021-03-04 16:23:55] HTTP (SteamCache,155) - cache5-fra2.steamcontent.com (155.133.226.3:443 / 155.133.226.3:443, host: cache5-fra2.steamcontent.com): Closing connection
+[2021-03-04 16:23:55] HTTP (SteamCache,159) - cache54-fra1.steamcontent.com (155.133.250.67:443 / 155.133.250.67:443, host: cache54-fra1.steamcontent.com): Closing connection
+
+
+[2021-03-04 22:21:57] Loaded 0 apps from install folder "E:\Rust Server\TestServerSetup\steamcmd\steamapps\appmanifest_*.acf".
+[2021-03-04 22:21:59] Loaded 1 apps from install folder "e:\rust\steamapps\appmanifest_*.acf".
+[2021-03-04 22:22:01] AppID 258550 state changed : Update Required,Fully Installed,
+[2021-03-04 22:22:01] AppID 258550 scheduler update : Priority First, timeSinceLastPlayed=1614892921, appDisableSecondsRemaining=0
+[2021-03-04 22:22:01] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,
+[2021-03-04 22:22:01] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2021-03-04 22:22:01] AppID 258550 update changed : Running,
+[2021-03-04 22:22:01] AppID 258550 update changed : Running,Reconfiguring,
+[2021-03-04 22:22:01] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 5 / Launcher 3)
+[2021-03-04 22:22:01] Created download interface of type 'SteamCache' (7) to host cache68-fra1.steamcontent.com (cache68-fra1.steamcontent.com)
+[2021-03-04 22:22:01] Created download interface of type 'SteamCache' (7) to host cache38-fra1.steamcontent.com (cache38-fra1.steamcontent.com)
+[2021-03-04 22:22:01] Created download interface of type 'SteamCache' (7) to host cache59-fra1.steamcontent.com (cache59-fra1.steamcontent.com)
+[2021-03-04 22:22:01] Created ipv4-only http client
+[2021-03-04 22:22:02] HTTP (SteamCache,3) - cache68-fra1.steamcontent.com (155.133.250.106:443 / 155.133.250.106:443, host: cache68-fra1.steamcontent.com): cache68-fra1.steamcontent.com/depot/258551/manifest/6798140959853503801/5 - received 200 (OK) HTTP response
+[2021-03-04 22:22:02] AppID 258550 update changed : Running,
+[2021-03-04 22:22:02] AppID 258550 update changed : Running,Validating,
+[2021-03-04 22:22:02] AppID 258550 update changed : Running,
+[2021-03-04 22:22:02] AppID 258550 update changed : Running,Preallocating,
+[2021-03-04 22:22:02] AppID 258550 update changed : Running,
+[2021-03-04 22:22:02] AppID 258550 update started : download 0/2294624, store 0/0, reuse 0/2097216, delta 0/0, stage 0/11193136 
+[2021-03-04 22:22:02] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2021-03-04 22:22:02] AppID 258550 update changed : Running,Downloading,
+[2021-03-04 22:22:02] AppID 258550 update changed : Running,Downloading,Staging,
+[2021-03-04 22:22:02] Downloading 39 chunks from depot 258551
+[2021-03-04 22:22:06] AppID 258550 update changed : Running,
+[2021-03-04 22:22:06] AppID 258550 update changed : Running,Committing,
+[2021-03-04 22:22:06] AppID 258550 starting commit from "e:\rust\steamapps\downloading\258550" to "e:\rust" : 34 updated, 0 moved, 0 deleted files
+[2021-03-04 22:22:06] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2021-03-04 22:22:06] AppID 258550 finished update, mounted depots (BuildID 6331313) : 258551 (6798140959853503801),258554 (503248424250477474),
+[2021-03-04 22:22:06] AppID 258550 update changed : Running,
+[2021-03-04 22:22:06] AppID 258550 update changed : None
+[2021-03-04 22:22:06] AppID 258550 state changed : Fully Installed,Update Queued,
+[2021-03-04 22:22:06] AppID 258550 state changed : Fully Installed,
+[2021-03-04 22:22:06] AppID 258550 scheduler finished : removed from schedule
+[2021-03-04 22:22:06] HTTP (SteamCache,164) - cache59-fra1.steamcontent.com (155.133.250.102:443 / 155.133.250.102:443, host: cache59-fra1.steamcontent.com): Closing connection
+[2021-03-04 22:22:06] HTTP (SteamCache,203) - cache38-fra1.steamcontent.com (155.133.250.49:443 / 155.133.250.49:443, host: cache38-fra1.steamcontent.com): Closing connection
+[2021-03-04 22:22:06] HTTP (SteamCache,3) - cache68-fra1.steamcontent.com (155.133.250.106:443 / 155.133.250.106:443, host: cache68-fra1.steamcontent.com): Closing connection
+
+
+[2021-03-05 00:25:08] Loaded 0 apps from install folder "E:\Rust Server\TestServerSetup\steamcmd\steamapps\appmanifest_*.acf".
+[2021-03-05 00:25:43] Loaded 1 apps from install folder "e:\rust\steamapps\appmanifest_*.acf".
+[2021-03-05 00:25:58] AppID 258550 state changed : Update Required,Fully Installed,
+[2021-03-05 00:25:59] AppID 258550 scheduler update : Priority First, timeSinceLastPlayed=1614900359, appDisableSecondsRemaining=0
+[2021-03-05 00:25:59] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,
+[2021-03-05 00:25:59] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2021-03-05 00:25:59] AppID 258550 update changed : Running,
+[2021-03-05 00:25:59] AppID 258550 update changed : Running,Reconfiguring,
+[2021-03-05 00:25:59] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 5 / Launcher 3)
+[2021-03-05 00:25:59] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2021-03-05 00:25:59] Created download interface of type 'SteamCache' (7) to host cache45-fra1.steamcontent.com (cache45-fra1.steamcontent.com)
+[2021-03-05 00:25:59] Created download interface of type 'SteamCache' (7) to host cache6-fra2.steamcontent.com (cache6-fra2.steamcontent.com)
+[2021-03-05 00:25:59] Created ipv4-only http client
+[2021-03-05 00:25:59] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.18:443 / 155.133.226.18:443, host: cache2-fra2.steamcontent.com): cache2-fra2.steamcontent.com/depot/258551/manifest/7890816816646058121/5 - received 200 (OK) HTTP response
+[2021-03-05 00:26:00] AppID 258550 update changed : Running,
+[2021-03-05 00:26:00] AppID 258550 update changed : Running,Validating,
+[2021-03-05 00:26:00] AppID 258550 update changed : Running,
+[2021-03-05 00:26:00] AppID 258550 update changed : Running,Preallocating,
+[2021-03-05 00:26:00] AppID 258550 update changed : Running,
+[2021-03-05 00:26:00] AppID 258550 update started : download 0/2294256, store 0/0, reuse 0/2097216, delta 0/0, stage 0/11194072 
+[2021-03-05 00:26:00] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2021-03-05 00:26:00] AppID 258550 update changed : Running,Downloading,
+[2021-03-05 00:26:00] AppID 258550 update changed : Running,Downloading,Staging,
+[2021-03-05 00:26:00] Downloading 39 chunks from depot 258551
+[2021-03-05 00:26:02] AppID 258550 update changed : Running,
+[2021-03-05 00:26:02] AppID 258550 update changed : Running,Committing,
+[2021-03-05 00:26:02] AppID 258550 starting commit from "e:\rust\steamapps\downloading\258550" to "e:\rust" : 34 updated, 0 moved, 0 deleted files
+[2021-03-05 00:26:02] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2021-03-05 00:26:02] AppID 258550 finished update, mounted depots (BuildID 6332395) : 258551 (7890816816646058121),258554 (503248424250477474),
+[2021-03-05 00:26:02] AppID 258550 update changed : Running,
+[2021-03-05 00:26:02] AppID 258550 update changed : None
+[2021-03-05 00:26:02] AppID 258550 state changed : Fully Installed,Update Queued,
+[2021-03-05 00:26:02] AppID 258550 state changed : Fully Installed,
+[2021-03-05 00:26:02] AppID 258550 scheduler finished : removed from schedule
+[2021-03-05 00:26:12] HTTP (SteamCache,242) - cache6-fra2.steamcontent.com (155.133.226.19:443 / 155.133.226.19:443, host: cache6-fra2.steamcontent.com): Closing connection
+[2021-03-05 00:26:12] HTTP (SteamCache,150) - cache45-fra1.steamcontent.com (155.133.250.56:443 / 155.133.250.56:443, host: cache45-fra1.steamcontent.com): Closing connection
+[2021-03-05 00:26:12] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.18:443 / 155.133.226.18:443, host: cache2-fra2.steamcontent.com): Closing connection
+
+
+[2021-03-05 02:00:35] Loaded 0 apps from install folder "E:\Rust Server\TestServerSetup\steamcmd\steamapps\appmanifest_*.acf".
+[2021-03-05 02:00:50] Loaded 1 apps from install folder "e:\rust\steamapps\appmanifest_*.acf".
+[2021-03-05 02:01:52] Start validating appID 258550
+[2021-03-05 02:01:52] AppID 258550 scheduler update : Priority First, timeSinceLastPlayed=1614906112, appDisableSecondsRemaining=0
+[2021-03-05 02:01:52] AppID 258550 state changed : Fully Installed,Update Queued,
+[2021-03-05 02:01:52] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2021-03-05 02:01:52] AppID 258550 update changed : Running,
+[2021-03-05 02:01:52] AppID 258550 update changed : Running,Reconfiguring,
+[2021-03-05 02:01:52] AppID 258550 update changed : Running,
+[2021-03-05 02:01:52] AppID 258550 update changed : Running,Validating,
+[2021-03-05 02:02:27] AppID 258550 update changed : Running,
+[2021-03-05 02:02:27] AppID 258550 update changed : None
+[2021-03-05 02:02:27] AppID 258550 state changed : Fully Installed,Update Queued,
+[2021-03-05 02:02:27] AppID 258550 state changed : Fully Installed,
+[2021-03-05 02:02:27] AppID 258550 scheduler finished : removed from schedule
+
+
+[2021-03-05 02:04:13] Loaded 0 apps from install folder "E:\Rust Server\TestServerSetup\steamcmd\steamapps\appmanifest_*.acf".
+[2021-03-05 02:04:14] Loaded 1 apps from install folder "e:\rust\steamapps\appmanifest_*.acf".
+
+
+[2021-03-06 08:19:12] Loaded 0 apps from install folder "E:\Rust Server\TestServerSetup\steamcmd\steamapps\appmanifest_*.acf".
+[2021-03-06 08:19:14] Loaded 1 apps from install folder "e:\rust\steamapps\appmanifest_*.acf".
+[2021-03-06 08:19:16] AppID 258550 state changed : Update Required,Fully Installed,
+[2021-03-06 08:19:16] AppID 258550 scheduler update : Priority First, timeSinceLastPlayed=1615015156, appDisableSecondsRemaining=0
+[2021-03-06 08:19:16] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,
+[2021-03-06 08:19:16] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2021-03-06 08:19:16] AppID 258550 update changed : Running,
+[2021-03-06 08:19:16] AppID 258550 update changed : Running,Reconfiguring,
+[2021-03-06 08:19:17] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 5 / Launcher 3)
+[2021-03-06 08:19:17] Created download interface of type 'SteamCache' (7) to host cache51-fra1.steamcontent.com (cache51-fra1.steamcontent.com)
+[2021-03-06 08:19:17] Created download interface of type 'SteamCache' (7) to host cache24-fra1.steamcontent.com (cache24-fra1.steamcontent.com)
+[2021-03-06 08:19:17] Created download interface of type 'SteamCache' (7) to host cache30-fra1.steamcontent.com (cache30-fra1.steamcontent.com)
+[2021-03-06 08:19:17] Created ipv4-only http client
+[2021-03-06 08:19:17] HTTP (SteamCache,156) - cache51-fra1.steamcontent.com (155.133.250.98:443 / 155.133.250.98:443, host: cache51-fra1.steamcontent.com): cache51-fra1.steamcontent.com/depot/258551/manifest/8724486950486834108/5 - received 200 (OK) HTTP response
+[2021-03-06 08:19:18] HTTP (SteamCache,156) - cache51-fra1.steamcontent.com (155.133.250.98:443 / 155.133.250.98:443, host: cache51-fra1.steamcontent.com): cache51-fra1.steamcontent.com/depot/258554/manifest/1219356356771580468/5 - received 200 (OK) HTTP response
+[2021-03-06 08:19:18] AppID 258550 update changed : Running,
+[2021-03-06 08:19:18] AppID 258550 update changed : Running,Validating,
+[2021-03-06 08:19:18] AppID 258550 update changed : Running,
+[2021-03-06 08:19:18] AppID 258550 update changed : Running,Preallocating,
+[2021-03-06 08:19:18] AppID 258550 update changed : Running,
+[2021-03-06 08:19:18] AppID 258550 update started : download 0/92316160, store 0/0, reuse 0/3381851534, delta 0/0, stage 0/3960820355 
+[2021-03-06 08:19:18] AppID 258550 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2021-03-06 08:19:18] AppID 258550 update changed : Running,Downloading,
+[2021-03-06 08:19:18] AppID 258550 update changed : Running,Downloading,Staging,
+[2021-03-06 08:19:18] Downloading 38 chunks from depot 258551
+[2021-03-06 08:19:24] Downloading 307 chunks from depot 258554
+[2021-03-06 08:19:30] Increasing target number of download connections to 4 (rate was 0.000, now 45.709)
+[2021-03-06 08:19:30] Created download interface of type 'SteamCache' (7) to host cache2-fra2.steamcontent.com (cache2-fra2.steamcontent.com)
+[2021-03-06 08:20:31] Current download rate: 0.000 Mbps
+[2021-03-06 08:20:32] HTTP (SteamCache,152) - cache2-fra2.steamcontent.com (155.133.226.18:443 / 155.133.226.18:443, host: cache2-fra2.steamcontent.com): Closing connection
+[2021-03-06 08:20:32] HTTP (SteamCache,265) - cache30-fra1.steamcontent.com (155.133.250.42:443 / 155.133.250.42:443, host: cache30-fra1.steamcontent.com): Closing connection
+[2021-03-06 08:20:33] HTTP (SteamCache,156) - cache51-fra1.steamcontent.com (155.133.250.98:443 / 155.133.250.98:443, host: cache51-fra1.steamcontent.com): Closing connection
+[2021-03-06 08:20:33] HTTP (SteamCache,300) - cache24-fra1.steamcontent.com (155.133.250.37:443 / 155.133.250.37:443, host: cache24-fra1.steamcontent.com): Closing connection
+[2021-03-06 08:20:52] AppID 258550 update changed : Running,
+[2021-03-06 08:20:52] AppID 258550 update changed : Running,Committing,
+[2021-03-06 08:20:52] AppID 258550 starting commit from "e:\rust\steamapps\downloading\258550" to "e:\rust" : 38 updated, 0 moved, 0 deleted files
+[2021-03-06 08:20:52] AppID 258550 state changed : Fully Installed,Update Queued,Update Running,
+[2021-03-06 08:20:52] AppID 258550 finished update, mounted depots (BuildID 6339204) : 258551 (8724486950486834108),258554 (1219356356771580468),
+[2021-03-06 08:20:52] AppID 258550 update changed : Running,
+[2021-03-06 08:20:52] AppID 258550 update changed : None
+[2021-03-06 08:20:52] AppID 258550 state changed : Fully Installed,Update Queued,
+[2021-03-06 08:20:52] AppID 258550 state changed : Fully Installed,
+[2021-03-06 08:20:52] AppID 258550 scheduler finished : removed from schedule
