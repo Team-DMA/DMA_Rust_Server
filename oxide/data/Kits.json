@@ -262,6 +262,115 @@
           "mods": []
         }
       ]
+    },
+    "npc_kit_1": {
+      "name": "NPC_KIT_1",
+      "description": "NPC KIT 1",
+      "max": 0,
+      "cooldown": 0.0,
+      "authlevel": 2,
+      "hide": true,
+      "npconly": true,
+      "permission": null,
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": -23994173,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 1185551523,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 352321488,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 13038,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 935692442,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 1416787006,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 237239288,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 2282181821,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1549739227,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 10044,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "npc_kit_2": {
+      "name": "NPC_KIT_2",
+      "description": "NPC KIT 2",
+      "max": 0,
+      "cooldown": 0.0,
+      "authlevel": 2,
+      "hide": true,
+      "npconly": true,
+      "permission": null,
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": -1695367501,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 793871235,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1675639563,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 10017,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1549739227,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 10022,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -2025184684,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 797241160,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
     }
   }
 }

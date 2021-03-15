@@ -1,6 +1,6 @@
 {
   "Settings": {
-    "Use Teams": false,
+    "Use Teams": true,
     "Use Clans": true,
     "Use Friends": true,
     "Use Entity Owners": true,
@@ -52,10 +52,10 @@
     "Normal": {
       "Display Name": "Normal",
       "Distance": 3.0,
-      "Default Time": 60,
-      "Max Time": 300,
+      "Default Time": 300,
+      "Max Time": 600,
       "Gibs": true,
-      "Reset the time after removing a entity": false
+      "Reset the time after removing a entity": true
     },
     "Structure": {
       "Display Name": "Structure",
@@ -125,7 +125,9 @@
     "stones": "Stones",
     "metal.fragments": "Metal Fragments",
     "metal.refined": "High Quality Metal",
-    "player": "player"
+    "player": "player",
+    "bandit_guard": "bandit_guard",
+    "bandit_conversationalist": "bandit_conversationalist"
   },
   "GUI": {
     "Enabled": true,
@@ -207,6 +209,276 @@
       "TopTier": true
     },
     "Building Blocks Settings": {
+      "Foundation": {
+        "Display Name": "Foundation",
+        "Building Grade": {
+          "Twigs": {
+            "Price": {
+              "wood": 30
+            },
+            "Refund": {
+              "wood": 50
+            }
+          },
+          "Wood": {
+            "Price": {
+              "wood": 120
+            },
+            "Refund": {
+              "wood": 200
+            }
+          },
+          "Stone": {
+            "Price": {
+              "stones": 180
+            },
+            "Refund": {
+              "stones": 300
+            }
+          },
+          "Metal": {
+            "Price": {
+              "metal.fragments": 120
+            },
+            "Refund": {
+              "metal.fragments": 200
+            }
+          },
+          "TopTier": {
+            "Price": {
+              "metal.refined": 15
+            },
+            "Refund": {
+              "metal.refined": 25
+            }
+          }
+        }
+      },
+      "Wall": {
+        "Display Name": "Wall",
+        "Building Grade": {
+          "Twigs": {
+            "Price": {
+              "wood": 30
+            },
+            "Refund": {
+              "wood": 50
+            }
+          },
+          "Wood": {
+            "Price": {
+              "wood": 120
+            },
+            "Refund": {
+              "wood": 200
+            }
+          },
+          "Stone": {
+            "Price": {
+              "stones": 180
+            },
+            "Refund": {
+              "stones": 300
+            }
+          },
+          "Metal": {
+            "Price": {
+              "metal.fragments": 120
+            },
+            "Refund": {
+              "metal.fragments": 200
+            }
+          },
+          "TopTier": {
+            "Price": {
+              "metal.refined": 15
+            },
+            "Refund": {
+              "metal.refined": 25
+            }
+          }
+        }
+      },
+      "Floor": {
+        "Display Name": "Floor",
+        "Building Grade": {
+          "Twigs": {
+            "Price": {
+              "wood": 15
+            },
+            "Refund": {
+              "wood": 25
+            }
+          },
+          "Wood": {
+            "Price": {
+              "wood": 60
+            },
+            "Refund": {
+              "wood": 100
+            }
+          },
+          "Stone": {
+            "Price": {
+              "stones": 90
+            },
+            "Refund": {
+              "stones": 150
+            }
+          },
+          "Metal": {
+            "Price": {
+              "metal.fragments": 60
+            },
+            "Refund": {
+              "metal.fragments": 100
+            }
+          },
+          "TopTier": {
+            "Price": {
+              "metal.refined": 8
+            },
+            "Refund": {
+              "metal.refined": 13
+            }
+          }
+        }
+      },
+      "Triangle Foundation": {
+        "Display Name": "Triangle Foundation",
+        "Building Grade": {
+          "Twigs": {
+            "Price": {
+              "wood": 15
+            },
+            "Refund": {
+              "wood": 25
+            }
+          },
+          "Wood": {
+            "Price": {
+              "wood": 60
+            },
+            "Refund": {
+              "wood": 100
+            }
+          },
+          "Stone": {
+            "Price": {
+              "stones": 90
+            },
+            "Refund": {
+              "stones": 150
+            }
+          },
+          "Metal": {
+            "Price": {
+              "metal.fragments": 60
+            },
+            "Refund": {
+              "metal.fragments": 100
+            }
+          },
+          "TopTier": {
+            "Price": {
+              "metal.refined": 8
+            },
+            "Refund": {
+              "metal.refined": 13
+            }
+          }
+        }
+      },
+      "Floor Triangle": {
+        "Display Name": "Floor Triangle",
+        "Building Grade": {
+          "Twigs": {
+            "Price": {
+              "wood": 8
+            },
+            "Refund": {
+              "wood": 13
+            }
+          },
+          "Wood": {
+            "Price": {
+              "wood": 30
+            },
+            "Refund": {
+              "wood": 50
+            }
+          },
+          "Stone": {
+            "Price": {
+              "stones": 45
+            },
+            "Refund": {
+              "stones": 75
+            }
+          },
+          "Metal": {
+            "Price": {
+              "metal.fragments": 30
+            },
+            "Refund": {
+              "metal.fragments": 50
+            }
+          },
+          "TopTier": {
+            "Price": {
+              "metal.refined": 4
+            },
+            "Refund": {
+              "metal.refined": 7
+            }
+          }
+        }
+      },
+      "Steps": {
+        "Display Name": "Steps",
+        "Building Grade": {
+          "Twigs": {
+            "Price": {
+              "wood": 15
+            },
+            "Refund": {
+              "wood": 25
+            }
+          },
+          "Wood": {
+            "Price": {
+              "wood": 60
+            },
+            "Refund": {
+              "wood": 100
+            }
+          },
+          "Stone": {
+            "Price": {
+              "stones": 90
+            },
+            "Refund": {
+              "stones": 150
+            }
+          },
+          "Metal": {
+            "Price": {
+              "metal.fragments": 60
+            },
+            "Refund": {
+              "metal.fragments": 100
+            }
+          },
+          "TopTier": {
+            "Price": {
+              "metal.refined": 8
+            },
+            "Refund": {
+              "metal.refined": 13
+            }
+          }
+        }
+      },
       "Floor Frame": {
         "Display Name": "Floor Frame",
         "Building Grade": {
@@ -297,276 +569,6 @@
           }
         }
       },
-      "Floor Triangle": {
-        "Display Name": "Floor Triangle",
-        "Building Grade": {
-          "Twigs": {
-            "Price": {
-              "wood": 8
-            },
-            "Refund": {
-              "wood": 13
-            }
-          },
-          "Wood": {
-            "Price": {
-              "wood": 30
-            },
-            "Refund": {
-              "wood": 50
-            }
-          },
-          "Stone": {
-            "Price": {
-              "stones": 45
-            },
-            "Refund": {
-              "stones": 75
-            }
-          },
-          "Metal": {
-            "Price": {
-              "metal.fragments": 30
-            },
-            "Refund": {
-              "metal.fragments": 50
-            }
-          },
-          "TopTier": {
-            "Price": {
-              "metal.refined": 4
-            },
-            "Refund": {
-              "metal.refined": 7
-            }
-          }
-        }
-      },
-      "Floor": {
-        "Display Name": "Floor",
-        "Building Grade": {
-          "Twigs": {
-            "Price": {
-              "wood": 15
-            },
-            "Refund": {
-              "wood": 25
-            }
-          },
-          "Wood": {
-            "Price": {
-              "wood": 60
-            },
-            "Refund": {
-              "wood": 100
-            }
-          },
-          "Stone": {
-            "Price": {
-              "stones": 90
-            },
-            "Refund": {
-              "stones": 150
-            }
-          },
-          "Metal": {
-            "Price": {
-              "metal.fragments": 60
-            },
-            "Refund": {
-              "metal.fragments": 100
-            }
-          },
-          "TopTier": {
-            "Price": {
-              "metal.refined": 8
-            },
-            "Refund": {
-              "metal.refined": 13
-            }
-          }
-        }
-      },
-      "Steps": {
-        "Display Name": "Steps",
-        "Building Grade": {
-          "Twigs": {
-            "Price": {
-              "wood": 15
-            },
-            "Refund": {
-              "wood": 25
-            }
-          },
-          "Wood": {
-            "Price": {
-              "wood": 60
-            },
-            "Refund": {
-              "wood": 100
-            }
-          },
-          "Stone": {
-            "Price": {
-              "stones": 90
-            },
-            "Refund": {
-              "stones": 150
-            }
-          },
-          "Metal": {
-            "Price": {
-              "metal.fragments": 60
-            },
-            "Refund": {
-              "metal.fragments": 100
-            }
-          },
-          "TopTier": {
-            "Price": {
-              "metal.refined": 8
-            },
-            "Refund": {
-              "metal.refined": 13
-            }
-          }
-        }
-      },
-      "Triangle Foundation": {
-        "Display Name": "Triangle Foundation",
-        "Building Grade": {
-          "Twigs": {
-            "Price": {
-              "wood": 15
-            },
-            "Refund": {
-              "wood": 25
-            }
-          },
-          "Wood": {
-            "Price": {
-              "wood": 60
-            },
-            "Refund": {
-              "wood": 100
-            }
-          },
-          "Stone": {
-            "Price": {
-              "stones": 90
-            },
-            "Refund": {
-              "stones": 150
-            }
-          },
-          "Metal": {
-            "Price": {
-              "metal.fragments": 60
-            },
-            "Refund": {
-              "metal.fragments": 100
-            }
-          },
-          "TopTier": {
-            "Price": {
-              "metal.refined": 8
-            },
-            "Refund": {
-              "metal.refined": 13
-            }
-          }
-        }
-      },
-      "Foundation": {
-        "Display Name": "Foundation",
-        "Building Grade": {
-          "Twigs": {
-            "Price": {
-              "wood": 30
-            },
-            "Refund": {
-              "wood": 50
-            }
-          },
-          "Wood": {
-            "Price": {
-              "wood": 120
-            },
-            "Refund": {
-              "wood": 200
-            }
-          },
-          "Stone": {
-            "Price": {
-              "stones": 180
-            },
-            "Refund": {
-              "stones": 300
-            }
-          },
-          "Metal": {
-            "Price": {
-              "metal.fragments": 120
-            },
-            "Refund": {
-              "metal.fragments": 200
-            }
-          },
-          "TopTier": {
-            "Price": {
-              "metal.refined": 15
-            },
-            "Refund": {
-              "metal.refined": 25
-            }
-          }
-        }
-      },
-      "A ramp": {
-        "Display Name": "A ramp",
-        "Building Grade": {
-          "Twigs": {
-            "Price": {
-              "wood": 15
-            },
-            "Refund": {
-              "wood": 25
-            }
-          },
-          "Wood": {
-            "Price": {
-              "wood": 60
-            },
-            "Refund": {
-              "wood": 100
-            }
-          },
-          "Stone": {
-            "Price": {
-              "stones": 90
-            },
-            "Refund": {
-              "stones": 150
-            }
-          },
-          "Metal": {
-            "Price": {
-              "metal.fragments": 60
-            },
-            "Refund": {
-              "metal.fragments": 100
-            }
-          },
-          "TopTier": {
-            "Price": {
-              "metal.refined": 8
-            },
-            "Refund": {
-              "metal.refined": 13
-            }
-          }
-        }
-      },
       "Roof Triangle": {
         "Display Name": "Roof Triangle",
         "Building Grade": {
@@ -614,6 +616,51 @@
       },
       "Roof": {
         "Display Name": "Roof",
+        "Building Grade": {
+          "Twigs": {
+            "Price": {
+              "wood": 15
+            },
+            "Refund": {
+              "wood": 25
+            }
+          },
+          "Wood": {
+            "Price": {
+              "wood": 60
+            },
+            "Refund": {
+              "wood": 100
+            }
+          },
+          "Stone": {
+            "Price": {
+              "stones": 90
+            },
+            "Refund": {
+              "stones": 150
+            }
+          },
+          "Metal": {
+            "Price": {
+              "metal.fragments": 60
+            },
+            "Refund": {
+              "metal.fragments": 100
+            }
+          },
+          "TopTier": {
+            "Price": {
+              "metal.refined": 8
+            },
+            "Refund": {
+              "metal.refined": 13
+            }
+          }
+        }
+      },
+      "A ramp": {
+        "Display Name": "A ramp",
         "Building Grade": {
           "Twigs": {
             "Price": {
@@ -1058,51 +1105,6 @@
             },
             "Refund": {
               "metal.refined": 18
-            }
-          }
-        }
-      },
-      "Wall": {
-        "Display Name": "Wall",
-        "Building Grade": {
-          "Twigs": {
-            "Price": {
-              "wood": 30
-            },
-            "Refund": {
-              "wood": 50
-            }
-          },
-          "Wood": {
-            "Price": {
-              "wood": 120
-            },
-            "Refund": {
-              "wood": 200
-            }
-          },
-          "Stone": {
-            "Price": {
-              "stones": 180
-            },
-            "Refund": {
-              "stones": 300
-            }
-          },
-          "Metal": {
-            "Price": {
-              "metal.fragments": 120
-            },
-            "Refund": {
-              "metal.fragments": 200
-            }
-          },
-          "TopTier": {
-            "Price": {
-              "metal.refined": 15
-            },
-            "Refund": {
-              "metal.refined": 25
             }
           }
         }

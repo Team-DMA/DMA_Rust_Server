@@ -1,0 +1,42 @@
+{
+  "Items": [
+    {
+      "ID": 1840822026,
+      "Amount": 5
+    },
+    {
+      "ID": -1273339005,
+      "Position": 1,
+      "Amount": 5
+    },
+    {
+      "ID": 649912614,
+      "Position": 2,
+      "Amount": 5,
+      "Condition": 100.0,
+      "MaxCondition": 100.0,
+      "AmmoType": 785728077,
+      "Contents": []
+    },
+    {
+      "ID": 1326180354,
+      "Position": 3,
+      "Amount": 4,
+      "Condition": 350.0,
+      "MaxCondition": 350.0
+    },
+    {
+      "ID": 2040726127,
+      "Position": 4,
+      "Amount": 5,
+      "Condition": 100.0,
+      "MaxCondition": 100.0
+    },
+    {
+      "ID": -1211166256,
+      "Position": 5,
+      "Amount": 60
+    }
+  ],
+  "OwnerID": 76561198218992285
+}

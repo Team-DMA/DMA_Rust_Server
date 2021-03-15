@@ -1,64 +1,13 @@
 {
   "Items": [
     {
-      "ID": 528668503,
-      "Position": 3,
-      "Amount": 1,
-      "Condition": 100.0,
-      "MaxCondition": 100.0
-    },
-    {
-      "ID": -1215753368,
-      "Position": 7,
-      "Amount": 5,
-      "FlameFuel": 50,
-      "Condition": 300.0,
-      "MaxCondition": 300.0
-    },
-    {
-      "ID": -1302129395,
-      "Position": 8,
-      "Amount": 5,
-      "Condition": 399.0,
-      "MaxCondition": 400.0
-    },
-    {
-      "ID": 1079279582,
-      "Position": 9,
+      "ID": 176787552,
       "Amount": 5
     },
     {
-      "ID": 254522515,
-      "Position": 10,
-      "Amount": 10
-    },
-    {
-      "ID": -1293296287,
-      "Position": 11,
-      "Amount": 5
-    },
-    {
-      "ID": -1302129395,
+      "ID": -1850571427,
       "Position": 1,
-      "Amount": 5,
-      "Condition": 398.0,
-      "MaxCondition": 400.0
-    },
-    {
-      "ID": 1159991980,
-      "Position": 5,
-      "Amount": 8
-    },
-    {
-      "ID": -1448252298,
-      "Amount": 10,
-      "Condition": 100.0,
-      "MaxCondition": 100.0
-    },
-    {
-      "ID": 2090395347,
-      "Position": 2,
-      "Amount": 5,
+      "Amount": 1,
       "Condition": 100.0,
       "MaxCondition": 100.0
     }

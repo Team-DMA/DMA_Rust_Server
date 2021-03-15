@@ -6,7 +6,7 @@
   },
   "Notification Options": {
     "Display notifications via PopupNotifications": false,
-    "Chat prefix": "[Zone Manager] :",
+    "Chat prefix": "[Zones]: ",
     "Chat color (hex)": "#d85540"
   },
   "NPC players can deal player damage in zones with PvpGod flag": false,

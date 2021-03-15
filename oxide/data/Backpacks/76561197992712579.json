@@ -1,4 +1,22 @@
 {
-  "Items": [],
+  "Items": [
+    {
+      "ID": 1525520776,
+      "Amount": 1
+    },
+    {
+      "ID": 200773292,
+      "Position": 1,
+      "Amount": 1,
+      "Skin": 2115359138
+    },
+    {
+      "ID": 1488979457,
+      "Position": 2,
+      "Amount": 1,
+      "Condition": 292.399536,
+      "MaxCondition": 300.0
+    }
+  ],
   "OwnerID": 76561197992712579
 }

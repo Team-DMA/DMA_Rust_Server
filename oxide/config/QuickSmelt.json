@@ -1,7 +1,7 @@
 {
   "Use Permission": false,
   "Speed Multipliers": {
-    "global": 0.6
+    "global": 3.0
   },
   "Fuel Usage Speed Multipliers": {
     "global": 1.0
@@ -11,7 +11,7 @@
   },
   "Output Multipliers": {
     "global": {
-      "global": 2.0
+      "global": 1.0
     }
   },
   "Whitelist": {

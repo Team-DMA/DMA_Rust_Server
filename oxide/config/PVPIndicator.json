@@ -1,0 +1,8 @@
+{
+  "DynamicPVP settings": {
+    "Mininal Anchor (left bottom coordinate)": "0 0",
+    "Maximal Anchor (right top coordinate)": "0.1 0.1",
+    "Link to image that will pop up (url)": "https://i.imgur.com/JWrsJqI.jpg",
+    "Color of image": "1 1 1 1"
+  }
+}

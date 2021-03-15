@@ -104,3 +104,21 @@
 [2021-03-06 08:19:15] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
 [2021-03-06 08:19:48] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
 [2021-03-06 08:20:52] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+
+
+[2021-03-07 20:34:48] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-07 20:34:48] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-07 20:34:48] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-07 20:34:49] Failed to read store 'userlocal' from 'E:\Rust Server\TestServerSetup\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2021-03-07 20:34:49] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-07 20:34:51] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+
+
+[2021-03-10 02:22:58] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-10 02:22:58] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-10 02:22:58] Loaded store 'install' from 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf' successfully
+[2021-03-10 02:22:59] Failed to read store 'userlocal' from 'E:\Rust Server\TestServerSetup\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2021-03-10 02:22:59] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-10 02:23:33] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-10 02:24:03] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'
+[2021-03-10 02:24:33] Flushed store 'install' to 'E:\Rust Server\TestServerSetup\steamcmd\config\config.vdf'

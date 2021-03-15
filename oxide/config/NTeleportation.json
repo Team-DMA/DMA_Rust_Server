@@ -8,14 +8,14 @@
       "Cold": false,
       "Excavator": false,
       "Hot": false,
-      "Hostile": false,
+      "Hostile": true,
       "Hurt": true,
       "Lift": true,
       "Monument": false,
       "Mounted": true,
       "Oil Rig": false,
-      "Safe Zone": true,
-      "Swimming": false
+      "Safe Zone": false,
+      "Swimming": true
     },
     "Block Teleport (NoEscape)": true,
     "Block Teleport (ZoneManager)": false,

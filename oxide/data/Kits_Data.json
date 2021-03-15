@@ -1,11 +1,445 @@
 {
-  "76561198435619481": {
+  "76561198026625228": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613081574.0478718
+      "cooldown": 1615755271.997539
     },
     "starterkit": {
       "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561199130245866": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615379248.6570969
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198825556048": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615149972.587399
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198241479712": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615150563.578969
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198035697241": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198092504772": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615151645.134939
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561199009235319": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615151635.971864
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198082998205": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615153910.3225939
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561197977809618": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615154975.566642
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198866617682": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615155334.2739549
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561199014541659": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615155404.71718
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198292078947": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615671211.187613
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198879371236": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615157649.695504
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198434207871": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615494664.927624
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198056547956": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615158889.7001278
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561197973092009": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615159278.758544
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198409921229": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615159587.5403788
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198032003828": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615430796.7925479
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198299669857": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615200270.413033
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198014655514": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615724137.79074
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561199128988025": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615205029.923389
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198373744252": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561199085864212": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615207721.2141669
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198109132382": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198250297384": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615213456.3714759
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198085538689": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615214675.3010409
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198087598526": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615215516.8192329
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198345581228": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615218442.960562
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198077152116": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615223237.211138
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561199145301565": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615221582.0764868
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561199128119996": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615223390.80879
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561199090721932": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615224112.0269389
+    },
+    "starterkit": {
+      "max": 1,
       "cooldown": 0.0
     },
     "wipekit": {
@@ -23,14 +457,14 @@
       "cooldown": 0.0
     },
     "wipekit": {
-      "max": 1,
+      "max": 0,
       "cooldown": 0.0
     }
   },
-  "76561198841045494": {
+  "76561198047591090": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1612835977.293077
+      "cooldown": 1615227035.09385
     },
     "starterkit": {
       "max": 2,
@@ -41,33 +475,209 @@
       "cooldown": 0.0
     }
   },
-  "76561198334862863": {
+  "76561197995531061": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1612855250.196084
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198905905007": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
     },
     "starterkit": {
       "max": 1,
       "cooldown": 0.0
-    }
-  },
-  "76561197992712579": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1612869569.0735888
     },
-    "starterkit": {
-      "max": 1,
+    "wipekit": {
+      "max": 0,
       "cooldown": 0.0
     }
   },
-  "76561198263245769": {
+  "76561198064541362": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613297496.5294929
+      "cooldown": 1615406108.631927
     },
     "starterkit": {
       "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561199068481702": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615238570.155467
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198141506954": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615454810.146508
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198113412696": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615242649.03262
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198021319208": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615244611.9846308
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198269284862": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615245941.575413
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198254012922": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615245955.719269
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198386223601": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615262756.3878069
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198038166120": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615285255.6342409
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198074864252": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615305506.8175089
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198183497355": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561197962687855": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561199087928616": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615313483.700084
+    },
+    "starterkit": {
+      "max": 1,
       "cooldown": 0.0
     },
     "wipekit": {
@@ -78,7 +688,7 @@
   "76561198068052289": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613508262.272542
+      "cooldown": 1615473349.120265
     },
     "starterkit": {
       "max": 2,
@@ -89,13 +699,27 @@
       "cooldown": 0.0
     }
   },
-  "76561198034568461": {
+  "76561198317888814": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613314207.9572339
+      "cooldown": 1615319097.5149159
     },
     "starterkit": {
-      "max": 2,
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198132037783": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
       "cooldown": 0.0
     },
     "wipekit": {
@@ -103,47 +727,13 @@
       "cooldown": 0.0
     }
   },
-  "76561197966545759": {
+  "76561198293068640": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1612885280.6549199
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    }
-  },
-  "76561198017166090": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1612894420.64342
+      "cooldown": 1615359921.29612
     },
     "starterkit": {
       "max": 0,
-      "cooldown": 0.0
-    }
-  },
-  "76561197967541559": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613159392.2743239
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198077115631": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1612917182.997005
-    },
-    "starterkit": {
-      "max": 1,
       "cooldown": 0.0
     },
     "wipekit": {
@@ -154,7 +744,91 @@
   "76561198030572483": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613508251.441056
+      "cooldown": 1615490632.0642519
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198886164308": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615388231.2710059
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198065855094": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615389657.016058
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198169567059": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198414753551": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615392239.3609998
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198799896911": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198889069000": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615396915.3454349
     },
     "starterkit": {
       "max": 2,
@@ -165,10 +839,10 @@
       "cooldown": 0.0
     }
   },
-  "76561199130245866": {
+  "76561198834764372": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613478772.8349509
+      "cooldown": 1615397673.2970729
     },
     "starterkit": {
       "max": 2,
@@ -179,38 +853,10 @@
       "cooldown": 0.0
     }
   },
-  "76561198003546998": {
+  "76561198190954870": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1612904075.7987258
-    },
-    "starterkit": {
-      "max": 1,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 0,
-      "cooldown": 0.0
-    }
-  },
-  "76561198798114688": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "starterkit": {
-      "max": 1,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 0,
-      "cooldown": 0.0
-    }
-  },
-  "76561198012525197": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1612930358.433255
+      "cooldown": 1615490836.44568
     },
     "starterkit": {
       "max": 2,
@@ -221,13 +867,13 @@
       "cooldown": 0.0
     }
   },
-  "76561197991119483": {
+  "76561198068861464": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1612963285.161916
+      "cooldown": 1615409008.2321489
     },
     "starterkit": {
-      "max": 1,
+      "max": 0,
       "cooldown": 0.0
     },
     "wipekit": {
@@ -235,24 +881,10 @@
       "cooldown": 0.0
     }
   },
-  "76561198064116600": {
+  "76561198844069720": {
     "dailykit": {
       "max": 0,
-      "cooldown": 0.0
-    },
-    "starterkit": {
-      "max": 1,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 0,
-      "cooldown": 0.0
-    }
-  },
-  "76561198831469956": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613338659.675513
+      "cooldown": 1615411032.747786
     },
     "starterkit": {
       "max": 2,
@@ -263,10 +895,192 @@
       "cooldown": 0.0
     }
   },
-  "76561198023306459": {
+  "76561198885216002": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1612969592.358722
+      "cooldown": 1615411294.5899599
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198032307164": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615586747.4022288
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198449915294": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615586484.394433
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198819027886": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615446812.7220759
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561199118178647": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198068429280": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615457082.7518818
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198256454153": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198259492729": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198200972167": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615470798.392818
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198026803138": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615476981.6335769
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198101736090": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615477521.3485079
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198029290071": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615478881.1954708
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198997242303": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615479006.1380298
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198074962078": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615482757.847724
     },
     "starterkit": {
       "max": 2,
@@ -277,10 +1091,10 @@
       "cooldown": 0.0
     }
   },
-  "76561198124873362": {
+  "76561199127852374": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1612972325.3519709
+      "cooldown": 1615482645.8736489
     },
     "starterkit": {
       "max": 1,
@@ -291,24 +1105,10 @@
       "cooldown": 0.0
     }
   },
-  "76561198075182477": {
+  "76561198023897495": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1612981889.2563469
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198189188647": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1612994120.7485569
+      "cooldown": 1615485065.5898218
     },
     "starterkit": {
       "max": 1,
@@ -319,52 +1119,10 @@
       "cooldown": 0.0
     }
   },
-  "76561198370893385": {
+  "76561197971462134": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613015569.1281829
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198408767269": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613050949.665772
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198437442947": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "starterkit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198164696098": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613063521.496552
+      "cooldown": 1615486268.150049
     },
     "starterkit": {
       "max": 1,
@@ -375,94 +1133,10 @@
       "cooldown": 0.0
     }
   },
-  "76561198250778742": {
+  "76561198082263083": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613061252.3944569
-    },
-    "starterkit": {
-      "max": 1,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561199064418211": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613151655.950115
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198191744979": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "starterkit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561199137974161": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613063725.1439919
-    },
-    "starterkit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198363969281": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "starterkit": {
-      "max": 1,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 0,
-      "cooldown": 0.0
-    }
-  },
-  "76561198837968558": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613068686.1249809
-    },
-    "starterkit": {
-      "max": 1,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198242803750": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613072801.0168738
+      "cooldown": 1615487964.099072
     },
     "starterkit": {
       "max": 0,
@@ -473,10 +1147,10 @@
       "cooldown": 0.0
     }
   },
-  "76561198150621383": {
+  "76561199088773620": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613149944.912823
+      "cooldown": 1615488574.7518439
     },
     "starterkit": {
       "max": 1,
@@ -487,38 +1161,10 @@
       "cooldown": 0.0
     }
   },
-  "76561198150369987": {
+  "76561198126012373": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613220830.5539229
-    },
-    "starterkit": {
-      "max": 1,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 0,
-      "cooldown": 0.0
-    }
-  },
-  "76561198156634853": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613518901.2805829
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561197993076855": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613524630.912735
+      "cooldown": 1615490391.3034859
     },
     "starterkit": {
       "max": 1,
@@ -529,388 +1175,10 @@
       "cooldown": 0.0
     }
   },
-  "76561198023250685": {
+  "76561198169842837": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613248716.4438839
-    },
-    "starterkit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198003832494": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613292947.303637
-    },
-    "starterkit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 0,
-      "cooldown": 0.0
-    }
-  },
-  "76561198903394711": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613295692.0790679
-    },
-    "starterkit": {
-      "max": 1,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198388061572": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "starterkit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 0,
-      "cooldown": 0.0
-    }
-  },
-  "76561199112830695": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613301989.846019
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561199072352196": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613304992.595181
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198032003828": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613402439.0933189
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198072125188": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613415083.924391
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561199140340037": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613326631.269208
-    },
-    "starterkit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198083788012": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613332957.8953369
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198093724980": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613335330.317122
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198108908738": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613337230.5191519
-    },
-    "starterkit": {
-      "max": 1,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 0,
-      "cooldown": 0.0
-    }
-  },
-  "76561198018570616": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613343459.889673
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561199139656911": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613343619.7704709
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198256447335": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "starterkit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 0,
-      "cooldown": 0.0
-    }
-  },
-  "76561198434207871": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613419111.787818
-    },
-    "starterkit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 0,
-      "cooldown": 0.0
-    }
-  },
-  "76561198076688732": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613429509.131135
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198221347308": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613534954.7659149
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198013409154": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613482837.7091908
-    },
-    "starterkit": {
-      "max": 1,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198021408560": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613482843.587131
-    },
-    "starterkit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198272854294": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613484309.5672948
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561199102573973": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "starterkit": {
-      "max": 0,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 0,
-      "cooldown": 0.0
-    }
-  },
-  "76561198089287744": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613490478.1767559
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561199132955151": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613584283.770215
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198961439439": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613502009.0343659
-    },
-    "starterkit": {
-      "max": 2,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198303852232": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613505962.71945
-    },
-    "starterkit": {
-      "max": 1,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198119043311": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613506642.0420969
-    },
-    "starterkit": {
-      "max": 1,
-      "cooldown": 0.0
-    },
-    "wipekit": {
-      "max": 1,
-      "cooldown": 0.0
-    }
-  },
-  "76561198018989878": {
-    "dailykit": {
-      "max": 0,
-      "cooldown": 1613506885.4288819
+      "cooldown": 1615490368.0968909
     },
     "starterkit": {
       "max": 1,
@@ -924,7 +1192,21 @@
   "76561198831881742": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613506851.8654759
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198125751002": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615504070.99946
     },
     "starterkit": {
       "max": 1,
@@ -935,13 +1217,27 @@
       "cooldown": 0.0
     }
   },
-  "76561198058601069": {
+  "76561198213554709": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613506955.305867
+      "cooldown": 1615552320.735146
     },
     "starterkit": {
       "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198831680609": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
       "cooldown": 0.0
     },
     "wipekit": {
@@ -949,10 +1245,38 @@
       "cooldown": 0.0
     }
   },
-  "76561198262218941": {
+  "76561198134522027": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613525410.722219
+      "cooldown": 1615561135.19075
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198150369987": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198320900904": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615566250.49471
     },
     "starterkit": {
       "max": 2,
@@ -963,10 +1287,10 @@
       "cooldown": 0.0
     }
   },
-  "76561198029115048": {
+  "76561198995620062": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613557745.10794
+      "cooldown": 1615569609.6013119
     },
     "starterkit": {
       "max": 1,
@@ -977,13 +1301,531 @@
       "cooldown": 0.0
     }
   },
-  "76561199007911145": {
+  "76561199107053633": {
     "dailykit": {
       "max": 0,
-      "cooldown": 1613561830.8514419
+      "cooldown": 1615572629.603472
     },
     "starterkit": {
       "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198097352081": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615574441.318578
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198292273216": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198244029740": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615575736.299624
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198203337503": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198070706153": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615577813.4474468
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198934217477": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198168003765": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615578957.11319
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198005832943": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615579762.6752169
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561199136737963": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615580693.7860889
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198799941982": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198874709199": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615630650.2391169
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198879412816": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615632465.9433489
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198126360563": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615637062.0000329
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561199042169294": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615640472.0150008
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561199013035758": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561199099685353": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615652672.1579828
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561199051886779": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615748753.986037
+    },
+    "starterkit": {
+      "max": 2,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198178544693": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615654520.4537308
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561199111101935": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198849569341": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615663553.848881
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561199037286559": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198833435029": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615669814.7505078
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198297720967": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615675375.958447
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198016317401": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615676024.521898
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198057844049": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615676814.7060339
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198398948414": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615712050.0220189
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198870743246": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561199136473798": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615721984.0391259
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198327537497": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615729353.7621469
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561199013550309": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615730105.986093
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198168529307": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615733189.4582078
+    },
+    "starterkit": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198967179026": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615734315.190388
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198359823343": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615737683.739856
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198091794057": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615738033.9692659
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198353516627": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615740461.955816
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561199062607740": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615748018.731288
+    },
+    "starterkit": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "wipekit": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561199101330734": {
+    "dailykit": {
+      "max": 0,
+      "cooldown": 1615764477.435796
+    },
+    "starterkit": {
+      "max": 0,
       "cooldown": 0.0
     },
     "wipekit": {

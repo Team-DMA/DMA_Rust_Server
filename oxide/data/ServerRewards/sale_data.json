@@ -5684,6 +5684,27 @@
         "displayName": "Ox Mask",
         "enabled": false
       }
+    },
+    "workcart": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Work Cart",
+        "enabled": false
+      }
+    },
+    "hat.gas.mask": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Gas Mask",
+        "enabled": false
+      }
+    },
+    "jumpsuit.suit": {
+      "0": {
+        "price": 0.0,
+        "displayName": "Jumpsuit",
+        "enabled": false
+      }
     }
   }
 }

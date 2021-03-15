@@ -176,6 +176,7 @@ namespace Oxide.Plugins
                 if (config.EnableNotifications) Message(player.IPlayer, "PermanentVanish");
                 return;
             }
+			Puts(player.displayName + " has used the vanish command.");
             if (IsInvisible(player)) Reappear(player);
             else Disappear(player);
 

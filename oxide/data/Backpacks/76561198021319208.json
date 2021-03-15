@@ -1,0 +1,73 @@
+{
+  "Items": [
+    {
+      "ID": -2099697608,
+      "Position": 4,
+      "Amount": 350000
+    },
+    {
+      "ID": -151838493,
+      "Position": 5,
+      "Amount": 399900,
+      "Fuel": 10.0
+    },
+    {
+      "ID": -1941646328,
+      "Position": 1,
+      "Amount": 8
+    },
+    {
+      "ID": -2072273936,
+      "Position": 7,
+      "Amount": 6
+    },
+    {
+      "ID": -119235651,
+      "Position": 3,
+      "Amount": 5,
+      "Contents": [
+        {
+          "ID": -1779180711,
+          "Amount": 400
+        }
+      ]
+    },
+    {
+      "ID": 1381010055,
+      "Position": 11,
+      "Amount": 15088
+    },
+    {
+      "ID": -932201673,
+      "Position": 9,
+      "Amount": 1000
+    },
+    {
+      "ID": -1432674913,
+      "Amount": 10
+    },
+    {
+      "ID": -253079493,
+      "Position": 2,
+      "Amount": 1
+    },
+    {
+      "ID": -1101924344,
+      "Position": 6,
+      "Amount": 1
+    },
+    {
+      "ID": -2022172587,
+      "Position": 8,
+      "Amount": 1,
+      "Condition": 600.0,
+      "MaxCondition": 600.0
+    },
+    {
+      "ID": -746030907,
+      "Position": 10,
+      "Amount": 5
+    }
+  ],
+  "OwnerID": 76561198021319208
+}

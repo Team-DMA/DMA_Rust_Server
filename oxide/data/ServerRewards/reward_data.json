@@ -819,10 +819,10 @@
       "customIcon": null,
       "amount": 1,
       "skinId": 0,
-      "isBp": true,
+      "isBp": false,
       "category": 2,
       "displayName": "Mining Quarry",
-      "cost": 500,
+      "cost": 200,
       "cooldown": 0
     },
     "sign.post.town_0": {

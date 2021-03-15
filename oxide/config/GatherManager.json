@@ -31,8 +31,8 @@
     "ExcavatorTimeForFullResources": 120.0,
     "GatherDispenserModifiers": {},
     "GatherResourceModifiers": {
-      "Wood": 1.5,
-      "Stones": 1.4
+      "Wood": 1.2,
+      "Stones": 1.2
     },
     "MiningQuarryResourceTickRate": 5.0,
     "PickupResourceModifiers": {

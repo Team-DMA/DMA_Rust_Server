@@ -1,13 +1,22 @@
 {
   "cooldownList": [
     {
-      "LastCallDay": "02/14/2021",
-      "CooldownTime": "02/14/2021 18:48:54",
-      "TimesCalled": 24,
-      "LastCallDayCH47": "02/14/2021",
-      "CooldownTimeCH47": "02/14/2021 18:51:47",
-      "TimesCalledCH47": 6,
+      "LastCallDay": "03/11/2021",
+      "CooldownTime": "03/11/2021 23:28:39",
+      "TimesCalled": 54,
+      "LastCallDayCH47": "02/17/2021",
+      "CooldownTimeCH47": "02/17/2021 18:14:08",
+      "TimesCalledCH47": 7,
       "UserID": 76561198070936229
+    },
+    {
+      "LastCallDay": null,
+      "CooldownTime": null,
+      "TimesCalled": 0,
+      "LastCallDayCH47": "",
+      "CooldownTimeCH47": "",
+      "TimesCalledCH47": 0,
+      "UserID": 76561199128119996
     }
   ]
 }

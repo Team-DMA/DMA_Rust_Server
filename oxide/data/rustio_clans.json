@@ -1,5 +1,27 @@
 {
   "clans": {
+    "CaidA": {
+      "description": "PvPvE",
+      "invited": [],
+      "members": [
+        "76561198320900904",
+        "76561198292273216"
+      ],
+      "moderators": [],
+      "owner": "76561198320900904",
+      "tag": "CaidA"
+    },
+    "diller": {
+      "description": "sovs",
+      "invited": [],
+      "members": [
+        "76561198302979085",
+        "76561199022931865"
+      ],
+      "moderators": [],
+      "owner": "76561198302979085",
+      "tag": "diller"
+    },
     "DMA": {
       "description": "Doesnt mean anything",
       "invited": [],
@@ -35,6 +57,40 @@
       "moderators": [],
       "owner": "76561197991119483",
       "tag": "HR"
+    },
+    "Master": {
+      "description": "Masters",
+      "invited": [],
+      "members": [
+        "76561198087598526",
+        "76561198085538689",
+        "76561198329730550"
+      ],
+      "moderators": [],
+      "owner": "76561198087598526",
+      "tag": "Master"
+    },
+    "NICU": {
+      "description": "niculesti",
+      "invited": [],
+      "members": [
+        "76561198334675531",
+        "76561199075098303"
+      ],
+      "moderators": [],
+      "owner": "76561198334675531",
+      "tag": "NICU"
+    },
+    "QL": {
+      "description": "QL",
+      "invited": [],
+      "members": [
+        "76561197971418865",
+        "76561197979235418"
+      ],
+      "moderators": [],
+      "owner": "76561197971418865",
+      "tag": "QL"
     },
     "SPT": {
       "description": "friendly",

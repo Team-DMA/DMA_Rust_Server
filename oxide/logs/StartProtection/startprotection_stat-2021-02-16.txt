@@ -20,3 +20,7 @@ Start protection disabled by user Stefanis [76561198854279343]
 
 [02/16/2021 18:17:49]Start protection enabled for hephaestus [76561198049027128] - Duration: 27 minutes.
 
+[02/16/2021 19:29:09]Start protection enabled for pierre160791 [76561199140578145] - Duration: 30 minutes.
+
+[02/16/2021 21:24:48]Start protection enabled for drizzt [76561198849484944] - Duration: 30 minutes.
+

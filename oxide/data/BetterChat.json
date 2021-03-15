@@ -20,8 +20,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[Admin] Joe321: Hi there!"
+    }
   },
   {
     "GroupName": "moderators",
@@ -44,8 +43,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[Moderator] Joe321: Hi there!"
+    }
   },
   {
     "GroupName": "supporters",
@@ -68,8 +66,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[Supporter] Joe321: Hi there!"
+    }
   },
   {
     "GroupName": "vip",
@@ -92,8 +89,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[VIP] Joe321: Hi there!"
+    }
   },
   {
     "GroupName": "immortal",
@@ -116,8 +112,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[Immortal] Joe321: Hi there!"
+    }
   },
   {
     "GroupName": "mythic",
@@ -140,8 +135,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[Mythic] Joe321: Hi there!"
+    }
   },
   {
     "GroupName": "legend",
@@ -164,8 +158,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[Legend] Joe321: Hi there!"
+    }
   },
   {
     "GroupName": "hero",
@@ -188,8 +181,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[Hero] Joe321: Hi there!"
+    }
   },
   {
     "GroupName": "veteran",
@@ -212,8 +204,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[Veteran] Joe321: Hi there!"
+    }
   },
   {
     "GroupName": "pro",
@@ -236,8 +227,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[Pro] Joe321: Hi there!"
+    }
   },
   {
     "GroupName": "regular",
@@ -260,8 +250,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[Regular] Joe321: Hi there!"
+    }
   },
   {
     "GroupName": "player",
@@ -284,8 +273,7 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[Player] Joe321: Hi there!"
+    }
   },
   {
     "GroupName": "default",
@@ -308,7 +296,6 @@
     "Format": {
       "Chat": "{Title} {Username}: {Message}",
       "Console": "{Title} {Username}: {Message}"
-    },
-    "ConsolePresentation": "[Newbie] Joe321: Hi there!"
+    }
   }
 ]

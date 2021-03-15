@@ -1,0 +1,141 @@
+{
+  "theConfig": {
+    "Messages": {
+      "theChoices": {
+        "0": {
+          "message": "Welcome to my shop wander. What would you like?",
+          "reply": [
+            {
+              "command": "continue",
+              "message": "I would like to buy a car.",
+              "goodbye": "",
+              "broke": "",
+              "price": 0,
+              "item": -932201673,
+              "choiceConfig": 1
+            },
+            {
+              "command": "close",
+              "message": "I am just browsing.",
+              "goodbye": "",
+              "broke": "",
+              "price": 0,
+              "item": -932201673,
+              "choiceConfig": 0
+            }
+          ]
+        },
+        "1": {
+          "message": "A ride you say. Witch style ride would you like?",
+          "reply": [
+            {
+              "command": "continue",
+              "message": "I would like a short car.",
+              "goodbye": "",
+              "broke": "",
+              "price": 0,
+              "item": -932201673,
+              "choiceConfig": 2
+            },
+            {
+              "command": "continue",
+              "message": "I would like a medium car.",
+              "goodbye": "",
+              "broke": "",
+              "price": 0,
+              "item": -932201673,
+              "choiceConfig": 3
+            },
+            {
+              "command": "continue",
+              "message": "I would like a long car.",
+              "goodbye": "",
+              "broke": "",
+              "price": 0,
+              "item": -932201673,
+              "choiceConfig": 4
+            },
+            {
+              "command": "close",
+              "message": "I am just browsing.",
+              "goodbye": "",
+              "broke": "",
+              "price": 0,
+              "item": -932201673,
+              "choiceConfig": 1
+            }
+          ]
+        },
+        "2": {
+          "message": "That is a nice choice. Do you want to buy this ride?",
+          "reply": [
+            {
+              "command": "SendAsPlayer carspawns55912 small",
+              "message": "Here are my 250 RP.",
+              "goodbye": "Go get your ride before someone steals it and please stop by again.\nType <color=#4DFF4D>/spawn</color> to spawn your new car.",
+              "broke": "I am sorry you do not have enough RP",
+              "price": 250,
+              "item": 0000,
+              "choiceConfig": 2
+            },
+            {
+              "command": "close",
+              "message": "I am just browsing.",
+              "goodbye": "",
+              "broke": "",
+              "price": 0,
+              "item": -932201673,
+              "choiceConfig": 2
+            }
+          ]
+        },
+        "3": {
+          "message": "That is a nice choice. Do you want to buy this ride?",
+          "reply": [
+            {
+              "command": "SendAsPlayer carspawns55912 medium",
+              "message": "Here are my 350 RP.",
+              "goodbye": "Go get your ride before someone steals it and please stop by again.\nType <color=#4DFF4D>/spawn</color> to spawn your new car.",
+              "broke": "I am sorry you do not have enough RP",
+              "price": 350,
+              "item": 0000,
+              "choiceConfig": 3
+            },
+            {
+              "command": "close",
+              "message": "I am just browsing.",
+              "goodbye": "",
+              "broke": "",
+              "price": 0,
+              "item": -932201673,
+              "choiceConfig": 3
+            }
+          ]
+        },
+        "4": {
+          "message": "That is a nice choice. Do you want to buy this ride?",
+          "reply": [
+            {
+              "command": "SendAsPlayer carspawns55912 long",
+              "message": "Here are my 500 RP.",
+              "goodbye": "Go get your ride before someone steals it and please stop by again.\nType <color=#4DFF4D>/spawn</color> to spawn your new car.",
+              "broke": "I am sorry you do not have enough RP",
+              "price": 500,
+              "item": 0000,
+              "choiceConfig": 4
+            },
+            {
+              "command": "close",
+              "message": "I am just browsing.",
+              "goodbye": "",
+              "broke": "",
+              "price": 0,
+              "item": -932201673,
+              "choiceConfig": 4
+            }
+          ]
+        }
+      }
+    }
+  }
+}

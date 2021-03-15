@@ -1,5 +1,5 @@
 {
-  "version": 2279,
+  "version": 2283,
   "AllItemsAvailable": {
     "hat.wolf": "Wolf Headdress",
     "fogmachine": "Fogger-3000",
@@ -7,6 +7,7 @@
     "kayak": "Kayak",
     "minihelicopter.repair": "MC repair",
     "scraptransportheli.repair": "ScrapTransportHeliRepair",
+    "workcart": "Work Cart",
     "ammo.grenadelauncher.buckshot": "40mm Shotgun Round",
     "ammo.grenadelauncher.he": "40mm HE Grenade",
     "ammo.grenadelauncher.smoke": "40mm Smoke Grenade",
@@ -68,6 +69,7 @@
     "boots.frog": "Frog Boots",
     "barrelcostume": "A Barrel Costume",
     "cratecostume": "Crate Costume",
+    "hat.gas.mask": "Gas Mask",
     "burlap.gloves.new": "Burlap Gloves",
     "burlap.gloves": "Leather Gloves",
     "roadsign.gloves": "Roadsign Gloves",
@@ -123,6 +125,7 @@
     "hazmatsuit_scientist_peacekeeper": "Scientist Suit",
     "hazmatsuit.spacesuit": "Space Suit",
     "scientistsuit_heavy": "Heavy Scientist Suit",
+    "jumpsuit.suit": "Jumpsuit",
     "tshirt.long": "Longsleeve T-Shirt",
     "tshirt": "T-Shirt",
     "metal.plate.torso": "Metal Chest Plate",

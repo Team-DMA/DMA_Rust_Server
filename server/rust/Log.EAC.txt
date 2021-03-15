@@ -1,0 +1,77 @@
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [SetLogCallback] Procedure: 0x413c7870 LogLevel: Verb.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Initialize] ServerName: 'DMA Reloaded |CustomMap|x10|PvE&PvP|NPCs|NoobFriendly|Skins' RegisterTimeout: 20.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: 1h EventName: 'game_round_start' Parameters: { map_name (string) }.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: 2h EventName: 'game_round_end' Parameters: { winning_team_id (uint32) }.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: 3h EventName: 'player_spawn' Parameters: { player (client), team_id (uint32), character_id (uint32) }.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: 4h EventName: 'player_despawn' Parameters: { player (client), player_death (uint32), player_killer (client) }.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: 5h EventName: 'player_revive' Parameters: { player_revived (client), player_reviving (client) }.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: 6h EventName: 'player_tick' Parameters: { player (client), player_position (vec3f), player_viewrotation (quat), player_health (uint32), player_tickflags (uint32) }.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: 7h EventName: 'player_useweapon' Parameters: { player (client), player_position (vec3f), player_viewrotation (quat), player_fov (uint32), weapon_id (uint32), melee_attack (uint32) }.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: 8h EventName: 'player_takedamage' Parameters: { player_victim (client), player_victim_position (vec3f), player_victim_viewrotation (quat), player_attacker (client), player_attacker_position (vec3f), player_attacker_viewrotation (quat), player_attacker_fov (uint32), weapon_id (uint32), hitbone_id (uint32), damage_taken (uint32), damage_flags (uint32) }.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: 9h EventName: 'player_downed' Parameters: { player_victim (client), player_attacker (client) }.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: Ah EventName: 'player_death' Parameters: { victim (client), victim_shots_fired (uint64), victim_shots_landed (uint64), attacker (client), attacker_shots_fired (uint64), attacker_shots_landed (uint64) }.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: Bh EventName: 'game_round_start_v2' Parameters: { map_name (string), mode_name (string), round_time_seconds (uint32), start_frame_number (uint64), start_delta_seconds (uint32) }.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: Ch EventName: 'game_round_start_v3' Parameters: { gamesessionid (string), map_name (string), mode_name (string), round_time_seconds (uint32), start_frame_number (uint64), start_delta_seconds (uint32) }.
+03/15/2021 11:07:32  [Info] [11:07:32] [Linux] [EAC Server] [Info] [Cerberus] [RegisterEvent] EventID: Dh EventName: 'player_use_ability' Parameters: { player (client), ability_id (uint32), ability_duration_ms (uint32), ability_cooldown_ms (uint32), ability_effect_flags (uint32) }.
+03/15/2021 11:07:32  [Error] [11:07:32] [Linux] [EAC Server] [Err!] [Cerberus] [LogEvent] BeginFrame has not been called!
+03/15/2021 11:09:11  [Info] [11:09:11] [Linux] [EAC Server] [Info] [RegisterClient] Client: 0x1 PlayerGUID: 76561198014655514 PlayerIP: 2.244.138.104:59718 OwnerGUID: 76561198014655514 PlayerName: Sponkey
+03/15/2021 11:09:11  [Info] [11:09:11] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Connection established.
+03/15/2021 11:09:14  [Info] [11:09:14] [Linux] [EAC Server] [Info] [QueueClientUpdate] Client: 0x1 Session: 1 Status: Client Authenticated Message: Client authenticated.
+03/15/2021 11:09:14  [Info] [11:09:14] [Linux] [EAC Server] [Info] [Register Client] Success (1/2). Client: 0x1.
+03/15/2021 11:09:14  [Info] [11:09:14] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: No.
+03/15/2021 11:09:15  [Info] [11:09:15] [Linux] [EAC Server] [Info] [Register Client] Success (2/2). Client: 0x1
+03/15/2021 11:09:15  [Info] [11:09:15] [Linux] [EAC Server] [Info] [QueueClientUpdate] Client: 0x1 Session: 1 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+03/15/2021 11:14:28  [Info] [11:14:28] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: No.
+03/15/2021 11:14:28  [Info] [11:14:28] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x1 NetworkActive: Yes.
+03/15/2021 11:37:03  [Info] [11:37:03] [Linux] [EAC Server] [Info] [UnregisterClient] Client: 0x1 PlayerGUID: 76561198014655514
+03/15/2021 11:37:03  [Info] [11:37:03] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Server empty, disconnecting.
+03/15/2021 11:37:03  [Info] [11:37:03] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Scheduling disconnect task.
+03/15/2021 11:37:03  [Info] [11:37:03] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Disconnected.
+03/15/2021 15:40:28  [Info] [15:40:28] [Linux] [EAC Server] [Info] [RegisterClient] Client: 0x2 PlayerGUID: 76561198068052289 PlayerIP: 5.48.234.252:60355 OwnerGUID: 76561198068052289 PlayerName: SeeMS
+03/15/2021 15:40:28  [Info] [15:40:28] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Connection established.
+03/15/2021 15:40:31  [Info] [15:40:31] [Linux] [EAC Server] [Info] [QueueClientUpdate] Client: 0x2 Session: 2 Status: Client Authenticated Message: Client authenticated.
+03/15/2021 15:40:31  [Info] [15:40:31] [Linux] [EAC Server] [Info] [Register Client] Success (1/2). Client: 0x2.
+03/15/2021 15:40:32  [Info] [15:40:32] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: No.
+03/15/2021 15:40:32  [Info] [15:40:32] [Linux] [EAC Server] [Info] [Register Client] Success (2/2). Client: 0x2
+03/15/2021 15:40:32  [Info] [15:40:32] [Linux] [EAC Server] [Info] [QueueClientUpdate] Client: 0x2 Session: 2 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+03/15/2021 15:42:19  [Info] [15:42:19] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: No.
+03/15/2021 15:42:20  [Info] [15:42:20] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: Yes.
+03/15/2021 15:55:49  [Info] [15:55:49] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: Yes.
+03/15/2021 15:59:20  [Info] [15:59:20] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Socket disconnected gracefully.
+03/15/2021 15:59:20  [Info] [15:59:20] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Scheduling disconnect task.
+03/15/2021 15:59:20  [Info] [15:59:20] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Disconnected.
+03/15/2021 15:59:32  [Info] [15:59:32] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Connection established.
+03/15/2021 16:13:23  [Info] [16:13:23] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x2 NetworkActive: Yes.
+03/15/2021 16:33:32  [Error] [16:33:32] [Linux] [EAC Server] [Err!] [Cerberus] [Backend] Receive operation failed with -1, disconnecting.
+03/15/2021 16:33:32  [Info] [16:33:32] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Scheduling disconnect task.
+03/15/2021 16:33:32  [Info] [16:33:32] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Disconnected.
+03/15/2021 16:35:32  [Warning] [16:35:32] [Linux] [EAC Server] [Warn] [Cerberus] [Backend] [Think] Reconnection not allowed yet, reconnection interval is 120 seconds.
+03/15/2021 16:37:32  [Info] [16:37:32] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Connection established.
+03/15/2021 16:46:34  [Info] [16:46:34] [Linux] [EAC Server] [Info] [RegisterClient] Client: 0x3 PlayerGUID: 76561198026625228 PlayerIP: 92.137.163.79:65419 OwnerGUID: 76561198026625228 PlayerName: tronche de vainqueur
+03/15/2021 16:46:37  [Info] [16:46:37] [Linux] [EAC Server] [Info] [QueueClientUpdate] Client: 0x3 Session: 3 Status: Client Authenticated Message: Client authenticated.
+03/15/2021 16:46:37  [Info] [16:46:37] [Linux] [EAC Server] [Info] [Register Client] Success (1/2). Client: 0x3.
+03/15/2021 16:46:38  [Info] [16:46:38] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x3 NetworkActive: No.
+03/15/2021 16:46:38  [Info] [16:46:38] [Linux] [EAC Server] [Info] [Register Client] Success (2/2). Client: 0x3
+03/15/2021 16:46:38  [Info] [16:46:38] [Linux] [EAC Server] [Info] [QueueClientUpdate] Client: 0x3 Session: 3 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+03/15/2021 16:48:41  [Info] [16:48:41] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x3 NetworkActive: No.
+03/15/2021 16:48:42  [Info] [16:48:42] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x3 NetworkActive: Yes.
+03/15/2021 16:52:48  [Info] [16:52:48] [Linux] [EAC Server] [Info] [RegisterClient] Client: 0x4 PlayerGUID: 76561198014655514 PlayerIP: 2.244.138.104:55530 OwnerGUID: 76561198014655514 PlayerName: Sponkey
+03/15/2021 16:52:50  [Info] [16:52:50] [Linux] [EAC Server] [Info] [QueueClientUpdate] Client: 0x4 Session: 4 Status: Client Authenticated Message: Client authenticated.
+03/15/2021 16:52:50  [Info] [16:52:50] [Linux] [EAC Server] [Info] [Register Client] Success (1/2). Client: 0x4.
+03/15/2021 16:52:51  [Info] [16:52:51] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x4 NetworkActive: No.
+03/15/2021 16:52:51  [Info] [16:52:51] [Linux] [EAC Server] [Info] [Register Client] Success (2/2). Client: 0x4
+03/15/2021 16:52:51  [Info] [16:52:51] [Linux] [EAC Server] [Info] [QueueClientUpdate] Client: 0x4 Session: 4 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+03/15/2021 16:55:23  [Info] [16:55:23] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Socket disconnected gracefully.
+03/15/2021 16:55:23  [Info] [16:55:23] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Scheduling disconnect task.
+03/15/2021 16:55:23  [Info] [16:55:23] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Disconnected.
+03/15/2021 16:55:32  [Info] [16:55:32] [Linux] [EAC Server] [Info] [Cerberus] [Backend] Connection established.
+03/15/2021 16:58:40  [Info] [16:58:40] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x4 NetworkActive: No.
+03/15/2021 16:58:41  [Info] [16:58:41] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x4 NetworkActive: Yes.
+03/15/2021 16:59:46  [Info] [16:59:46] [Linux] [EAC Server] [Info] [RegisterClient] Client: 0x5 PlayerGUID: 76561199130245866 PlayerIP: 188.210.31.221:61331 OwnerGUID: 76561199130245866 PlayerName: chitzo
+03/15/2021 16:59:48  [Info] [16:59:48] [Linux] [EAC Server] [Info] [QueueClientUpdate] Client: 0x5 Session: 5 Status: Client Authenticated Message: Client authenticated.
+03/15/2021 16:59:48  [Info] [16:59:48] [Linux] [EAC Server] [Info] [Register Client] Success (1/2). Client: 0x5.
+03/15/2021 16:59:49  [Info] [16:59:49] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x5 NetworkActive: No.
+03/15/2021 16:59:49  [Info] [16:59:49] [Linux] [EAC Server] [Info] [Register Client] Success (2/2). Client: 0x5
+03/15/2021 16:59:49  [Info] [16:59:49] [Linux] [EAC Server] [Info] [QueueClientUpdate] Client: 0x5 Session: 5 Status: Client Authenticated Remotely Message: Client authenticated remotely.
+03/15/2021 17:02:35  [Info] [17:02:35] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x5 NetworkActive: No.
+03/15/2021 17:02:36  [Info] [17:02:36] [Linux] [EAC Server] [Info] [SetClientNetworkState] ClientObject: 0x5 NetworkActive: Yes.

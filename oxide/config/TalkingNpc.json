@@ -1,0 +1,75 @@
+{
+  "Settings": {
+    "PermissionUse": "talkingnpc.admin",
+    "carData": {
+      "small": {
+        "Position": {
+          "x": 768.7,
+          "y": 7.2,
+          "z": -1422.7
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 30.0,
+          "z": 0.0
+        },
+        "CodeLock": true,
+        "KeyLock": false,
+        "EnginePartsTier": 3,
+        "FreshWaterAmount": 0,
+        "FuelAmount": 500,
+        "Modules": [
+          "vehicle.1mod.cockpit.with.engine",
+          "vehicle.1mod.flatbed"
+        ]
+      },
+      "medium": {
+        "Position": {
+          "x": 768.7,
+          "y": 7.2,
+          "z": -1422.7
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 30.0,
+          "z": 0.0
+        },
+        "CodeLock": true,
+        "KeyLock": false,
+        "EnginePartsTier": 3,
+        "FreshWaterAmount": 0,
+        "FuelAmount": 500,
+        "Modules": [
+          "vehicle.1mod.cockpit.with.engine",
+          "vehicle.2mod.flatbed"
+        ]
+      },
+      "long": {
+        "Position": {
+          "x": 768.7,
+          "y": 7.2,
+          "z": -1422.7
+        },
+        "Rotation": {
+          "x": 0.0,
+          "y": 30.0,
+          "z": 0.0
+        },
+        "CodeLock": true,
+        "KeyLock": false,
+        "EnginePartsTier": 3,
+        "FreshWaterAmount": 0,
+        "FuelAmount": 500,
+        "Modules": [
+          "vehicle.1mod.cockpit.with.engine",
+          "vehicle.2mod.passengers"
+        ]
+      }
+    }
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 12
+  }
+}

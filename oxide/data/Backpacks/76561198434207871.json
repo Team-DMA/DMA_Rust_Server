@@ -1,4 +1,25 @@
 {
-  "Items": [],
+  "Items": [
+    {
+      "ID": -194953424,
+      "Amount": 5,
+      "Condition": 320.0,
+      "MaxCondition": 320.0
+    },
+    {
+      "ID": -484206264,
+      "Position": 1,
+      "Amount": 1,
+      "Condition": 4.0,
+      "MaxCondition": 4.0
+    },
+    {
+      "ID": -1880870149,
+      "Position": 2,
+      "Amount": 1,
+      "Condition": 2.0,
+      "MaxCondition": 2.0
+    }
+  ],
   "OwnerID": 76561198434207871
 }

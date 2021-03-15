@@ -1,0 +1,1470 @@
+00:00 [Info] Uninstalling Rust:IO ...
+00:00 [Info] Rust:IO> Uninstalling ...
+00:00 [Info] Rust:IO> No longer ticking
+00:00 [Info] Rust:IO> Stopping server ...
+00:00 [Info] Rust:IO> Removing listeners ...
+00:00 [Info] Rust:IO> Performing maintenance ...
+00:00 [Info] Rust:IO> Closing database ...
+00:00 [Info] Rust:IO> Uninstalled.
+00:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Warning] Calling 'Unload' on 'AdminHammer v1.12.0' took 303ms
+00:00 [Info] Unloaded plugin AdminHammer v1.12.0 by mvrb
+00:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:00 [Info] Unloaded plugin Auto Engine Parts v1.0.0 by WhiteThunder
+00:00 [Info] Unloaded plugin Auto Purge v2.1.1 by misticos
+00:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Warning] Calling 'Unload' on 'BGrade v1.1.3' took 276ms
+00:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Unloaded plugin Backpacks v3.4.0 by LaserHydra
+00:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Unloaded plugin Better Chat Mute v1.2.1 by LaserHydra
+00:00 [Warning] Calling 'Unload' on 'BetterLoot v3.5.3' took 278ms
+00:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Unloaded plugin Better Say v3.0.1 by LaserHydra
+00:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Unloaded plugin BuildingBlocker v0.0.1 by TeamDMA
+00:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Clothed Murderers v1.0.1 by Substrata
+00:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Unloaded plugin CustomSpawnPoints v1.1.2 by Reneb / k1lly0u
+00:00 [Info] Unloaded plugin Extended Recycler v1.1.0 by Orange
+00:00 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 293ms
+00:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+00:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Warning] Calling 'Unload' on 'InventoryViewer v3.0.3' took 287ms
+00:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Unloaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+00:00 [Info] Unloaded plugin NPCNav v1.0.0 by Whispers88
+00:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 577ms
+00:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Info] Unloaded plugin Notice v1.0.1 by LaserHydra
+00:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Warning] [Human NPC] Deleting Jack (6225752576)
+00:00 [Warning] [Human NPC] Deleting Darlene (11144432640)
+00:00 [Warning] Calling 'Unload' on 'HumanNPC v0.3.50' took 568ms
+00:00 [Info] Unloaded plugin Human NPC v0.3.50 by Ts3Hosting
+00:00 [Warning] Calling 'Unload' on 'PathFinding v1.1.3' took 339ms
+00:00 [Info] Unloaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+00:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Unloaded plugin PrivateMessages v1.1.11 by MisterPixie
+00:00 [Info] Unloaded plugin Private Messages GUI v1.0.2 by Tricky
+00:00 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 288ms
+00:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+00:00 [Info] [SQL] Deleting old and unnecessary entries...
+00:00 [Info] [SQL] Deleted.
+00:00 [Info] Unloaded plugin SQL v0.0.1 by TeamDMA
+00:00 [Info] Unloaded plugin Scientist Names v1.1.3 by Ultra
+00:00 [Info] Unloaded plugin Scrap Heli Storage v0.0.5 by yetzt
+00:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+00:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+00:00 [Info] Unloaded plugin Slap v2.0.0 by Wulf
+00:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Unloaded plugin Spawn Modular Car v5.0.2 by WhiteThunder
+00:00 [Info] Unloaded plugin Spawns v2.0.36 by Reneb / k1lly0u
+00:00 [Info] Unloaded plugin Stack Size Controller v3.2.0 by AnExiledGod
+00:00 [Info] Unloaded plugin TalkingNpc v1.0.12 by Ts3Hosting
+00:00 [Info] Unloaded plugin Dynamic PVP v4.2.2 by CatMeat/Arainrr
+00:00 [Info] Unloaded plugin TruePVE v2.0.1 by nivex
+00:00 [Info] Unloaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+00:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Unloaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+00:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+00:00 [Info] Unloaded plugin Waypoints v1.1.3 by RFC1920
+00:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+00:00 [Info] Unloaded plugin Zone Manager v3.0.91 by k1lly0u
+00:01 [Info] Loading Oxide Core v2.0.3991...
+00:01 [Info] Loading extensions...
+00:01 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+00:01 [Info] Loaded extension RustEdit v1.0.32 by k1lly0u
+00:01 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:01 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+00:01 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+00:01 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+00:01 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+00:01 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:01 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:01 [Info] Using Covalence provider for game 'Rust'
+00:01 [Info] Loading plugins...
+00:01 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+00:01 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+00:01 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+00:01 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:01 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:01 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:01 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+00:01 [Info] AdminChat, AdminHammer, AliasSystem, AutoBroadcast, AutoEngineParts, AutoPurge, AutomaticAuthorization, BGrade, Backpacks, BetterChat, BetterChatMentions, BetterChatMute, BetterLoot, BetterSay, BlueprintManager, BuildingBlocker, BuildingGrades, ClanTags, ClanTeam, Clans, ClothedMurderers, CraftingController, CustomSpawnPoints, DynamicPVP, ExtendedRecycler, GatherManager, GestureWheel, Godmode, HeliControl, HumanNPC, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NPCDropGun, NPCNav, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PathFinding, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, SAMSiteAuth, SQL, ScientistNames, ScrapHeliStorage, ServerInfo, ServerRewards, SignArtist, Skins, SkipNightVote, Slap, SmoothRestart, SpawnMini, SpawnModularCar, Spawns, StackSizeController, TalkingNpc, TruePVE, UpkeepDisplayFix, Vanish, VehicleLicence, Voter, Waypoints, Welcomer, WhereIsMyHorse, ZLevelsRemastered and ZoneManager were compiled successfully in 0ms
+00:01 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+00:01 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+00:01 [Warning] [DEBUG] DynamicPVP plugin is waiting for requirements to be loaded: ZoneManager and TruePVE
+00:01 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+00:01 [Warning] [DEBUG] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+00:01 [Error] Error while compiling: VehicleDecayProtection.cs(172,36): error CS1061: Type `ModularCar' does not contain a definition for `lastEngineTime' and no extension method `lastEngineTime' of type `ModularCar' could be found. Are you missing an assembly reference?
+00:01 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+00:01 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+00:01 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+00:01 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:01 [Info] Loaded plugin Auto Engine Parts v1.0.0 by WhiteThunder
+00:01 [Info] Loaded plugin Auto Purge v2.1.1 by misticos
+00:01 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:01 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:01 [Info] Loaded plugin Backpacks v3.4.0 by LaserHydra
+00:01 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+00:01 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+00:01 [Info] Loaded plugin Better Chat Mute v1.2.1 by LaserHydra
+00:01 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+00:01 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+00:01 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+00:01 [Info] Loaded plugin BuildingBlocker v0.0.1 by TeamDMA
+00:01 [Info] Loaded plugin Building Grades v0.5.1 by Default
+00:01 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+00:01 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:01 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+00:01 [Info] Loaded plugin Clothed Murderers v1.0.1 by Substrata
+00:01 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+00:01 [Info] Loaded plugin CustomSpawnPoints v1.1.2 by Reneb / k1lly0u
+00:01 [Info] Loaded plugin Extended Recycler v1.1.0 by Orange
+00:01 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+00:01 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:01 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+00:01 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:01 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:01 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+00:01 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:01 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:01 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:01 [Info] Loaded plugin Kits v3.3.1 by Reneb
+00:01 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:01 [Info] Loaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+00:01 [Info] Loaded plugin NPCNav v1.0.0 by Whispers88
+00:01 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+00:01 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+00:01 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+00:01 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+00:01 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:01 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+00:01 [Info] Loaded plugin Human NPC v0.3.50 by Ts3Hosting
+00:01 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+00:01 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:01 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:01 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+00:01 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+00:01 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:01 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:01 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+00:01 [Info] Loaded plugin SQL v0.0.1 by TeamDMA
+00:01 [Info] Loaded plugin Scientist Names v1.1.3 by Ultra
+00:01 [Info] Loaded plugin Scrap Heli Storage v0.0.5 by yetzt
+00:01 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+00:01 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+00:01 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+00:01 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+00:01 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+00:01 [Info] Loaded plugin Slap v2.0.0 by Wulf
+00:01 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:01 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:01 [Info] Loaded plugin Spawn Modular Car v5.0.2 by WhiteThunder
+00:01 [Error] Failed to call hook 'OnPluginLoaded' on plugin 'CustomSpawnPoints v1.1.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.CustomSpawnPoints.LoadSpawnpoints () [0x00007] in <00c5b886b48b48f1999db9ea46d00f77>:0 
+  at Oxide.Plugins.CustomSpawnPoints.OnPluginLoaded (Oxide.Core.Plugins.Plugin plugin) [0x00029] in <00c5b886b48b48f1999db9ea46d00f77>:0 
+  at Oxide.Plugins.CustomSpawnPoints.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000bf] in <00c5b886b48b48f1999db9ea46d00f77>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <3606d2af539c45e4b5c61658e6a8b307>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+00:01 [Info] Loaded plugin Spawns v2.0.36 by Reneb / k1lly0u
+00:01 [Info] Loaded plugin Stack Size Controller v3.2.0 by AnExiledGod
+00:01 [Info] Loaded plugin TalkingNpc v1.0.12 by Ts3Hosting
+00:01 [Info] Loaded plugin TruePVE v2.0.1 by nivex
+00:01 [Warning] [DEBUG] DynamicPVP plugin is waiting for requirements to be loaded: ZoneManager
+00:01 [Info] Loaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+00:01 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+00:01 [Info] Loaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+00:01 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+00:01 [Info] Loaded plugin Waypoints v1.1.3 by RFC1920
+00:01 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+00:01 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:01 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+00:01 [Info] Loaded plugin Zone Manager v3.0.91 by k1lly0u
+00:01 [Info] Loaded plugin Dynamic PVP v4.2.2 by CatMeat/Arainrr
+00:01 [Info] [RustEdit] - IO data loaded and ready to be processed!
+00:01 [Warning] [RustEdit] - No vending data found in map file
+00:01 [Warning] [RustEdit] - No loot data found in map file
+00:01 [Warning] [RustEdit] - No APC path data found in map file
+00:01 [Info] [RustEdit] - Vehicle data loaded and ready to be processed!
+00:01 [Info] [RustEdit] - NPC data loaded and ready to be processed!
+00:02 [Warning] [RustEdit] - No ocean patrol path data found in map file
+00:02 [Info] [Stack Size Controller] Ensuring VanillaStackSize integrity.
+00:02 [Warning] Calling 'OnTerrainInitialized' on 'StackSizeController v3.2.0' took 5385ms [GARBAGE COLLECT]
+00:06 [Warning] Calling 'OnEntitySpawned' on 'HeliControl v1.4.0' took 661ms [GARBAGE COLLECT]
+00:07 [Info] IP address from external API: 45.138.48.233
+00:07 [Info] [RustEdit] - Checking for updates...
+00:07 [Info] Updating Rust:IO ...
+00:07 [Info] [Auto Purge] The purge has been started.
+00:07 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+00:07 [Info] [BetterLoot] Updating internals ...
+00:07 [Info] Rust:IO: Update complete
+00:07 [Warning] [CustomSpawnPoints] Successfully loaded 5 spawn points
+00:07 [Warning] Calling 'OnServerInitialized' on 'ExtendedRecycler v1.1.0' took 258ms
+00:07 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 240ms
+00:07 [Info] [HeliControl] Next Helicopter spawn: 25 minutes
+00:07 [Info] [HeliControl] Next CH47 spawn: 32 minutes
+00:07 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 928ms
+00:07 [Info] [Kill Feed] Loading configuration file!
+00:07 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 299ms
+00:07 [Warning] [Human NPC] Spawned NPC: 11144432640
+00:07 [Warning] [Human NPC] Spawned NPC: 6225752576
+00:07 [Warning] Calling 'OnServerInitialized' on 'HumanNPC v0.3.50' took 512ms
+00:07 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 231ms
+00:07 [Warning] Calling 'OnServerInitialized' on 'ScrapHeliStorage v0.0.5' took 232ms
+00:07 [Warning] [Server Rewards] All UI elements have been successfully generated!
+00:07 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 398ms
+00:07 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+00:07 [Info] [TruePVE] [WARNING] Schedule Broadcast: PVE is on now!
+00:07 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+00:07 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 355ms
+00:07 [Info] [RustEdit] - The RustEdit extension is up to date!
+00:07 [Info] [BetterLoot] No stacked LootContainer found.
+00:07 [Info] [BetterLoot] Populated '802' supported containers.
+00:07 [Info] [SmoothRestart] Your servers Oxide build is up to date
+00:07 [Info] Installing Rust:IO ...
+00:07 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+00:07 [Info] Rust:IO> Creating directories ...
+00:07 [Info] Rust:IO> Applying config ...
+00:07 [Info] Rust:IO> Initializing database ...
+00:07 [Info] Rust:IO> Generating map image (this may take a while) ...
+00:08 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  9339.480ms
+Postprocess  :  4025.919ms
+  Shadows    :   269.062ms
+  FXAA       :  3743.791ms
+Encoding     :    31.377ms
+Other        :    10.040ms
+--------------------------
+Total        :  13406.815ms
+00:08 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+00:08 [Info] Rust:IO> Installed.
+00:08 [Info] Rust:IO> Now ticking
+00:08 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 13925ms [GARBAGE COLLECT]
+00:08 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 2ms [GARBAGE COLLECT]
+00:08 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+00:08 [Info] [RustEdit] - Processing 246 IO entities
+00:08 [Info] [RustEdit] - Successfully connected 246 IO links
+00:08 [Info] [RustEdit] - No custom vending machines found in map
+00:08 [Info] [RustEdit] - 674 loot containers processed!
+00:08 [Info] [RustEdit] - Created 12 keycard desk respawners
+00:08 [Info] [RustEdit] - 1961 resource entities processed!
+00:08 [Info] [RustEdit] - 1 junkpiles processed!
+00:08 [Info] [RustEdit] - Added 1 vehicle spawn handlers!
+00:08 [Info] [RustEdit] - Created 348 NPC spawn handlers!
+00:08 [Info] [Auto Purge] The purge has been completed. Purged entities: 507.
+00:09 [Info] [Welcomer] • Yangtze 揚子江 has joined the server from Germany.
+00:09 [Info] [Welcomer] • Wade W.Willson has joined the server from Germany.
+00:11 [Info] [SQL] Deleting old and unnecessary entries...
+00:11 [Info] [SQL] Deleted.
+00:14 [Info] [Kill Feed] [14/00/13/03/2021] sentry.scientist.static                                       bullet                         73.1m                          Dr. D. Knowles
+00:19 [Info] [Kill Feed] [19/00/13/03/2021] Yangtze 揚子江                                                   rifle.lr300                    18.5m                          Boar
+00:23 [Info] [Dynamic PVP] Debug, zoneID: 0023568512, mapping: zones
+00:23 [Info] [Dynamic PVP] Debug, zoneID: 0023569696, mapping: zones
+00:23 [Info] [Dynamic PVP] Debug, zoneID: 0023581808, mapping: zones
+00:23 [Info] [Dynamic PVP] Debug, zoneID: 0023584797, mapping: zones
+00:24 [Info] [Dynamic PVP] Debug, zoneID: 0024034479, mapping: zones
+00:24 [Info] [Dynamic PVP] Debug, zoneID: 0024074996, mapping: zones
+00:24 [Info] [Dynamic PVP] Debug, zoneID: 0024075907, mapping: zones
+00:24 [Info] [Dynamic PVP] Debug, zoneID: 0024097354, mapping: zones
+00:24 [Info] [Dynamic PVP] Debug, zoneID: 0024123031, mapping: zones
+00:24 [Info] [Dynamic PVP] Debug, zoneID: 0024124063, mapping: zones
+00:24 [Info] [Dynamic PVP] Debug, zoneID: 0024134739, mapping: zones
+00:24 [Info] [Dynamic PVP] Debug, zoneID: 0024191265, mapping: zones
+00:42 [Info] [PlayerRankings] Yangtze 揚子江 has been ranked up to player
+00:46 [Info] [HeliControl] Next Helicopter spawn: 27 minutes
+00:49 [Info] [HeliControl] Next CH47 spawn: 24 minutes
+01:08 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: 7RANKS
+01:14 [Info] [Kill Feed] [14/01/13/03/2021] sentry.scientist.static                                       bullet                         73.5m                          Dr. S. Vinson
+01:21 [Info] [Kill Feed] [21/01/13/03/2021] sentry.scientist.static                                       bullet                         78.2m                          Dr. O. Dunn
+01:23 [Info] [HeliControl] Next CH47 spawn: 31 minutes
+01:25 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: voteday
+01:25 [Info] [Welcomer] • HecTiiC has joined the server from Germany.
+01:25 [Info] [Welcomer] • Yangtze 揚子江 has left the server (Disconnected).
+01:26 [Info] [Better Chat] [Global] [Veteran] HecTiiC: hello
+01:26 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: moin
+01:26 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: keiner da
+01:26 [Info] [HeliControl] Next Helicopter spawn: 26 minutes
+01:26 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: wollt auch gerade of gehen :-D muss bald arbeiten
+01:27 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: kongo wollte uns heute mal wieder raiden
+01:27 [Info] [Better Chat] [Team] [Veteran] HecTiiC: bei mir waren auch welche drinn aber haben nix geschafft xD
+01:27 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: bei uns auch :-D
+01:28 [Info] [Better Chat] [Team] [Veteran] HecTiiC: sehe 2 leitern an meiner wand xd
+01:28 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: :-D
+01:28 [Info] [Better Chat] [Team] [Veteran] HecTiiC: aber habe an jeder wand ein geschütz
+01:29 [Info] [Better Chat] [Global] [Veteran] HecTiiC: thx for the 2 ladder in my base
+01:29 [Info] [Better Chat] [Global] [Veteran] HecTiiC: ^^
+01:29 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: bei f 22 sind zwei große basen im wasser quasi hinter unserer alten nicht raiden das sind meine und vom kollegen wir sind umgezo
+01:30 [Info] [Better Chat] [Global] [Veteran] HecTiiC: oh die haben versucht auf dem dach zu landen bißchen strom ist weg xd
+01:30 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: so ich gehe off muss in 4 stunden arbeiten sehen oder hören uns moin.
+01:30 [Info] [Welcomer] • Wade W.Willson has left the server (Disconnected).
+01:32 [Info] [Welcomer] • Wade W.Willson has joined the server from Germany.
+01:32 [Info] [Better Chat] [Team] [Veteran] HecTiiC: was vergessen xD
+01:32 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: ich idot
+01:32 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: ja wollte online bleiben wegen der spielzeit :-D
+01:32 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: weist du ob man bei inaktivität gekickt wird :-D
+01:32 [Info] [Better Chat] [Team] [Veteran] HecTiiC: wirst eh wegen afk gekickt xd
+01:33 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: toll dann gehe ich doch off
+01:33 [Info] [Better Chat] [Team] [Veteran] HecTiiC: die idioten xd
+01:33 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: :-D
+01:33 [Info] [Better Chat] [Team] [Veteran] HecTiiC: die sind nicht in meinem shop gegangen
+01:33 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: so dann jetzt aber bis morgen !!!!
+01:33 [Info] [Better Chat] [Team] [Pro] Wade W.Willson: bei mir auch net
+01:34 [Info] [Welcomer] • Wade W.Willson has left the server (Disconnected).
+01:34 [Info] [Better Chat] [Team] [Veteran] HecTiiC: 1ne vending maschine voll mit l96
+01:35 [Info] [Kill Feed] [35/01/13/03/2021] HecTiiC                                                       lmg.m249                       10.5m                          Bear
+01:35 [Info] [Kill Feed] [35/01/13/03/2021] HecTiiC                                                       lmg.m249                       49.7m                          Stag
+01:35 [Info] [Kill Feed] [35/01/13/03/2021] HecTiiC                                                       lmg.m249                       28.0m                          Stag
+01:35 [Info] [Kill Feed] [35/01/13/03/2021] HecTiiC                                                       lmg.m249                       28.2m                          Stag
+01:38 [Info] [Kill Feed] [38/01/13/03/2021] HecTiiC                                                       lmg.m249                       17.8m                          Boar
+01:41 [Info] [Dynamic PVP] Debug, zoneID: 0141071999, mapping: zones
+02:04 [Info] [HeliControl] Next CH47 spawn: 23 minutes
+02:06 [Info] [HeliControl] Next Helicopter spawn: 35 minutes
+02:07 [Info] [Kill Feed] [07/02/13/03/2021] minicopter.entity                                             explosion                      0.4m                           HecTiiC
+02:09 [Info] [Welcomer] • HecTiiC has left the server (Kicked: Unresponsive).
+02:16 [Info] [Welcomer] • HecTiiC has joined the server from Germany.
+02:21 [Info] [Kill Feed] [21/02/13/03/2021] Bear                                                          bite                           2.2m                           HecTiiC
+02:22 [Info] [Dynamic PVP] Debug, zoneID: 0222512641, mapping: zones
+02:23 [Info] [Welcomer] • meNsaVT has joined the server from Germany.
+02:27 [Info] [Better Chat] [Global] [Veteran] HecTiiC: hello
+02:31 [Info] [Welcomer] • meNsaVT has left the server (Disconnected).
+02:37 [Info] [HeliControl] Next CH47 spawn: 31 minutes
+02:38 [Info] [Kill Feed] [38/02/13/03/2021] HecTiiC                                                       rifle.l96                      59.1m                          Stag
+02:43 [Info] [Kill Feed] [43/02/13/03/2021] HecTiiC                        Head                           rifle.l96                      116.4m                         Dr. R. Glass
+02:43 [Info] [Kill Feed] [43/02/13/03/2021] HecTiiC                        Head                           rifle.l96                      129.3m                         Dr. T. Campos
+02:45 [Info] [Kill Feed] [45/02/13/03/2021] HecTiiC                        Head                           rifle.l96                      129.5m                         Dr. T. Patterson
+02:45 [Info] [Kill Feed] [45/02/13/03/2021] HecTiiC                        Head                           rifle.l96                      129.6m                         Dr. U. Allen
+02:46 [Info] [Kill Feed] [46/02/13/03/2021] HecTiiC                        Neck                           rifle.l96                      119.0m                         Dr. G. Gibson
+02:46 [Info] [Kill Feed] [46/02/13/03/2021] HecTiiC                        Head                           rifle.l96                      117.0m                         Dr. T. Lindsey
+02:46 [Info] [Kill Feed] [46/02/13/03/2021] HecTiiC                        Head                           rifle.l96                      119.6m                         Dr. Y. England
+02:47 [Info] [Kill Feed] [47/02/13/03/2021] HecTiiC                        Head                           rifle.l96                      121.7m                         Dr. O. Garner
+02:47 [Info] [Kill Feed] [47/02/13/03/2021] HecTiiC                        Head                           rifle.l96                      117.8m                         Dr. B. Dean
+02:47 [Info] [Kill Feed] [47/02/13/03/2021] HecTiiC                        Head                           rifle.l96                      135.1m                         Dr. H. Gaines
+02:48 [Info] [Kill Feed] [48/02/13/03/2021] HecTiiC                        Head                           rifle.l96                      117.6m                         Dr. S. Padilla
+02:49 [Info] [Kill Feed] [49/02/13/03/2021] HecTiiC                        Hip                            lmg.m249                       18.6m                          Dr. P. Foley
+02:50 [Info] [Kill Feed] [50/02/13/03/2021] HecTiiC                        Arm                            lmg.m249                       13.7m                          Dr. B. Good
+02:50 [Info] [Kill Feed] [50/02/13/03/2021] HecTiiC                        Neck                           lmg.m249                       5.4m                           Dr. V. Mason
+02:51 [Info] [Kill Feed] [51/02/13/03/2021] HecTiiC                        Head                           lmg.m249                       15.9m                          Dr. H. Barnes
+02:52 [Info] [Dynamic PVP] Debug, zoneID: 0252522266, mapping: zones
+02:54 [Info] [Kill Feed] [54/02/13/03/2021] HecTiiC                        Head                           lmg.m249                       10.4m                          Dr. D. Moss
+02:54 [Info] [Kill Feed] [54/02/13/03/2021] HecTiiC                        Head                           lmg.m249                       12.7m                          Dr. P. Scott
+02:55 [Info] [Kill Feed] [55/02/13/03/2021] HecTiiC                        Pelvis                         lmg.m249                       14.9m                          Dr. I. Rios
+02:55 [Info] [HeliControl] Next Helicopter spawn: 29 minutes
+02:56 [Info] [Kill Feed] [56/02/13/03/2021] Dr. L. Mendoza                                                bullet                                                        Dr. L. Mendoza
+02:56 [Info] [Kill Feed] [56/02/13/03/2021] Dr. X. McCoy                                                  lmg.m249                       4.0m                           HecTiiC
+03:03 [Info] [Kill Feed] [03/03/13/03/2021] HecTiiC                        Neck                           lmg.m249                       5.6m                           Dr. O. Hubbard
+03:03 [Info] [Kill Feed] [03/03/13/03/2021] HecTiiC                        Neck                           lmg.m249                       3.7m                           Dr. X. McCoy
+03:12 [Info] [Kill Feed] [12/03/13/03/2021] HecTiiC                        Head                           rifle.l96                      180.9m                         Dr. L. Yates
+03:13 [Info] [Kill Feed] [13/03/13/03/2021] HecTiiC                        Head                           rifle.l96                      180.9m                         Dr. V. Bennett
+03:14 [Info] [Dynamic PVP] Debug, zoneID: 0314204684, mapping: zones
+03:18 [Info] [HeliControl] Next CH47 spawn: 32 minutes
+03:29 [Info] [Dynamic PVP] Debug, zoneID: 0329197830, mapping: zones
+03:35 [Info] [Kill Feed] [35/03/13/03/2021] HecTiiC                                                       rifle.l96                      80.7m                          Bear
+03:38 [Info] [HeliControl] Next Helicopter spawn: 20 minutes
+03:59 [Info] [Kill Feed] [59/03/13/03/2021] HecTiiC                                                       lmg.m249                       23.6m                          Chicken
+03:59 [Info] [Kill Feed] [59/03/13/03/2021] HecTiiC                                                       lmg.m249                       24.3m                          Chicken
+03:59 [Info] [Kill Feed] [59/03/13/03/2021] HecTiiC                                                       lmg.m249                       24.9m                          Chicken
+03:59 [Info] [Kill Feed] [59/03/13/03/2021] HecTiiC                                                       lmg.m249                       25.8m                          Chicken
+04:00 [Info] [HeliControl] Next CH47 spawn: 21 minutes
+04:04 [Info] [Kill Feed] [04/04/13/03/2021] sentry.scientist.static                                       bullet                         75.2m                          Dr. V. Jones
+04:12 [Info] [HeliControl] Next Helicopter spawn: 32 minutes
+04:23 [Info] [Welcomer] • HecTiiC has left the server (Kicked: Unresponsive).
+04:31 [Info] [Welcomer] • HecTiiC has joined the server from Germany.
+04:31 [Info] [HeliControl] Next CH47 spawn: 32 minutes
+04:37 [Info] [Dynamic PVP] Debug, zoneID: 0437106821, mapping: zones
+04:45 [Info] [Welcomer] • HecTiiC has left the server (Disconnected).
+04:48 [Info] [Dynamic PVP] Debug, zoneID: 0448517513, mapping: zones
+04:58 [Info] [HeliControl] Next Helicopter spawn: 20 minutes
+05:09 [Warning] Calling 'OnLootSpawn' on 'BetterLoot v3.5.3' took 164ms
+05:14 [Info] [HeliControl] Next CH47 spawn: 32 minutes
+05:21 [Info] [Welcomer] • Dönerfabsel has joined the server from Germany.
+05:29 [Info] [Kill Feed] [29/05/13/03/2021] Dönerfabsel                                                   hatchet                        1.5m                           Chicken
+05:29 [Info] [Kill Feed] [29/05/13/03/2021] Dönerfabsel                                                   hatchet                        0.9m                           Chicken
+05:32 [Info] [HeliControl] Next Helicopter spawn: 28 minutes
+05:42 [Info] [Dynamic PVP] Debug, zoneID: 0542024614, mapping: zones
+05:47 [Info] [Better Chat] [Team] [Newbie] Dönerfabsel: day
+05:56 [Info] [HeliControl] Next CH47 spawn: 35 minutes
+05:58 [Info] [Kill Feed] [58/05/13/03/2021] Dönerfabsel                                                   hatchet                        1.2m                           Chicken
+06:01 [Info] [Kill Feed] [01/06/13/03/2021] Dönerfabsel                                                   rifle.ak                       51.5m                          Bear
+06:13 [Info] [Kill Feed] [13/06/13/03/2021] Dönerfabsel                                                   rifle.ak                       11.3m                          Boar
+06:14 [Info] [HeliControl] Next Helicopter spawn: 29 minutes
+06:20 [Info] [Better Chat] [Team] [Newbie] Dönerfabsel: G
+06:30 [Info] [PlayerRankings] Dönerfabsel has been ranked up to player
+06:32 [Info] Listing 80 plugins:
+  01 "Admin Chat" (2.0.4) by LaserHydra (0.00s) - AdminChat.cs
+  02 "AdminHammer" (1.12.0) by mvrb (0.00s) - AdminHammer.cs
+  03 "Alias System" (2.1.3) by LaserHydra (0.00s) - AliasSystem.cs
+  04 "AutoBroadcast" (1.0.8) by Wulf/lukespragg (0.01s) - AutoBroadcast.cs
+  05 "Auto Engine Parts" (1.0.0) by WhiteThunder (0.19s) - AutoEngineParts.cs
+  06 "Auto Purge" (2.1.1) by misticos (0.01s) - AutoPurge.cs
+  07 "Automatic Authorization" (1.2.4) by k1lly0u/Arainrr (0.20s) - AutomaticAuthorization.cs
+  08 "BGrade" (1.1.3) by Ryan / Rustoria.co (0.04s) - BGrade.cs
+  09 "Backpacks" (3.4.0) by LaserHydra (10.39s) - Backpacks.cs
+  10 "Better Chat" (5.2.5) by LaserHydra (0.06s) - BetterChat.cs
+  11 "Better Chat Mentions" (1.2.3) by Death (0.00s) - BetterChatMentions.cs
+  12 "Better Chat Mute" (1.2.1) by LaserHydra (0.03s) - BetterChatMute.cs
+  13 "BetterLoot" (3.5.3) by Default (17.13s) - BetterLoot.cs
+  14 "Better Say" (3.0.1) by LaserHydra (0.01s) - BetterSay.cs
+  15 "Blueprint Manager" (1.1.4) by Orange (0.08s) - BlueprintManager.cs
+  16 "BuildingBlocker" (0.0.1) by TeamDMA (0.00s) - BuildingBlocker.cs
+  17 "Building Grades" (0.5.1) by Default (0.00s) - BuildingGrades.cs
+  18 "Clan Tags" (0.8.0) by GreenArrow (0.00s) - ClanTags.cs
+  19 "Rust:IO Clans" (1.7.6) by playrust.io / dcode (0.02s) - Clans.cs
+  20 "Clan Team" (1.0.5) by deivismac (0.00s) - ClanTeam.cs
+  21 "Clothed Murderers" (1.0.1) by Substrata (0.20s) - ClothedMurderers.cs
+  22 "Crafting Controller" (3.2.2) by Whispers88 (0.04s) - CraftingController.cs
+  23 "CustomSpawnPoints" (1.1.2) by Reneb / k1lly0u (0.02s) - CustomSpawnPoints.cs
+  24 "Extended Recycler" (1.1.0) by Orange (0.26s) - ExtendedRecycler.cs
+  25 "Gathering Manager" (2.2.75) by Mughisi (0.39s) - GatherManager.cs
+  26 "Godmode" (4.2.9) by Wulf/lukespragg/Arainrr (0.65s) - Godmode.cs
+  27 "HeliControl" (1.4.0) by Shady (3.30s) - HeliControl.cs
+  28 "Image Library" (2.0.56) by Absolut & K1lly0u (0.11s) - ImageLibrary.cs
+  29 "Gesture Wheel" (0.1.3) by Tricky & Mevent (0.00s) - GestureWheel.cs
+  30 "InfoPanel" (1.0.4) by Default (5.41s) - InfoPanel.cs
+  31 "Inventory Cleaner" (2.0.0) by Iv Misticos (0.00s) - InventoryCleaner.cs
+  32 "Inventory Viewer" (3.0.3) by Mughisi (0.16s) - InventoryViewer.cs
+  33 "Kill Feed" (1.18.0) by Tuntenfisch (0.11s) - KillFeed.cs
+  34 "Kits" (3.3.1) by Reneb (0.12s) - Kits.cs
+  35 "Loading Messages" (1.0.6) by CosaNostra/Def (0.13s) - LoadingMessages.cs
+  36 "NPC Drop Gun" (2.0.4) by 2CHEVSKII (0.05s) - NPCDropGun.cs
+  37 "NPCNav" (1.0.0) by Whispers88 (0.26s) - NPCNav.cs
+  38 "NTeleportation" (1.4.7) by nivex (0.56s) - NTeleportation.cs
+  39 "No Escape" (2.1.31) by Calytic (1.63s) - NoEscape.cs
+  40 "No Give Notices" (0.3.0) by Wulf (0.00s) - NoGiveNotices.cs
+  41 "Notice" (1.0.1) by LaserHydra (0.00s) - Notice.cs
+  42 "OnScreenLogo" (1.1.5) by Vlad-00003 (0.02s) - OnScreenLogo.cs
+  43 "PathFinding" (1.1.3) by Reneb / Nogrod (0.24s) - PathFinding.cs
+  44 "Human NPC" (0.3.50) by Ts3Hosting (11.64s) - HumanNPC.cs
+  45 "PlayerRankings" (3.0.2) by Ankawi (0.08s) - PlayerRankings.cs
+  46 "Playtime Tracker" (0.1.7) by k1lly0u (0.46s) - PlaytimeTracker.cs
+  47 "Popup Notifications" (0.2.0) by emu / k1lly0u (0.00s) - PopupNotifications.cs
+  48 "PrivateMessages" (1.1.11) by MisterPixie (0.00s) - PrivateMessages.cs
+  49 "Private Messages GUI" (1.0.2) by Tricky (0.00s) - PrivateMessagesGUI.cs
+  50 "Quick Smelt" (5.1.3) by Iv Misticos (1.56s) - QuickSmelt.cs
+  51 "Remover Tool" (4.3.23) by Reneb/Fuji/Arainrr (0.02s) - RemoverTool.cs
+  52 "SAMSiteAuth" (2.3.3) by haggbart (0.06s) - SAMSiteAuth.cs
+  53 "SQL" (0.0.1) by TeamDMA (0.44s) - SQL.cs
+  54 "Scientist Names" (1.1.3) by Ultra (0.60s) - ScientistNames.cs
+  55 "Scrap Heli Storage" (0.0.5) by yetzt (0.46s) - ScrapHeliStorage.cs
+  56 "ServerInfo" (0.5.4) by FastBurst (0.05s) - ServerInfo.cs
+  57 "Server Rewards" (0.4.73) by k1lly0u (0.53s) - ServerRewards.cs
+  58 "Sign Artist" (1.2.6) by Whispers88 (0.00s) - SignArtist.cs
+  59 "Skins" (2.1.2) by Iv Misticos (1.31s) - Skins.cs
+  60 "SkipNightVote" (0.1.4) by k1lly0u (0.05s) - SkipNightVote.cs
+  61 "Slap" (2.0.0) by Wulf (0.00s) - Slap.cs
+  62 "SmoothRestart" (1.2.5) by Fujikura/Visagalis (0.71s) - SmoothRestart.cs
+  63 "Spawn Mini" (2.10.0) by SpooksAU (1.13s) - SpawnMini.cs
+  64 "Spawn Modular Car" (5.0.2) by WhiteThunder (0.05s) - SpawnModularCar.cs
+  65 "Spawns" (2.0.36) by Reneb / k1lly0u (0.01s) - Spawns.cs
+  66 "Stack Size Controller" (3.2.0) by AnExiledGod (7.73s) - StackSizeController.cs
+  67 "TalkingNpc" (1.0.12) by Ts3Hosting (0.01s) - TalkingNpc.cs
+  68 "TruePVE" (2.0.1) by nivex (136.87s) - TruePVE.cs
+  69 "Upkeep Display Fix" (1.0.1) by WhiteThunder (0.57s) - UpkeepDisplayFix.cs
+  70 "Vanish" (1.3.8) by Whispers88 (0.00s) - Vanish.cs
+  71 "Vehicle Licence" (1.7.9) by Sorrow/TheDoc/Arainrr (1.51s) - VehicleLicence.cs
+  72 "VoteRewards" (2.1.0) by k1lly0u (0.03s) - Voter.cs
+  73 "Waypoints" (1.1.3) by RFC1920 (0.00s) - Waypoints.cs
+  74 "Welcomer" (1.5.4) by Dana (15.28s) - Welcomer.cs
+  75 "Where is My Horse" (0.2.2) by 2CHEVSKII (0.00s) - WhereIsMyHorse.cs
+  76 "ZLevelsRemastered" (2.9.22) by Default (2.78s) - ZLevelsRemastered.cs
+  77 "Zone Manager" (3.0.91) by k1lly0u (58.24s) - ZoneManager.cs
+  78 "Dynamic PVP" (4.2.2) by CatMeat/Arainrr (0.16s) - DynamicPVP.cs
+  79 VehicleDecayProtection - Failed to compile: VehicleDecayProtection.cs(172,36): error CS1061: Type `ModularCar' does not contain a definition for `lastEngineTime' and no extension method `lastEngineTime' of type `ModularCar' could be found. Are you missing an assembly reference?
+06:41 [Info] [HeliControl] Next CH47 spawn: 27 minutes
+06:41 [Info] [Dynamic PVP] Debug, zoneID: 0641316973, mapping: zones
+06:57 [Info] [HeliControl] Next Helicopter spawn: 34 minutes
+06:58 [Info] [Dynamic PVP] Debug, zoneID: 0658055149, mapping: zones
+07:01 [Info] [Welcomer] • Dönerfabsel has left the server (Disconnected).
+07:20 [Info] [Kill Feed] [20/07/13/03/2021] sentry.scientist.static                                       bullet                         94.7m                          Dr. L. Rivers
+07:48 [Info] [Dynamic PVP] Debug, zoneID: 0748449352, mapping: zones
+07:55 [Info] [Welcomer] • Dönerfabsel has joined the server from Germany.
+08:00 [Info] [Welcomer] • Dönerfabsel has left the server (Timed Out).
+08:02 [Info] [Welcomer] • Dönerfabsel has joined the server from Germany.
+08:02 [Info] [Kill Feed] [02/08/13/03/2021] sentry.scientist.static                                       bullet                         37.0m                          Dr. P. Raymond
+08:13 [Info] [Kill Feed] [13/08/13/03/2021] Dönerfabsel                                                   salvaged.sword                 0.8m                           Chicken
+08:14 [Info] [Kill Feed] [14/08/13/03/2021] Dönerfabsel                                                   salvaged.sword                 0.8m                           Chicken
+08:15 [Info] [Kill Feed] [15/08/13/03/2021] sentry.scientist.static                                       bullet                         67.3m                          Dr. O. Bass
+08:27 [Info] [Dynamic PVP] Debug, zoneID: 0827454272, mapping: zones
+08:27 [Info] [Dynamic PVP] Debug, zoneID: 0827466038, mapping: zones
+08:27 [Info] [Dynamic PVP] Debug, zoneID: 0827469433, mapping: zones
+08:27 [Info] [Dynamic PVP] Debug, zoneID: 0827503057, mapping: zones
+08:27 [Info] [Dynamic PVP] Debug, zoneID: 0827536811, mapping: zones
+08:37 [Info] [Dynamic PVP] Debug, zoneID: 0837593401, mapping: zones
+08:44 [Info] [Kill Feed] [44/08/13/03/2021] Dönerfabsel                                                   rifle.ak                       4.5m                           Bear
+08:52 [Info] [Kill Feed] [52/08/13/03/2021] Dönerfabsel                                                   rifle.ak                       8.3m                           Boar
+08:52 [Info] [Welcomer] • Lechoo has joined the server from Germany.
+08:55 [Info] [Kill Feed] [55/08/13/03/2021] Dönerfabsel                                                   rifle.ak                       2.0m                           Wolf
+08:57 [Info] [Kill Feed] [57/08/13/03/2021] Lechoo                                                        fall                                                          Lechoo
+08:57 [Info] [Kill Feed] [57/08/13/03/2021] Lechoo                                                        fall                                                          Lechoo
+09:15 [Info] [Kill Feed] [15/09/13/03/2021] Bear                                                          bite                           0.8m                           Lechoo
+09:16 [Info] [Dynamic PVP] Debug, zoneID: 0916309873, mapping: zones
+09:20 [Info] [Kill Feed] [20/09/13/03/2021] sentry.scientist.static                                       bullet                         99.6m                          Dr. R. Gregory
+09:21 [Info] [Kill Feed] [21/09/13/03/2021] Lechoo                                                        smg.2                          4.1m                           Wolf
+09:28 [Info] [Kill Feed] [28/09/13/03/2021] Lechoo                                                        rifle.semiauto                 0.7m                           Wolf
+09:29 [Info] [Kill Feed] [29/09/13/03/2021] Dönerfabsel                    Head                           rifle.ak                       10.5m                          Dr. U. Holloway
+09:33 [Info] [Kill Feed] [33/09/13/03/2021] Lechoo                                                        rifle.semiauto                 20.9m                          Boar
+09:43 [Info] [Better Chat] [Global] [Newbie] Lechoo: 7VOTEDAY
+10:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+10:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+10:46 [Info] [Dynamic PVP] Debug, zoneID: 1046212956, mapping: zones
+10:48 [Info] [Welcomer] • REY has joined the server from France.
+10:49 [Info] [Welcomer] • Königsgrenadier.75 has joined the server from Germany.
+10:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+10:51 [Info] [Welcomer] • REY has left the server (Disconnected).
+10:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+10:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+10:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+10:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+10:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+10:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+10:59 [Info] [Kill Feed] [59/10/13/03/2021] Dönerfabsel                                                   explosive.satchel                                             Dönerfabsel
+10:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 9 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 8 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 7 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 6 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 1 seconds!
+11:00 [Info] Uninstalling Rust:IO ...
+11:00 [Info] Rust:IO> Uninstalling ...
+11:00 [Info] Rust:IO> No longer ticking
+11:00 [Info] Rust:IO> Stopping server ...
+11:00 [Info] Rust:IO> Removing listeners ...
+11:00 [Info] Rust:IO> Performing maintenance ...
+11:00 [Info] Rust:IO> Closing database ...
+11:00 [Info] Rust:IO> Uninstalled.
+11:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+11:00 [Warning] Calling 'Unload' on 'AdminHammer v1.12.0' took 277ms
+11:00 [Info] Unloaded plugin AdminHammer v1.12.0 by mvrb
+11:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+11:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+11:00 [Info] Unloaded plugin Auto Engine Parts v1.0.0 by WhiteThunder
+11:00 [Info] Unloaded plugin Auto Purge v2.1.1 by misticos
+11:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+11:00 [Warning] Calling 'Unload' on 'BGrade v1.1.3' took 274ms
+11:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+11:00 [Info] Unloaded plugin Backpacks v3.4.0 by LaserHydra
+11:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+11:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+11:00 [Info] Unloaded plugin Better Chat Mute v1.2.1 by LaserHydra
+11:00 [Warning] Calling 'Unload' on 'BetterLoot v3.5.3' took 275ms
+11:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+11:00 [Info] Unloaded plugin Better Say v3.0.1 by LaserHydra
+11:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+11:00 [Info] Unloaded plugin BuildingBlocker v0.0.1 by TeamDMA
+11:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+11:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+11:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+11:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+11:00 [Info] Unloaded plugin Clothed Murderers v1.0.1 by Substrata
+11:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+11:00 [Info] Unloaded plugin CustomSpawnPoints v1.1.2 by Reneb / k1lly0u
+11:00 [Info] Unloaded plugin Extended Recycler v1.1.0 by Orange
+11:00 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 279ms
+11:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+11:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+11:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+11:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+11:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+11:00 [Warning] Calling 'Unload' on 'InventoryViewer v3.0.3' took 270ms
+11:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+11:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+11:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+11:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+11:00 [Info] Unloaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+11:00 [Info] Unloaded plugin NPCNav v1.0.0 by Whispers88
+11:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+11:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 567ms
+11:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+11:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+11:00 [Info] Unloaded plugin Notice v1.0.1 by LaserHydra
+11:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+11:00 [Warning] [Human NPC] Deleting Jack (6225752576)
+11:00 [Warning] [Human NPC] Deleting Darlene (11144432640)
+11:00 [Warning] Calling 'Unload' on 'HumanNPC v0.3.50' took 539ms
+11:00 [Info] Unloaded plugin Human NPC v0.3.50 by Ts3Hosting
+11:00 [Warning] Calling 'Unload' on 'PathFinding v1.1.3' took 299ms
+11:00 [Info] Unloaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+11:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+11:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+11:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+11:00 [Info] Unloaded plugin PrivateMessages v1.1.11 by MisterPixie
+11:00 [Info] Unloaded plugin Private Messages GUI v1.0.2 by Tricky
+11:00 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 278ms
+11:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+11:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+11:00 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+11:00 [Info] [SQL] Deleting old and unnecessary entries...
+11:00 [Info] [SQL] Deleted.
+11:00 [Info] Unloaded plugin SQL v0.0.1 by TeamDMA
+11:00 [Info] Unloaded plugin Scientist Names v1.1.3 by Ultra
+11:00 [Info] Unloaded plugin Scrap Heli Storage v0.0.5 by yetzt
+11:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+11:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+11:00 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+11:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+11:00 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+11:00 [Info] Unloaded plugin Slap v2.0.0 by Wulf
+11:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+11:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+11:00 [Info] Unloaded plugin Spawn Modular Car v5.0.2 by WhiteThunder
+11:00 [Info] Unloaded plugin Spawns v2.0.36 by Reneb / k1lly0u
+11:00 [Info] Unloaded plugin Stack Size Controller v3.2.0 by AnExiledGod
+11:00 [Info] Unloaded plugin TalkingNpc v1.0.12 by Ts3Hosting
+11:00 [Info] Unloaded plugin Dynamic PVP v4.2.2 by CatMeat/Arainrr
+11:00 [Info] Unloaded plugin TruePVE v2.0.1 by nivex
+11:00 [Info] Unloaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+11:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+11:00 [Info] Unloaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+11:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+11:00 [Info] Unloaded plugin Waypoints v1.1.3 by RFC1920
+11:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+11:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+11:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+11:00 [Info] Unloaded plugin Zone Manager v3.0.91 by k1lly0u
+11:00 [Info] Loading Oxide Core v2.0.3991...
+11:00 [Info] Loading extensions...
+11:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+11:00 [Info] Loaded extension RustEdit v1.0.32 by k1lly0u
+11:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+11:00 [Info] Loaded extension Rust v2.0.4944 by Oxide Team and Contributors
+11:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+11:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+11:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+11:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+11:00 [Info] Using Covalence provider for game 'Rust'
+11:00 [Info] Loading plugins...
+11:00 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+11:00 [Info] Loaded plugin Rust v2.0.4944 by Oxide Team and Contributors
+11:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+11:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+11:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+11:00 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+11:00 [Info] AdminChat, AdminHammer, AliasSystem, AutoBroadcast, AutoEngineParts, AutoPurge, AutomaticAuthorization, BGrade, Backpacks, BetterChat, BetterChatMentions, BetterChatMute, BetterLoot, BetterSay, BlueprintManager, BuildingBlocker, BuildingGrades, ClanTags, ClanTeam, Clans, ClothedMurderers, CraftingController, CustomSpawnPoints, DynamicPVP, ExtendedRecycler, GatherManager, GestureWheel, Godmode, HeliControl, HumanNPC, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NPCDropGun, NPCNav, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PathFinding, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, SAMSiteAuth, SQL, ScientistNames, ScrapHeliStorage, ServerInfo, ServerRewards, SignArtist, Skins, SkipNightVote, Slap, SmoothRestart, SpawnMini, SpawnModularCar, Spawns, StackSizeController, TalkingNpc, TruePVE, UpkeepDisplayFix, Vanish, VehicleLicence, Voter, Waypoints, Welcomer, WhereIsMyHorse, ZLevelsRemastered and ZoneManager were compiled successfully in 0ms
+11:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+11:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+11:00 [Warning] [DEBUG] DynamicPVP plugin is waiting for requirements to be loaded: ZoneManager and TruePVE
+11:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+11:00 [Warning] [DEBUG] HumanNPC plugin is waiting for requirements to be loaded: PathFinding
+11:00 [Error] Error while compiling: VehicleDecayProtection.cs(172,36): error CS1061: Type `ModularCar' does not contain a definition for `lastEngineTime' and no extension method `lastEngineTime' of type `ModularCar' could be found. Are you missing an assembly reference?
+11:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+11:00 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+11:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+11:00 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+11:00 [Info] Loaded plugin Auto Engine Parts v1.0.0 by WhiteThunder
+11:00 [Info] Loaded plugin Auto Purge v2.1.1 by misticos
+11:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+11:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+11:00 [Info] Loaded plugin Backpacks v3.4.0 by LaserHydra
+11:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+11:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+11:00 [Info] Loaded plugin Better Chat Mute v1.2.1 by LaserHydra
+11:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+11:00 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+11:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+11:00 [Info] Loaded plugin BuildingBlocker v0.0.1 by TeamDMA
+11:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+11:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+11:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+11:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+11:00 [Info] Loaded plugin Clothed Murderers v1.0.1 by Substrata
+11:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+11:00 [Info] Loaded plugin CustomSpawnPoints v1.1.2 by Reneb / k1lly0u
+11:00 [Info] Loaded plugin Extended Recycler v1.1.0 by Orange
+11:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+11:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+11:00 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+11:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+11:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+11:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+11:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+11:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+11:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+11:00 [Info] Loaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+11:00 [Info] Loaded plugin NPCNav v1.0.0 by Whispers88
+11:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+11:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+11:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+11:00 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+11:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+11:00 [Info] Loaded plugin PathFinding v1.1.3 by Reneb / Nogrod
+11:00 [Info] Loaded plugin Human NPC v0.3.50 by Ts3Hosting
+11:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+11:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+11:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+11:00 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+11:00 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+11:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+11:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+11:00 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+11:00 [Info] Loaded plugin SQL v0.0.1 by TeamDMA
+11:00 [Info] Loaded plugin Scientist Names v1.1.3 by Ultra
+11:00 [Info] Loaded plugin Scrap Heli Storage v0.0.5 by yetzt
+11:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+11:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+11:00 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+11:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+11:00 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+11:00 [Info] Loaded plugin Slap v2.0.0 by Wulf
+11:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+11:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+11:00 [Info] Loaded plugin Spawn Modular Car v5.0.2 by WhiteThunder
+11:00 [Error] Failed to call hook 'OnPluginLoaded' on plugin 'CustomSpawnPoints v1.1.2' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.CustomSpawnPoints.LoadSpawnpoints () [0x00007] in <e64deed03a904ecf91578ac134811237>:0 
+  at Oxide.Plugins.CustomSpawnPoints.OnPluginLoaded (Oxide.Core.Plugins.Plugin plugin) [0x00029] in <e64deed03a904ecf91578ac134811237>:0 
+  at Oxide.Plugins.CustomSpawnPoints.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000bf] in <e64deed03a904ecf91578ac134811237>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <3606d2af539c45e4b5c61658e6a8b307>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <c2afd8354b8b4f3ca451cf5a1aa111c3>:0 
+11:00 [Info] Loaded plugin Spawns v2.0.36 by Reneb / k1lly0u
+11:00 [Info] Loaded plugin Stack Size Controller v3.2.0 by AnExiledGod
+11:00 [Info] Loaded plugin TalkingNpc v1.0.12 by Ts3Hosting
+11:00 [Info] Loaded plugin TruePVE v2.0.1 by nivex
+11:00 [Warning] [DEBUG] DynamicPVP plugin is waiting for requirements to be loaded: ZoneManager
+11:00 [Info] Loaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+11:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+11:00 [Info] Loaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+11:00 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+11:00 [Info] Loaded plugin Waypoints v1.1.3 by RFC1920
+11:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+11:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+11:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+11:00 [Info] Loaded plugin Zone Manager v3.0.91 by k1lly0u
+11:00 [Info] Loaded plugin Dynamic PVP v4.2.2 by CatMeat/Arainrr
+11:00 [Info] [RustEdit] - IO data loaded and ready to be processed!
+11:00 [Warning] [RustEdit] - No vending data found in map file
+11:00 [Warning] [RustEdit] - No loot data found in map file
+11:00 [Warning] [RustEdit] - No APC path data found in map file
+11:00 [Info] [RustEdit] - Vehicle data loaded and ready to be processed!
+11:00 [Info] [RustEdit] - NPC data loaded and ready to be processed!
+11:01 [Warning] [RustEdit] - No ocean patrol path data found in map file
+11:01 [Info] [Stack Size Controller] Ensuring VanillaStackSize integrity.
+11:01 [Warning] Calling 'OnTerrainInitialized' on 'StackSizeController v3.2.0' took 5331ms [GARBAGE COLLECT]
+11:05 [Warning] Calling 'OnEntitySpawned' on 'HeliControl v1.4.0' took 478ms [GARBAGE COLLECT]
+11:06 [Info] IP address from external API: 45.138.48.233
+11:06 [Info] [RustEdit] - Checking for updates...
+11:06 [Info] Updating Rust:IO ...
+11:06 [Info] [Auto Purge] The purge has been started.
+11:06 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+11:06 [Info] [BetterLoot] Updating internals ...
+11:06 [Warning] [CustomSpawnPoints] Successfully loaded 5 spawn points
+11:06 [Info] Rust:IO: Update complete
+11:06 [Warning] Calling 'OnServerInitialized' on 'ExtendedRecycler v1.1.0' took 251ms
+11:06 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 243ms
+11:06 [Info] [HeliControl] Next Helicopter spawn: 26 minutes
+11:06 [Info] [HeliControl] Next CH47 spawn: 31 minutes
+11:06 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 1085ms
+11:06 [Info] [Kill Feed] Loading configuration file!
+11:06 [Warning] Calling 'OnServerInitialized' on 'KillFeed v1.18.0' took 237ms [GARBAGE COLLECT]
+11:06 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 300ms
+11:06 [Warning] [Human NPC] Spawned NPC: 11144432640
+11:06 [Warning] [Human NPC] Spawned NPC: 6225752576
+11:06 [Warning] Calling 'OnServerInitialized' on 'HumanNPC v0.3.50' took 551ms
+11:06 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 257ms
+11:06 [Warning] Calling 'OnServerInitialized' on 'ScrapHeliStorage v0.0.5' took 240ms
+11:06 [Warning] [Server Rewards] All UI elements have been successfully generated!
+11:06 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 318ms
+11:06 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+11:06 [Info] [TruePVE] [WARNING] Schedule Broadcast: PVE is on now!
+11:06 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+11:06 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 327ms
+11:06 [Info] [RustEdit] - The RustEdit extension is up to date!
+11:06 [Info] [BetterLoot] No stacked LootContainer found.
+11:06 [Info] [BetterLoot] Populated '800' supported containers.
+11:06 [Info] [SmoothRestart] Your servers Oxide build is up to date
+11:06 [Info] Installing Rust:IO ...
+11:06 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+11:06 [Info] Rust:IO> Creating directories ...
+11:06 [Info] Rust:IO> Applying config ...
+11:06 [Info] Rust:IO> Initializing database ...
+11:06 [Info] Rust:IO> Generating map image (this may take a while) ...
+11:06 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  8422.360ms
+Postprocess  :  2742.963ms
+  Shadows    :   216.573ms
+  FXAA       :  2512.283ms
+Encoding     :    31.500ms
+Other        :    16.186ms
+--------------------------
+Total        :  11213.008ms
+11:06 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+11:06 [Info] Rust:IO> Installed.
+11:06 [Info] Rust:IO> Now ticking
+11:06 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 11622ms [GARBAGE COLLECT]
+11:06 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 2ms [GARBAGE COLLECT]
+11:06 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+11:07 [Info] [RustEdit] - Processing 246 IO entities
+11:07 [Info] [RustEdit] - Successfully connected 246 IO links
+11:07 [Info] [RustEdit] - No custom vending machines found in map
+11:07 [Info] [RustEdit] - 674 loot containers processed!
+11:07 [Info] [RustEdit] - Created 12 keycard desk respawners
+11:07 [Info] [RustEdit] - 1961 resource entities processed!
+11:07 [Info] [RustEdit] - 1 junkpiles processed!
+11:07 [Info] [RustEdit] - Added 1 vehicle spawn handlers!
+11:07 [Info] [RustEdit] - Created 348 NPC spawn handlers!
+11:07 [Info] [Auto Purge] The purge has been completed. Purged entities: 24.
+11:09 [Info] [Welcomer] • Dönerfabsel has joined the server from Germany.
+11:09 [Info] [Welcomer] • Königsgrenadier.75 has joined the server from Germany.
+11:10 [Info] [SQL] Deleting old and unnecessary entries...
+11:10 [Info] [SQL] Deleted.
+11:10 [Info] [Welcomer] • pegasus has joined the server from Hungary.
+11:18 [Info] [Kill Feed] [18/11/13/03/2021] pegasus                                                       salvaged.cleaver               0.2m                           Wolf
+11:19 [Info] [Kill Feed] [19/11/13/03/2021] sentry.scientist.static                                       bullet                         65.2m                          Dr. G. Frazier
+11:20 [Info] [Welcomer] • Lechoo has joined the server from Germany.
+11:31 [Info] [Kill Feed] [31/11/13/03/2021] Dönerfabsel                                                   rifle.ak                       10.6m                          Boar
+11:32 [Info] [Kill Feed] [32/11/13/03/2021] Dönerfabsel                                                   rifle.ak                       18.3m                          Boar
+11:39 [Info] [Welcomer] • Timothy Leary has joined the server from Germany.
+11:39 [Info] [Welcomer] • tronche de vainqueur has joined the server from France.
+11:40 [Info] [Welcomer] • pegasus has left the server (Disconnected).
+11:40 [Info] [Welcomer] • Sponkey has joined the server from Germany.
+11:43 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+11:44 [Info] [Welcomer] • Timothy Leary has left the server (Disconnected).
+11:45 [Info] [Welcomer] • meNsaVT has joined the server from Germany.
+11:46 [Info] [HeliControl] Next Helicopter spawn: 34 minutes
+11:47 [Info] [HeliControl] Next CH47 spawn: 28 minutes
+11:48 [Info] [Welcomer] • dantetegenu4 has left the server (Timed Out).
+11:50 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+11:53 [Info] [Welcomer] • Königsgrenadier.75 has left the server (Disconnected).
+11:55 [Info] [Welcomer] • BigBadChiliCrab has joined the server from Saudi Arabia.
+11:56 [Info] [Welcomer] • tronche de vainqueur has left the server (Disconnected).
+11:58 [Info] [Kill Feed] [58/11/13/03/2021] BigBadChiliCrab                                               smg.2                          5.0m                           Boar
+12:02 [Info] [Kill Feed] [02/12/13/03/2021] Dr. I. Suarez                                                 lmg.m249                       27.0m                          Deemteex
+12:02 [Info] [Kill Feed] [02/12/13/03/2021] dantetegenu4                   Hand                           rifle.lr300                    20.6m                          Dr. X. Franks
+12:02 [Info] [Kill Feed] [02/12/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    4.6m                           Dr. I. Suarez
+12:03 [Info] [Dynamic PVP] Debug, zoneID: 1203539307, mapping: zones
+12:07 [Info] [Kill Feed] [07/12/13/03/2021] sentry.scientist.static                                       bullet                         60.6m                          Dr. S. Rutledge
+12:10 [Info] [Welcomer] • Dönerfabsel has left the server (Disconnected).
+12:12 [Info] [Kill Feed] [12/12/13/03/2021] Bear                                                          bite                           1.1m                           Lil TJITI DarkRider
+12:12 [Info] [Better Chat] [Global] [Hero] dantetegenu4: Vote for day pls
+12:12 [Info] [Better Chat] [Global] [Hero] dantetegenu4: ty
+12:14 [Info] [Dynamic PVP] Debug, zoneID: 1214067333, mapping: zones
+12:16 [Info] [Welcomer] • OrangutanLEO has joined the server from Germany.
+12:17 [Info] [Kill Feed] [17/12/13/03/2021] Boar                                                          bite                           1.1m                           REY
+12:18 [Info] [Welcomer] • OrangutanLEO has left the server (Disconnected).
+12:25 [Info] [HeliControl] Next CH47 spawn: 28 minutes
+12:28 [Info] [Welcomer] • xXKṜỈ$₸կՏ_CΖ∑Xx has joined the server from Czechia.
+12:35 [Info] [HeliControl] Next Helicopter spawn: 29 minutes
+12:59 [Info] [Better Chat] [Global] [Newbie] meNsaVT: (voteday
+13:01 [Info] [Welcomer] • meNsaVT has left the server (Disconnected).
+13:03 [Info] [HeliControl] Next CH47 spawn: 26 minutes
+13:06 [Info] [Kill Feed] [06/13/13/03/2021] xXKṜỈ$₸կՏ_CΖ∑Xx                                               rifle.m39                      16.7m                          Boar
+13:07 [Info] [Welcomer] • Sponkey has left the server (Disconnected).
+13:10 [Info] [Welcomer] • tbone1235648 has joined the server from United States.
+13:12 [Info] [Kill Feed] [12/13/13/03/2021] Bear                                                          bite                           0.3m                           mangoichilly
+13:18 [Info] [HeliControl] Next Helicopter spawn: 24 minutes
+13:21 [Info] [Welcomer] • dantetegenu4 has left the server (Disconnected).
+13:31 [Info] [Kill Feed] [31/13/13/03/2021] sentry.scientist.static                                       bullet                         57.8m                          Dr. T. Jimenez
+13:31 [Info] [Welcomer] • Wade W.Willson has joined the server from Germany.
+13:38 [Info] [Welcomer] • SeeMS has joined the server from France.
+13:39 [Info] [HeliControl] Next CH47 spawn: 28 minutes
+13:41 [Info] [Welcomer] • Klassiker has joined the server from Germany.
+13:53 [Info] [Welcomer] • Crazy_VAPORIX has joined the server from United States.
+13:55 [Info] [HeliControl] Next Helicopter spawn: 30 minutes
+13:58 [Info] [Dynamic PVP] Debug, zoneID: 1358057772, mapping: zones
+14:01 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+14:06 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561199013550309
+14:06 [Info] [VoteRewards] 0
+14:14 [Info] [Dynamic PVP] Debug, zoneID: 1414007077, mapping: zones
+14:16 [Info] [Welcomer] • Crazy_VAPORIX has left the server (Disconnected).
+14:17 [Info] [HeliControl] Next CH47 spawn: 30 minutes
+14:31 [Info] [Welcomer] • tbone1235648 has left the server (Disconnected).
+14:37 [Info] [Welcomer] • Klassiker has left the server (Disconnected).
+14:39 [Info] [HeliControl] Next Helicopter spawn: 28 minutes
+14:42 [Info] [Welcomer] • Dönerfabsel has joined the server from Germany.
+14:46 [Info] [Welcomer] • killerman has joined the server from Italy.
+14:47 [Info] [Kill Feed] [47/14/13/03/2021] Dönerfabsel                                                   rifle.ak                       6.0m                           Bear
+14:57 [Info] [Welcomer] • Königsgrenadier.75 has joined the server from Germany.
+14:57 [Info] [HeliControl] Next CH47 spawn: 33 minutes
+15:00 [Info] [TruePVE] [WARNING] Schedule Broadcast: PVP is on now!
+15:01 [Info] [Welcomer] • BigBadChiliCrab has left the server (Disconnected).
+15:02 [Info] [Welcomer] • Dönerfabsel has left the server (Timed Out).
+15:04 [Info] [Welcomer] • kochramon6 has joined the server from Switzerland.
+15:04 [Info] [Kill Feed] [04/15/13/03/2021] killerman                      Neck                           bow.hunting                    1.0m                           -Pr0ph3t-
+15:06 [Info] [Better Chat] [Global] [Newbie] kochramon6: tpr bandit
+15:06 [Info] [Welcomer] • Wade W.Willson has left the server (Disconnected).
+15:10 [Info] [Kill Feed] [10/15/13/03/2021] Königsgrenadier.75             Spine                          pickaxe                        0.5m                           Dönerfabsel
+15:11 [Info] [Welcomer] • Dönerfabsel has joined the server from Germany.
+15:13 [Info] [Welcomer] • Flutschfinger has joined the server from Germany.
+15:14 [Info] [Better Chat] [Global] [Hero] dantetegenu4: i bought 3 blueprints, i learned it but now i can't craft the items
+15:14 [Info] [Better Chat] [Global] [Hero] dantetegenu4: why?
+15:15 [Info] [Better Chat] [Global] [Pro] Flutschfinger: you need a craftingtable
+15:15 [Info] [Better Chat] [Global] [Newbie] killerman: you ca'nt craft the items if you don't have the necessary materials or because you need a workbench
+15:15 [Info] [Better Chat] [Global] [Hero] dantetegenu4: i can't find the item by searcing it in the q menu
+15:16 [Info] [Better Chat] [Global] [Hero] dantetegenu4: i can't even know what materials i need
+15:16 [Info] [Better Chat] [Global] [Pro] Flutschfinger: what do you learn ?
+15:16 [Info] [Better Chat] [Global] [Hero] dantetegenu4: picture frames
+15:16 [Info] [Kill Feed] [16/15/13/03/2021] kochramon6                                                    pistol.revolver                3.3m                           Chicken
+15:16 [Info] [Kill Feed] [16/15/13/03/2021] kochramon6                                                    hatchet                        0.3m                           Chicken
+15:20 [Info] [Kill Feed] [20/15/13/03/2021] minicopter.entity                                             explosion                      0.9m                           dantetegenu4
+15:22 [Info] [HeliControl] Next Helicopter spawn: 26 minutes
+15:27 [Info] [Kill Feed] [27/15/13/03/2021] killerman                                                     bow.hunting                    12.2m                          Wolf
+15:31 [Info] [Kill Feed] [31/15/13/03/2021] dantetegenu4                                                  rifle.lr300                    8.4m                           Wolf
+15:32 [Info] [Kill Feed] [32/15/13/03/2021] dantetegenu4                                                  rifle.lr300                    24.6m                          Stag
+15:32 [Info] [Kill Feed] [32/15/13/03/2021] dantetegenu4                                                  rifle.lr300                    35.3m                          Stag
+15:34 [Info] [Kill Feed] [34/15/13/03/2021] Dönerfabsel                    Hand                           smg.thompson                   1.5m                           Dr. R. Ayers
+15:34 [Info] [Kill Feed] [34/15/13/03/2021] Dönerfabsel                    Hand                           rifle.ak                       8.3m                           Dr. H. Mullen
+15:34 [Info] [Kill Feed] [34/15/13/03/2021] Dr. F. Rice                                                   rifle.lr300                    16.5m                          Dönerfabsel
+15:35 [Info] [Better Chat] [Team] [Supporter] SeeMS: */remove
+15:35 [Info] [Kill Feed] [35/15/13/03/2021] Königsgrenadier.75             Chest                          rifle.semiauto                 32.9m                          Dr. T. Justice
+15:38 [Info] [Better Chat] [Global] [Supporter] SeeMS: ? lol
+15:38 [Info] [Better Chat] [Global] [Supporter] SeeMS: xD
+15:39 [Info] [Better Chat] [Global] [Supporter] SeeMS: u scared me xd
+15:39 [Info] [Better Chat] [Global] [Pro] Flutschfinger: Sry
+15:40 [Info] [HeliControl] Next CH47 spawn: 24 minutes
+15:41 [Info] [Kill Feed] [41/15/13/03/2021] dantetegenu4                                                  rifle.lr300                    11.3m                          Boar
+15:42 [Info] [Kill Feed] [42/15/13/03/2021] kochramon6                                                    pistol.revolver                8.1m                           Wolf
+15:43 [Info] [Kill Feed] [43/15/13/03/2021] sentry.scientist.static                                       bullet                         99.5m                          kochramon6
+15:44 [Info] [Welcomer] • killerman has left the server (Disconnected).
+15:45 [Info] [Kill Feed] [45/15/13/03/2021] sentry.scientist.static                                       bullet                         99.9m                          kochramon6
+15:48 [Info] [Kill Feed] [48/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    9.2m                           O. Houston
+15:48 [Info] [Kill Feed] [48/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    11.4m                          Y. Snow
+15:48 [Info] [Kill Feed] [48/15/13/03/2021] dantetegenu4                   Neck                           rifle.lr300                    10.1m                          K. Aguilar
+15:49 [Info] [Kill Feed] [49/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    12.1m                          G. Ray
+15:49 [Info] [Kill Feed] [49/15/13/03/2021] dantetegenu4                   Neck                           rifle.lr300                    10.2m                          S. Kane
+15:49 [Info] [Welcomer] • Just John has joined the server from Hungary.
+15:49 [Info] [Kill Feed] [49/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    27.2m                          D. Woodward
+15:49 [Info] [Kill Feed] [49/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    26.2m                          G. Rasmussen
+15:50 [Info] [Kill Feed] [50/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    24.9m                          S. Glover
+15:50 [Info] [Kill Feed] [50/15/13/03/2021] dantetegenu4                   Hand                           rifle.lr300                    3.8m                           V. Bennett
+15:51 [Info] [Kill Feed] [51/15/13/03/2021]                                                               generic                                                       J. Benton
+15:52 [Info] [Kill Feed] [52/15/13/03/2021] Königsgrenadier.75             Neck                           smg.thompson                   16.3m                          Dr. P. Chambers
+15:52 [Info] [Kill Feed] [52/15/13/03/2021] dantetegenu4                   Arm                            rifle.lr300                    66.0m                          S. Donovan
+15:52 [Info] [Better Chat] [Global] [Supporter] SeeMS: shit i need to farm wood xd
+15:52 [Info] [Kill Feed] [52/15/13/03/2021] Königsgrenadier.75             Arm                            smg.thompson                   6.3m                           Dr. S. Bailey
+15:52 [Info] [Kill Feed] [52/15/13/03/2021] Dönerfabsel                    Hand                           rifle.semiauto                 1.1m                           Dr. D. Massey
+15:53 [Info] [Better Chat] [Global] [Pro] Flutschfinger: how much you need ?
+15:53 [Info] [Better Chat] [Global] [Supporter] SeeMS: 10 millions
+15:53 [Info] [Better Chat] [Global] [Supporter] SeeMS: or something like that xd
+15:53 [Info] [Kill Feed] [53/15/13/03/2021] Dr. Y. Farley                                                 smg.mp5                        4.7m                           Königsgrenadier.75
+15:53 [Info] [Kill Feed] [53/15/13/03/2021] Dönerfabsel                    Arm                            smg.2                          3.0m                           Dr. Y. Farley
+15:53 [Info] [Better Chat] [Team] [Regular] xXKṜỈ$₸կՏ_CΖ∑Xx: so guzs sorrz for im late
+15:53 [Info] [Kill Feed] [53/15/13/03/2021] Dönerfabsel                    Arm                            smg.2                          3.2m                           Dr. V. Castro
+15:53 [Info] [Kill Feed] [53/15/13/03/2021] Dr. G. Moon                                                   rifle.lr300                    10.7m                          Dönerfabsel
+15:53 [Info] [Kill Feed] [53/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    80.2m                          G. Lee
+15:53 [Info] [Better Chat] [Team] [Regular] xXKṜỈ$₸կՏ_CΖ∑Xx: im here ready for raid
+15:54 [Info] [Better Chat] [Global] [Pro] Flutschfinger: I can give you 100.000 wood
+15:54 [Info] [Better Chat] [Global] [Supporter] SeeMS: no its ok <​3 :D
+15:54 [Info] [Better Chat] [Global] [Supporter] SeeMS: im going to farm
+15:55 [Info] [Kill Feed] [55/15/13/03/2021] dantetegenu4                   Hand                           rifle.lr300                    100.2m                         R. Reeves
+15:55 [Info] [Welcomer] • Klassiker has joined the server from Germany.
+15:55 [Info] [Kill Feed] [55/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    65.3m                          A. Cabrera
+15:55 [Info] [Kill Feed] [55/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    115.2m                         L. Keith
+15:55 [Info] [Kill Feed] [55/15/13/03/2021] dantetegenu4                   Head                           rifle.bolt                     43.3m                          R. York
+15:56 [Info] [Dynamic PVP] Debug, zoneID: 1556103838, mapping: zones
+15:57 [Info] [Kill Feed] [57/15/13/03/2021] dantetegenu4                   Head                           rifle.bolt                     22.7m                          P. Langley
+15:57 [Info] [Kill Feed] [57/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    1.9m                           O. Nielsen
+15:57 [Info] [Better Chat] [Global] [Supporter] SeeMS: fluts
+15:57 [Info] [Kill Feed] [57/15/13/03/2021] dantetegenu4                   Chest                          rifle.lr300                    16.8m                          B. Owens
+15:57 [Info] [Better Chat] [Global] [Pro] Flutschfinger: yes
+15:57 [Info] [Better Chat] [Global] [Supporter] SeeMS: i have something for ya
+15:57 [Info] [Kill Feed] [57/15/13/03/2021] dantetegenu4                   Spine                          rifle.lr300                    30.2m                          K. Soto
+15:57 [Info] [Kill Feed] [57/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    2.0m                           R. Hendricks
+15:57 [Info] [Kill Feed] [57/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    2.6m                           K. Odom
+15:57 [Info] [Better Chat] [Global] [Newbie] kochramon6: haha flutschfinger de name isch geil
+15:57 [Info] [Kill Feed] [57/15/13/03/2021] dantetegenu4                   Hand                           rifle.lr300                    7.5m                           B. Armstrong
+15:57 [Info] [Kill Feed] [57/15/13/03/2021] Klassiker                      Head                           rifle.semiauto                 18.5m                          Dr. M. Riggs
+15:58 [Info] [NTeleportation] SeeMS teleported Flutschfinger to SeeMS.
+15:58 [Info] [Better Chat] [Global] [Supporter] SeeMS: fast for wood xd
+15:58 [Info] [Better Chat] [Global] [Pro] Flutschfinger: Thanks
+15:58 [Info] [Kill Feed] [58/15/13/03/2021] dantetegenu4                   Head                           rifle.lr300                    7.9m                           S. Parrish
+15:58 [Info] [Kill Feed] [58/15/13/03/2021] dantetegenu4                   Hand                           rifle.lr300                    9.9m                           C. Garcia
+15:58 [Info] [Kill Feed] [58/15/13/03/2021] dantetegenu4                   Spine                          rifle.lr300                    9.4m                           X. Galloway
+15:58 [Info] [Kill Feed] [58/15/13/03/2021] Just John                      Head                           hatchet                        1.0m                           Dr. Z. Chase
+15:59 [Info] [Kill Feed] [59/15/13/03/2021] dantetegenu4                   Head                           rifle.bolt                     10.5m                          N. Stark
+15:59 [Info] [Kill Feed] [59/15/13/03/2021] Königsgrenadier.75                                            suicide                                                       Königsgrenadier.75
+15:59 [Info] [Welcomer] • Klassiker has left the server (Disconnected).
+16:02 [Info] [PrivateMessages] [PM]Flutschfinger->SeeMS:how high is your woodcutting lvl ?
+16:02 [Info] [HeliControl] Next Helicopter spawn: 29 minutes
+16:03 [Info] [Welcomer] • dantetegenu4 has left the server (Disconnected).
+16:04 [Info] [Kill Feed] [04/16/13/03/2021] Dönerfabsel                    Arm                            smg.thompson                   1.2m                           Dr. H. Bates
+16:04 [Info] [Kill Feed] [04/16/13/03/2021] Just John                      Arm                            rifle.semiauto                 18.2m                          Q. Hanson
+16:05 [Info] [Kill Feed] [05/16/13/03/2021] Just John                      Neck                           smg.2                          3.6m                           U. Hewitt
+16:05 [Info] [Welcomer] • BigBadChiliCrab has joined the server from Saudi Arabia.
+16:05 [Info] [Kill Feed] [05/16/13/03/2021] Just John                      Hand                           smg.2                          5.5m                           F. Cline
+16:05 [Info] [Kill Feed] [05/16/13/03/2021] Dr. H. Avila                                                  rifle.lr300                    17.5m                          Dönerfabsel
+16:06 [Info] [Welcomer] • miniManner HUN has joined the server from Hungary.
+16:06 [Info] [Kill Feed] [06/16/13/03/2021] Dr. H. Avila                                                  rifle.lr300                    12.1m                          Königsgrenadier.75
+16:07 [Info] [Dynamic PVP] Debug, zoneID: 1607505818, mapping: zones
+16:08 [Info] [Dynamic PVP] Debug, zoneID: 1608007642, mapping: zones
+16:08 [Info] [Welcomer] • BigBadChiliCrab has left the server (Timed Out).
+16:09 [Info] [Welcomer] • BigBadChiliCrab has joined the server from Saudi Arabia.
+16:10 [Info] [Kill Feed] [10/16/13/03/2021] Just John                      Hand                           rifle.semiauto                 5.6m                           S. Boone
+16:10 [Info] [Kill Feed] [10/16/13/03/2021] Just John                      Hand                           shotgun.pump                   4.0m                           A. Wheeler
+16:12 [Info] [Kill Feed] [12/16/13/03/2021] miniManner HUN                 Head                           rifle.semiauto                 11.6m                          T. Justice
+16:12 [Info] [Kill Feed] [12/16/13/03/2021] miniManner HUN                 Hand                           rifle.semiauto                 1.4m                           J. Waters
+16:13 [Info] [Welcomer] • Sponkey has joined the server from Germany.
+16:13 [Info] [Kill Feed] [13/16/13/03/2021] Just John                      Head                           rifle.semiauto                 12.0m                          F. Diaz
+16:13 [Info] [Kill Feed] [13/16/13/03/2021] Flutschfinger                  Head                           rifle.lr300                    29.9m                          Dr. A. Hoover
+16:14 [Info] [Welcomer] • kochramon6 has left the server (Disconnected).
+16:14 [Info] [HeliControl] Next CH47 spawn: 28 minutes
+16:15 [Info] [Kill Feed] [15/16/13/03/2021] miniManner HUN                 Spine                          pistol.revolver                8.7m                           P. Richardson
+16:15 [Info] [Kill Feed] [15/16/13/03/2021] Just John                      Head                           rifle.semiauto                 7.5m                           D. Ruiz
+16:15 [Info] [Kill Feed] [15/16/13/03/2021] miniManner HUN                 Pelvis                         pistol.revolver                7.8m                           S. Herman
+16:16 [Info] [Kill Feed] [16/16/13/03/2021] Dr. I. Gilliam                                                smg.mp5                        7.9m                           Königsgrenadier.75
+16:17 [Info] [Kill Feed] [17/16/13/03/2021] Just John                      Head                           smg.2                          3.7m                           D. Decker
+16:17 [Info] [Kill Feed] [17/16/13/03/2021] Just John                      Hand                           smg.2                          9.7m                           P. Griffith
+16:18 [Info] [Kill Feed] [18/16/13/03/2021] minicopter.entity                                             explosion                      0.7m                           Flutschfinger
+16:19 [Info] [Kill Feed] [19/16/13/03/2021] Dönerfabsel                    Neck                           smg.2                          2.8m                           Dr. I. Gilliam
+16:20 [Info] [Kill Feed] [20/16/13/03/2021] Dr. B. Sanchez                                                smg.mp5                        6.4m                           Dönerfabsel
+16:21 [Info] [Kill Feed] [21/16/13/03/2021] Just John                      Arm                            pistol.python                  28.7m                          T. Spence
+16:21 [Info] [Kill Feed] [21/16/13/03/2021] Just John                      Head                           pistol.python                  12.9m                          Q. Johns
+16:22 [Info] [Kill Feed] [22/16/13/03/2021] Just John                      Neck                           pistol.python                  25.7m                          P. Gilliam
+16:23 [Info] [Kill Feed] [23/16/13/03/2021] Just John                      Neck                           pistol.python                  9.9m                           U. Kidd
+16:23 [Info] [Kill Feed] [23/16/13/03/2021] miniManner HUN                 Hand                           pistol.python                  20.9m                          L. Kim
+16:23 [Info] [Kill Feed] [23/16/13/03/2021] Just John                      Hand                           pistol.python                  15.3m                          S. Norris
+16:24 [Info] [Kill Feed] [24/16/13/03/2021] Just John                      Chest                          pistol.python                  9.8m                           S. Oneill
+16:24 [Info] [Kill Feed] [24/16/13/03/2021] Q. Casey                                                      rifle.m39                      16.3m                          miniManner HUN
+16:24 [Info] [Kill Feed] [24/16/13/03/2021] Just John                      Hand                           pistol.python                  16.5m                          Q. Casey
+16:24 [Info] [Kill Feed] [24/16/13/03/2021] autoturret_deployed                                           bullet                         28.4m                          Flutschfinger
+16:26 [Info] [Welcomer] • miniManner HUN has left the server (Disconnected).
+16:26 [Info] [Welcomer] • Just John has left the server (Disconnected).
+16:26 [Info] [Kill Feed] [26/16/13/03/2021] Flutschfinger                                                 hatchet                        1.1m                           Wolf
+16:27 [Info] [Kill Feed] [27/16/13/03/2021] Königsgrenadier.75                                            drowned                                                       Königsgrenadier.75
+16:35 [Info] [Kill Feed] [35/16/13/03/2021] Flutschfinger                                                 suicide                                                       Flutschfinger
+16:35 [Info] [Better Chat] [Global] [Supporter] SeeMS: lol
+16:36 [Info] [Kill Feed] [36/16/13/03/2021] Flutschfinger                                                 suicide                                                       Flutschfinger
+16:36 [Info] [Kill Feed] [36/16/13/03/2021] Dönerfabsel                    Head                           rifle.lr300                    15.1m                          Dr. M. Hickman
+16:37 [Info] [Kill Feed] [37/16/13/03/2021] Dönerfabsel                    Head                           smg.2                          2.6m                           Dr. E. Benton
+16:37 [Info] [Kill Feed] [37/16/13/03/2021] Dr. L. Stuart                                                 rifle.lr300                    2.8m                           Dönerfabsel
+16:43 [Info] [Kill Feed] [43/16/13/03/2021] Just John                                                     suicide                                                       Just John
+16:43 [Info] [Kill Feed] [43/16/13/03/2021] Flutschfinger                                                 rifle.ak                       2.6m                           Wolf
+16:45 [Info] [HeliControl] Next Helicopter spawn: 26 minutes
+16:46 [Info] [Kill Feed] [46/16/13/03/2021] Flutschfinger                                                 suicide                                                       Flutschfinger
+16:46 [Info] [Welcomer] • Monke has joined the server from United Kingdom.
+16:47 [Info] [Better Chat] [Global] [Newbie] Monke: yo
+16:49 [Info] [Kill Feed] [49/16/13/03/2021] Monke                                                         torch                          1.8m                           Chicken
+16:50 [Info] [Kill Feed] [50/16/13/03/2021] Königsgrenadier.75             Head                           smg.2                          5.2m                           Dr. O. Foley
+16:51 [Info] [Kill Feed] [51/16/13/03/2021] xXKṜỈ$₸կՏ_CΖ∑Xx                Head                           rifle.lr300                    25.3m                          Dr. L. Weeks
+16:51 [Info] [Kill Feed] [51/16/13/03/2021] Flutschfinger                                                 suicide                                                       Flutschfinger
+16:52 [Info] [Kill Feed] [52/16/13/03/2021] autoturret_deployed                                           bullet                         29.6m                          Flutschfinger
+16:52 [Info] [Better Chat] [Global] [Pro] Flutschfinger: This fucking auto turret
+16:52 [Info] [Better Chat] [Global] [Supporter] SeeMS: lol
+16:52 [Info] [HeliControl] Next CH47 spawn: 31 minutes
+16:53 [Info] [Kill Feed] [53/16/13/03/2021] Dönerfabsel                                                   drowned                                                       Dönerfabsel
+16:53 [Info] [Kill Feed] [53/16/13/03/2021] Monke                                                         rifle.semiauto                 21.5m                          Boar
+16:53 [Info] [Kill Feed] [53/16/13/03/2021] autoturret_deployed                                           bullet                         25.0m                          Flutschfinger
+16:54 [Info] [Welcomer] • tbone1235648 has joined the server from United States.
+16:56 [Info] [Kill Feed] [56/16/13/03/2021] Flutschfinger                                                 suicide                                                       Flutschfinger
+16:57 [Info] [Kill Feed] [57/16/13/03/2021] autoturret_deployed                                           bullet                         26.1m                          Flutschfinger
+16:58 [Info] [Kill Feed] [58/16/13/03/2021] autoturret_deployed                                           bullet                         25.4m                          Flutschfinger
+16:58 [Info] [Welcomer] • tronche de vainqueur has joined the server from France.
+17:03 [Info] [Kill Feed] [03/17/13/03/2021] autoturret_deployed                                           bullet                         28.9m                          Flutschfinger
+17:03 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1027ms
+17:03 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1175ms
+17:03 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1032ms
+17:04 [Info] [Kill Feed] [04/17/13/03/2021] Königsgrenadier.75             Neck                           rifle.lr300                    102.7m                         Dr. L. Padilla
+17:04 [Info] [Kill Feed] [04/17/13/03/2021] autoturret_deployed                                           bullet                         22.0m                          Flutschfinger
+17:04 [Info] [Kill Feed] [04/17/13/03/2021] tronche de vainqueur                                          rifle.lr300                    2.2m                           Wolf
+17:09 [Info] [Kill Feed] [09/17/13/03/2021] tronche de vainqueur                                          guntrap                        3.8m                           tronche de vainqueur
+17:09 [Info] [Kill Feed] [09/17/13/03/2021] tronche de vainqueur                                          explosive.timed                4.1m                           ムスタファ
+17:10 [Info] [Kill Feed] [10/17/13/03/2021] Königsgrenadier.75             Head                           rifle.semiauto                 103.4m                         Dr. C. Forbes
+17:11 [Info] [Kill Feed] [11/17/13/03/2021] Flutschfinger                                                 grenade.f1                                                    Flutschfinger
+17:11 [Info] [Kill Feed] [11/17/13/03/2021] Königsgrenadier.75             Head                           rifle.semiauto                 103.2m                         Dr. O. Levy
+17:12 [Info] [Kill Feed] [12/17/13/03/2021] Königsgrenadier.75             Head                           rifle.semiauto                 103.2m                         Dr. Q. Pollard
+17:13 [Info] [Welcomer] • tbone1235648 has left the server (Disconnected).
+17:13 [Info] [Kill Feed] [13/17/13/03/2021] tronche de vainqueur                                          guntrap                        3.5m                           tronche de vainqueur
+17:14 [Info] [Kill Feed] [14/17/13/03/2021] Snupadelikas                                                  guntrap                        2.0m                           Snupadelikas
+17:14 [Info] [Kill Feed] [14/17/13/03/2021] tronche de vainqueur                                          explosive.satchel                                             tronche de vainqueur
+17:14 [Info] [Welcomer] • HecTiiC has joined the server from Germany.
+17:15 [Info] [Better Chat] [Global] [Veteran] HecTiiC: hello
+17:15 [Info] [Better Chat] [Global] [Pro] Flutschfinger: hello
+17:16 [Info] [Better Chat] [Global] [Veteran] HecTiiC: someone want yesterday in my house ^^
+17:16 [Info] [Kill Feed] [16/17/13/03/2021] Königsgrenadier.75             Head                           rifle.semiauto                 103.1m                         Dr. W. Sosa
+17:19 [Info] [Kill Feed] [19/17/13/03/2021] Monke                                                         suicide                                                       Monke
+17:19 [Info] [Kill Feed] [19/17/13/03/2021] Königsgrenadier.75             Neck                           rifle.semiauto                 92.5m                          Dr. K. Carter
+17:20 [Info] [Kill Feed] [20/17/13/03/2021] Königsgrenadier.75             Hand                           rifle.semiauto                 92.0m                          Dr. S. Gentry
+17:25 [Info] [Welcomer] • meNsaVT has joined the server from Germany.
+17:25 [Info] [Kill Feed] [25/17/13/03/2021] Dönerfabsel                    Forearm                        smg.2                          13.8m                          Dr. J. Terrell
+17:25 [Info] [Kill Feed] [25/17/13/03/2021] Königsgrenadier.75             Hip                            rifle.lr300                    12.8m                          Dr. S. Phelps
+17:25 [Info] [HeliControl] Next Helicopter spawn: 20 minutes
+17:26 [Info] [Kill Feed] [26/17/13/03/2021] Königsgrenadier.75             Hip                            rifle.lr300                    13.2m                          Dr. S. Salas
+17:26 [Info] [Kill Feed] [26/17/13/03/2021] Dönerfabsel                    Head                           smg.2                          3.2m                           Dr. W. Bauer
+17:27 [Info] [Kill Feed] [27/17/13/03/2021] Dönerfabsel                    Spine                          smg.2                          11.2m                          Dr. A. Richmond
+17:27 [Info] [Kill Feed] [27/17/13/03/2021] Dönerfabsel                    Head                           smg.2                          6.1m                           Dr. H. Guerra
+17:29 [Info] [Kill Feed] [29/17/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    7.9m                           meNsaVT
+17:33 [Info] [Welcomer] • meNsaVT has left the server (Disconnected).
+17:34 [Info] [HeliControl] Next CH47 spawn: 29 minutes
+17:34 [Info] [Welcomer] • Monke has left the server (Disconnected).
+17:34 [Info] [Better Chat] [Global] [Veteran] HecTiiC: wtf what a pussy
+17:34 [Info] [Better Chat] [Global] [Pro] Flutschfinger: ?
+17:34 [Info] [Better Chat] [Global] [Veteran] HecTiiC: he raided my shop and teleport @home allways
+17:35 [Info] [Better Chat] [Global] [Veteran] HecTiiC: what a fucking pussy
+17:35 [Info] [Better Chat] [Global] [Pro] Flutschfinger: what for a shop ?
+17:35 [Info] [Better Chat] [Global] [Pro] Flutschfinger: and who ?
+17:35 [Info] [Better Chat] [Global] [Veteran] HecTiiC: J24
+17:36 [Info] [Better Chat] [Global] [Veteran] HecTiiC: why you are so a pussy guy ?? come tell me
+17:37 [Info] [Better Chat] [Global] [Supporter] SeeMS: who?
+17:37 [Info] [Better Chat] [Global] [Veteran] HecTiiC: by my shop
+17:38 [Info] [Better Chat] [Global] [Veteran] HecTiiC: i hate üussys he raiding here with teleport
+17:39 [Info] [Better Chat] [Global] [Veteran] HecTiiC: SeeMS say pls a admin i want the name from the logs xD
+17:40 [Info] [Better Chat] [Global] [Veteran] HecTiiC: omg so a pussy he tell me no why he is a pussy xD
+17:41 [Info] [Better Chat] [Global] [Pro] Flutschfinger: Why the Weapons in your shop are so expensive ?xd
+17:41 [Info] [Better Chat] [Global] [Veteran] HecTiiC: a full shop of L96
+17:42 [Info] [Better Chat] [Global] [Veteran] HecTiiC: AKßs
+17:42 [Info] [Better Chat] [Global] [Veteran] HecTiiC: AK´s
+17:42 [Info] [Better Chat] [Global] [Veteran] HecTiiC: computer and other stuff
+17:42 [Info] [Better Chat] [Global] [Veteran] HecTiiC: and all have he bring home with a pussy move to teleport
+17:43 [Info] [Better Chat] [Global] [Pro] Flutschfinger: Farm it again xd i dont now what i can do ...
+17:44 [Info] [Better Chat] [Global] [Veteran] HecTiiC: all good the pussy is stupid its only a pussy more no
+17:44 [Info] [Welcomer] • Königsgrenadier.75 has left the server (Disconnected).
+17:44 [Info] [Better Chat] [Global] [Pro] Flutschfinger: Did bradly really give m2 on this server ? i have 0 m2 xd
+17:45 [Info] [Better Chat] [Global] [Veteran] HecTiiC: yes and the heli
+17:45 [Info] [Better Chat] [Global] [Veteran] HecTiiC: @SeeMS can you come and destoy this walls ?? or i need to boom his
+17:45 [Info] [Better Chat] [Global] [Pro] Flutschfinger: i only get shit weapons and maybe 2 l96
+17:46 [Info] [Better Chat] [Global] [Pro] Flutschfinger: i come to you
+17:46 [Info] [Better Chat] [Global] [Supporter] SeeMS: i have to bomb it to destroy it
+17:46 [Info] [Better Chat] [Global] [Supporter] SeeMS: so you should do it xd
+17:47 [Info] [Welcomer] • Flutschfinger has left the server (Disconnected).
+17:52 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+17:55 [Info] [Kill Feed] [55/17/13/03/2021] Sponkey                        Head                           smg.thompson                   99.5m                          Dr. Y. Tyson
+17:55 [Info] [Welcomer] • dantetegenu4 has left the server (Timed Out).
+17:59 [Info] [HeliControl] Next Helicopter spawn: 29 minutes
+18:00 [Info] [Kill Feed] [00/18/13/03/2021] Lechoo                         Spine                          smg.thompson                   1.8m                           David
+18:01 [Info] [Better Chat] [Global] [Veteran] HecTiiC: come to the shop all open you can all weapons have
+18:01 [Info] [Better Chat] [Global] [Veteran] HecTiiC: i closed the shop
+18:02 [Info] [Better Chat] [Global] [Player] Sponkey: everybody? xD
+18:02 [Info] [Better Chat] [Global] [Veteran] HecTiiC: yews
+18:02 [Info] [Better Chat] [Global] [Veteran] HecTiiC: when you need a weapon say me
+18:02 [Info] [Better Chat] [Global] [Player] Sponkey: for sure. all was raided
+18:03 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+18:03 [Info] [Welcomer] • tronche de vainqueur has left the server (Disconnected).
+18:03 [Info] [Better Chat] [Global] [Veteran] HecTiiC: no only L96 computer wind turbin was lootet
+18:03 [Info] [Better Chat] [Global] [Veteran] HecTiiC: @SeeMS ehen you a full chest by a raid see say me this guy is dead
+18:03 [Info] [Better Chat] [Global] [Veteran] HecTiiC: when
+18:04 [Info] [Better Chat] [Global] [Veteran] HecTiiC: with L96
+18:04 [Info] [Welcomer] • little cat meow meow has joined the server from United Kingdom.
+18:05 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:are you german?
+18:05 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:ja
+18:05 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:was meintest du mit den waffen? xD
+18:06 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:in meinem shop
+18:06 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:ah okay, dann hab ich dich missverstanden denke ich. sry
+18:06 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:?
+18:06 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:oder was meinst du
+18:07 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:dachte du gibst als admin waffen raus ;)
+18:07 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:bin nicht mal admin xd
+18:07 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:sag ich ja, hab dich missverstanden :D sorry
+18:07 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:bin ein ganz normaler spieler wie ihr auch xD
+18:07 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:na ob man hier so ganz normal sein kann...
+18:08 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:naja wenigstens bin ich keine pussy und raide mit home teleports xD
+18:08 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:ich will so gerne wissen wer das war
+18:09 [Info] [Better Chat] [Team] [Hero] dantetegenu4: T/SKIN
+18:09 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:hab ich mitbekommen. einfach assi. wurde an 2 tagen 2x geraidet. macht laune
+18:09 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:bei mir wars wade.
+18:09 [Info] [Welcomer] • Viper™ has joined the server from Serbia.
+18:10 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:das raiden macht mir nix aus aber dann doch auch die eier in der hose haben und richtig raiden mit kampf usw
+18:10 [Info] [Welcomer] • Lechoo has left the server (Disconnected).
+18:10 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:klar, gehört ja irgendwie zum spiel. aber muss fair sein, da bin ich voll bei dir
+18:10 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:ganze tag jetzt im arsch
+18:11 [Info] [Kill Feed] [11/18/13/03/2021] dantetegenu4                   Head                           rifle.bolt                     120.1m                         Dr. K. Gilbert
+18:11 [Info] [Kill Feed] [11/18/13/03/2021] dantetegenu4                   Head                           rifle.bolt                     24.1m                          Dr. C. McFadden
+18:11 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:kann ich sehr gut nachvollziehen! denke nicht, dass ich dir da groß helfen kann, hab selbst nix
+18:12 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:alles gut ich habe ja noch ne kiste voll mit l96 und m249 aber es geht mir um das prinzip wie er geraided hat
+18:12 [Info] [Dynamic PVP] Debug, zoneID: 1812437712, mapping: zones
+18:13 [Info] [HeliControl] Next CH47 spawn: 34 minutes
+18:13 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:ah okay sehr gut. ja das kann ich nachvollziehen. schade, dass rust+ hier nicht funzt
+18:13 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:bei manchen funzt es bei manchen nicht bei mir zb nicht
+18:14 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:sonst würde niemand in die nähe von meinem shop kommen
+18:14 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:hier auf dem server wohl nicht...
+18:14 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:darf ich fragen wo der ist?
+18:15 [Info] [Better Chat] [Global] [Veteran] HecTiiC: i buy sulfur on mass all what you have i buy from all players
+18:17 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:hast du sulfur in massen
+18:17 [Info] [Welcomer] • Dönerfabsel has left the server (Disconnected).
+18:17 [Info] [Welcomer] • Kristus28 has joined the server from Czechia.
+18:17 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:4k :D:D:D
+18:18 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:kann dir aber sammeln helfen wenns dir was bringt
+18:18 [Info] [Welcomer] • Dr,error has joined the server from Germany.
+18:20 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:ja in der pve zeit gehe ich los währe mega gebe dir alles was du brauchst fürs helfen tea jackhammer alles andere was du sammelst kannste behalten
+18:20 [Info] [Welcomer] • Dr,error has left the server (Disconnected).
+18:21 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:jau bin eben was essen dann sammel ich. nachher einen ersatz jack wäre gut. bis gleich
+18:21 [Info] [PrivateMessages] [PM]HecTiiC->Sponkey:habe 34 pure ore teas
+18:22 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:okay, ich schreib dir dann gleich
+18:23 [Info] [Welcomer] • little cat meow meow has left the server (Disconnected).
+18:26 [Info] [Dynamic PVP] Debug, zoneID: 1826158930, mapping: zones
+18:28 [Info] [Kill Feed] [28/18/13/03/2021] Viper™                         Head                           hatchet                        0.6m                           Dr. C. Pierce
+18:31 [Info] [Kill Feed] [31/18/13/03/2021] dantetegenu4                                                  lmg.m249                       13.7m                          Stag
+18:34 [Info] [Kill Feed] [34/18/13/03/2021] Viper™                                                        hatchet                        2.2m                           Boar
+18:34 [Info] [Welcomer] • Dönerfabsel has joined the server from Germany.
+18:35 [Info] [Kill Feed] [35/18/13/03/2021] Kristus28                      Head                           rifle.m39                      1.4m                           [DMA] dominik-guba
+18:35 [Info] [Kill Feed] [35/18/13/03/2021] Bear                                                          bite                           1.2m                           Viper™
+18:37 [Info] [Kill Feed] [37/18/13/03/2021] dantetegenu4                                                  flamethrower                   5.1m                           PLOHISH
+18:38 [Info] [Kill Feed] [38/18/13/03/2021] xXKṜỈ$₸կՏ_CΖ∑Xx                                               rifle.lr300                    14.1m                          Boar
+18:40 [Info] [Better Chat] [Team] [Hero] dantetegenu4: eirywgèrouhsaàèdfoihasèà9ugtdsèàgfujbga+gf
+18:40 [Info] [Better Chat] [Global] [Hero] dantetegenu4: How do I speak to Jack?
+18:42 [Info] [HeliControl] Next Helicopter spawn: 25 minutes
+18:43 [Info] [Kill Feed] [43/18/13/03/2021] Dönerfabsel                    Head                           rifle.lr300                    66.3m                          Dr. A. Armstrong
+18:45 [Info] [Kill Feed] [45/18/13/03/2021] xXKṜỈ$₸կՏ_CΖ∑Xx                Neck                           rifle.lr300                    0.3m                           [DMA] Admiral Doge
+18:48 [Info] [Better Chat] [Global] [Veteran] HecTiiC: oh out of stuck jackhammer xD
+18:51 [Info] [Kill Feed] [51/18/13/03/2021] Kristus28                                                     generic                        3.8m                           Boar
+18:53 [Info] [Welcomer] • Mitsukii has joined the server from Netherlands.
+18:53 [Info] [PrivateMessages] [PM]Sponkey->HecTiiC:bin wieder da. kann aber sein, dass meine Tochter wach wird, dann muss ich kurz weg
+18:56 [Info] [Welcomer] • Mitsukii has left the server (Disconnected).
+18:57 [Info] [Welcomer] • Königsgrenadier.75 has joined the server from Germany.
+18:57 [Info] [HeliControl] Next CH47 spawn: 25 minutes
+19:00 [Info] [Welcomer] • HecTiiC has left the server (Kicked: Unresponsive).
+19:01 [Info] [Welcomer] • Dönerfabsel has left the server (Timed Out).
+19:03 [Info] [Kill Feed] [03/19/13/03/2021] SeeMS                                                         guntrap                        3.6m                           SeeMS
+19:03 [Info] [Better Chat] [Global] [Supporter] SeeMS: shit xd
+19:04 [Info] [Welcomer] • H0tCheet0 has joined the server from Canada.
+19:07 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 3215ms
+19:07 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2561ms
+19:08 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 4611ms
+19:08 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 3688ms
+19:08 [Info] [Welcomer] • dantetegenu4 has left the server (Disconnected).
+19:09 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1680ms
+19:09 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1669ms
+19:11 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2138ms
+19:11 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1985ms
+19:13 [Info] [Welcomer] • Königsgrenadier.75 has left the server (Disconnected).
+19:22 [Info] [HeliControl] Next Helicopter spawn: 26 minutes
+19:32 [Info] [Welcomer] • Du_Pius!!! has joined the server from Switzerland.
+19:32 [Info] [HeliControl] Next CH47 spawn: 20 minutes
+19:39 [Info] [Welcomer] • Du_Pius!!! has left the server (Disconnected).
+19:40 [Info] [Welcomer] • tronche de vainqueur has joined the server from France.
+19:44 [Info] [Welcomer] • xXKṜỈ$₸կՏ_CΖ∑Xx has left the server (Timed Out).
+19:54 [Info] [Better Chat] [Global] [Player] Sponkey: 7remove
+19:56 [Info] [Kill Feed] [56/19/13/03/2021] sentry.scientist.static                                       bullet                         48.3m                          Dr. U. Blankenship
+19:56 [Info] [Kill Feed] [56/19/13/03/2021] H0tCheet0                                                     rifle.semiauto                 1.2m                           Bear
+19:58 [Info] [Welcomer] • [DMA] dominik-guba has joined the server from Germany.
+19:58 [Info] [Welcomer] • KrawallKlaus has joined the server from Germany.
+19:59 [Info] [Better Chat] [Global] [Newbie] KrawallKlaus: hello
+19:59 [Info] [Better Chat] [Global] [Supporter] SeeMS: hey welcome
+20:00 [Info] [Welcomer] • KrawallKlaus has left the server (Disconnected).
+20:02 [Info] [HeliControl] Next Helicopter spawn: 21 minutes
+20:02 [Info] [Kill Feed] [02/20/13/03/2021] tronche de vainqueur           Hand                           rifle.lr300                    24.8m                          Dr. X. Graves
+20:02 [Info] [HeliControl] Next CH47 spawn: 26 minutes
+20:08 [Info] [Welcomer] • xXKṜỈ$₸կՏ_CΖ∑Xx has joined the server from Czechia.
+20:15 [Info] [Kill Feed] [15/20/13/03/2021] tronche de vainqueur                                          explosive.timed                5.3m                           papa
+20:23 [Info] [Kill Feed] [23/20/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    2.1m                           ProfessorRainbow
+20:23 [Info] [Kill Feed] [23/20/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    0.5m                           Nymph
+20:26 [Info] [Kill Feed] [26/20/13/03/2021] [DMA] dominik-guba                                            rifle.semiauto                 1.5m                           Wolf
+20:26 [Info] [Kill Feed] [26/20/13/03/2021] [DMA] dominik-guba                                            rifle.semiauto                 26.4m                          Boar
+20:27 [Info] [Welcomer] • Yangtze 揚子江 has joined the server from Germany.
+20:30 [Info] [Better Chat] [Team] [Newbie] H0tCheet0: SKIN
+20:37 [Info] [HeliControl] Next Helicopter spawn: 27 minutes
+20:39 [Info] [HeliControl] Next CH47 spawn: 34 minutes
+20:39 [Info] [Welcomer] • H0tCheet0 has left the server (Disconnected).
+20:39 [Info] [Welcomer] • BigBadChiliCrab has left the server (Disconnected).
+20:41 [Info] [Kill Feed] [41/20/13/03/2021] Yangtze 揚子江                                                   flameturret                    2.5m                           Yangtze 揚子江
+20:45 [Info] [Kill Feed] [45/20/13/03/2021] Kristus28                                                     generic                        3.3m                           Chicken
+20:45 [Info] [Kill Feed] [45/20/13/03/2021] Kristus28                                                     generic                        3.7m                           Chicken
+20:50 [Info] [Kill Feed] [50/20/13/03/2021] tronche de vainqueur           Head                           rifle.bolt                     77.2m                          Dr. N. Cochran
+20:51 [Info] [Kill Feed] [51/20/13/03/2021] tronche de vainqueur           Head                           rifle.bolt                     80.6m                          Dr. S. Cunningham
+20:52 [Info] [Dynamic PVP] Debug, zoneID: 2052213256, mapping: zones
+20:53 [Info] [Kill Feed] [53/20/13/03/2021] Yangtze 揚子江                    Head                           rifle.m39                      2.4m                           allstar.94
+20:57 [Info] [Kill Feed] [57/20/13/03/2021] tronche de vainqueur           Head                           rifle.bolt                     87.3m                          Dr. N. Shepherd
+20:58 [Info] [Kill Feed] [58/20/13/03/2021] [DMA] dominik-guba             Head                           rifle.semiauto                 30.2m                          Dr. L. Trujillo
+20:59 [Info] [Kill Feed] [59/20/13/03/2021] Kristus28                                                     lmg.m249                       47.5m                          Boar
+20:59 [Info] [Kill Feed] [59/20/13/03/2021] tronche de vainqueur           Neck                           rifle.bolt                     39.0m                          Dr. S. Dorsey
+20:59 [Info] [Kill Feed] [59/20/13/03/2021] tronche de vainqueur           Head                           rifle.bolt                     51.0m                          Dr. L. Crane
+21:00 [Info] [TruePVE] [WARNING] Schedule Broadcast: PVE is on now!
+21:00 [Info] [Kill Feed] [00/21/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    38.1m                          Dr. H. Witt
+21:00 [Info] [Kill Feed] [00/21/13/03/2021] xXKṜỈ$₸կՏ_CΖ∑Xx                Head                           rifle.l96                      118.6m                         Scarecrow J. Knapp
+21:01 [Info] [Welcomer] • Yangtze 揚子江 has left the server (Disconnected).
+21:01 [Info] [Kill Feed] [01/21/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    27.4m                          Dr. S. Barry
+21:01 [Info] [Kill Feed] [01/21/13/03/2021] xXKṜỈ$₸կՏ_CΖ∑Xx                Head                           rifle.l96                      133.5m                         Scarecrow T. Peters
+21:02 [Info] [Kill Feed] [02/21/13/03/2021] tronche de vainqueur           Forearm                        rifle.lr300                    22.3m                          Dr. T. Simmons
+21:02 [Info] [Kill Feed] [02/21/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    61.9m                          Dr. S. Salas
+21:03 [Info] [Kill Feed] [03/21/13/03/2021] xXKṜỈ$₸կՏ_CΖ∑Xx                Neck                           lmg.m249                       5.7m                           Scarecrow N. Jenning
+21:03 [Info] [Kill Feed] [03/21/13/03/2021] tronche de vainqueur           Hand                           rifle.lr300                    56.2m                          Dr. D. Monroe
+21:03 [Info] [Kill Feed] [03/21/13/03/2021] xXKṜỈ$₸կՏ_CΖ∑Xx                Spine                          lmg.m249                       4.9m                           Scarecrow B. Callaha
+21:04 [Info] [Kill Feed] [04/21/13/03/2021] tronche de vainqueur           Hip                            rifle.lr300                    62.6m                          Dr. Y. Morton
+21:04 [Info] [Kill Feed] [04/21/13/03/2021] Kristus28                      Head                           rifle.m39                      42.5m                          Scarecrow J. Hardy
+21:05 [Info] [Kill Feed] [05/21/13/03/2021] Kristus28                                                     rifle.m39                      28.0m                          Boar
+21:05 [Info] [Kill Feed] [05/21/13/03/2021] tronche de vainqueur           Hand                           rifle.lr300                    54.9m                          Dr. U. Wall
+21:05 [Info] [Kill Feed] [05/21/13/03/2021] xXKṜỈ$₸կՏ_CΖ∑Xx                                               lmg.m249                       23.1m                          Boar
+21:05 [Info] [Kill Feed] [05/21/13/03/2021] Kristus28                                                     rifle.m39                      49.7m                          Boar
+21:05 [Info] [Kill Feed] [05/21/13/03/2021] xXKṜỈ$₸կՏ_CΖ∑Xx                                               lmg.m249                       11.5m                          Boar
+21:05 [Info] [Kill Feed] [05/21/13/03/2021] xXKṜỈ$₸կՏ_CΖ∑Xx                                               lmg.m249                       19.8m                          Wolf
+21:06 [Info] [Kill Feed] [06/21/13/03/2021] tronche de vainqueur           Chest                          rifle.lr300                    60.1m                          Dr. V. Richard
+21:08 [Info] [Kill Feed] [08/21/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    62.3m                          Dr. I. Hampton
+21:08 [Info] [Kill Feed] [08/21/13/03/2021] tronche de vainqueur           Hand                           rifle.lr300                    62.4m                          Dr. V. Bruce
+21:08 [Info] [Kill Feed] [08/21/13/03/2021] tronche de vainqueur           Arm                            rifle.lr300                    57.7m                          Dr. D. Terry
+21:08 [Info] [Kill Feed] [08/21/13/03/2021] tronche de vainqueur           Neck                           rifle.lr300                    61.2m                          Dr. K. Bowers
+21:08 [Info] [Kill Feed] [08/21/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    59.7m                          Dr. Z. Collier
+21:09 [Info] [Kill Feed] [09/21/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    58.7m                          Dr. P. Hughes
+21:09 [Info] [Kill Feed] [09/21/13/03/2021] tronche de vainqueur           Foot                           rifle.lr300                    58.4m                          Dr. M. Newman
+21:10 [Info] [Kill Feed] [10/21/13/03/2021] tronche de vainqueur           Hand                           rifle.lr300                    62.5m                          Dr. C. Tate
+21:10 [Info] [Kill Feed] [10/21/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    62.6m                          Dr. R. May
+21:10 [Info] [Kill Feed] [10/21/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    62.7m                          Dr. A. Calderon
+21:11 [Info] [Kill Feed] [11/21/13/03/2021] tronche de vainqueur           Neck                           rifle.lr300                    66.3m                          Dr. N. Carney
+21:11 [Info] [Kill Feed] [11/21/13/03/2021] Viper™                                                        thirst                                                        Viper™
+21:11 [Info] [Kill Feed] [11/21/13/03/2021] tronche de vainqueur           Neck                           rifle.lr300                    54.8m                          Dr. P. Madden
+21:15 [Info] [PlayerRankings] [DMA] dominik-guba has been ranked up to player
+21:16 [Info] [Kill Feed] [16/21/13/03/2021] minicopter.entity                                             explosion                      0.8m                           tronche de vainqueur
+21:19 [Info] [HeliControl] Next Helicopter spawn: 22 minutes
+21:19 [Info] [Kill Feed] [19/21/13/03/2021] [DMA] dominik-guba             Forearm                        rifle.lr300                    90.4m                          Dr. F. Taylor
+21:20 [Info] [Kill Feed] [20/21/13/03/2021] [DMA] dominik-guba             Head                           rifle.lr300                    96.5m                          Dr. D. Downs
+21:20 [Info] [Kill Feed] [20/21/13/03/2021] xXKṜỈ$₸կՏ_CΖ∑Xx                                               rifle.lr300                    11.2m                          Boar
+21:23 [Info] [HeliControl] Next CH47 spawn: 24 minutes
+21:24 [Info] [Welcomer] • Flutschfinger has joined the server from Germany.
+21:24 [Info] [Kill Feed] [24/21/13/03/2021] [DMA] dominik-guba             Hand                           rifle.lr300                    14.1m                          Dr. S. Howe
+21:25 [Info] [Kill Feed] [25/21/13/03/2021] [DMA] dominik-guba             Head                           rifle.lr300                    15.3m                          Dr. V. Reyes
+21:25 [Info] [Kill Feed] [25/21/13/03/2021] [DMA] dominik-guba             Spine                          rifle.lr300                    5.4m                           Dr. M. Jensen
+21:26 [Info] [Kill Feed] [26/21/13/03/2021] [DMA] dominik-guba             Head                           rifle.lr300                    12.8m                          Dr. I. Paul
+21:27 [Info] [Kill Feed] [27/21/13/03/2021] [DMA] dominik-guba             Head                           rifle.lr300                    6.6m                           Dr. J. Bryan
+21:27 [Info] [Kill Feed] [27/21/13/03/2021] [DMA] dominik-guba             Pelvis                         rifle.lr300                    4.4m                           Dr. X. Clay
+21:27 [Info] [Kill Feed] [27/21/13/03/2021] tronche de vainqueur           Hand                           rifle.lr300                    11.8m                          Dr. K. Stephenson
+21:27 [Info] [Kill Feed] [27/21/13/03/2021] [DMA] dominik-guba             Pelvis                         rifle.lr300                    22.2m                          Dr. O. French
+21:27 [Info] [Kill Feed] [27/21/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    32.7m                          Dr. Y. Page
+21:27 [Info] [Kill Feed] [27/21/13/03/2021] tronche de vainqueur           Head                           rifle.lr300                    1.1m                           Dr. Z. Daugherty
+21:28 [Info] [Kill Feed] [28/21/13/03/2021] [DMA] dominik-guba             Head                           rifle.lr300                    11.7m                          Dr. I. Hinton
+21:28 [Info] [Kill Feed] [28/21/13/03/2021] [DMA] dominik-guba             Head                           rifle.lr300                    16.7m                          Dr. V. Rice
+21:29 [Info] [Kill Feed] [29/21/13/03/2021] [DMA] dominik-guba             Hip                            rifle.lr300                    11.7m                          Dr. C. Frazier
+21:29 [Info] [Kill Feed] [29/21/13/03/2021] [DMA] dominik-guba             Pelvis                         rifle.lr300                    14.5m                          Dr. M. Baxter
+21:30 [Info] [Kill Feed] [30/21/13/03/2021] [DMA] dominik-guba             Stomach                        rifle.lr300                    18.7m                          Dr. U. Strickland
+21:30 [Info] [Kill Feed] [30/21/13/03/2021] [DMA] dominik-guba             Chest                          rifle.lr300                    11.4m                          Dr. H. MacDonald
+21:35 [Info] [Dynamic PVP] Debug, zoneID: 2135262726, mapping: zones
+21:38 [Info] [Kill Feed] [38/21/13/03/2021] [DMA] dominik-guba             Spine                          rifle.lr300                    21.2m                          Dr. L. Cobb
+21:38 [Info] [Welcomer] • Cannnn387 has joined the server from Germany.
+21:39 [Info] [Kill Feed] [39/21/13/03/2021] Dr. J. Skinner                                                lmg.m249                       11.5m                          [DMA] dominik-guba
+21:39 [Info] [Welcomer] • [DMA] dominik-guba has left the server (Disconnected).
+21:40 [Info] [Welcomer] • Cannnn387 has left the server (Disconnected).
+21:48 [Info] [PrivateMessages] [PM]Flutschfinger->SeeMS:do you have all berrys ?
+21:50 [Info] [PrivateMessages] [PM]Flutschfinger->SeeMS:?
+21:52 [Info] [Kill Feed] [52/21/13/03/2021] tronche de vainqueur           Neck                           rifle.lr300                    87.6m                          Dr. F. Moody
+21:52 [Info] [Kill Feed] [52/21/13/03/2021] tronche de vainqueur           Neck                           rifle.lr300                    19.6m                          Dr. H. Hobbs
+21:53 [Info] [Dynamic PVP] Debug, zoneID: 2153572242, mapping: zones
+21:55 [Info] [HeliControl] Next Helicopter spawn: 23 minutes
+21:55 [Info] [Kill Feed] [55/21/13/03/2021] minicopter.entity                                             explosion                      0.3m                           tronche de vainqueur
+21:56 [Info] [Kill Feed] [56/21/13/03/2021] Flutschfinger                  Head                           rifle.l96                      24.2m                          Dr. Z. Tyler
+21:56 [Info] [Kill Feed] [56/21/13/03/2021] Flutschfinger                  Head                           rifle.l96                      23.4m                          Dr. J. Bridges
+21:56 [Info] [Better Chat] [Global] [Player] Sponkey: tronche wanna tp to me? im near your body
+21:57 [Info] [Kill Feed] [57/21/13/03/2021] Flutschfinger                  Head                           rifle.lr300                    16.9m                          Dr. N. Tillman
+21:57 [Info] [HeliControl] Next CH47 spawn: 34 minutes
+21:57 [Info] [Kill Feed] [57/21/13/03/2021] Flutschfinger                  Head                           rifle.lr300                    9.4m                           Dr. L. Puckett
+21:58 [Info] [Dynamic PVP] Debug, zoneID: 2158417259, mapping: zones
+22:03 [Info] [Kill Feed] [03/22/13/03/2021] Flutschfinger                  Head                           rifle.lr300                    9.1m                           Dr. S. Velasquez
+22:03 [Info] [Kill Feed] [03/22/13/03/2021] Flutschfinger                  Neck                           rifle.lr300                    16.1m                          Dr. H. Bates
+22:04 [Info] [Dynamic PVP] Debug, zoneID: 2204305741, mapping: zones
+22:05 [Info] [Kill Feed] [05/22/13/03/2021] sentry.scientist.static                                       bullet                         55.3m                          Dr. D. Lindsey
+22:09 [Info] [Better Chat] [Global] [Pro] Flutschfinger: dont shot
+22:10 [Info] [Better Chat] [Team] [Regular] Kristus28: come here
+22:10 [Info] [Better Chat] [Global] [Pro] Flutschfinger: WTF
+22:11 [Info] [Better Chat] [Global] [Pro] Flutschfinger: 10 Headshots and you are alive ?
+22:11 [Info] [Better Chat] [Team] [Regular] xXKṜỈ$₸կՏ_CΖ∑Xx: its after 10 u know
+22:13 [Info] [Better Chat] [Team] [Regular] xXKṜỈ$₸կՏ_CΖ∑Xx: cant hear you man
+22:13 [Info] [Better Chat] [Team] [Regular] xXKṜỈ$₸կՏ_CΖ∑Xx: bad mic
+22:13 [Info] [PlayerRankings] Sponkey has been ranked up to regular
+22:15 [Info] [Better Chat] [Global] [Pro] Flutschfinger: wait
+22:16 [Info] [Better Chat] [Global] [Pro] Flutschfinger: wait i come back in 15 min
+22:18 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took 182ms [GARBAGE COLLECT]
+22:31 [Info] [HeliControl] Next Helicopter spawn: 24 minutes
+22:32 [Info] [Welcomer] • tronche de vainqueur has left the server (Disconnected).
+22:41 [Info] [Welcomer] • Sponkey has left the server (Disconnected).
+22:41 [Info] [HeliControl] Next CH47 spawn: 34 minutes
+22:44 [Info] [Welcomer] • Yangtze 揚子江 has joined the server from Germany.
+23:09 [Info] [HeliControl] Next Helicopter spawn: 24 minutes
+23:10 [Info] [Welcomer] • chitzo has joined the server from Germany.
+23:24 [Info] [HeliControl] Next CH47 spawn: 23 minutes
+23:26 [Info] [Welcomer] • KOMUNA has joined the server from Bosnia and Herzegovina.
+23:26 [Info] [Better Chat] [Team] [Regular] xXKṜỈ$₸կՏ_CΖ∑Xx: hrvatskou republiku zravime
+23:29 [Info] [Welcomer] • KOMUNA has left the server (Disconnected).
+23:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+23:30 [Info] [Dynamic PVP] Debug, zoneID: 2330061669, mapping: zones
+23:41 [Info] [Welcomer] • Klassiker has joined the server from Germany.
+23:41 [Info] [Welcomer] • MuckelHD1 has joined the server from Germany.
+23:41 [Info] [Welcomer] • MuckelHD1 has left the server (Timed Out).
+23:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+23:47 [Info] [Better Chat] [Team] [Hero] chitzo: skin
+23:47 [Info] [HeliControl] Next Helicopter spawn: 23 minutes
+23:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+23:51 [Info] [PlayerRankings] xXKṜỈ$₸կՏ_CΖ∑Xx has been ranked up to pro
+23:52 [Info] [Welcomer] • Flutschfinger has left the server (Disconnected).
+23:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+23:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+23:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+23:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+23:58 [Info] [HeliControl] Next CH47 spawn: 21 minutes
+23:58 [Info] [Welcomer] • Klassiker has left the server (Disconnected).
+23:58 [Info] [Welcomer] • xXKṜỈ$₸կՏ_CΖ∑Xx has left the server (Disconnected).
+23:58 [Info] [Welcomer] • Kristus28 has left the server (Disconnected).
+23:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+23:59 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+23:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 9 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 8 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 7 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 6 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 1 seconds!

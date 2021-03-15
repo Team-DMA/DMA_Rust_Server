@@ -1,0 +1,2328 @@
+00:00 [Info] Uninstalling Rust:IO ...
+00:00 [Info] Rust:IO> Uninstalling ...
+00:00 [Info] Rust:IO> No longer ticking
+00:00 [Info] Rust:IO> Stopping server ...
+00:00 [Info] Rust:IO> Removing listeners ...
+00:00 [Info] Rust:IO> Performing maintenance ...
+00:00 [Info] Rust:IO> Closing database ...
+00:00 [Info] Rust:IO> Uninstalled.
+00:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Warning] Calling 'Unload' on 'AdminHammer v1.12.0' took 449ms
+00:00 [Info] Unloaded plugin AdminHammer v1.12.0 by mvrb
+00:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:00 [Info] Unloaded plugin Auto Engine Parts v1.0.0 by WhiteThunder
+00:00 [Info] Unloaded plugin Auto Purge v2.1.1 by misticos
+00:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Warning] Calling 'Unload' on 'BGrade v1.1.3' took 430ms
+00:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Unloaded plugin Backpacks v3.4.0 by LaserHydra
+00:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Unloaded plugin Better Chat Mute v1.2.1 by LaserHydra
+00:00 [Warning] Calling 'Unload' on 'BetterLoot v3.5.3' took 424ms
+00:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Unloaded plugin Better Say v3.0.1 by LaserHydra
+00:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Clothed Murderers v1.0.1 by Substrata
+00:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Unloaded plugin DronePilot v1.0.0 by k1lly0u
+00:00 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+00:00 [Info] Unloaded plugin Extended Recycler v1.1.0 by Orange
+00:00 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 441ms
+00:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+00:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Warning] Calling 'Unload' on 'InventoryViewer v3.0.3' took 424ms
+00:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Unloaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+00:00 [Warning] Calling 'Unload' on 'NPCNav v1.0.0' took 117ms
+00:00 [Info] Unloaded plugin NPCNav v1.0.0 by Whispers88
+00:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 837ms
+00:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Info] Unloaded plugin Notice v1.0.1 by LaserHydra
+00:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Unloaded plugin PrivateMessages v1.1.11 by MisterPixie
+00:00 [Info] Unloaded plugin Private Messages GUI v1.0.2 by Tricky
+00:00 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 429ms
+00:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+00:00 [Info] Unloaded plugin Scientist Names v1.1.3 by Ultra
+00:00 [Info] Unloaded plugin Scrap Heli Storage v0.0.5 by yetzt
+00:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+00:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+00:00 [Info] Unloaded plugin Slap v2.0.0 by Wulf
+00:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] Unloaded plugin TruePVE v2.0.1 by nivex
+00:00 [Info] Unloaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+00:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Unloaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+00:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+00:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+00:01 [Info] Loading Oxide Core v2.0.3991...
+00:01 [Info] Loading extensions...
+00:01 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+00:01 [Info] Loaded extension RustEdit v1.0.32 by k1lly0u
+00:01 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:01 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+00:01 [Info] Loaded extension Rust v2.0.4919 by Oxide Team and Contributors
+00:01 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+00:01 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+00:01 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:01 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:01 [Info] Using Covalence provider for game 'Rust'
+00:01 [Info] Loading plugins...
+00:01 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+00:01 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+00:01 [Info] Loaded plugin Rust v2.0.4919 by Oxide Team and Contributors
+00:01 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+00:01 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:01 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:01 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:01 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+00:01 [Info] AdminChat, AdminHammer, AliasSystem, AutoBroadcast, AutoEngineParts, AutoPurge, AutomaticAuthorization, BGrade, Backpacks, BetterChat, BetterChatMentions, BetterChatMute, BetterLoot, BetterSay, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, ClothedMurderers, CraftingController, DronePilot, EasyAirdrop, ExtendedRecycler, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NPCDropGun, NPCNav, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, SAMSiteAuth, ScientistNames, ScrapHeliStorage, ServerInfo, ServerRewards, SignArtist, Skins, SkipNightVote, Slap, SmoothRestart, SpawnMini, StackSizeController, TruePVE, UpkeepDisplayFix, Vanish, VehicleDecayProtection, VehicleLicence, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+00:01 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+00:01 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+00:01 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+00:01 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+00:01 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+00:01 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+00:01 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:01 [Info] Loaded plugin Auto Engine Parts v1.0.0 by WhiteThunder
+00:01 [Info] Loaded plugin Auto Purge v2.1.1 by misticos
+00:01 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:01 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:01 [Info] Loaded plugin Backpacks v3.4.0 by LaserHydra
+00:01 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+00:01 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+00:01 [Info] Loaded plugin Better Chat Mute v1.2.1 by LaserHydra
+00:01 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+00:01 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+00:01 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+00:01 [Info] Loaded plugin Building Grades v0.5.1 by Default
+00:01 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+00:01 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:01 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+00:01 [Info] Loaded plugin Clothed Murderers v1.0.1 by Substrata
+00:01 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+00:01 [Info] Loaded plugin DronePilot v1.0.0 by k1lly0u
+00:01 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+00:01 [Info] Loaded plugin Extended Recycler v1.1.0 by Orange
+00:01 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+00:01 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:01 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+00:01 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:01 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:01 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+00:01 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:01 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:01 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:01 [Info] Loaded plugin Kits v3.3.1 by Reneb
+00:01 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:01 [Info] Loaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+00:01 [Info] Loaded plugin NPCNav v1.0.0 by Whispers88
+00:01 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+00:01 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+00:01 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+00:01 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+00:01 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:01 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+00:01 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:01 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:01 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+00:01 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+00:01 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:01 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:01 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+00:01 [Info] Loaded plugin Scientist Names v1.1.3 by Ultra
+00:01 [Info] Loaded plugin Scrap Heli Storage v0.0.5 by yetzt
+00:01 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+00:01 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+00:01 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+00:01 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+00:01 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+00:01 [Info] Loaded plugin Slap v2.0.0 by Wulf
+00:01 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:01 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:01 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:01 [Info] Loaded plugin TruePVE v2.0.1 by nivex
+00:01 [Info] Loaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+00:01 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+00:01 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:01 [Info] Loaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+00:01 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+00:01 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+00:01 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:01 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+00:01 [Info] [RustEdit] - IO data loaded and ready to be processed!
+00:01 [Warning] [RustEdit] - No vending data found in map file
+00:01 [Warning] [RustEdit] - No loot data found in map file
+00:01 [Warning] [RustEdit] - No APC path data found in map file
+00:01 [Warning] [RustEdit] - No vehicle data found in map file
+00:01 [Info] [RustEdit] - NPC data loaded and ready to be processed!
+00:02 [Warning] [RustEdit] - No ocean patrol path data found in map file
+00:06 [Warning] Calling 'OnEntitySpawned' on 'RustIO v2.17.0' took 320ms
+00:07 [Info] IP address from external API: 45.138.48.233
+00:07 [Info] [RustEdit] - Checking for updates...
+00:07 [Info] Updating Rust:IO ...
+00:07 [Info] [Auto Purge] The purge has been started.
+00:07 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+00:07 [Info] [BetterLoot] Updating internals ...
+00:07 [Info] Rust:IO: Update complete
+00:07 [Warning] Calling 'OnServerInitialized' on 'ExtendedRecycler v1.1.0' took 389ms
+00:07 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 418ms
+00:07 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+00:07 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+00:07 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 1621ms
+00:07 [Info] [Kill Feed] Loading configuration file!
+00:07 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 442ms
+00:07 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 393ms
+00:08 [Warning] Calling 'OnServerInitialized' on 'ScrapHeliStorage v0.0.5' took 384ms
+00:08 [Warning] [Server Rewards] All UI elements have been successfully generated!
+00:08 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 270ms
+00:08 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+00:08 [Warning] Calling 'OnServerInitialized' on 'SpawnMini v2.10.0' took 108ms
+00:08 [Info] [TruePVE] [WARNING] Schedule Broadcast: PVE is on now!
+00:08 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+00:08 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 435ms
+00:08 [Info] [RustEdit] - The RustEdit extension is up to date!
+00:08 [Info] [BetterLoot] No stacked LootContainer found.
+00:08 [Info] [BetterLoot] Populated '800' supported containers.
+00:08 [Info] [SmoothRestart] Your servers Oxide build is up to date
+00:08 [Info] Installing Rust:IO ...
+00:08 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+00:08 [Info] Rust:IO> Creating directories ...
+00:08 [Info] Rust:IO> Applying config ...
+00:08 [Info] Rust:IO> Initializing database ...
+00:08 [Info] Rust:IO> Generating map image (this may take a while) ...
+00:08 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7682.061ms
+Postprocess  :  3720.944ms
+  Shadows    :   197.714ms
+  FXAA       :  3509.047ms
+Encoding     :    29.374ms
+Other        :    14.957ms
+--------------------------
+Total        :  11447.335ms
+00:08 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+00:08 [Info] Rust:IO> Installed.
+00:08 [Info] Rust:IO> Now ticking
+00:08 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 12093ms
+00:08 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 1ms
+00:08 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+00:08 [Info] [RustEdit] - Processing 230 IO entities
+00:08 [Info] [RustEdit] - Successfully connected 230 IO links
+00:08 [Info] [RustEdit] - No custom vending machines found in map
+00:08 [Info] [RustEdit] - 626 loot containers processed!
+00:08 [Info] [RustEdit] - Created 8 keycard desk respawners
+00:08 [Info] [RustEdit] - 1928 resource entities processed!
+00:08 [Info] [RustEdit] - 0 junkpiles processed!
+00:08 [Info] [RustEdit] - Created 340 NPC spawn handlers!
+00:09 [Info] [Auto Purge] The purge has been completed. Purged entities: 2043.
+00:11 [Info] [Welcomer] • HecTiiC has joined the server from Germany.
+00:12 [Info] [Kill Feed] [12/00/04/03/2021] sentry.scientist.static                                       bullet                         85.5m                          Dr. T. Hyde
+00:33 [Info] [Welcomer] • Caeser has joined the server from United Kingdom.
+00:33 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+00:39 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+00:40 [Info] [Kill Feed] [40/00/04/03/2021] HecTiiC                                                       rifle.m39                      2.4m                           Wolf
+00:48 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561199053853112
+00:48 [Info] [VoteRewards] 0
+00:56 [Info] [Kill Feed] [56/00/04/03/2021] Caeser                                                        shotgun.pump                   10.7m                          Bear
+01:01 [Info] [HeliControl] Next CH47 spawn: 15 minutes
+01:02 [Info] [Kill Feed] [02/01/04/03/2021] HecTiiC                                                       rifle.m39                      39.1m                          Bear
+01:02 [Info] [Kill Feed] [02/01/04/03/2021] HecTiiC                                                       rifle.m39                      29.4m                          Bear
+01:05 [Info] [Kill Feed] [05/01/04/03/2021] HecTiiC                                                       rifle.m39                      3.1m                           Bear
+01:05 [Info] [Kill Feed] [05/01/04/03/2021] HecTiiC                                                       rifle.m39                      4.8m                           Boar
+01:06 [Info] [Kill Feed] [06/01/04/03/2021] HecTiiC                                                       rifle.m39                      20.4m                          Wolf
+01:10 [Info] [HeliControl] Next Helicopter spawn: 15 minutes
+01:14 [Info] [Kill Feed] [14/01/04/03/2021] sentry.scientist.static                                       bullet                         54.8m                          Dr. U. Mullen
+01:27 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+01:31 [Info] [Better Chat] [Global] [Newbie] HecTiiC: someone selling targeting computer ??
+01:31 [Info] [Better Chat] [Global] [Newbie] Caeser: nah
+01:32 [Info] [Better Chat] [Global] [Newbie] HecTiiC: shit
+01:39 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+01:43 [Info] [Better Chat] [Global] [Newbie] Caeser: lag?
+01:43 [Info] [Better Chat] [Global] [Newbie] HecTiiC: no
+01:43 [Info] [Better Chat] [Global] [Newbie] Caeser: i cant craftt anything..
+01:44 [Info] [Better Chat] [Global] [Newbie] Caeser: im trying to build a t3 work bench
+01:49 [Info] [Kill Feed] [49/01/04/03/2021] Caeser                                                        smg.2                          31.3m                          Stag
+01:54 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+02:05 [Info] [Better Chat] [Global] [Newbie] HecTiiC: where is the heli ??
+02:12 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+02:14 [Info] [Kill Feed] [14/02/04/03/2021] sentry.scientist.static                                       bullet                         62.1m                          Dr. F. Hogan
+02:21 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+02:26 [Info] [Kill Feed] [26/02/04/03/2021] Caeser                         Spine                          rifle.semiauto                 35.9m                          Dr. R. Douglas
+02:28 [Info] [Kill Feed] [28/02/04/03/2021] Caeser                         Head                           rifle.semiauto                 13.8m                          Dr. T. Roth
+02:30 [Info] [Kill Feed] [30/02/04/03/2021] Caeser                                                        rifle.semiauto                 2.2m                           Wolf
+02:32 [Info] [Kill Feed] [32/02/04/03/2021] HecTiiC                        Head                           rifle.lr300                    3.3m                           Murderer D. Collins
+02:39 [Info] [Kill Feed] [39/02/04/03/2021] HecTiiC                        Head                           rifle.lr300                    3.7m                           Dr. B. Gill
+02:43 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+02:46 [Info] [Better Chat] [Global] [Newbie] HecTiiC: sell everyone Test Generator ??
+02:50 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+02:50 [Info] [Welcomer] • Caeser has left the server (Disconnected).
+03:03 [Info] [Welcomer] • HecTiiC has left the server (Kicked: Unresponsive).
+03:10 [Info] [Welcomer] • HecTiiC has joined the server from Germany.
+03:13 [Info] [HeliControl] Next Helicopter spawn: 18 minutes
+03:16 [Info] [Kill Feed] [16/03/04/03/2021] HecTiiC                        Head                           rifle.m39                      72.8m                          Dr. Q. MacDonald
+03:18 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+03:35 [Info] [PlayerRankings] HecTiiC has been ranked up to player
+03:45 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+03:48 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+03:59 [Info] [Welcomer] • chitzo has joined the server from Germany.
+03:59 [Info] [Better Chat] [Global] [Player] HecTiiC: guten morgen
+04:00 [Info] [Better Chat] [Global] [Hero] chitzo: hi
+04:01 [Info] [Better Chat] [Global] [Hero] chitzo: good morning to!
+04:01 [Info] [Better Chat] [Global] [Player] HecTiiC: bin auch deutsch xD
+04:02 [Info] [Better Chat] [Global] [Hero] chitzo: only english :(
+04:02 [Info] [Better Chat] [Global] [Player] HecTiiC: ^^
+04:03 [Info] [Better Chat] [Global] [Hero] chitzo: :)
+04:05 [Info] [Better Chat] [Global] [Hero] chitzo: @HecTiiC
+04:05 [Info] [Better Chat] [Global] [Player] HecTiiC: ??
+04:06 [Info] [Better Chat] [Global] [Hero] chitzo: so we never found your house last night!!
+04:06 [Info] [Better Chat] [Global] [Hero] chitzo: XD
+04:06 [Info] [Better Chat] [Global] [Player] HecTiiC: ^^
+04:06 [Info] [Better Chat] [Global] [Player] HecTiiC: all around is auto torrets you find it
+04:07 [Info] [Better Chat] [Global] [Hero] chitzo: haha
+04:07 [Info] [Better Chat] [Global] [Hero] chitzo: but we found driitz house and booom boom
+04:08 [Info] [Better Chat] [Global] [Hero] chitzo: XD
+04:08 [Info] [Better Chat] [Global] [Player] HecTiiC: ^^
+04:09 [Info] [Better Chat] [Global] [Hero] chitzo: have you been playing since last night?
+04:09 [Info] [Better Chat] [Global] [Player] HecTiiC: oh yes all 3 trees full
+04:10 [Info] [Better Chat] [Global] [Hero] chitzo: :O
+04:11 [Info] [Better Chat] [Global] [Player] HecTiiC: 10:40 STD online
+04:11 [Info] [Better Chat] [Global] [Hero] chitzo: i went in now thinking that the wipe had already happened!
+04:11 [Info] [Better Chat] [Global] [Hero] chitzo: but ..no :(
+04:12 [Info] [Better Chat] [Global] [Player] HecTiiC: next days
+04:12 [Info] [Better Chat] [Global] [Player] HecTiiC: where is the heli
+04:13 [Info] [Better Chat] [Global] [Hero] chitzo: supposedly it was today!
+04:13 [Info] [Better Chat] [Global] [Hero] chitzo: what heli?
+04:13 [Info] [Better Chat] [Global] [Player] HecTiiC: yes
+04:14 [Info] [Better Chat] [Global] [Hero] chitzo: what heli?
+04:14 [Info] [Better Chat] [Global] [Player] HecTiiC: who he is
+04:15 [Info] [Better Chat] [Global] [Hero] chitzo: who are you talking about?
+04:16 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+04:16 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+04:17 [Info] [Better Chat] [Global] [Hero] chitzo: ?
+04:18 [Info] [Better Chat] [Global] [Hero] chitzo: what do you want to know?
+04:19 [Info] [Better Chat] [Global] [Player] HecTiiC: where does the helicopter usually fly around
+04:20 [Info] [Better Chat] [Global] [Hero] chitzo: idk
+04:23 [Info] [Kill Feed] [23/04/04/03/2021] sam_static                                                    rocket.launcher                123.5m                         HecTiiC
+04:23 [Info] [Better Chat] [Global] [Player] HecTiiC: F
+04:24 [Info] [Better Chat] [Global] [Hero] chitzo: well im going to sleep. if you want you can add me to steam its better chat over there!
+04:26 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+04:27 [Info] [Kill Feed] [27/04/04/03/2021] HecTiiC                                                       rifle.lr300                    13.3m                          Wolf
+04:36 [Info] [Kill Feed] [36/04/04/03/2021] HecTiiC                        Arm                            rifle.lr300                    11.0m                          Dr. V. McCall
+04:42 [Info] [HeliControl] Next CH47 spawn: 15 minutes
+04:44 [Info] [Kill Feed] [44/04/04/03/2021] sentry.scientist.static                                       bullet                         67.6m                          Dr. N. Potter
+04:47 [Info] [HeliControl] Next Helicopter spawn: 15 minutes
+05:07 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+05:08 [Info] [Kill Feed] [08/05/04/03/2021] HecTiiC                        Head                           rifle.lr300                    9.1m                           Dr. X. Swanson
+05:16 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+05:28 [Info] [Kill Feed] [28/05/04/03/2021] HecTiiC                                                       rifle.lr300                    29.9m                          Boar
+05:29 [Info] [Kill Feed] [29/05/04/03/2021] HecTiiC                        Head                           rifle.lr300                    1.6m                           Scarecrow B. Tran
+05:33 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+05:34 [Info] [Kill Feed] [34/05/04/03/2021] HecTiiC                        Head                           rifle.lr300                    17.4m                          Dr. M. Battle
+05:34 [Info] [Kill Feed] [34/05/04/03/2021] Dr. D. Jensen                                                 rifle.lr300                    19.6m                          HecTiiC
+05:38 [Info] [Welcomer] • HecTiiC has left the server (Disconnected).
+05:46 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+06:00 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+06:18 [Info] [HeliControl] Next Helicopter spawn: 20 minutes
+06:29 [Info] [HeliControl] Next CH47 spawn: 15 minutes
+06:43 [Info] [Welcomer] • Forld has joined the server from Germany.
+06:44 [Info] [Kill Feed] [44/06/04/03/2021] sentry.scientist.static                                       bullet                         43.3m                          Dr. Z. Greene
+06:51 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+06:54 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+07:00 [Info] [Welcomer] • lucas has joined the server from Germany.
+07:03 [Info] [Welcomer] • Naimez has joined the server from Germany.
+07:07 [Info] [Kill Feed] [07/07/04/03/2021] lucas                                                         hatchet                        0.3m                           Chicken
+07:08 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561197992712579
+07:08 [Info] [VoteRewards] 0
+07:16 [Info] [Kill Feed] [16/07/04/03/2021] lucas                                                         fall                                                          lucas
+07:16 [Info] [Kill Feed] [16/07/04/03/2021] lucas                                                         fall                                                          lucas
+07:18 [Info] [Kill Feed] [18/07/04/03/2021] Wolf                                                          bite                           0.9m                           oskar.sommerset
+07:19 [Info] [Kill Feed] [19/07/04/03/2021] Wolf                                                          bite                           0.7m                           MerlinOS
+07:21 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+07:22 [Info] [HeliControl] Next Helicopter spawn: 20 minutes
+07:23 [Info] [Kill Feed] [23/07/04/03/2021] lucas                                                         rifle.semiauto                 10.7m                          Boar
+07:23 [Info] [Welcomer] • J4N1 has joined the server from Slovakia.
+07:39 [Info] [Welcomer] • J4N1 has left the server (Disconnected).
+07:47 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+07:56 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+08:00 [Info] [Welcomer] • Forld has left the server (Timed Out).
+08:00 [Info] [Welcomer] • lucas has left the server (Timed Out).
+08:00 [Info] [Welcomer] • Naimez has left the server (Timed Out).
+08:02 [Info] [Welcomer] • Naimez has joined the server from Germany.
+08:03 [Info] [Welcomer] • lucas has joined the server from Germany.
+08:07 [Info] [Welcomer] • lucas has left the server (Disconnected).
+08:14 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+08:26 [Info] [HeliControl] Next Helicopter spawn: 18 minutes
+08:41 [Info] [Welcomer] • Dkamps has joined the server from Germany.
+08:43 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+08:58 [Info] [HeliControl] Next Helicopter spawn: 15 minutes
+08:58 [Info] [Kill Feed] [58/08/04/03/2021] Dkamps                                                        mace                           1.9m                           Boar
+09:08 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198053474402
+09:08 [Info] [VoteRewards] 0
+09:10 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561197992712579
+09:10 [Info] [VoteRewards] 0
+09:12 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561197992712579
+09:12 [Info] [VoteRewards] 1
+09:12 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+09:13 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561197992712579
+09:13 [Info] [VoteRewards] 2
+09:16 [Info] [Welcomer] • Dkamps has left the server (Disconnected).
+09:24 [Info] [Welcomer] • Naimez has left the server (Disconnected).
+09:27 [Info] [HeliControl] Next Helicopter spawn: 18 minutes
+09:31 [Info] [Welcomer] • Gul has joined the server from Poland.
+09:32 [Info] [Welcomer] • Gul has left the server (Disconnected).
+09:41 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+09:42 [Info] [Kill Feed] [42/09/04/03/2021] Gul                                                           suicide                                                       Gul
+09:59 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+10:09 [Info] [HeliControl] Next CH47 spawn: 20 minutes
+10:29 [Info] [Welcomer] • Naimez has joined the server from Germany.
+10:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+10:32 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+10:38 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+10:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+10:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+10:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+10:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+10:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+10:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+10:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+10:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+10:59 [Info] [Welcomer] • Naimez has left the server (Disconnected).
+10:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 9 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 8 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 7 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 6 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 1 seconds!
+11:00 [Info] Uninstalling Rust:IO ...
+11:00 [Info] Rust:IO> Uninstalling ...
+11:00 [Info] Rust:IO> No longer ticking
+11:00 [Info] Rust:IO> Stopping server ...
+11:00 [Info] Rust:IO> Removing listeners ...
+11:00 [Info] Rust:IO> Performing maintenance ...
+11:00 [Info] Rust:IO> Closing database ...
+11:00 [Info] Rust:IO> Uninstalled.
+11:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+11:00 [Warning] Calling 'Unload' on 'AdminHammer v1.12.0' took 437ms
+11:00 [Info] Unloaded plugin AdminHammer v1.12.0 by mvrb
+11:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+11:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+11:00 [Info] Unloaded plugin Auto Engine Parts v1.0.0 by WhiteThunder
+11:00 [Info] Unloaded plugin Auto Purge v2.1.1 by misticos
+11:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+11:00 [Warning] Calling 'Unload' on 'BGrade v1.1.3' took 434ms
+11:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+11:00 [Info] Unloaded plugin Backpacks v3.4.0 by LaserHydra
+11:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+11:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+11:00 [Info] Unloaded plugin Better Chat Mute v1.2.1 by LaserHydra
+11:00 [Warning] Calling 'Unload' on 'BetterLoot v3.5.3' took 432ms
+11:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+11:00 [Info] Unloaded plugin Better Say v3.0.1 by LaserHydra
+11:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+11:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+11:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+11:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+11:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+11:00 [Info] Unloaded plugin Clothed Murderers v1.0.1 by Substrata
+11:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+11:00 [Info] Unloaded plugin DronePilot v1.0.0 by k1lly0u
+11:00 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+11:00 [Info] Unloaded plugin Extended Recycler v1.1.0 by Orange
+11:00 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 438ms
+11:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+11:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+11:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+11:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+11:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+11:00 [Warning] Calling 'Unload' on 'InventoryViewer v3.0.3' took 457ms
+11:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+11:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+11:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+11:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+11:00 [Info] Unloaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+11:00 [Warning] Calling 'Unload' on 'NPCNav v1.0.0' took 115ms
+11:00 [Info] Unloaded plugin NPCNav v1.0.0 by Whispers88
+11:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+11:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 897ms
+11:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+11:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+11:00 [Info] Unloaded plugin Notice v1.0.1 by LaserHydra
+11:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+11:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+11:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+11:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+11:00 [Info] Unloaded plugin PrivateMessages v1.1.11 by MisterPixie
+11:00 [Info] Unloaded plugin Private Messages GUI v1.0.2 by Tricky
+11:00 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 453ms
+11:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+11:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+11:00 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+11:00 [Info] Unloaded plugin Scientist Names v1.1.3 by Ultra
+11:00 [Info] Unloaded plugin Scrap Heli Storage v0.0.5 by yetzt
+11:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+11:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+11:00 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+11:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+11:00 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+11:00 [Info] Unloaded plugin Slap v2.0.0 by Wulf
+11:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+11:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+11:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+11:00 [Info] Unloaded plugin TruePVE v2.0.1 by nivex
+11:00 [Info] Unloaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+11:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+11:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+11:00 [Info] Unloaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+11:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+11:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+11:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+11:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+11:01 [Info] Loading Oxide Core v2.0.3991...
+11:01 [Info] Loading extensions...
+11:01 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+11:01 [Info] Loaded extension RustEdit v1.0.32 by k1lly0u
+11:01 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:01 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+11:01 [Info] Loaded extension Rust v2.0.4919 by Oxide Team and Contributors
+11:01 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+11:01 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+11:01 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+11:01 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+11:01 [Info] Using Covalence provider for game 'Rust'
+11:01 [Info] Loading plugins...
+11:01 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+11:01 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+11:01 [Info] Loaded plugin Rust v2.0.4919 by Oxide Team and Contributors
+11:01 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+11:01 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:01 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+11:01 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+11:01 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+11:01 [Info] AdminChat, AdminHammer, AliasSystem, AutoBroadcast, AutoEngineParts, AutoPurge, AutomaticAuthorization, BGrade, Backpacks, BetterChat, BetterChatMentions, BetterChatMute, BetterLoot, BetterSay, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, ClothedMurderers, CraftingController, DronePilot, EasyAirdrop, ExtendedRecycler, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NPCDropGun, NPCNav, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, SAMSiteAuth, ScientistNames, ScrapHeliStorage, ServerInfo, ServerRewards, SignArtist, Skins, SkipNightVote, Slap, SmoothRestart, SpawnMini, StackSizeController, TruePVE, UpkeepDisplayFix, Vanish, VehicleDecayProtection, VehicleLicence, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+11:01 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+11:01 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+11:01 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+11:01 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+11:01 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+11:01 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+11:01 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+11:01 [Info] Loaded plugin Auto Engine Parts v1.0.0 by WhiteThunder
+11:01 [Info] Loaded plugin Auto Purge v2.1.1 by misticos
+11:01 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+11:01 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+11:01 [Info] Loaded plugin Backpacks v3.4.0 by LaserHydra
+11:01 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+11:01 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+11:01 [Info] Loaded plugin Better Chat Mute v1.2.1 by LaserHydra
+11:01 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+11:01 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+11:01 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+11:01 [Info] Loaded plugin Building Grades v0.5.1 by Default
+11:01 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+11:01 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+11:01 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+11:01 [Info] Loaded plugin Clothed Murderers v1.0.1 by Substrata
+11:01 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+11:01 [Info] Loaded plugin DronePilot v1.0.0 by k1lly0u
+11:01 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+11:01 [Info] Loaded plugin Extended Recycler v1.1.0 by Orange
+11:01 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+11:01 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+11:01 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+11:01 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:01 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:01 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+11:01 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+11:01 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+11:01 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+11:01 [Info] Loaded plugin Kits v3.3.1 by Reneb
+11:01 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+11:01 [Info] Loaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+11:01 [Info] Loaded plugin NPCNav v1.0.0 by Whispers88
+11:01 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+11:01 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+11:01 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+11:01 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+11:01 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+11:01 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+11:01 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+11:01 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+11:01 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+11:01 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+11:01 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+11:01 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+11:01 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+11:01 [Info] Loaded plugin Scientist Names v1.1.3 by Ultra
+11:01 [Info] Loaded plugin Scrap Heli Storage v0.0.5 by yetzt
+11:01 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+11:01 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+11:01 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+11:01 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+11:01 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+11:01 [Info] Loaded plugin Slap v2.0.0 by Wulf
+11:01 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+11:01 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+11:01 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+11:01 [Info] Loaded plugin TruePVE v2.0.1 by nivex
+11:01 [Info] Loaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+11:01 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+11:01 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+11:01 [Info] Loaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+11:01 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+11:01 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+11:01 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+11:01 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+11:01 [Info] [RustEdit] - IO data loaded and ready to be processed!
+11:01 [Warning] [RustEdit] - No vending data found in map file
+11:01 [Warning] [RustEdit] - No loot data found in map file
+11:01 [Warning] [RustEdit] - No APC path data found in map file
+11:01 [Warning] [RustEdit] - No vehicle data found in map file
+11:01 [Info] [RustEdit] - NPC data loaded and ready to be processed!
+11:02 [Warning] [RustEdit] - No ocean patrol path data found in map file
+11:06 [Warning] Calling 'OnEntitySpawned' on 'RustIO v2.17.0' took 118ms
+11:08 [Info] IP address from external API: 45.138.48.233
+11:08 [Info] [RustEdit] - Checking for updates...
+11:08 [Info] Updating Rust:IO ...
+11:08 [Info] [Auto Purge] The purge has been started.
+11:08 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+11:08 [Info] [BetterLoot] Updating internals ...
+11:08 [Info] Rust:IO: Update complete
+11:08 [Warning] Calling 'OnServerInitialized' on 'ExtendedRecycler v1.1.0' took 389ms
+11:08 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 392ms
+11:08 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+11:08 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+11:08 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 1559ms
+11:08 [Info] [Kill Feed] Loading configuration file!
+11:08 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 425ms
+11:08 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 383ms
+11:08 [Warning] Calling 'OnServerInitialized' on 'ScrapHeliStorage v0.0.5' took 391ms
+11:08 [Warning] [Server Rewards] All UI elements have been successfully generated!
+11:08 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 275ms
+11:08 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+11:08 [Warning] Calling 'OnServerInitialized' on 'SpawnMini v2.10.0' took 110ms
+11:08 [Info] [TruePVE] [WARNING] Schedule Broadcast: PVE is on now!
+11:08 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+11:08 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 448ms
+11:08 [Info] [RustEdit] - The RustEdit extension is up to date!
+11:08 [Info] [BetterLoot] No stacked LootContainer found.
+11:08 [Info] [BetterLoot] Populated '808' supported containers.
+11:08 [Info] [SmoothRestart] Your servers Oxide build is up to date
+11:08 [Info] Installing Rust:IO ...
+11:08 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+11:08 [Info] Rust:IO> Creating directories ...
+11:08 [Info] Rust:IO> Applying config ...
+11:08 [Info] Rust:IO> Initializing database ...
+11:08 [Info] Rust:IO> Generating map image (this may take a while) ...
+11:08 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  8078.378ms
+Postprocess  :  3750.830ms
+  Shadows    :   288.358ms
+  FXAA       :  3450.496ms
+Encoding     :    45.920ms
+Other        :    15.221ms
+--------------------------
+Total        :  11890.349ms
+11:08 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+11:08 [Info] Rust:IO> Installed.
+11:08 [Info] Rust:IO> Now ticking
+11:08 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 12516ms
+11:08 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 2ms
+11:08 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+11:08 [Info] [RustEdit] - Processing 230 IO entities
+11:08 [Info] [RustEdit] - Successfully connected 230 IO links
+11:08 [Info] [RustEdit] - No custom vending machines found in map
+11:08 [Info] [RustEdit] - 626 loot containers processed!
+11:08 [Info] [RustEdit] - Created 8 keycard desk respawners
+11:08 [Info] [RustEdit] - 1928 resource entities processed!
+11:08 [Info] [RustEdit] - 0 junkpiles processed!
+11:08 [Info] [RustEdit] - Created 340 NPC spawn handlers!
+11:09 [Info] [Auto Purge] The purge has been completed. Purged entities: 365.
+11:36 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+11:41 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+12:05 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+12:08 [Info] [Kill Feed] [08/12/04/03/2021] sentry.scientist.static                                       bullet                         82.5m                          Dr. Q. Hubbard
+12:12 [Info] [HeliControl] Next Helicopter spawn: 15 minutes
+12:16 [Info] [Kill Feed] [16/12/04/03/2021] sentry.scientist.static                                       bullet                         93.8m                          Dr. X. Henderson
+12:34 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+12:34 [Info] [Welcomer] • Kuro9330 has joined the server from Italy.
+12:36 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+12:41 [Info] [HeliControl] Next Helicopter spawn: 18 minutes
+12:42 [Info] [Kill Feed] [42/12/04/03/2021] Kuro9330                                                      spear.wooden                   1.8m                           Bear
+12:43 [Info] [Welcomer] • Dkamps has joined the server from Germany.
+12:48 [Info] [Better Chat] [Global] [Newbie] Kuro9330: hello today is wipe day right?
+12:48 [Info] [Better Chat] [Global] [Supporter] Kongen: yes it is
+12:48 [Info] [Better Chat] [Global] [Supporter] Kongen: thats the plan xD
+12:49 [Info] [Better Chat] [Global] [Newbie] Kuro9330: when it start?
+12:49 [Info] [Better Chat] [Global] [Supporter] Kongen: not sure waiting on admin to answer me xD
+12:49 [Info] [Better Chat] [Global] [Supporter] Kongen: I will let you know when I know ^^
+12:50 [Info] [Better Chat] [Global] [Newbie] Kuro9330: oh kk ty mate
+12:50 [Info] [Better Chat] [Global] [Supporter] Kongen: yw :)
+12:50 [Info] [Better Chat] [Global] [Newbie] Kuro9330: btw i go afk see ya
+12:50 [Info] [Better Chat] [Global] [Supporter] Kongen: allright cya later
+12:50 [Info] [Better Chat] [Global] [Supporter] Kongen: you can connect to discord server if you want it
+12:54 [Info] [Welcomer] • chitzo has joined the server from Germany.
+12:54 [Info] [Kill Feed] [54/12/04/03/2021] Kongen                                                        rifle.lr300                    18.3m                          Bear
+13:00 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+13:01 [Info] [Kill Feed] [01/13/04/03/2021] sentry.scientist.static                                       bullet                         98.9m                          Dr. N. Curry
+13:06 [Info] [Kill Feed] [06/13/04/03/2021] sentry.scientist.static                                       bullet                         65.9m                          Dr. U. Fuentes
+13:10 [Info] [Better Chat] [Global] [Supporter] Kongen: hey @Kuro9330
+13:11 [Info] [Better Chat] [Global] [Supporter] Kongen: around 8 or 9pm is the wipe
+13:11 [Info] [Kill Feed] [11/13/04/03/2021] Kongen                                                        rifle.lr300                    14.1m                          Stag
+13:13 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+13:13 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+13:28 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+13:28 [Info] [Kill Feed] [28/13/04/03/2021] Kuro9330                                                      rifle.semiauto                 60.8m                          Stag
+13:36 [Info] [Kill Feed] [36/13/04/03/2021] Kuro9330                       Head                           rifle.semiauto                 19.4m                          Dr. B. Beach
+13:41 [Info] [Welcomer] • Kuro9330 has left the server (Disconnected).
+13:41 [Info] [Kill Feed] [41/13/04/03/2021] Boar                                                          bite                           1.9m                           Murderer K. James
+13:41 [Info] [Kill Feed] [41/13/04/03/2021] cactus-3                                                      stab                           0.5m                           Murderer Q. Moran
+13:41 [Info] [Kill Feed] [41/13/04/03/2021] Dkamps                                                        generic                        1.5m                           Murderer R. Soto
+13:42 [Info] [Better Chat] [Global] [Newbie] Dkamps: f**q sorry
+13:42 [Info] [Kill Feed] [42/13/04/03/2021] cactus-3                                                      stab                           0.8m                           Murderer Y. Reeves
+13:42 [Info] [Kill Feed] [42/13/04/03/2021] Boar                                                          bite                           1.6m                           Murderer F. Bentley
+13:43 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+13:51 [Info] [Welcomer] • CabraLadilla has joined the server from Spain.
+13:52 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+13:53 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+13:54 [Info] [Kill Feed] [54/13/04/03/2021] Bear                                                          bite                           1.0m                           CabraLadilla
+13:56 [Info] [Welcomer] • CabraLadilla has left the server (Disconnected).
+14:02 [Info] [Kill Feed] [02/14/04/03/2021] sentry.scientist.static                                       bullet                         66.9m                          Dr. O. Fisher
+14:15 [Info] [HeliControl] Next Helicopter spawn: 15 minutes
+14:20 [Info] [HeliControl] Next CH47 spawn: 20 minutes
+14:24 [Info] [Welcomer] • Dkamps has left the server (Timed Out).
+14:28 [Info] [Welcomer] • Dkamps has joined the server from Germany.
+14:28 [Info] [Welcomer] • DOLPHIN DAN has joined the server from Sweden.
+14:41 [Info] [Welcomer] • Caeser has joined the server from United Kingdom.
+14:44 [Info] [HeliControl] Next Helicopter spawn: 18 minutes
+14:44 [Info] [Kill Feed] [44/14/04/03/2021] Caeser                                                        rifle.semiauto                 10.2m                          Chicken
+14:44 [Info] [Kill Feed] [44/14/04/03/2021] Caeser                                                        rifle.semiauto                 22.9m                          Chicken
+14:45 [Info] [Welcomer] • DOLPHIN DAN has left the server (Disconnected).
+14:50 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+14:55 [Info] [Welcomer] • Dkamps has left the server (Disconnected).
+15:00 [Info] [TruePVE] [WARNING] Schedule Broadcast: PVP is on now!
+15:16 [Info] [HeliControl] Next Helicopter spawn: 18 minutes
+15:18 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+15:27 [Info] [Welcomer] • Striker5473 has joined the server from Germany.
+15:29 [Info] [Kill Feed] [29/15/04/03/2021] Striker5473                                                   smg.2                          9.0m                           Boar
+15:30 [Info] [Kill Feed] [30/15/04/03/2021] Striker5473                                                   smg.2                          2.7m                           Bear
+15:32 [Info] [Welcomer] • Caeser has left the server (Disconnected).
+15:38 [Info] [Welcomer] • Striker5473 has left the server (Disconnected).
+15:41 [Info] [Welcomer] • SeeMS has joined the server from France.
+15:46 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+15:47 [Info] [Welcomer] • ex1stentz★ has joined the server from Ukraine.
+15:49 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+15:50 [Info] [Kill Feed] [50/15/04/03/2021] Bear                                                          bite                           2.1m                           SeeMS
+15:56 [Info] [Kill Feed] [56/15/04/03/2021] SeeMS                                                         bow.hunting                    7.7m                           Stag
+15:58 [Info] [Kill Feed] [58/15/04/03/2021] SeeMS                                                         bow.hunting                    14.5m                          Bear
+16:02 [Info] [Kill Feed] [02/16/04/03/2021] SeeMS                                                         bow.hunting                    2.3m                           Wolf
+16:05 [Info] [Kill Feed] [05/16/04/03/2021] ex1stentz★                     Head                           smg.2                          1.8m                           GntC|Seth
+16:08 [Info] [Kill Feed] [08/16/04/03/2021] ex1stentz★                     Head                           smg.2                          15.5m                          Dr. L. Patel
+16:08 [Info] [Kill Feed] [08/16/04/03/2021] ex1stentz★                     Forearm                        smg.2                          9.6m                           Dr. Z. Delgado
+16:10 [Info] [Kill Feed] [10/16/04/03/2021] ex1stentz★                                                    smg.2                          34.2m                          Stag
+16:13 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+16:13 [Info] [Better Chat] [Team] [Supporter] Kongen: yoyo
+16:13 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+16:14 [Info] [Kill Feed] [14/16/04/03/2021]                                                               generic                                                       Dr. D. Contreras
+16:18 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh youre here
+16:18 [Info] [Better Chat] [Team] [Supporter] Kongen: ^^
+16:18 [Info] [Better Chat] [Team] [Mythic] SeeMS: i put my graphic
+16:18 [Info] [Better Chat] [Team] [Mythic] SeeMS: into the max
+16:18 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+16:18 [Info] [Better Chat] [Team] [Supporter] Kongen: nice
+16:19 [Info] [Better Chat] [Team] [Mythic] SeeMS: was hunting bears xD
+16:21 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+16:26 [Info] [Better Chat] [Team] [Supporter] Kongen: let me know when rdy
+16:26 [Info] [Better Chat] [Team] [Mythic] SeeMS: soon
+16:26 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+16:26 [Info] [Better Chat] [Team] [Mythic] SeeMS: 250c4
+16:26 [Info] [Better Chat] [Team] [Mythic] SeeMS: 256 rrocket
+16:26 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+16:27 [Info] [Better Chat] [Team] [Supporter] Kongen: I take more then xD
+16:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: 70 siryngue
+16:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+16:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: 1.7k exo bullet
+16:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: 6.6k bullet XD
+16:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: well im ready i think xD
+16:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+16:29 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+16:29 [Info] [Better Chat] [Team] [Supporter] Kongen: P11
+16:29 [Info] [Better Chat] [Team] [Supporter] Kongen: at left upper corner in P11
+16:30 [Info] [Better Chat] [Team] [Supporter] Kongen: he havent done anything to the base lol
+16:31 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD shit
+16:31 [Info] [Better Chat] [Team] [Supporter] Kongen: I blew in there
+16:31 [Info] [Better Chat] [Team] [Mythic] SeeMS: i see that
+16:31 [Info] [Better Chat] [Team] [Mythic] SeeMS: trap xd
+16:31 [Info] [Better Chat] [Team] [Mythic] SeeMS: i hear them
+16:31 [Info] [Better Chat] [Team] [Mythic] SeeMS: fire ones
+16:31 [Info] [Better Chat] [Team] [Mythic] SeeMS: tc
+16:32 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+16:32 [Info] [Better Chat] [Team] [Supporter] Kongen: lol
+16:32 [Info] [Better Chat] [Team] [Supporter] Kongen: let me
+16:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: lol somes nices lots
+16:32 [Info] [Better Chat] [Team] [Supporter] Kongen: move
+16:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: shiit nice lot
+16:33 [Info] [Welcomer] • chitzo has joined the server from Germany.
+16:33 [Info] [Better Chat] [Global] [Player] ex1stentz★: SEEMS bro
+16:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: yes ?
+16:33 [Info] [Better Chat] [Global] [Player] ex1stentz★: do you know when next wipe?
+16:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: in few hours
+16:33 [Info] [Better Chat] [Global] [Player] ex1stentz★: rly?
+16:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: like maybe in 2/3 hours
+16:33 [Info] [Better Chat] [Global] [Supporter] Kongen: between 8 and 9 pm
+16:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: yes
+16:34 [Info] [Better Chat] [Global] [Player] ex1stentz★: im now 18:34
+16:34 [Info] [Better Chat] [Global] [Hero] chitzo: hi guys!
+16:34 [Info] [Better Chat] [Global] [Supporter] Kongen: hello
+16:34 [Info] [Better Chat] [Global] [Player] ex1stentz★: chitzo :)
+16:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: hey little chitzo
+16:34 [Info] [Better Chat] [Global] [Supporter] Kongen: so at your time around 8,30 - 9,30
+16:34 [Info] [Better Chat] [Global] [Player] ex1stentz★: ty
+16:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: he have turret but
+16:34 [Info] [Better Chat] [Global] [Supporter] Kongen: you are one hour forward us xD
+16:34 [Info] [Better Chat] [Team] [Mythic] SeeMS: but no guns on it xD
+16:34 [Info] [Better Chat] [Team] [Supporter] Kongen: XD
+16:36 [Info] [Welcomer] • ex1stentz★ has left the server (Disconnected).
+16:36 [Info] [Better Chat] [Team] [Supporter] Kongen: bro
+16:36 [Info] [Better Chat] [Team] [Supporter] Kongen: look in there
+16:36 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+16:36 [Info] [Better Chat] [Team] [Mythic] SeeMS: llol
+16:36 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+16:36 [Info] [Better Chat] [Team] [Mythic] SeeMS: i got more than that
+16:36 [Info] [Better Chat] [Team] [Mythic] SeeMS: 1M frag
+16:36 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+16:36 [Info] [Better Chat] [Team] [Mythic] SeeMS: and 1.7M fuel
+16:36 [Info] [Better Chat] [Team] [Mythic] SeeMS: in the first room XD
+16:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: did u seen
+16:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: that base on the top
+16:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: flying ones
+16:38 [Info] [Better Chat] [Team] [Supporter] Kongen: Im full of shit now xD
+16:38 [Info] [Better Chat] [Team] [Mythic] SeeMS: fuk why i can build her
+16:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: should be a tc on the top
+16:39 [Info] [Better Chat] [Team] [Supporter] Kongen: tc isnt there
+16:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: yea but
+16:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh
+16:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye true
+16:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: make a tc
+16:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: so i can build
+16:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: u have  wood?
+16:39 [Info] [Better Chat] [Team] [Supporter] Kongen: Im full
+16:39 [Info] [Better Chat] [Team] [Supporter] Kongen: come down
+16:39 [Info] [Better Chat] [Global] [Hero] chitzo: guys tp
+16:40 [Info] [Better Chat] [Global] [Supporter] Kongen: sure
+16:40 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+16:40 [Info] [Better Chat] [Team] [Supporter] Kongen: nvm
+16:40 [Info] [Better Chat] [Global] [Supporter] Kongen: rdy for tp?
+16:40 [Info] [Better Chat] [Global] [Hero] chitzo: yes
+16:40 [Info] [NTeleportation] Kongen teleported chitzo to Kongen.
+16:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: o yeah there are tc on the top
+16:41 [Info] [Better Chat] [Global] [Supporter] Kongen: hey hey :D
+16:41 [Info] [Better Chat] [Global] [Mythic] SeeMS: hay
+16:41 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuk need to use the heli
+16:41 [Info] [Better Chat] [Global] [Mythic] SeeMS: someone is attacking ya
+16:41 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo !
+16:42 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+16:42 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+16:42 [Info] [Better Chat] [Global] [Supporter] Kongen: there are loot inside the base chitzo
+16:44 [Info] [Welcomer] • HecTiiC has joined the server from Germany.
+16:44 [Info] [Better Chat] [Global] [Supporter] Kongen: here chitzo
+16:44 [Info] [Better Chat] [Global] [Player] HecTiiC: hello
+16:45 [Info] [Better Chat] [Global] [Player] HecTiiC: I can no longer 10 std played yesterday and today is force wipe
+16:45 [Info] [Better Chat] [Global] [Supporter] Kongen: hey
+16:45 [Info] [Better Chat] [Global] [Supporter] Kongen: ya wipe is part of the game
+16:45 [Info] [Kill Feed] [45/16/04/03/2021] HecTiiC                                                       rifle.m39                      9.6m                           Bear
+16:46 [Info] [Better Chat] [Team] [Mythic] SeeMS: tc explosed
+16:46 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+16:46 [Info] [Better Chat] [Global] [Player] HecTiiC: but the Z lvl is to easy i am lvl 50 on all xD
+16:46 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+16:46 [Info] [Kill Feed] [46/16/04/03/2021] sentry.bandit.static                                          bullet                         38.6m                          Dr. J. Harper
+16:46 [Info] [Kill Feed] [46/16/04/03/2021] HecTiiC                                                       rifle.m39                      7.1m                           Bear
+16:47 [Info] [Better Chat] [Team] [Supporter] Kongen: anything good up there?
+16:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: nop
+16:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: some garage door
+16:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: window
+16:47 [Info] [Better Chat] [Team] [Supporter] Kongen: I see xD
+16:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: and nothing shit xd
+16:48 [Info] [Better Chat] [Global] [Hero] chitzo: here
+16:48 [Info] [Better Chat] [Global] [Supporter] Kongen: where?
+16:48 [Info] [Kill Feed] [48/16/04/03/2021] chitzo                                                        explosive.timed                                               chitzo
+16:48 [Info] [Better Chat] [Global] [Mythic] SeeMS: xddddd
+16:48 [Info] [Kill Feed] [48/16/04/03/2021] chitzo                                                        explosive.timed                3.2m                           NewbieDoobyDoo
+16:48 [Info] [Better Chat] [Global] [Mythic] SeeMS: wtf
+16:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: is happening
+16:49 [Info] [Better Chat] [Global] [Supporter] Kongen: oh
+16:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo noob
+16:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: xD
+16:49 [Info] [Better Chat] [Global] [Hero] chitzo: tp
+16:49 [Info] [NTeleportation] Kongen teleported chitzo to Kongen.
+16:50 [Info] [Better Chat] [Team] [Supporter] Kongen: didnt know newbie was close to us xD
+16:50 [Info] [Better Chat] [Global] [Mythic] SeeMS: xD
+16:52 [Info] [Better Chat] [Global] [Player] HecTiiC: today twitch drops aktive guys new skins
+16:52 [Info] [Better Chat] [Global] [Supporter] Kongen: nice
+16:52 [Info] [Better Chat] [Team] [Supporter] Kongen: help
+16:52 [Info] [Better Chat] [Team] [Supporter] Kongen: Im down
+16:52 [Info] [Better Chat] [Global] [Mythic] SeeMS: shit
+16:52 [Info] [NTeleportation] Kongen teleported Kongen to SeeMS.
+16:52 [Info] [Better Chat] [Global] [Player] HecTiiC: 20 a clock for german time
+16:52 [Info] [Better Chat] [Team] [Supporter] Kongen: Im at you
+16:52 [Info] [Better Chat] [Global] [Hero] chitzo: you take my c4?
+16:52 [Info] [Better Chat] [Team] [Supporter] Kongen: damn trap
+16:53 [Info] [Better Chat] [Global] [Supporter] Kongen: it was yours?
+16:53 [Info] [Better Chat] [Global] [Hero] chitzo: yess
+16:53 [Info] [Better Chat] [Global] [Supporter] Kongen: didnt know sry I give back
+16:53 [Info] [NTeleportation] Kongen teleported Kongen to chitzo.
+16:53 [Info] [Better Chat] [Global] [Hero] chitzo: haha dont worry
+16:53 [Info] [Better Chat] [Global] [Supporter] Kongen: though it was hes
+16:54 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+16:54 [Info] [Better Chat] [Global] [Hero] chitzo: and now?
+16:54 [Info] [Better Chat] [Global] [Supporter] Kongen: we just use c4 xD
+16:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: yes !
+16:55 [Info] [Better Chat] [Global] [Supporter] Kongen: come here and look at this
+16:55 [Info] [Better Chat] [Global] [Hero] chitzo: where?
+16:55 [Info] [Better Chat] [Global] [Supporter] Kongen: here
+16:57 [Info] [Better Chat] [Global] [Supporter] Kongen: lets blow up
+16:57 [Info] [Better Chat] [Team] [Supporter] Kongen: so many bear traps
+16:57 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh really
+16:57 [Info] [Better Chat] [Team] [Mythic] SeeMS: didnt see it
+16:59 [Info] [Kill Feed] [59/16/04/03/2021] sentry.scientist.static                                       bullet                         99.3m                          Dr. G. Rodgers
+17:02 [Info] [Better Chat] [Team] [Supporter] Kongen: now what?
+17:02 [Info] [Better Chat] [Team] [Mythic] SeeMS: searching house maybe xd
+17:02 [Info] [Better Chat] [Team] [Supporter] Kongen: then we need bigger heli xD
+17:02 [Info] [Better Chat] [Global] [Hero] chitzo: lets go search another base!
+17:02 [Info] [Better Chat] [Global] [Supporter] Kongen: sure
+17:02 [Info] [Better Chat] [Global] [Hero] chitzo: yeiii
+17:03 [Info] [Better Chat] [Team] [Mythic] SeeMS: tc xd
+17:03 [Info] [Better Chat] [Global] [Hero] chitzo: @SeeMS
+17:03 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+17:03 [Info] [Better Chat] [Global] [Mythic] SeeMS: yea
+17:03 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo
+17:03 [Info] [Better Chat] [Global] [Hero] chitzo: lets go
+17:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: coming
+17:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: shit
+17:05 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:05 [Info] [Better Chat] [Global] [Hero] chitzo: ?
+17:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: on it
+17:06 [Info] [Better Chat] [Global] [Mythic] SeeMS: and this one?
+17:06 [Info] [Better Chat] [Global] [Mythic] SeeMS: newbie base i think
+17:06 [Info] [Better Chat] [Global] [Mythic] SeeMS: @ne
+17:06 [Info] [Better Chat] [Global] [Mythic] SeeMS: @new
+17:06 [Info] [Better Chat] [Global] [Mythic] SeeMS: newbiedodbydo
+17:06 [Info] [Better Chat] [Global] [Hero] chitzo: that one
+17:06 [Info] [Better Chat] [Global] [Mythic] SeeMS: yea
+17:06 [Info] [Better Chat] [Global] [Supporter] Kongen: hes offline
+17:06 [Info] [Better Chat] [Global] [Hero] chitzo: XD
+17:09 [Info] [Better Chat] [Global] [Mythic] SeeMS: he will not recognize his base xd
+17:09 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:10 [Info] [Better Chat] [Global] [Hero] chitzo: poor guy
+17:10 [Info] [Better Chat] [Global] [Supporter] Kongen: :)
+17:10 [Info] [Kill Feed] [10/17/04/03/2021] sentry.scientist.static                                       bullet                         25.8m                          Dr. A. Harper
+17:11 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+17:11 [Info] [Kill Feed] [11/17/04/03/2021] SeeMS                                                         rocket.launcher                14.8m                          Kongen
+17:11 [Info] [Better Chat] [Global] [Mythic] SeeMS: ups xd
+17:11 [Info] [Better Chat] [Global] [Mythic] SeeMS: mb
+17:11 [Info] [Better Chat] [Global] [Hero] chitzo: rip
+17:12 [Info] [NTeleportation] Kongen teleported Kongen to chitzo.
+17:12 [Info] [Better Chat] [Global] [Mythic] SeeMS: <​3 @Kongen
+17:12 [Info] [Better Chat] [Global] [Mythic] SeeMS: Admin <​3
+17:12 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo <​3
+17:13 [Info] [Kill Feed] [13/17/04/03/2021] HecTiiC                        Neck                           rifle.m39                      2.3m                           Dkamps
+17:14 [Info] [Welcomer] • bisello98 has joined the server from Italy.
+17:16 [Info] [Better Chat] [Team] [Supporter] Kongen: chitzo
+17:16 [Info] [Better Chat] [Global] [Supporter] Kongen: chitzo
+17:16 [Info] [Better Chat] [Global] [Hero] chitzo: guys we are psychopaths
+17:16 [Info] [Better Chat] [Global] [Mythic] SeeMS: take it
+17:16 [Info] [Better Chat] [Global] [Supporter] Kongen: take
+17:16 [Info] [Better Chat] [Global] [Mythic] SeeMS: com one baby chitzo
+17:17 [Info] [Better Chat] [Global] [Mythic] SeeMS: com on shot chitzo
+17:17 [Info] [Better Chat] [Global] [Mythic] SeeMS: XD
+17:17 [Info] [Better Chat] [Global] [Hero] chitzo: cant reloaded this one
+17:17 [Info] [Better Chat] [Global] [Mythic] SeeMS: shit why Xd
+17:17 [Info] [Better Chat] [Global] [Supporter] Kongen: press R xD
+17:18 [Info] [Better Chat] [Global] [Mythic] SeeMS: u did it
+17:18 [Info] [Better Chat] [Global] [Mythic] SeeMS: shot now XD
+17:18 [Info] [Better Chat] [Global] [Supporter] Kongen: then aim and shoot
+17:18 [Info] [Better Chat] [Global] [Hero] chitzo: but nothing
+17:18 [Info] [Better Chat] [Global] [Mythic] SeeMS: i see use mine
+17:18 [Info] [Better Chat] [Global] [Mythic] SeeMS: give me yours
+17:18 [Info] [Better Chat] [Global] [Mythic] SeeMS: nice XD
+17:18 [Info] [Better Chat] [Global] [Supporter] Kongen: hell yeah
+17:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: shit problem with rocket chitzo xD
+17:19 [Info] [Better Chat] [Global] [Supporter] Kongen: we can move on to next house if we can find some
+17:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: yea
+17:19 [Info] [Better Chat] [Global] [Hero] chitzo: yasss
+17:20 [Info] [Welcomer] • bisello98 has left the server (Disconnected).
+17:20 [Info] [Better Chat] [Global] [Mythic] SeeMS: done xD
+17:21 [Info] [Better Chat] [Global] [Hero] chitzo: sure?
+17:21 [Info] [Better Chat] [Global] [Hero] chitzo: XD
+17:21 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:21 [Info] [Better Chat] [Global] [Mythic] SeeMS: he still have a good base
+17:21 [Info] [Better Chat] [Global] [Mythic] SeeMS: but im good person
+17:21 [Info] [Better Chat] [Global] [Mythic] SeeMS: so i let him
+17:21 [Info] [Better Chat] [Team] [Mythic] SeeMS: 31 c4 left
+17:21 [Info] [Better Chat] [Global] [Supporter] Kongen: 194 here xD
+17:21 [Info] [Better Chat] [Team] [Mythic] SeeMS: we go bring more?
+17:22 [Info] [Better Chat] [Global] [Supporter] Kongen: I guess we are fine
+17:22 [Info] [Better Chat] [Global] [Supporter] Kongen: 205 rockets xD
+17:22 [Info] [Better Chat] [Team] [Mythic] SeeMS: ok XD
+17:22 [Info] [Better Chat] [Global] [Hero] chitzo: omg
+17:23 [Info] [Better Chat] [Global] [Supporter] Kongen: I go up
+17:24 [Info] [Better Chat] [Global] [Supporter] Kongen: oh
+17:24 [Info] [Better Chat] [Global] [Supporter] Kongen: that is close to me xD
+17:24 [Info] [Better Chat] [Global] [Mythic] SeeMS: yea  u're behind xD
+17:24 [Info] [Better Chat] [Global] [Supporter] Kongen: Im up here
+17:24 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+17:25 [Info] [Better Chat] [Global] [Mythic] SeeMS: xd
+17:25 [Info] [Better Chat] [Global] [Supporter] Kongen: wtf
+17:27 [Info] [Better Chat] [Global] [Mythic] SeeMS: what
+17:27 [Info] [Better Chat] [Global] [Supporter] Kongen: need to search xD
+17:27 [Info] [Better Chat] [Global] [Hero] chitzo: yes
+17:31 [Info] [Better Chat] [Global] [Supporter] Kongen: I cant get out
+17:31 [Info] [Better Chat] [Global] [Supporter] Kongen: then I will fail down xD
+17:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: xDDD
+17:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: jump
+17:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: XD
+17:31 [Info] [Better Chat] [Global] [Supporter] Kongen: I will fail down if I jump XD
+17:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: and now?
+17:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: press X
+17:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: on my position
+17:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo
+17:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: sit down
+17:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: sit down on your place
+17:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: @chitzo
+17:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: XDD
+17:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: well wait
+17:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: wait
+17:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: why u jump like that
+17:34 [Info] [Better Chat] [Global] [Hero] chitzo: idk
+17:34 [Info] [Better Chat] [Global] [Supporter] Kongen: I tp
+17:34 [Info] [NTeleportation] Kongen teleported chitzo to Kongen.
+17:35 [Info] [Better Chat] [Global] [Mythic] SeeMS: u did it?
+17:35 [Info] [Better Chat] [Global] [Supporter] Kongen: I helped
+17:36 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+17:38 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:38 [Info] [Kill Feed] [38/17/04/03/2021] HecTiiC                        Head                           rifle.m39                      2.3m                           joke22
+17:39 [Info] [Better Chat] [Global] [Supporter] Kongen: next house
+17:40 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuuk
+17:40 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:42 [Info] [Better Chat] [Global] [Supporter] Kongen: I can try to fire rockets?
+17:42 [Info] [Better Chat] [Global] [Mythic] SeeMS: yes
+17:42 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:42 [Info] [Better Chat] [Global] [Supporter] Kongen: damn
+17:42 [Info] [Better Chat] [Global] [Mythic] SeeMS: i feel like u will shot me directly XD
+17:43 [Info] [Better Chat] [Global] [Supporter] Kongen: trying to shoot the back
+17:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: xD
+17:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: whaaa
+17:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: of the helic?
+17:43 [Info] [Better Chat] [Global] [Supporter] Kongen: ya
+17:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: na the wall
+17:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: XD
+17:43 [Info] [Better Chat] [Global] [Supporter] Kongen: didnt work xD
+17:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: sht one
+17:43 [Info] [Better Chat] [Global] [Supporter] Kongen: just tp down xD
+17:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: of those wall
+17:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuk i go damage
+17:43 [Info] [Better Chat] [Global] [Supporter] Kongen: oh shit
+17:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: tp me xd
+17:43 [Info] [Better Chat] [Global] [Supporter] Kongen: k
+17:43 [Info] [Kill Feed] [43/17/04/03/2021] SeeMS                                                         suicide                                                       SeeMS
+17:43 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+17:44 [Info] [Better Chat] [Global] [Supporter] Kongen: fk
+17:44 [Info] [Better Chat] [Global] [Hero] chitzo: RIP
+17:44 [Info] [Better Chat] [Global] [Player] HecTiiC: i too xd
+17:44 [Info] [Better Chat] [Global] [Supporter] Kongen: RIP
+17:44 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+17:44 [Info] [Better Chat] [Global] [Player] HecTiiC: pls let me stand up xD
+17:44 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:45 [Info] [Better Chat] [Global] [Supporter] Kongen: gl :D
+17:46 [Info] [Better Chat] [Global] [Supporter] Kongen: maybe I should make some dinner before wipe xD
+17:46 [Info] [Better Chat] [Global] [Mythic] SeeMS: omg xd
+17:46 [Info] [Better Chat] [Global] [Supporter] Kongen: hahaha
+17:47 [Info] [Better Chat] [Global] [Mythic] SeeMS: why u do that kongen !
+17:47 [Info] [Better Chat] [Global] [Mythic] SeeMS: XDDD
+17:48 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:48 [Info] [Better Chat] [Global] [Mythic] SeeMS: was me
+17:48 [Info] [Better Chat] [Global] [Mythic] SeeMS: baby chitzo
+17:48 [Info] [Kill Feed] [48/17/04/03/2021] chitzo                         Head                           smg.thompson                   1.3m                           SeeMS
+17:48 [Info] [Better Chat] [Global] [Supporter] Kongen: v
+17:49 [Info] [Better Chat] [Global] [Hero] chitzo: rip
+17:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: SILENCE
+17:49 [Info] [Better Chat] [Global] [Supporter] Kongen: xX
+17:49 [Info] [Better Chat] [Global] [Supporter] Kongen: need food?
+17:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: YES
+17:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: ty <​3
+17:49 [Info] [Kill Feed] [49/17/04/03/2021] SeeMS                                                         rocket.launcher                                               SeeMS
+17:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuk mee
+17:50 [Info] [Better Chat] [Global] [Mythic] SeeMS: tp me XD
+17:50 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:50 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+17:50 [Info] [Better Chat] [Global] [Mythic] SeeMS: shes not dead?
+17:50 [Info] [Better Chat] [Global] [Supporter] Kongen: nope
+17:50 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuk
+17:51 [Info] [Better Chat] [Global] [Mythic] SeeMS: WHAT
+17:51 [Info] [Better Chat] [Global] [Mythic] SeeMS: what do u want baby
+17:51 [Info] [Better Chat] [Global] [Mythic] SeeMS: o yeah
+17:53 [Info] [Kill Feed] [53/17/04/03/2021] HecTiiC                                                       rifle.semiauto                 2.3m                           Bear
+17:53 [Info] [Kill Feed] [53/17/04/03/2021] Boar                                                          bite                           0.8m                           S3R4N1
+17:53 [Info] [Kill Feed] [53/17/04/03/2021] HecTiiC                                                       rifle.semiauto                 9.3m                           Boar
+17:54 [Info] [HeliControl] Next Helicopter spawn: 15 minutes
+17:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: u're friends is here chitzo
+17:56 [Info] [Better Chat] [Global] [Mythic] SeeMS: the zombies
+17:56 [Info] [Kill Feed] [56/17/04/03/2021] HecTiiC                                                       rocket.launcher                                               HecTiiC
+17:56 [Info] [Better Chat] [Global] [Supporter] Kongen: RIP
+17:56 [Info] [Better Chat] [Global] [Player] HecTiiC: F
+17:56 [Info] [Better Chat] [Global] [Hero] chitzo: nooo :(
+17:56 [Info] [Kill Feed] [56/17/04/03/2021] Dr. E. Rush                                                   pistol.m92                     2.2m                           Murderer M. Fulton
+17:56 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+17:59 [Info] [Better Chat] [Global] [Supporter] Kongen: cupboard lol
+17:59 [Info] [Better Chat] [Global] [Mythic] SeeMS: where xd
+18:00 [Info] [Better Chat] [Global] [Supporter] Kongen: just info xD
+18:00 [Info] [Better Chat] [Global] [Supporter] Kongen: nothing to raid xD
+18:00 [Info] [Better Chat] [Global] [Mythic] SeeMS: fokin heli
+18:00 [Info] [Better Chat] [Global] [Mythic] SeeMS: crazy
+18:00 [Info] [Better Chat] [Global] [Supporter] Kongen: hammer
+18:01 [Info] [Better Chat] [Global] [Mythic] SeeMS: recall it XD
+18:01 [Info] [Better Chat] [Global] [Supporter] Kongen: hammer
+18:02 [Info] [Better Chat] [Global] [Supporter] Kongen: oh shit
+18:02 [Info] [Better Chat] [Global] [Supporter] Kongen: Im wet
+18:02 [Info] [Better Chat] [Global] [Mythic] SeeMS: same
+18:02 [Info] [Better Chat] [Global] [Mythic] SeeMS: 81%
+18:02 [Info] [Better Chat] [Global] [Mythic] SeeMS: -34°
+18:02 [Info] [Better Chat] [Global] [Supporter] Kongen: -30c
+18:02 [Info] [Better Chat] [Global] [Supporter] Kongen: damn
+18:03 [Info] [Better Chat] [Global] [Supporter] Kongen: jump :D
+18:03 [Info] [Better Chat] [Global] [Hero] chitzo: laaaaag
+18:03 [Info] [Better Chat] [Global] [Mythic] SeeMS: yes jump here maybe
+18:03 [Info] [Better Chat] [Global] [Mythic] SeeMS: here chitzo
+18:03 [Info] [Better Chat] [Global] [Supporter] Kongen: wait
+18:03 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+18:04 [Info] [Better Chat] [Global] [Supporter] Kongen: are you fking drunk or something? xD
+18:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: XD
+18:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: na
+18:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: but when we start helic from here
+18:04 [Info] [Better Chat] [Global] [Supporter] Kongen: or too much of thoses blue pils? xD
+18:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: its automaticly go down D
+18:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: XDDDD
+18:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: i think
+18:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: its bcs chitzo is near
+18:04 [Info] [Better Chat] [Global] [Supporter] Kongen: you need to handle the right stick xD
+18:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: to me
+18:05 [Info] [HeliControl] Next CH47 spawn: 15 minutes
+18:06 [Info] [Kill Feed] [06/18/04/03/2021] HecTiiC                        Head                           rifle.m39                      1.8m                           Grzybu
+18:08 [Info] [Welcomer] • HecTiiC has left the server (Disconnected).
+18:09 [Info] [Better Chat] [Global] [Hero] chitzo: any knows where is the hectiic house?
+18:09 [Info] [Better Chat] [Global] [Mythic] SeeMS: nop
+18:09 [Info] [Better Chat] [Global] [Mythic] SeeMS: @hec
+18:10 [Info] [Better Chat] [Global] [Hero] chitzo: here?
+18:10 [Info] [Better Chat] [Global] [Mythic] SeeMS: maube
+18:10 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuk im using fire ones
+18:10 [Info] [Better Chat] [Global] [Supporter] Kongen: yup xD
+18:10 [Info] [Kill Feed] [10/18/04/03/2021] SeeMS                                                         rocket.launcher                16.5m                          Nightowl_66
+18:13 [Info] [Better Chat] [Global] [Mythic] SeeMS: xDD
+18:14 [Info] [Better Chat] [Global] [Mythic] SeeMS: jump and down
+18:14 [Info] [Better Chat] [Global] [Mythic] SeeMS: jump and press down fast
+18:14 [Info] [Better Chat] [Global] [Mythic] SeeMS: nice xd
+18:14 [Info] [Better Chat] [Global] [Hero] chitzo: my ritual
+18:14 [Info] [Better Chat] [Global] [Supporter] Kongen: ^_^
+18:14 [Info] [Better Chat] [Global] [Mythic] SeeMS: canibal xd
+18:14 [Info] [Better Chat] [Global] [Mythic] SeeMS: u eat human meat
+18:15 [Info] [Better Chat] [Global] [Mythic] SeeMS: shit
+18:15 [Info] [Better Chat] [Global] [Hero] chitzo: good
+18:16 [Info] [Welcomer] • HecTiiC has joined the server from Germany.
+18:20 [Info] [Kill Feed] [20/18/04/03/2021] SeeMS                                                         rocket.launcher                0.7m                           Kongen
+18:20 [Info] [Kill Feed] [20/18/04/03/2021] SeeMS                                                         rocket.launcher                                               SeeMS
+18:20 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuuk me
+18:20 [Info] [Better Chat] [Global] [Supporter] Kongen: wtf
+18:20 [Info] [NTeleportation] Kongen teleported Kongen to chitzo.
+18:20 [Info] [Better Chat] [Global] [Mythic] SeeMS: i cam on my aim XD
+18:20 [Info] [Better Chat] [Global] [Player] HecTiiC: omg
+18:20 [Info] [Better Chat] [Global] [Hero] chitzo: epic
+18:21 [Info] [Better Chat] [Global] [Mythic] SeeMS: chhhhh
+18:21 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+18:21 [Info] [Kill Feed] [21/18/04/03/2021] SeeMS                                                         rifle.lr300                    24.4m                          Stag
+18:22 [Info] [Better Chat] [Global] [Hero] chitzo: another door
+18:22 [Info] [Better Chat] [Global] [Mythic] SeeMS: whatsup chitzo baby
+18:23 [Info] [Kill Feed] [23/18/04/03/2021] HecTiiC                                                       grenade.beancan                                               HecTiiC
+18:23 [Info] [Better Chat] [Global] [Hero] chitzo: RIP
+18:23 [Info] [Better Chat] [Global] [Supporter] Kongen: RIP
+18:23 [Info] [Better Chat] [Global] [Player] HecTiiC: i hate this
+18:23 [Info] [Better Chat] [Global] [Mythic] SeeMS: its like satchel
+18:23 [Info] [Better Chat] [Global] [Mythic] SeeMS: dangerous sometimes xd
+18:23 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+18:24 [Info] [Better Chat] [Global] [Mythic] SeeMS: XDDD
+18:24 [Info] [Better Chat] [Global] [Mythic] SeeMS: u want ur house dispear ? call us !
+18:24 [Info] [Better Chat] [Global] [Hero] chitzo: haha
+18:24 [Info] [Better Chat] [Global] [Player] HecTiiC: ok i am fine for today raid my little shit base by O22
+18:24 [Info] [Better Chat] [Global] [Supporter] Kongen: troll free
+18:24 [Info] [Better Chat] [Global] [Supporter] Kongen: you sure?
+18:24 [Info] [Better Chat] [Global] [Player] HecTiiC: yes
+18:24 [Info] [Better Chat] [Global] [Supporter] Kongen: allright lets go to O22
+18:24 [Info] [Better Chat] [Global] [Hero] chitzo: lets go !
+18:26 [Info] [Better Chat] [Global] [Hero] chitzo: Seems its ok!
+18:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: okay <​33
+18:26 [Info] [Better Chat] [Global] [Hero] chitzo: o22
+18:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: we are on it
+18:27 [Info] [Better Chat] [Global] [Mythic] SeeMS: i heard shot
+18:30 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+18:30 [Info] [Better Chat] [Global] [Hero] chitzo: @SeeMS
+18:30 [Info] [Better Chat] [Team] [Supporter] Kongen: O22 xD
+18:31 [Info] [Welcomer] • Kingglooper has joined the server from France.
+18:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: coucou <​3
+18:32 [Info] [Kill Feed] [32/18/04/03/2021] sam_site_turret_deployed                                      rocket.launcher                101.0m                         SeeMS
+18:32 [Info] [Kill Feed] [32/18/04/03/2021] sam_site_turret_deployed                                      rocket.launcher                95.1m                          chitzo
+18:32 [Info] [Kill Feed] [32/18/04/03/2021] sam_site_turret_deployed                                      rocket.launcher                98.5m                          Kongen
+18:32 [Info] [Better Chat] [Global] [Player] HecTiiC: ups
+18:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: xdddd
+18:32 [Info] [Better Chat] [Global] [Supporter] Kongen: lol
+18:32 [Info] [Better Chat] [Global] [Hero] chitzo: RIP
+18:32 [Info] [NTeleportation] Kongen teleported Kongen to SeeMS.
+18:33 [Info] [Better Chat] [Global] [Hero] chitzo: tp
+18:33 [Info] [Better Chat] [Global] [Hero] chitzo: please!
+18:33 [Info] [Better Chat] [Global] [Supporter] Kongen: in a sec
+18:33 [Info] [Better Chat] [Global] [Supporter] Kongen: allmost there
+18:34 [Info] [Better Chat] [Team] [Mythic] SeeMS: tc
+18:35 [Info] [Better Chat] [Global] [Player] HecTiiC: sorry xD
+18:35 [Info] [NTeleportation] Kongen teleported chitzo to Kongen.
+18:36 [Info] [Better Chat] [Team] [Supporter] Kongen: someone took my rockets
+18:36 [Info] [Better Chat] [Team] [Mythic] SeeMS: wtf
+18:36 [Info] [Better Chat] [Team] [Mythic] SeeMS: me too
+18:36 [Info] [Better Chat] [Team] [Supporter] Kongen: and my bullets
+18:36 [Info] [Better Chat] [Team] [Supporter] Kongen: he took it
+18:36 [Info] [Better Chat] [Team] [Mythic] SeeMS: same
+18:36 [Info] [Better Chat] [Team] [Mythic] SeeMS: should be hectic ..
+18:37 [Info] [Better Chat] [Team] [Supporter] Kongen: I saw a dude run from our bodys
+18:37 [Info] [Better Chat] [Team] [Supporter] Kongen: it is
+18:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: well u tp base ?
+18:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: or i do
+18:37 [Info] [Better Chat] [Team] [Supporter] Kongen: I can do
+18:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: to bring stuff
+18:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: k
+18:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: bring me much bullet, rocket , c4 xD
+18:37 [Info] [Better Chat] [Team] [Supporter] Kongen: k
+18:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: and sniper
+18:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: cuz he have tower
+18:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: can shot us from it
+18:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: so sniper too
+18:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: wait chitzo
+18:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: dont shot me chitzo xd
+18:38 [Info] [NTeleportation] Kongen teleported Kongen to SeeMS.
+18:38 [Info] [Better Chat] [Global] [Hero] chitzo: no my friend!
+18:38 [Info] [Better Chat] [Team] [Supporter] Kongen: fk
+18:38 [Info] [Better Chat] [Team] [Supporter] Kongen: forgot bullets
+18:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: k i tp xD
+18:38 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+18:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: go out the building zone
+18:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: cant tp XD
+18:39 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+18:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: he shot u?
+18:41 [Info] [Better Chat] [Team] [Supporter] Kongen: ya
+18:41 [Info] [Better Chat] [Global] [Hero] chitzo: helll
+18:41 [Info] [Better Chat] [Global] [Hero] chitzo: help
+18:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: every thing ok?
+18:42 [Info] [Better Chat] [Global] [Hero] chitzo: @SeeMS
+18:42 [Info] [Kill Feed] [42/18/04/03/2021] Kongen                         Head                           rifle.l96                      88.7m                          HecTiiC
+18:42 [Info] [Better Chat] [Global] [Mythic] SeeMS: ?
+18:42 [Info] [Kill Feed] [42/18/04/03/2021] Kongen                                                        rocket.launcher                89.0m                          HecTiiC
+18:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+18:42 [Info] [Better Chat] [Team] [Supporter] Kongen: wtf
+18:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: bad idea to steal us ^^
+18:43 [Info] [Better Chat] [Global] [Player] HecTiiC: all on my body xD
+18:43 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+18:43 [Info] [Better Chat] [Global] [Hero] chitzo: tp
+18:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: xd
+18:43 [Info] [NTeleportation] Kongen teleported chitzo to Kongen.
+18:44 [Info] [Better Chat] [Global] [Player] HecTiiC: i need rockets xD
+18:44 [Info] [Better Chat] [Global] [Player] HecTiiC: ^^
+18:44 [Info] [Better Chat] [Global] [Mythic] SeeMS: i see
+18:44 [Info] [Better Chat] [Global] [Mythic] SeeMS: we can let u free
+18:44 [Info] [Better Chat] [Global] [Mythic] SeeMS: if u bring our stuff ^^
+18:44 [Info] [Better Chat] [Global] [Supporter] Kongen: what?
+18:44 [Info] [Kill Feed] [44/18/04/03/2021] SeeMS                                                         rocket.launcher                61.3m                          HecTiiC
+18:44 [Info] [Better Chat] [Global] [Mythic] SeeMS: will u?
+18:45 [Info] [Better Chat] [Global] [Player] HecTiiC: all good 10 h for notjing xD
+18:45 [Info] [Better Chat] [Global] [Player] HecTiiC: make all down
+18:45 [Info] [Better Chat] [Global] [Mythic] SeeMS: lol
+18:45 [Info] [Better Chat] [Global] [Mythic] SeeMS: we stop here
+18:45 [Info] [Better Chat] [Team] [Mythic] SeeMS: let him xd
+18:45 [Info] [Better Chat] [Team] [Mythic] SeeMS: he look "cool"
+18:45 [Info] [Better Chat] [Team] [Supporter] Kongen: hmm
+18:45 [Info] [Better Chat] [Team] [Mythic] SeeMS: but a theft xD
+18:45 [Info] [Better Chat] [Global] [Player] HecTiiC: all your loot in the tower
+18:45 [Info] [Better Chat] [Global] [Mythic] SeeMS: bring our stuff
+18:45 [Info] [Better Chat] [Global] [Mythic] SeeMS: k we go
+18:46 [Info] [Better Chat] [Global] [Mythic] SeeMS: do not shot
+18:46 [Info] [Better Chat] [Global] [Mythic] SeeMS: me xd
+18:46 [Info] [Better Chat] [Global] [Mythic] SeeMS: can ya open the door
+18:46 [Info] [Better Chat] [Global] [Mythic] SeeMS: of the tower? ^^
+18:46 [Info] [Better Chat] [Global] [Player] HecTiiC: its all of traps
+18:46 [Info] [Better Chat] [Global] [Mythic] SeeMS: k
+18:46 [Info] [Better Chat] [Global] [Mythic] SeeMS: remove trap
+18:46 [Info] [Better Chat] [Global] [Mythic] SeeMS: and open the door
+18:47 [Info] [Better Chat] [Global] [Mythic] SeeMS: u did pretty nice work here ^^
+18:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: i dont want to kill him cuz its newbie
+18:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: we need ppl like him xd
+18:47 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+18:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: lol
+18:47 [Info] [Better Chat] [Global] [Mythic] SeeMS: lol those trap
+18:47 [Info] [Better Chat] [Global] [Player] HecTiiC: ^^
+18:48 [Info] [Better Chat] [Global] [Mythic] SeeMS: well done here
+18:48 [Info] [Better Chat] [Global] [Mythic] SeeMS: i have our stuff @Kongen
+18:48 [Info] [Better Chat] [Global] [Player] HecTiiC: come down an feel free
+18:49 [Info] [Better Chat] [Global] [Supporter] Kongen: sweet
+18:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: come @HecTiiC
+18:49 [Info] [Better Chat] [Global] [Player] HecTiiC: show in the chest an tc all yours xD
+18:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: xD
+18:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: come here hec
+18:49 [Info] [Better Chat] [Global] [Player] HecTiiC: i´m fine today
+18:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: u did all thoses thing in one day?
+18:50 [Info] [Better Chat] [Global] [Player] HecTiiC: in 10H
+18:50 [Info] [Better Chat] [Global] [Mythic] SeeMS: lol nice
+18:50 [Info] [Better Chat] [Global] [Player] HecTiiC: no i go off an come back to the wipe
+18:50 [Info] [Better Chat] [Global] [Mythic] SeeMS: yes
+18:50 [Info] [Better Chat] [Global] [Mythic] SeeMS: wipe in like one hours
+18:50 [Info] [Better Chat] [Global] [Mythic] SeeMS: xD
+18:50 [Info] [Better Chat] [Global] [Supporter] Kongen: cya later then :)
+18:51 [Info] [Better Chat] [Global] [Mythic] SeeMS: can we finish your house
+18:51 [Info] [Better Chat] [Global] [Mythic] SeeMS: cuz u know, wipe soon ^^
+18:51 [Info] [Better Chat] [Global] [Player] HecTiiC: all in the chest is yours
+18:51 [Info] [Better Chat] [Global] [Player] HecTiiC: yes
+18:51 [Info] [Better Chat] [Global] [Mythic] SeeMS: xDD
+18:51 [Info] [Better Chat] [Global] [Player] HecTiiC: you can
+18:51 [Info] [Better Chat] [Global] [Mythic] SeeMS: lets do it
+18:51 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+18:51 [Info] [Better Chat] [Global] [Player] HecTiiC: bat the smal hous no its from friend
+18:51 [Info] [Better Chat] [Global] [Mythic] SeeMS: i see
+18:52 [Info] [Better Chat] [Global] [Mythic] SeeMS: u play in team?
+18:52 [Info] [Better Chat] [Global] [Mythic] SeeMS: maybe invit him to coop with ya
+18:52 [Info] [Better Chat] [Global] [Player] HecTiiC: no solo he have show the server
+18:52 [Info] [Better Chat] [Global] [Mythic] SeeMS: oh i see
+18:52 [Info] [Better Chat] [Team] [Mythic] SeeMS: lets go on it
+18:52 [Info] [Better Chat] [Team] [Mythic] SeeMS: xd
+18:52 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo noob
+18:52 [Info] [Better Chat] [Global] [Mythic] SeeMS: come baby
+18:53 [Info] [Kill Feed] [53/18/04/03/2021] chitzo                         Head                           rifle.l96                      87.5m                          HecTiiC
+18:53 [Info] [Better Chat] [Global] [Mythic] SeeMS: lol chitzo
+18:53 [Info] [Better Chat] [Global] [Supporter] Kongen: nice done
+18:53 [Info] [Better Chat] [Global] [Mythic] SeeMS: xdddddd
+18:53 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+18:53 [Info] [Better Chat] [Global] [Mythic] SeeMS: xDDDDD
+18:53 [Info] [Welcomer] • Kingglooper has left the server (Disconnected).
+18:53 [Info] [Better Chat] [Global] [Player] HecTiiC: i want see its go down xd
+18:53 [Info] [Kill Feed] [53/18/04/03/2021] chitzo                         Head                           rifle.l96                      88.0m                          HecTiiC
+18:53 [Info] [Better Chat] [Global] [Mythic] SeeMS: xD
+18:53 [Info] [Better Chat] [Global] [Mythic] SeeMS: dont kill him
+18:53 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo
+18:53 [Info] [Better Chat] [Global] [Mythic] SeeMS: come and see xd
+18:53 [Info] [Better Chat] [Global] [Player] HecTiiC: ^^
+18:54 [Info] [Better Chat] [Global] [Supporter] Kongen: chitzo is a killer ^_^
+18:54 [Info] [Better Chat] [Global] [Mythic] SeeMS: xdddd
+18:54 [Info] [Better Chat] [Global] [Player] HecTiiC: ^^
+18:54 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+18:54 [Info] [Better Chat] [Team] [Mythic] SeeMS: fml
+18:54 [Info] [Kill Feed] [54/18/04/03/2021] chitzo                         Head                           rifle.l96                      88.8m                          HecTiiC
+18:54 [Info] [Better Chat] [Team] [Mythic] SeeMS: my rocket launcher is HS
+18:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: CHITZOOO
+18:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: @chitzo
+18:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: stop killing him baby
+18:55 [Info] [Better Chat] [Global] [Hero] chitzo: ok :)
+18:55 [Info] [Better Chat] [Global] [Supporter] Kongen: I got an extra one
+18:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: <​33
+18:55 [Info] [Better Chat] [Global] [Supporter] Kongen: need luncher?
+18:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: y
+18:55 [Info] [Better Chat] [Global] [Hero] chitzo: im practice!
+18:55 [Info] [Better Chat] [Global] [Player] HecTiiC: in the house 8
+18:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: ty
+18:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: oh xd
+18:56 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+18:56 [Info] [Better Chat] [Global] [Mythic] SeeMS: feel bad about your house? ^^*
+18:56 [Info] [Better Chat] [Global] [Mythic] SeeMS: @chitzo
+18:56 [Info] [Better Chat] [Global] [Supporter] Kongen: we dont have time to use all our booms xD
+18:56 [Info] [Better Chat] [Global] [Mythic] SeeMS: @HecTiiC
+18:56 [Info] [Better Chat] [Global] [Player] HecTiiC: all good the loot is right
+18:57 [Info] [Better Chat] [Global] [Hero] chitzo: yes?
+18:57 [Info] [Better Chat] [Global] [Mythic] SeeMS: love u
+18:57 [Info] [Better Chat] [Global] [Mythic] SeeMS: baby
+18:57 [Info] [Better Chat] [Global] [Mythic] SeeMS: xdd
+18:57 [Info] [Better Chat] [Global] [Mythic] SeeMS: i use my c4
+18:57 [Info] [Better Chat] [Global] [Hero] chitzo: OMG
+18:57 [Info] [Better Chat] [Global] [Mythic] SeeMS: friend love
+18:57 [Info] [Better Chat] [Global] [Mythic] SeeMS: dont wrry
+18:57 [Info] [Better Chat] [Global] [Hero] chitzo: haha
+18:57 [Info] [Better Chat] [Global] [Mythic] SeeMS: kongen
+18:57 [Info] [Better Chat] [Global] [Mythic] SeeMS: love you
+18:57 [Info] [Better Chat] [Global] [Mythic] SeeMS: too
+18:58 [Info] [Better Chat] [Global] [Supporter] Kongen: <​3
+18:58 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+18:58 [Info] [Better Chat] [Global] [Mythic] SeeMS: i love gubatrix too
+18:58 [Info] [Better Chat] [Global] [Mythic] SeeMS: but fuk he is a gay
+18:58 [Info] [Better Chat] [Global] [Mythic] SeeMS: but anyway
+18:58 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+18:58 [Info] [Better Chat] [Global] [Hero] chitzo: :O
+18:59 [Info] [Better Chat] [Team] [Mythic] SeeMS: with c4 will be faster
+18:59 [Info] [Better Chat] [Global] [Player] HecTiiC: double wall ^^
+18:59 [Info] [Better Chat] [Global] [Player] HecTiiC: up
+18:59 [Info] [Better Chat] [Global] [Mythic] SeeMS: yep
+19:00 [Info] [Better Chat] [Global] [Mythic] SeeMS: i see that xd
+19:00 [Info] [Better Chat] [Global] [Supporter] Kongen: alot of batterys
+19:01 [Info] [Better Chat] [Global] [Player] HecTiiC: was a trap on ??
+19:01 [Info] [Better Chat] [Global] [Mythic] SeeMS: yes
+19:01 [Info] [Better Chat] [Global] [Mythic] SeeMS: shoted me xd
+19:01 [Info] [Better Chat] [Global] [Player] HecTiiC: ups
+19:02 [Info] [Kill Feed] [02/19/04/03/2021] SeeMS                                                         explosive.timed                                               SeeMS
+19:02 [Info] [Better Chat] [Global] [Player] HecTiiC: F
+19:02 [Info] [Better Chat] [Global] [Hero] chitzo: omg your houe!
+19:02 [Info] [Better Chat] [Global] [Mythic] SeeMS: omg
+19:02 [Info] [Better Chat] [Global] [Player] HecTiiC: ^^
+19:02 [Info] [Better Chat] [Global] [Hero] chitzo: RIP
+19:02 [Info] [Better Chat] [Global] [Mythic] SeeMS: i forget this c4
+19:02 [Info] [Better Chat] [Global] [Mythic] SeeMS: xd
+19:03 [Info] [Better Chat] [Team] [Mythic] SeeMS: tp :D
+19:04 [Info] [Better Chat] [Global] [Hero] chitzo: nice to meet you!
+19:04 [Info] [Better Chat] [Team] [Mythic] SeeMS: @Kongen
+19:04 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+19:04 [Info] [Kill Feed] [04/19/04/03/2021] chitzo                         Head                           rifle.l96                      35.0m                          SeeMS
+19:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: RUN
+19:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: cuz im gona *** u
+19:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: xd
+19:05 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+19:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: tp me
+19:05 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+19:05 [Info] [Better Chat] [Global] [Supporter] Kongen: here
+19:05 [Info] [Better Chat] [Global] [Hero] chitzo: @Kongen
+19:05 [Info] [Better Chat] [Global] [Supporter] Kongen: ?
+19:05 [Info] [Better Chat] [Global] [Supporter] Kongen: I didnt do anything :D
+19:05 [Info] [Better Chat] [Global] [Hero] chitzo: defend me!!!
+19:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: NA NA
+19:05 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+19:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: no one will defend ya
+19:06 [Info] [Better Chat] [Global] [Mythic] SeeMS: noob chitzo
+19:06 [Info] [Better Chat] [Global] [Mythic] SeeMS: XD
+19:06 [Info] [Better Chat] [Global] [Hero] chitzo: seems
+19:06 [Info] [Better Chat] [Global] [Mythic] SeeMS: wut
+19:06 [Info] [Better Chat] [Global] [Hero] chitzo: dont kill me
+19:06 [Info] [Better Chat] [Global] [Mythic] SeeMS: just come
+19:06 [Info] [Better Chat] [Global] [Hero] chitzo: we are friends
+19:06 [Info] [Better Chat] [Global] [Mythic] SeeMS: YEAHH
+19:06 [Info] [Better Chat] [Global] [Hero] chitzo: no im scared!
+19:06 [Info] [Better Chat] [Global] [Hero] chitzo: hahaha
+19:07 [Info] [Better Chat] [Global] [Mythic] SeeMS: u have reason to be
+19:07 [Info] [Better Chat] [Global] [Mythic] SeeMS: hectic
+19:07 [Info] [Better Chat] [Global] [Mythic] SeeMS: u see chitzo somewhere ?
+19:07 [Info] [Better Chat] [Global] [Player] HecTiiC: yes
+19:07 [Info] [Better Chat] [Global] [Player] HecTiiC: no
+19:07 [Info] [Better Chat] [Global] [Supporter] Kongen: I see her
+19:07 [Info] [Better Chat] [Global] [Mythic] SeeMS: k i dont kill ya
+19:07 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo
+19:07 [Info] [Better Chat] [Global] [Mythic] SeeMS: cuz im gentleman
+19:07 [Info] [Better Chat] [Global] [Hero] chitzo: hahahaha
+19:07 [Info] [Better Chat] [Global] [Mythic] SeeMS: i swear
+19:08 [Info] [Better Chat] [Global] [Mythic] SeeMS: but
+19:08 [Info] [Better Chat] [Global] [Mythic] SeeMS: if u shot me
+19:08 [Info] [Better Chat] [Global] [Mythic] SeeMS: again
+19:08 [Info] [Better Chat] [Global] [Supporter] Kongen: look up chitzo
+19:08 [Info] [Better Chat] [Global] [Hero] chitzo: nooo
+19:08 [Info] [Better Chat] [Global] [Mythic] SeeMS: i kill u everytime i saw ya
+19:08 [Info] [Better Chat] [Global] [Mythic] SeeMS: XD
+19:09 [Info] [Better Chat] [Global] [Mythic] SeeMS: who gives snipe
+19:09 [Info] [Better Chat] [Global] [Mythic] SeeMS: to this noob
+19:09 [Info] [Better Chat] [Global] [Mythic] SeeMS: i did nothing
+19:09 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo
+19:09 [Info] [Better Chat] [Global] [Mythic] SeeMS: wasnt me
+19:09 [Info] [Better Chat] [Global] [Mythic] SeeMS: should be kongen
+19:09 [Info] [Better Chat] [Global] [Mythic] SeeMS: XD
+19:09 [Info] [Better Chat] [Global] [Mythic] SeeMS: u have the exo bullet
+19:09 [Info] [Better Chat] [Global] [Hero] chitzo: lets go
+19:09 [Info] [Better Chat] [Global] [Mythic] SeeMS: kongen?
+19:10 [Info] [Better Chat] [Global] [Supporter] Kongen: ?
+19:10 [Info] [Better Chat] [Global] [Supporter] Kongen: ya
+19:10 [Info] [Better Chat] [Global] [Mythic] SeeMS: ty xd
+19:11 [Info] [Better Chat] [Global] [Supporter] Kongen: we are behind
+19:11 [Info] [Better Chat] [Global] [Supporter] Kongen: we cant use it all xD
+19:11 [Info] [Better Chat] [Global] [Mythic] SeeMS: xdd
+19:11 [Info] [Better Chat] [Team] [Mythic] SeeMS: here
+19:12 [Info] [Kill Feed] [12/19/04/03/2021] SeeMS                                                         rocket.launcher                44.2m                          HecTiiC
+19:12 [Info] [Better Chat] [Global] [Mythic] SeeMS: ups
+19:12 [Info] [Better Chat] [Global] [Mythic] SeeMS: sorry
+19:12 [Info] [Kill Feed] [12/19/04/03/2021] SeeMS                                                         rocket.launcher                42.6m                          HecTiiC
+19:12 [Info] [Better Chat] [Global] [Mythic] SeeMS: omg
+19:12 [Info] [Better Chat] [Global] [Mythic] SeeMS: its your spawn point? xd
+19:13 [Info] [Better Chat] [Global] [Supporter] Kongen: you have something on your head chitzo
+19:13 [Info] [Better Chat] [Global] [Player] HecTiiC: no i am at the furnes and smelt metal for a reapier table for a gift xd
+19:13 [Info] [Better Chat] [Global] [Mythic] SeeMS: oh xD
+19:13 [Info] [Welcomer] • Aquia has joined the server from Denmark.
+19:13 [Info] [Better Chat] [Global] [Supporter] Kongen: dont think there are other bases atm
+19:14 [Info] [Better Chat] [Global] [Supporter] Kongen: hey med dig Aquia
+19:14 [Info] [Better Chat] [Global] [Hero] chitzo: lets go destroy my base!
+19:14 [Info] [Better Chat] [Global] [Supporter] Kongen: hes too busy xD
+19:14 [Info] [Kill Feed] [14/19/04/03/2021] Aquia                                                         suicide                                                       Aquia
+19:15 [Info] [Better Chat] [Global] [Supporter] Kongen: yo @SeeMS
+19:15 [Info] [Better Chat] [Global] [Mythic] SeeMS: yes?
+19:15 [Info] [Better Chat] [Global] [Supporter] Kongen: lets go
+19:15 [Info] [Better Chat] [Global] [Mythic] SeeMS: k
+19:15 [Info] [Better Chat] [Global] [Mythic] SeeMS: :D
+19:15 [Info] [Better Chat] [Global] [Supporter] Kongen: chitzo invting us to her home :D
+19:15 [Info] [Better Chat] [Global] [Mythic] SeeMS: o yeaa
+19:15 [Info] [Better Chat] [Global] [Mythic] SeeMS: us tp chitzo
+19:15 [Info] [Better Chat] [Global] [Hero] chitzo: pool part
+19:15 [Info] [Better Chat] [Global] [Mythic] SeeMS: use *
+19:15 [Info] [Better Chat] [Global] [Mythic] SeeMS: raid party *
+19:15 [Info] [Better Chat] [Global] [Hero] chitzo: party
+19:15 [Info] [Better Chat] [Global] [Mythic] SeeMS: hectic, you can come
+19:16 [Info] [Better Chat] [Global] [Mythic] SeeMS: so u help us
+19:16 [Info] [Kill Feed] [16/19/04/03/2021] Aquia                                                         suicide                                                       Aquia
+19:16 [Info] [Better Chat] [Global] [Mythic] SeeMS: if u want xD
+19:16 [Info] [Better Chat] [Global] [Mythic] SeeMS: would ya ?
+19:16 [Info] [Better Chat] [Global] [Player] HecTiiC: rip i need a workbanch lvl 1 xd
+19:16 [Info] [Better Chat] [Global] [Mythic] SeeMS: i have stuff for ya
+19:16 [Info] [Better Chat] [Global] [Hero] chitzo: only the ugly tower!
+19:16 [Info] [Better Chat] [Global] [Hero] chitzo: hahaha
+19:17 [Info] [Better Chat] [Global] [Mythic] SeeMS: go inside xd
+19:17 [Info] [Better Chat] [Global] [Hero] chitzo: only the ugly tower!!!!!
+19:18 [Info] [Better Chat] [Global] [Supporter] Kongen: okay
+19:18 [Info] [Better Chat] [Global] [Mythic] SeeMS: sure........
+19:18 [Info] [Better Chat] [Global] [Mythic] SeeMS: ..
+19:18 [Info] [Better Chat] [Global] [Player] HecTiiC: chitzo you have a pickaxt in your head
+19:18 [Info] [Better Chat] [Global] [Mythic] SeeMS: take this too hec
+19:18 [Info] [Welcomer] • syl has joined the server from Denmark.
+19:19 [Info] [Better Chat] [Global] [Hero] chitzo: noooooooooooooooooooo my base
+19:19 [Info] [Better Chat] [Global] [Supporter] Kongen: she had a pick axe
+19:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: xdd
+19:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: open the door
+19:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: xDDDD
+19:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: lol
+19:19 [Info] [Better Chat] [Global] [Supporter] Kongen: ops
+19:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: was not me
+19:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: carful hec xd
+19:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: not working
+19:20 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuk -_-
+19:20 [Info] [Better Chat] [Global] [Hero] chitzo: :'(
+19:20 [Info] [Better Chat] [Global] [Mythic] SeeMS: my ladder
+19:20 [Info] [Better Chat] [Global] [Supporter] Kongen: here
+19:20 [Info] [Better Chat] [Global] [Mythic] SeeMS: ty :D
+19:21 [Info] [Better Chat] [Global] [Hero] chitzo: you have wood
+19:21 [Info] [Better Chat] [Global] [Supporter] Kongen: fk
+19:21 [Info] [Better Chat] [Global] [Supporter] Kongen: move
+19:22 [Info] [Better Chat] [Global] [Supporter] Kongen: shit
+19:22 [Info] [Better Chat] [Global] [Mythic] SeeMS: XDDD
+19:22 [Info] [Better Chat] [Global] [Newbie] [diller] syl: kongen can you heal me
+19:22 [Info] [Better Chat] [Global] [Mythic] SeeMS: what u need?
+19:22 [Info] [Better Chat] [Global] [Hero] chitzo: any have wood?
+19:22 [Info] [Better Chat] [Global] [Supporter] Kongen: nej det kan jeg desværre ikke hva da?
+19:22 [Info] [Better Chat] [Global] [Mythic] SeeMS: i dont have
+19:22 [Info] [Better Chat] [Global] [Newbie] [diller] syl: du dansk
+19:22 [Info] [Better Chat] [Global] [Supporter] Kongen: ja da
+19:22 [Info] [Better Chat] [Global] [Newbie] [diller] Aquia: no shit
+19:22 [Info] [Better Chat] [Global] [Player] HecTiiC: i have someone give 3mill
+19:23 [Info] [Kill Feed] [23/19/04/03/2021] syl                                                           suicide                                                       syl
+19:23 [Info] [Better Chat] [Global] [Supporter] Kongen: server wiper snart bare så i ved det
+19:23 [Info] [Better Chat] [Global] [Mythic] SeeMS: omg xd
+19:24 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+19:24 [Info] [Better Chat] [Global] [Player] HecTiiC: ^^
+19:24 [Info] [Better Chat] [Global] [Mythic] SeeMS: this is crazy xd
+19:24 [Info] [Better Chat] [Global] [Supporter] Kongen: Xd
+19:24 [Info] [Better Chat] [Global] [Hero] chitzo: awsome!
+19:24 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+19:25 [Info] [Better Chat] [Global] [Hero] chitzo: if kappa saw this he woul cry!!
+19:25 [Info] [Better Chat] [Global] [Hero] chitzo: XD
+19:25 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+19:25 [Info] [Kill Feed] [25/19/04/03/2021] Kongen                                                        explosive.timed                2.7m                           HecTiiC
+19:25 [Info] [Kill Feed] [25/19/04/03/2021] HecTiiC                                                       explosive.timed                2.7m                           Kongen
+19:25 [Info] [Better Chat] [Global] [Mythic] SeeMS: u can send him a screen on discord xd
+19:25 [Info] [Better Chat] [Global] [Player] HecTiiC: F
+19:25 [Info] [Better Chat] [Global] [Supporter] Kongen: damn
+19:25 [Info] [Better Chat] [Global] [Player] HecTiiC: hahahha
+19:25 [Info] [NTeleportation] Kongen teleported Kongen to SeeMS.
+19:25 [Info] [Better Chat] [Global] [Mythic] SeeMS: xD
+19:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: omg
+19:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: falldown
+19:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: help xd
+19:26 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+19:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: ty
+19:28 [Info] [Welcomer] • HecTiiC has left the server (Timed Out).
+19:30 [Info] [Kill Feed] [30/19/04/03/2021] syl                                                           suicide                                                       syl
+19:30 [Info] [Better Chat] [Team] [Mythic] SeeMS: fuk
+19:31 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+19:31 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+19:31 [Info] [Better Chat] [Team] [Mythic] SeeMS: my camera is moving like crazy xd
+19:31 [Info] [Better Chat] [Global] [Hero] chitzo: guys dinner is ready!
+19:31 [Info] [Better Chat] [Team] [Supporter] Kongen: allright :)
+19:31 [Info] [Better Chat] [Team] [Supporter] Kongen: cya later then
+19:31 [Info] [Better Chat] [Team] [Mythic] SeeMS: go eat and when u back
+19:31 [Info] [Better Chat] [Global] [Supporter] Kongen: allright
+19:31 [Info] [Better Chat] [Team] [Mythic] SeeMS: ur tower will not be here xd
+19:31 [Info] [Better Chat] [Global] [Supporter] Kongen: cya later then
+19:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: ups shit xd
+19:32 [Info] [Better Chat] [Global] [Hero] chitzo: nooooo here
+19:32 [Info] [Better Chat] [Global] [Hero] chitzo: bbq
+19:32 [Info] [Better Chat] [Global] [Hero] chitzo: hahahaaha
+19:32 [Info] [Better Chat] [Global] [Supporter] Kongen: nice
+19:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: rust have update
+19:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: already
+19:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: 1.6go
+19:33 [Info] [Better Chat] [Global] [Supporter] Kongen: oh
+19:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+19:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: when we restart it xd
+19:34 [Info] [Better Chat] [Team] [Mythic] SeeMS: the top too XD
+19:34 [Info] [Kill Feed] [34/19/04/03/2021] Aquia                          Head                           smg.2                          6.5m                           syl
+19:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: carful
+19:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: back
+19:37 [Info] [Better Chat] [Team] [Supporter] Kongen: Im out
+19:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh ?
+19:37 [Info] [Better Chat] [Team] [Supporter] Kongen: how many do you have left?
+19:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: 99 c4
+19:37 [Info] [Better Chat] [Team] [Supporter] Kongen: damn
+19:38 [Info] [Better Chat] [Team] [Supporter] Kongen: I used like allmost 200 xD
+19:38 [Info] [Better Chat] [Team] [Mythic] SeeMS: and like 280 rocket
+19:38 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+19:38 [Info] [Better Chat] [Team] [Supporter] Kongen: 472 rockets left
+19:38 [Info] [Better Chat] [Team] [Mythic] SeeMS: need c4 ?
+19:38 [Info] [Better Chat] [Team] [Supporter] Kongen: I can use rockets xD
+19:38 [Info] [Kill Feed] [38/19/04/03/2021] Aquia                          Head                           hatchet                        0.8m                           syl
+19:40 [Info] [Better Chat] [Team] [Supporter] Kongen: fk
+19:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: xdddd
+19:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: lol
+19:40 [Info] [Welcomer] • [diller] Aquia has left the server (Disconnected).
+19:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: ok me too XD
+19:40 [Info] [Better Chat] [Team] [Supporter] Kongen: lol
+19:40 [Info] [Welcomer] • [diller] syl has left the server (Disconnected).
+19:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: we dont care
+19:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: about those thing na?
+19:41 [Info] [Better Chat] [Team] [Supporter] Kongen: nah xD
+19:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh Xd
+19:41 [Info] [Better Chat] [Team] [Supporter] Kongen: Im just wasting booms til we get kicked
+19:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: xdd
+19:43 [Info] [Better Chat] [Team] [Supporter] Kongen: out again xD
+19:43 [Info] [Better Chat] [Team] [Mythic] SeeMS: we have much at base
+19:43 [Info] [Better Chat] [Team] [Mythic] SeeMS: should tp
+19:43 [Info] [Better Chat] [Team] [Supporter] Kongen: ya
+19:43 [Info] [Better Chat] [Team] [Supporter] Kongen: take all
+19:43 [Info] [Better Chat] [Team] [Supporter] Kongen: rockets and c4
+19:43 [Info] [Better Chat] [Team] [Supporter] Kongen: and some luncher
+19:43 [Info] [Better Chat] [Team] [Mythic] SeeMS: cant tp i can drive heli xd
+19:43 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+19:43 [Info] [Better Chat] [Team] [Supporter] Kongen: then lets go back then
+19:44 [Info] [Better Chat] [Team] [Mythic] SeeMS: if i jump to the pool
+19:44 [Info] [Better Chat] [Team] [Mythic] SeeMS: i die u think?
+19:44 [Info] [Better Chat] [Team] [Supporter] Kongen: is there water?
+19:44 [Info] [Better Chat] [Team] [Mythic] SeeMS: yea
+19:44 [Info] [Better Chat] [Team] [Supporter] Kongen: then you can do it
+19:44 [Info] [Better Chat] [Team] [Supporter] Kongen: hmm
+19:44 [Info] [Better Chat] [Team] [Supporter] Kongen: I think its far away
+19:44 [Info] [Better Chat] [Team] [Mythic] SeeMS: i think i can
+19:44 [Info] [Better Chat] [Team] [Supporter] Kongen: nice
+19:45 [Info] [Better Chat] [Team] [Mythic] SeeMS: was so close omg
+19:45 [Info] [Better Chat] [Team] [Mythic] SeeMS: i lost much hp xd
+19:45 [Info] [Better Chat] [Team] [Supporter] Kongen: you shooting?
+19:45 [Info] [Better Chat] [Team] [Mythic] SeeMS: no
+19:45 [Info] [Better Chat] [Team] [Supporter] Kongen: then its chitzo xD
+19:45 [Info] [Better Chat] [Team] [Mythic] SeeMS: xd
+19:45 [Info] [Better Chat] [Team] [Supporter] Kongen: come here
+19:45 [Info] [Better Chat] [Team] [Mythic] SeeMS: probably trying to snipe us
+19:46 [Info] [Better Chat] [Team] [Mythic] SeeMS: i take little one
+19:46 [Info] [Better Chat] [Team] [Mythic] SeeMS: faster
+19:46 [Info] [Better Chat] [Global] [Hero] chitzo: guys?
+19:46 [Info] [Better Chat] [Global] [Supporter] Kongen: ya?
+19:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: xdddd
+19:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: omg xd
+19:47 [Info] [Better Chat] [Team] [Supporter] Kongen: shit
+19:48 [Info] [Better Chat] [Team] [Supporter] Kongen: and I cant remove
+19:48 [Info] [Better Chat] [Team] [Mythic] SeeMS: remove it
+19:48 [Info] [Better Chat] [Team] [Mythic] SeeMS: u can xD
+19:48 [Info] [Better Chat] [Team] [Supporter] Kongen: blocked xD
+19:48 [Info] [Better Chat] [Team] [Mythic] SeeMS: o ye
+19:48 [Info] [Better Chat] [Team] [Supporter] Kongen: no
+19:48 [Info] [Better Chat] [Team] [Supporter] Kongen: now 5 mins blocked
+19:49 [Info] [Kill Feed] [49/19/04/03/2021] SeeMS                                                         heat                           0.2m                           SeeMS
+19:49 [Info] [Better Chat] [Team] [Mythic] SeeMS: omg xd
+19:50 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+19:50 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+19:50 [Info] [Better Chat] [Global] [Hero] chitzo: they left me!
+19:50 [Info] [Better Chat] [Global] [Mythic] SeeMS: who
+19:50 [Info] [Better Chat] [Team] [Supporter] Kongen: stay back
+19:50 [Info] [Better Chat] [Global] [Hero] chitzo: you and kongen
+19:50 [Info] [Better Chat] [Global] [Supporter] Kongen: we coming back
+19:50 [Info] [Better Chat] [Global] [Supporter] Kongen: needed more boomx
+19:50 [Info] [Better Chat] [Global] [Mythic] SeeMS: yes more bomms !
+19:51 [Info] [Better Chat] [Team] [Supporter] Kongen: gogo
+19:51 [Info] [Better Chat] [Global] [Hero] chitzo: ok im going to take my dog outside!
+19:52 [Info] [Better Chat] [Global] [Mythic] SeeMS: i hate dogs!
+19:52 [Info] [Better Chat] [Global] [Supporter] Kongen: okay
+19:52 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh u have everything?
+19:52 [Info] [Better Chat] [Global] [Hero] chitzo: seems you hate the world!
+19:52 [Info] [Better Chat] [Team] [Mythic] SeeMS: lool XD
+19:52 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+19:52 [Info] [Better Chat] [Global] [Mythic] SeeMS: i love ya
+19:52 [Info] [Better Chat] [Team] [Supporter] Kongen: cant find rockets
+19:52 [Info] [Better Chat] [Team] [Supporter] Kongen: you took them?
+19:52 [Info] [Better Chat] [Global] [Mythic] SeeMS: that a proof
+19:52 [Info] [Better Chat] [Global] [Mythic] SeeMS: u saying false thing!
+19:52 [Info] [HeliControl] Next CH47 spawn: 20 minutes
+19:53 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+19:53 [Info] [Better Chat] [Team] [Supporter] Kongen: lagg?
+19:53 [Info] [Better Chat] [Team] [Supporter] Kongen: there we go
+19:53 [Info] [Better Chat] [Global] [Mythic] SeeMS: little bit
+19:53 [Info] [Better Chat] [Team] [Supporter] Kongen: shit I have alot of bullets
+19:53 [Info] [Better Chat] [Global] [Mythic] SeeMS: xD
+19:54 [Info] [Better Chat] [Team] [Supporter] Kongen: 25,8k normal bullets
+19:54 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuk i dont have normal ones
+19:54 [Info] [Better Chat] [Global] [Mythic] SeeMS: i lost it xD
+19:54 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+19:54 [Info] [Better Chat] [Global] [Mythic] SeeMS: 2.7k fire one
+19:54 [Info] [Better Chat] [Team] [Supporter] Kongen: you can get half of mine when we gets there
+19:54 [Info] [Better Chat] [Global] [Mythic] SeeMS: we destroy all hise house
+19:54 [Info] [Better Chat] [Global] [Mythic] SeeMS: his*
+19:54 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+19:54 [Info] [Better Chat] [Global] [Mythic] SeeMS: cuz wip
+19:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: so fuk it
+19:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: we go on the top? xd
+19:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: or down
+19:55 [Info] [Better Chat] [Global] [Supporter] Kongen: sure up
+19:56 [Info] [Better Chat] [Global] [Mythic] SeeMS: down -_-
+19:56 [Info] [Better Chat] [Global] [Mythic] SeeMS: xD
+19:56 [Info] [Better Chat] [Team] [Mythic] SeeMS: @Kongen tp me to ya
+19:56 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+19:56 [Info] [Better Chat] [Team] [Mythic] SeeMS: ty xd
+19:57 [Info] [Better Chat] [Global] [Supporter] Kongen: maybe from here
+19:57 [Info] [Better Chat] [Team] [Mythic] SeeMS: wtf
+19:57 [Info] [Better Chat] [Global] [Supporter] Kongen: wtf
+19:57 [Info] [Kill Feed] [57/19/04/03/2021] SeeMS                                                         rocket.launcher                                               SeeMS
+19:57 [Info] [Better Chat] [Team] [Mythic] SeeMS: wtf
+19:57 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+19:57 [Info] [Better Chat] [Team] [Supporter] Kongen: idk why I miss and you didnt xD
+19:58 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye i saw that
+19:58 [Info] [Better Chat] [Team] [Supporter] Kongen: fly just though
+19:58 [Info] [Better Chat] [Team] [Mythic] SeeMS: yep didnt understand why xD
+19:59 [Info] [Better Chat] [Team] [Mythic] SeeMS: wtf
+19:59 [Info] [Better Chat] [Team] [Supporter] Kongen: wtf
+19:59 [Info] [Better Chat] [Team] [Mythic] SeeMS: again
+19:59 [Info] [Better Chat] [Team] [Mythic] SeeMS: done i thinkn
+19:59 [Info] [Better Chat] [Team] [Supporter] Kongen: shit
+20:00 [Info] [Better Chat] [Team] [Supporter] Kongen: allmost died
+20:00 [Info] [Better Chat] [Team] [Mythic] SeeMS: done
+20:00 [Info] [Better Chat] [Team] [Mythic] SeeMS: shit
+20:00 [Info] [Better Chat] [Team] [Mythic] SeeMS: splash XD
+20:01 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:01 [Info] [Better Chat] [Team] [Supporter] Kongen: in the corner
+20:01 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye
+20:02 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+20:03 [Info] [Better Chat] [Global] [Hero] chitzo: remove
+20:03 [Info] [Better Chat] [Global] [Supporter] Kongen: remove what?
+20:03 [Info] [Better Chat] [Team] [Mythic] SeeMS: this
+20:03 [Info] [Better Chat] [Global] [Hero] chitzo: i cant go out
+20:04 [Info] [Better Chat] [Global] [Hero] chitzo: tp
+20:04 [Info] [Better Chat] [Global] [Supporter] Kongen: you sure?
+20:04 [Info] [Better Chat] [Team] [Mythic] SeeMS: xddd
+20:04 [Info] [NTeleportation] Kongen teleported chitzo to Kongen.
+20:04 [Info] [Better Chat] [Team] [Mythic] SeeMS: we should go down before
+20:04 [Info] [Better Chat] [Team] [Mythic] SeeMS: cuz we will be stuck na? xd
+20:04 [Info] [Better Chat] [Team] [Supporter] Kongen: myabe ya
+20:05 [Info] [Better Chat] [Team] [Mythic] SeeMS: follow us
+20:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: follow us
+20:05 [Info] [Better Chat] [Global] [Supporter] Kongen: just wait then xD
+20:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: xd
+20:05 [Info] [NTeleportation] Kongen teleported chitzo to Kongen.
+20:06 [Info] [PlayerRankings] Kongen has been ranked up to mythic
+20:07 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuk
+20:08 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuk
+20:10 [Info] [Kill Feed] [10/20/04/03/2021] Kongen                                                        rocket.launcher                                               Kongen
+20:10 [Info] [Kill Feed] [10/20/04/03/2021] Kongen                                                        rocket.launcher                2.3m                           SeeMS
+20:10 [Info] [Better Chat] [Global] [Hero] chitzo: RIP
+20:10 [Info] [Better Chat] [Team] [Mythic] SeeMS: XDDDD
+20:10 [Info] [Better Chat] [Team] [Supporter] Kongen: wtf
+20:10 [Info] [Better Chat] [Team] [Mythic] SeeMS: whats hapen xD
+20:10 [Info] [NTeleportation] Kongen teleported Kongen to chitzo.
+20:11 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+20:11 [Info] [Better Chat] [Team] [Supporter] Kongen: shit
+20:11 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+20:11 [Info] [Better Chat] [Team] [Supporter] Kongen: boost me
+20:11 [Info] [Better Chat] [Team] [Mythic] SeeMS: u  cant
+20:11 [Info] [Better Chat] [Team] [Supporter] Kongen: stand up
+20:12 [Info] [Better Chat] [Team] [Supporter] Kongen: just need to get to bag
+20:12 [Info] [Better Chat] [Team] [Supporter] Kongen: try me
+20:12 [Info] [Better Chat] [Team] [Mythic] SeeMS: look
+20:12 [Info] [Better Chat] [Team] [Supporter] Kongen: come
+20:13 [Info] [Better Chat] [Team] [Supporter] Kongen: let me jump
+20:13 [Info] [Better Chat] [Team] [Supporter] Kongen: done
+20:13 [Info] [Better Chat] [Team] [Mythic] SeeMS: k tp XD
+20:14 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+20:14 [Info] [Better Chat] [Team] [Mythic] SeeMS: ty
+20:16 [Info] [Better Chat] [Team] [Supporter] Kongen: didnt understand why I killed us
+20:16 [Info] [Better Chat] [Team] [Mythic] SeeMS: idk XD
+20:16 [Info] [Better Chat] [Team] [Supporter] Kongen: some of thoses rockets have been acting weird so idk
+20:16 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+20:18 [Info] [Better Chat] [Team] [Supporter] Kongen: fk
+20:18 [Info] [Better Chat] [Team] [Mythic] SeeMS: xddd
+20:18 [Info] [Better Chat] [Global] [Hero] chitzo: guys look discord chat
+20:19 [Info] [Better Chat] [Team] [Supporter] Kongen: just come down here
+20:19 [Info] [Better Chat] [Global] [Supporter] Kongen: I saw it
+20:21 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+20:21 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+20:21 [Info] [Better Chat] [Global] [Supporter] Kongen: lol
+20:21 [Info] [Better Chat] [Team] [Mythic] SeeMS: XDDDD
+20:21 [Info] [Better Chat] [Global] [Hero] chitzo: ?
+20:22 [Info] [Better Chat] [Global] [Supporter] Kongen: wow
+20:22 [Info] [Better Chat] [Global] [Supporter] Kongen: did you see that
+20:22 [Info] [Better Chat] [Global] [Mythic] SeeMS: nop
+20:22 [Info] [Better Chat] [Global] [Supporter] Kongen: you shoot my c4 with rockets so it landed on an other wall O_o
+20:22 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+20:22 [Info] [Better Chat] [Global] [Mythic] SeeMS: xDD
+20:25 [Info] [Better Chat] [Global] [Mythic] SeeMS: from here xD
+20:26 [Info] [Kill Feed] [26/20/04/03/2021] chitzo                                                        explosive.timed                6.9m                           Kongen
+20:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: lol
+20:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: this noob
+20:26 [Info] [NTeleportation] Kongen teleported Kongen to SeeMS.
+20:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: XD
+20:27 [Info] [Kill Feed] [27/20/04/03/2021] SeeMS                                                         rocket.launcher                9.1m                           chitzo
+20:27 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+20:27 [Info] [Better Chat] [Global] [Mythic] SeeMS: ups
+20:27 [Info] [Better Chat] [Global] [Mythic] SeeMS: sorry baby
+20:31 [Info] [Kill Feed] [31/20/04/03/2021] chitzo                         Head                           smg.mp5                        8.2m                           SeeMS
+20:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuk
+20:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: who killed me
+20:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo for sure
+20:32 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+20:32 [Info] [Better Chat] [Global] [Hero] chitzo: no
+20:32 [Info] [Better Chat] [Global] [Hero] chitzo: im here with kongen
+20:32 [Info] [Better Chat] [Global] [Supporter] Kongen: over there
+20:32 [Info] [Better Chat] [Global] [Supporter] Kongen: no
+20:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: where is my body
+20:33 [Info] [Better Chat] [Global] [Supporter] Kongen: down there now
+20:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: wanna die
+20:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: asshol !
+20:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: u dont touch me
+20:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: noob
+20:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: OMG
+20:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: kongen
+20:33 [Info] [Better Chat] [Global] [Mythic] SeeMS: help xd
+20:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: i jump on the water and i die
+20:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: -_-
+20:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: @Kongen
+20:34 [Info] [Kill Feed] [34/20/04/03/2021] chitzo                                                        explosion                      19.1m                          SeeMS
+20:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: THIS TIME
+20:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: i swear
+20:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: i gonna kill u
+20:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: noob
+20:34 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+20:35 [Info] [Better Chat] [Global] [Supporter] Kongen: and tower is gone xD
+20:36 [Info] [Better Chat] [Global] [Hero] chitzo: my pool :(
+20:37 [Info] [Better Chat] [Global] [Hero] chitzo: it was seems
+20:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: I LET you die
+20:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: by time
+20:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: i dont finish you
+20:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: noob
+20:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: i helps u
+20:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: BUT THIS IS
+20:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: THE LAST TIME
+20:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: EVER
+20:39 [Info] [Better Chat] [Global] [Hero] chitzo: the love no have conditions!!!
+20:39 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1121ms
+20:39 [Info] [Better Chat] [Global] [Mythic] SeeMS: yes baby
+20:39 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1935ms
+20:39 [Info] [Better Chat] [Global] [Mythic] SeeMS: D
+20:39 [Info] [Better Chat] [Global] [Mythic] SeeMS: XDDD
+20:39 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2184ms
+20:39 [Info] [Welcomer] • TheRock has joined the server from Turkey.
+20:39 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2617ms
+20:40 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2673ms
+20:40 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2850ms
+20:40 [Info] [Better Chat] [Global] [Mythic] SeeMS: what?
+20:40 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2953ms
+20:40 [Info] [Better Chat] [Global] [Mythic] SeeMS: wipe soon
+20:40 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2717ms
+20:40 [Info] [Better Chat] [Global] [Mythic] SeeMS: and all will be destroyed
+20:40 [Info] [Better Chat] [Global] [Mythic] SeeMS: so itsok  <​33
+20:40 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1799ms
+20:40 [Info] [Better Chat] [Global] [Mythic] SeeMS: kongen
+20:40 [Info] [Better Chat] [Global] [Supporter] Kongen: ?
+20:40 [Info] [Better Chat] [Global] [Mythic] SeeMS: if she kill me again
+20:40 [Info] [Better Chat] [Global] [Mythic] SeeMS: plz kill her
+20:40 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1147ms
+20:41 [Info] [Better Chat] [Global] [Mythic] SeeMS: oh he will
+20:41 [Info] [Better Chat] [Global] [Mythic] SeeMS: cuz he is my bro
+20:41 [Info] [Better Chat] [Global] [Supporter] Kongen: die horse
+20:41 [Info] [Better Chat] [Global] [Supporter] Kongen: one hell horse for sure damn
+20:41 [Info] [Better Chat] [Global] [Supporter] Kongen: wtf
+20:42 [Info] [Better Chat] [Global] [Mythic] SeeMS: ?!
+20:42 [Info] [Better Chat] [Global] [Supporter] Kongen: is that horse bugged or something?
+20:42 [Info] [Better Chat] [Global] [Mythic] SeeMS: XD
+20:42 [Info] [Better Chat] [Global] [Newbie] TheRock: this sw is pvp ?
+20:42 [Info] [Better Chat] [Global] [Mythic] SeeMS: LOL
+20:42 [Info] [Better Chat] [Global] [Supporter] Kongen: both
+20:42 [Info] [Better Chat] [Global] [Supporter] Kongen: there are pvp from 4 to 10 pm and rest of the time is pve
+20:42 [Info] [Better Chat] [Global] [Mythic] SeeMS: wtf
+20:43 [Info] [Welcomer] • TheRock has left the server (Disconnected).
+20:43 [Info] [Better Chat] [Team] [Mythic] SeeMS: or shout dont go to the horse
+20:43 [Info] [Better Chat] [Team] [Mythic] SeeMS: its go left
+20:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: SO
+20:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: YOU DONT UNDERSTAND
+20:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: NOOB
+20:43 [Info] [Kill Feed] [43/20/04/03/2021] SeeMS                          Head                           rifle.lr300                    4.3m                           chitzo
+20:43 [Info] [Better Chat] [Global] [Mythic] SeeMS: GOOD FOR YOU
+20:44 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1203ms
+20:44 [Info] [Better Chat] [Global] [Supporter] Kongen: make no sense
+20:44 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1613ms
+20:44 [Info] [Better Chat] [Global] [Mythic] SeeMS: psycho girl
+20:44 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2246ms
+20:44 [Info] [Better Chat] [Global] [Supporter] Kongen: I shoot rockets at the horse he wont die and then you shoot with your gun
+20:44 [Info] [Better Chat] [Global] [Supporter] Kongen: and baam its dead
+20:44 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2100ms
+20:44 [Info] [Better Chat] [Global] [Mythic] SeeMS: i think rocket goes throug him
+20:44 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2019ms
+20:44 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1909ms
+20:45 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1935ms
+20:45 [Info] [Better Chat] [Global] [Supporter] Kongen: shit
+20:45 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2223ms
+20:45 [Info] [Better Chat] [Global] [Mythic] SeeMS: xdd
+20:45 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2919ms
+20:45 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2748ms
+20:45 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2583ms
+20:45 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2226ms
+20:46 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1877ms
+20:46 [Info] [Better Chat] [Global] [Mythic] SeeMS: i hear u
+20:46 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1549ms
+20:46 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1153ms
+20:47 [Info] [Better Chat] [Global] [Hero] chitzo: noooooo
+20:47 [Info] [Better Chat] [Global] [Hero] chitzo: :(
+20:47 [Info] [Better Chat] [Global] [Mythic] SeeMS: cuz u killed me
+20:48 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+20:48 [Info] [Better Chat] [Global] [Mythic] SeeMS: !!
+20:48 [Info] [Better Chat] [Global] [Mythic] SeeMS: na na na
+20:48 [Info] [Kill Feed] [48/20/04/03/2021] Kongen                                                        rifle.lr300                    0.8m                           Chicken
+20:48 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+20:49 [Info] [Better Chat] [Global] [Hero] chitzo: seems
+20:49 [Info] [Better Chat] [Global] [Hero] chitzo: stop
+20:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: yea
+20:49 [Info] [Better Chat] [Global] [Mythic] SeeMS: gngngngn
+20:51 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1706ms
+20:51 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2542ms
+20:51 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 3012ms
+20:51 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2859ms
+20:51 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2689ms
+20:52 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2462ms
+20:52 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2647ms
+20:52 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2839ms
+20:52 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2631ms
+20:52 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2321ms
+20:52 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2234ms
+20:53 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2034ms
+20:53 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1870ms
+20:53 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1428ms
+20:53 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1448ms
+20:53 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1914ms
+20:53 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1725ms
+20:54 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1757ms
+20:54 [Info] [Better Chat] [Global] [Hero] chitzo: guys
+20:54 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1823ms
+20:54 [Info] [Better Chat] [Global] [Supporter] Kongen: ya?
+20:54 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2437ms
+20:54 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2649ms
+20:54 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 2410ms
+20:54 [Info] [Better Chat] [Global] [Hero] chitzo: kappa cant enter in this server
+20:54 [Info] [Better Chat] [Global] [Supporter] Kongen: why not?
+20:54 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1991ms
+20:55 [Info] [Better Chat] [Global] [Hero] chitzo: you know why?
+20:55 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1607ms
+20:55 [Info] [Better Chat] [Global] [Supporter] Kongen: nope but you can join server 2 ways
+20:55 [Info] [Better Chat] [Global] [Hero] chitzo: he cant find
+20:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: tell him to restart his  steam
+20:55 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1228ms
+20:55 [Info] [Better Chat] [Global] [Supporter] Kongen: wait
+20:55 [Info] [Better Chat] [Global] [Mythic] SeeMS: he will find
+20:55 [Info] [Better Chat] [Global] [Supporter] Kongen: hes on discord
+20:55 [Info] [Better Chat] [Global] [Supporter] Kongen: ?
+20:55 [Info] [Better Chat] [Global] [Hero] chitzo: yes
+20:55 [Info] [Better Chat] [Global] [Supporter] Kongen: okay
+20:56 [Info] [Better Chat] [Global] [Supporter] Kongen: I typed in discord
+20:56 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+20:56 [Info] [Better Chat] [Global] [Mythic] SeeMS: 25 rocket left
+20:58 [Info] [Better Chat] [Global] [Mythic] SeeMS: XDDD
+20:58 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+20:58 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1203ms
+20:58 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+20:58 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1728ms
+20:58 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2066ms
+20:58 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 2016ms
+20:59 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1691ms
+20:59 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1747ms
+20:59 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1734ms
+20:59 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1753ms
+20:59 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1442ms
+20:59 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1646ms
+21:00 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1435ms
+21:00 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1328ms
+21:00 [Info] [TruePVE] [WARNING] Schedule Broadcast: PVE is on now!
+21:00 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1458ms
+21:00 [Info] [Better Chat] [Global] [Supporter] Kongen: eww
+21:00 [Info] [Kill Feed] [00/21/04/03/2021] SeeMS                                                         rocket.launcher                                               SeeMS
+21:00 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1711ms
+21:00 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1649ms
+21:00 [Info] [Better Chat] [Global] [Hero] chitzo: hahaha
+21:00 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+21:00 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1693ms
+21:01 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1699ms
+21:01 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1273ms
+21:01 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1045ms
+21:02 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1176ms
+21:02 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1221ms
+21:02 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1137ms
+21:02 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1043ms
+21:03 [Info] [Better Chat] [Global] [Supporter] Kongen: here
+21:03 [Info] [Better Chat] [Global] [Supporter] Kongen: chitzo
+21:03 [Info] [Better Chat] [Global] [Hero] chitzo: @ seems
+21:03 [Info] [Better Chat] [Global] [Mythic] SeeMS: Y
+21:04 [Info] [Better Chat] [Global] [Supporter] Kongen: how can you detroy when pve time?
+21:04 [Info] [Better Chat] [Global] [Hero] chitzo: stop destroy my house
+21:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: CUZ IM SEEMS
+21:04 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+21:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo
+21:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: your house will be destroyed in few minut
+21:05 [Info] [Better Chat] [Global] [Hero] chitzo: ?
+21:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: by wipe
+21:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: so silence
+21:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: let me do it before
+21:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: admin do
+21:05 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1434ms
+21:05 [Info] [Better Chat] [Global] [Hero] chitzo: dont tell me to shut up!
+21:05 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1737ms
+21:06 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1769ms
+21:06 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1408ms
+21:06 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1073ms
+21:07 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1036ms
+21:07 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1534ms
+21:07 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1559ms
+21:07 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1483ms
+21:08 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1317ms
+21:08 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1140ms
+21:08 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1039ms
+21:10 [Info] [Better Chat] [Global] [Hero] chitzo: guys
+21:10 [Info] [Better Chat] [Global] [Supporter] Kongen: ?
+21:11 [Info] [Better Chat] [Global] [Hero] chitzo: i think if we all leave the server restart
+21:11 [Info] [Better Chat] [Global] [Supporter] Kongen: nope
+21:11 [Info] [Better Chat] [Global] [Hero] chitzo: sure
+21:11 [Info] [Better Chat] [Global] [Supporter] Kongen: but they are loading the new map
+21:11 [Info] [Better Chat] [Global] [Supporter] Kongen: and when thats done they shutdown the server xD
+21:11 [Info] [Better Chat] [Global] [Hero] chitzo: ok
+21:13 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took average 1213ms
+21:14 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1621ms
+21:14 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1864ms
+21:14 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1415ms
+21:14 [Warning] Calling 'OnEntityTakeDamage' on 'TruePVE v2.0.1' took average 1207ms
+21:15 [Info] [HeliControl] Next CH47 spawn: 20 minutes
+21:18 [Info] [Better Chat] [Global] [Supporter] Kongen: zZz
+21:18 [Info] [Better Chat] [Global] [Mythic] SeeMS: back
+21:18 [Info] [Better Chat] [Global] [Supporter] Kongen: wb
+21:18 [Info] [Better Chat] [Global] [Mythic] SeeMS: where u are
+21:18 [Info] [Better Chat] [Global] [Supporter] Kongen: up at heli
+21:18 [Info] [Better Chat] [Global] [Hero] chitzo: zzzz?
+21:18 [Info] [Better Chat] [Global] [Mythic] SeeMS: zzz mean sleeping
+21:19 [Info] [Better Chat] [Global] [Hero] chitzo: yes i know
+21:19 [Info] [Better Chat] [Global] [Supporter] Kongen: I just wanted wipe
+21:19 [Info] [Better Chat] [Global] [Supporter] Kongen: xD but they are slowl
+21:19 [Info] [Better Chat] [Global] [Hero] chitzo: me to
+21:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: i wanted chitzo
+21:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: i should close my mouth na? xd
+21:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: wtf
+21:19 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+21:19 [Info] [Better Chat] [Global] [Mythic] SeeMS: ok we cant destroy door etc
+21:20 [Info] [Better Chat] [Global] [Mythic] SeeMS: but we can destroy big wall of stones etc
+21:20 [Info] [Better Chat] [Global] [Mythic] SeeMS: good to know
+21:21 [Info] [Kill Feed] [21/21/04/03/2021] Kongen                                                        explosive.timed                                               Kongen
+21:21 [Info] [Better Chat] [Global] [Mythic] SeeMS: xd
+21:21 [Info] [NTeleportation] Kongen teleported Kongen to SeeMS.
+21:23 [Info] [Better Chat] [Global] [Mythic] SeeMS: i cant kill u
+21:23 [Info] [Better Chat] [Global] [Mythic] SeeMS: :(
+21:23 [Info] [Better Chat] [Global] [Mythic] SeeMS: XD
+21:25 [Info] [Better Chat] [Global] [Hero] chitzo: your happy now?
+21:25 [Info] [Better Chat] [Global] [Mythic] SeeMS: no
+21:25 [Info] [Better Chat] [Global] [Mythic] SeeMS: i give u c4
+21:25 [Info] [Better Chat] [Global] [Mythic] SeeMS: bb ok?
+21:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: HACKER !
+21:26 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+21:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: fuk i have too much
+21:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: xD
+21:26 [Info] [Better Chat] [Global] [Supporter] Kongen: same
+21:26 [Info] [Better Chat] [Global] [Hero] chitzo: mortal kombat!
+21:26 [Info] [Better Chat] [Global] [Supporter] Kongen: 211 left xD
+21:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: i have more left XD
+21:26 [Info] [Better Chat] [Global] [Supporter] Kongen: damn
+21:27 [Info] [Better Chat] [Global] [Mythic] SeeMS: come kongen
+21:27 [Info] [Better Chat] [Global] [Mythic] SeeMS: shotXD
+21:27 [Info] [Better Chat] [Global] [Supporter] Kongen: no xD
+21:27 [Info] [Better Chat] [Global] [Mythic] SeeMS: OH
+21:27 [Info] [Better Chat] [Global] [Mythic] SeeMS: YE TRUE
+21:27 [Info] [Better Chat] [Global] [Mythic] SeeMS: u die
+21:27 [Info] [Better Chat] [Global] [Mythic] SeeMS: forget that XD
+21:27 [Info] [Better Chat] [Global] [Supporter] Kongen: yup xD
+21:28 [Info] [Better Chat] [Global] [Supporter] Kongen: ops
+21:28 [Info] [Better Chat] [Global] [Mythic] SeeMS: i did it XD
+21:30 [Info] [HeliControl] Next Helicopter spawn: 20 minutes
+21:30 [Info] [Better Chat] [Team] [Supporter] Kongen: but good thing to know you can kill stone walls
+21:30 [Info] [Better Chat] [Team] [Supporter] Kongen: now we dont want them anymore xD
+21:30 [Info] [Better Chat] [Global] [Mythic] SeeMS: xD
+21:30 [Info] [Better Chat] [Team] [Mythic] SeeMS: yes
+21:30 [Info] [Better Chat] [Global] [Mythic] SeeMS: i go eating
+21:30 [Info] [Better Chat] [Global] [Mythic] SeeMS: i dont log of
+21:30 [Info] [Better Chat] [Global] [Mythic] SeeMS: xd
+21:30 [Info] [Better Chat] [Global] [Mythic] SeeMS: brb
+21:30 [Info] [Better Chat] [Global] [Supporter] Kongen: I going off soon xD
+21:30 [Info] [Better Chat] [Global] [Supporter] Kongen: cya
+21:30 [Info] [Better Chat] [Global] [Mythic] SeeMS: cya
+21:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: or ye i log of
+21:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: better xD
+21:31 [Info] [Better Chat] [Team] [Mythic] SeeMS: we give stuff to chitzo?
+21:31 [Info] [Better Chat] [Global] [Hero] chitzo: cio guys
+21:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo
+21:31 [Info] [Better Chat] [Global] [Hero] chitzo: ciao
+21:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: baby
+21:31 [Info] [Better Chat] [Team] [Supporter] Kongen: sure why not
+21:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: we give ya
+21:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: our stuff
+21:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: before leving
+21:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: k?
+21:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: or u leave too?
+21:31 [Info] [Better Chat] [Global] [Mythic] SeeMS: @chitzo
+21:31 [Info] [Better Chat] [Global] [Hero] chitzo: yes
+21:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: o you leave?
+21:32 [Info] [Better Chat] [Global] [Hero] chitzo: yes
+21:32 [Info] [Better Chat] [Global] [Mythic] SeeMS: oh ok shit
+21:32 [Info] [Better Chat] [Global] [Supporter] Kongen: take our stuff chitzo
+21:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: kongen
+21:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: if we put our stuff
+21:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: somewhere
+21:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: like box inside underground
+21:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: free one
+21:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: or idk
+21:32 [Info] [Better Chat] [Team] [Supporter] Kongen: sure
+21:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: after wipe maybe
+21:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: we will found
+21:32 [Info] [Better Chat] [Global] [Hero] chitzo: i will come back later
+21:32 [Info] [Better Chat] [Team] [Supporter] Kongen: let me make a box
+21:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: our stuff
+21:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: not our box
+21:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: box from the map
+21:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: maybe after wipe we will found it
+21:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: u know
+21:33 [Info] [Better Chat] [Global] [Hero] chitzo: dont have space
+21:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: in the drone zone
+21:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: not here
+21:33 [Info] [Better Chat] [Global] [Hero] chitzo: you come back later?
+21:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: not here @Kongen
+21:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: cuz stuff from player wil be destroyed
+21:34 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+21:34 [Info] [Better Chat] [Team] [Mythic] SeeMS: i talk about box from the map
+21:34 [Info] [Better Chat] [Global] [Hero] chitzo: ?
+21:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: yes probably chitzo
+21:34 [Info] [Better Chat] [Global] [Supporter] Kongen: not sure I come back
+21:34 [Info] [Better Chat] [Global] [Hero] chitzo: buuuuuuu
+21:34 [Info] [Better Chat] [Team] [Mythic] SeeMS: u have fuel ?
+21:34 [Info] [Better Chat] [Global] [Supporter] Kongen: so sad they didnt make it earlyer that wipe
+21:34 [Info] [Better Chat] [Team] [Supporter] Kongen: sure
+21:34 [Info] [Better Chat] [Team] [Mythic] SeeMS: come
+21:34 [Info] [Better Chat] [Global] [Hero] chitzo: :(
+21:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: probably we will back
+21:34 [Info] [Better Chat] [Global] [Supporter] Kongen: I know chitzo
+21:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: but not sure baby
+21:34 [Info] [Better Chat] [Global] [Supporter] Kongen: I really hoped wipe was sooner
+21:34 [Info] [Better Chat] [Global] [Mythic] SeeMS: if i m not back
+21:35 [Info] [Better Chat] [Global] [Mythic] SeeMS: that mean im watching your series
+21:35 [Info] [Better Chat] [Global] [Supporter] Kongen: but tomorrow its all about making base ;)
+21:35 [Info] [Better Chat] [Global] [Mythic] SeeMS: @chitzo
+21:35 [Info] [Better Chat] [Global] [Hero] chitzo: oki
+21:35 [Info] [Better Chat] [Global] [Supporter] Kongen: so I need alot of mats xD
+21:35 [Info] [Better Chat] [Global] [Hero] chitzo: hahaha
+21:35 [Info] [Better Chat] [Global] [Supporter] Kongen: too build us a awsome home ;)
+21:36 [Info] [Better Chat] [Team] [Mythic] SeeMS: where is the drone place
+21:36 [Info] [Better Chat] [Global] [Hero] chitzo: yasssss
+21:36 [Info] [Better Chat] [Team] [Supporter] Kongen: right there
+21:37 [Info] [Better Chat] [Global] [Supporter] Kongen: oh
+21:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: will probably workd
+21:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: work * idk XD
+21:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: lets try XD
+21:37 [Info] [Better Chat] [Team] [Supporter] Kongen: not sure
+21:37 [Info] [Better Chat] [Team] [Supporter] Kongen: what if they despawn?
+21:37 [Info] [Better Chat] [Team] [Supporter] Kongen: why not just give chitzo it
+21:37 [Info] [Better Chat] [Team] [Supporter] Kongen: better that way
+21:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: she going to leave
+21:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: and back later i think
+21:37 [Info] [Better Chat] [Team] [Supporter] Kongen: better she gets it then other random dude
+21:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: i will back
+21:37 [Info] [Better Chat] [Team] [Supporter] Kongen: you can also get the stuff
+21:38 [Info] [Better Chat] [Team] [Mythic] SeeMS: after wipe
+21:38 [Info] [Better Chat] [Global] [Hero] chitzo: @SeeMS
+21:38 [Info] [Better Chat] [Team] [Mythic] SeeMS: to tok it from here
+21:38 [Info] [Better Chat] [Team] [Supporter] Kongen: oh after
+21:38 [Info] [Better Chat] [Team] [Mythic] SeeMS: yea
+21:38 [Info] [Better Chat] [Team] [Mythic] SeeMS: except if they do it in the morning xd
+21:38 [Info] [Better Chat] [Team] [Supporter] Kongen: lets just give chitzo it
+21:38 [Info] [Better Chat] [Global] [Hero] chitzo: you like the serie?
+21:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: yea look nice
+21:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: im only in the first epi
+21:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: i mean like 3/4 one
+21:38 [Info] [Better Chat] [Global] [Hero] chitzo: really?
+21:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: or 4
+21:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: or 5 *
+21:38 [Info] [Better Chat] [Team] [Supporter] Kongen: we can also give her our loot from main base? xD
+21:38 [Info] [Better Chat] [Global] [Mythic] SeeMS: so its the start
+21:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: maybe ye
+21:39 [Info] [Better Chat] [Team] [Supporter] Kongen: all the stuff in tc?
+21:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: xDD
+21:39 [Info] [Better Chat] [Team] [Supporter] Kongen: then she will be speakless xD
+21:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: but she go to off
+21:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: logoff
+21:39 [Info] [Better Chat] [Global] [Hero] chitzo: buuuuuuuuuuuu
+21:39 [Info] [Better Chat] [Global] [Mythic] SeeMS: when u log off
+21:39 [Info] [Better Chat] [Global] [Mythic] SeeMS: chitzo ?
+21:39 [Info] [Better Chat] [Global] [Mythic] SeeMS: now like us ?
+21:39 [Info] [Better Chat] [Global] [Mythic] SeeMS: and u come back later?
+21:39 [Info] [Better Chat] [Global] [Mythic] SeeMS: or ?
+21:40 [Info] [Better Chat] [Global] [Mythic] SeeMS: @chitzo
+21:40 [Info] [Better Chat] [Global] [Hero] chitzo: i will bck later
+21:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: see
+21:40 [Info] [Better Chat] [Team] [Supporter] Kongen: lets give her
+21:40 [Info] [Better Chat] [Global] [Hero] chitzo: and you?
+21:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: i try to put c4 here xd
+21:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: Cuz anyway she cant use it
+21:40 [Info] [Better Chat] [Team] [Supporter] Kongen: I took lets just give it away
+21:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: but ye give her the TC stuff
+21:40 [Info] [Better Chat] [Team] [Supporter] Kongen: oh ya
+21:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: i go to eat right now XD
+21:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: the c4
+21:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: u tok it
+21:40 [Info] [Better Chat] [Team] [Supporter] Kongen: okay I will give her
+21:40 [Info] [Better Chat] [Team] [Supporter] Kongen: yes I took it
+21:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: noo
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: XDDD
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: we let it her
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: she can do nothing
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: with it
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: pve
+21:41 [Info] [Better Chat] [Team] [Supporter] Kongen: true
+21:41 [Info] [Better Chat] [Global] [Hero] chitzo: @seems?
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: u can let some for her
+21:41 [Info] [Better Chat] [Team] [Supporter] Kongen: but we cant use it anyways xD
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: if u want
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: i put it her so
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: perhaps
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: it stay her
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: afther wipe xd
+21:41 [Info] [Better Chat] [Team] [Supporter] Kongen: it wont
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: hm
+21:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: let put little number
+21:41 [Info] [Better Chat] [Team] [Supporter] Kongen: its all the map there gonna be wiped
+21:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: 50 of it
+21:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: to see
+21:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+21:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: so we will see
+21:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: if it work or na
+21:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: yes i know
+21:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: but who know
+21:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+21:42 [Info] [Better Chat] [Global] [Mythic] SeeMS: admin
+21:42 [Info] [Better Chat] [Global] [Mythic] SeeMS: Admin
+21:43 [Info] [Better Chat] [Team] [Supporter] Kongen: I will tp home
+21:43 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye faster
+21:43 [Info] [Better Chat] [Team] [Supporter] Kongen: yup
+21:45 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+21:45 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+21:51 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+22:01 [Info] [Welcomer] • SeeMS has left the server (Kicked: Steam: InvalidAuthSession).
+22:03 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+22:13 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+22:36 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+22:39 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+22:45 [Info] [Kill Feed] [45/22/04/03/2021] sentry.scientist.static                                       bullet                         90.3m                          Dr. A. Barton
+23:07 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+23:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+23:35 [Info] [Welcomer] • ARWEN has joined the server from Turkey.
+23:36 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+23:39 [Info] [Welcomer] • ARWEN has left the server (Disconnected).
+23:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+23:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+23:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+23:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+23:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+23:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 9 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 8 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 7 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 6 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 1 seconds!

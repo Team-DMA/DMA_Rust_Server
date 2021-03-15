@@ -1,0 +1,50 @@
+{
+  "Items": [
+    {
+      "ID": -932201673,
+      "Amount": 1889
+    },
+    {
+      "ID": -4031221,
+      "Position": 3,
+      "Amount": 100
+    },
+    {
+      "ID": -858312878,
+      "Position": 5,
+      "Amount": 283
+    },
+    {
+      "ID": -946369541,
+      "Position": 7,
+      "Amount": 25,
+      "Fuel": 150.0
+    },
+    {
+      "ID": 479143914,
+      "Position": 8,
+      "Amount": 9
+    },
+    {
+      "ID": 317398316,
+      "Position": 9,
+      "Amount": 83
+    },
+    {
+      "ID": 1381010055,
+      "Position": 10,
+      "Amount": 20
+    },
+    {
+      "ID": -1878475007,
+      "Position": 11,
+      "Amount": 5
+    },
+    {
+      "ID": 95950017,
+      "Position": 2,
+      "Amount": 5
+    }
+  ],
+  "OwnerID": 76561199052709118
+}

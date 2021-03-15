@@ -3,20 +3,22 @@
   "Default RuleSet": "default",
   "Configuration Options": {
     "handleDamage": true,
-    "useZones": false
+    "useZones": true
   },
   "Mappings": {
     "default": "default",
-	"raid": "raid"
+    "raid": "raid",
+    "zones": "zones",
+    "1715212014": "zones"
   },
   "Schedule": {
     "enabled": true,
     "useRealtime": true,
     "broadcast": true,
     "entries": [
-		"*.15:00 raid PVP is on now!",
-		"*.21:00 default PVE is on now!"
-	]
+      "*.15:00 raid PVP is on now!",
+      "*.21:00 default PVE is on now!"
+    ]
   },
   "RuleSets": [
     {
@@ -27,7 +29,7 @@
       "rules": [
         "anything can hurt dispensers",
         "heli can hurt anything",
-		"players cannot hurt players",
+        "players cannot hurt players",
         "players cannot hurt traps",
         "players cannot hurt teslacoil",
         "players cannot hurt doors",
@@ -38,16 +40,17 @@
         "players cannot hurt balloons",
         "players cannot hurt minicopter",
         "players cannot hurt samsite",
+        "players cannot hurt highwalls",
         "players can hurt npcs",
         "players can hurt npcscientist",
         "players can hurt heli",
         "players can hurt horse",
         "players can hurt npcmurderer",
         "explosives cannot hurt players",
-		"explosives cannot hurt buildings",
-		"explosives cannot hurt deployables",
-		"explosives cannot hurt storages",
-		"traps cannot hurt players",
+        "explosives cannot hurt buildings",
+        "explosives cannot hurt deployables",
+        "explosives cannot hurt storages",
+        "traps cannot hurt players",
         "traps can hurt npcs",
         "teslacoil can hurt anything",
         "teslacoil cannot hurt players",
@@ -90,7 +93,7 @@
         "anything can hurt dispensers",
         "anything can hurt players",
         "heli can hurt anything",
-		"players can hurt players",
+        "players can hurt players",
         "players can hurt traps",
         "players can hurt teslacoil",
         "players can hurt doors",
@@ -106,11 +109,11 @@
         "players can hurt samsite",
         "players can hurt heli",
         "players can hurt horse",
-		"explosives can hurt players",
-		"explosives can hurt buildings",
-		"explosives can hurt deployables",
-		"explosives can hurt storages",
-		"traps can hurt players",
+        "explosives can hurt players",
+        "explosives can hurt buildings",
+        "explosives can hurt deployables",
+        "explosives can hurt storages",
+        "traps can hurt players",
         "traps can hurt npcs",
         "teslacoil can hurt anything",
         "teslacoil can hurt players",
@@ -139,9 +142,68 @@
         "samsite can hurt heli",
         "samsite can hurt players",
         "samsite can hurt balloons"
-
       ]
-    }	
+    },
+    {
+      "name": "zones",
+      "enabled": true,
+      "defaultAllowDamage": true,
+      "flags": "AuthorizedDamage, HeliDamageLocked, HumanNPCDamage, SelfDamage",
+      "rules": [
+        "anything can hurt dispensers",
+        "anything can hurt players",
+        "heli can hurt anything",
+        "players can hurt players",
+        "players can hurt traps",
+        "players can hurt teslacoil",
+        "players can hurt doors",
+        "players can hurt buildings",
+        "players can hurt deployables",
+        "players can hurt storages",
+        "players can hurt barricades",
+        "players can hurt npcs",
+        "players can hurt npcscientist",
+        "players can hurt npcmurderer",
+        "players can hurt balloons",
+        "players can hurt minicopter",
+        "players can hurt samsite",
+        "players can hurt heli",
+        "players can hurt horse",
+        "explosives can hurt players",
+        "explosives can hurt buildings",
+        "explosives can hurt deployables",
+        "explosives can hurt storages",
+        "traps can hurt players",
+        "traps can hurt npcs",
+        "teslacoil can hurt anything",
+        "teslacoil can hurt players",
+        "barricades can hurt players",
+        "highwalls can hurt players",
+        "npcs can hurt players",
+        "npcs can hurt npcs",
+        "npcs can hurt npcmurderer",
+        "npcs can hurt npcscientist",
+        "npcscientist can hurt npcs",
+        "npcscientist can hurt players",
+        "npcscientist can hurt npcmurderer",
+        "npcmurderer can hurt npcs",
+        "npcmurderer can hurt players",
+        "npcmurderer can hurt npcscientist",
+        "fire can hurt players",
+        "fire can hurt traps",
+        "fire can hurt teslacoil",
+        "fire can hurt doors",
+        "fire can hurt buildings",
+        "fire can hurt deployables",
+        "fire can hurt storages",
+        "anything can hurt resources",
+        "anything can hurt samsite",
+        "samsite can hurt minicopter",
+        "samsite can hurt heli",
+        "samsite can hurt players",
+        "samsite can hurt balloons"
+      ]
+    }
   ],
   "Allow Killing Sleepers": false,
   "Entity Groups": [
@@ -197,7 +259,7 @@
     },
     {
       "name": "highwalls",
-      "members": "wall.external.high.stone, wall.external.high.wood, gates.external.high.wood, gates.external.high.wood",
+      "members": "wall.external.high.stone, wall.external.high.wood, gates.external.high.wood, gates.external.high.stone",
       "exclusions": ""
     },
     {
@@ -212,7 +274,7 @@
     },
     {
       "name": "buildings",
-      "members": "wall, wall.frame, wall.half, wall.low, wall.doorway, wall.frame.shopfront, wall.frame.shopfront.metal, wall.window, foundation, foundation, foundation.steps, foundation.triangle, floor.frame, floor.grill, floor, floor.triangle, wall.frame.garagedoor, wall.frame.fence, wall.frame.cell, wall.window.bars, shutter.metal.embrasure, shutter.wood.a, wall.window.glass.reinforced, wall.window.bars.toptier, wall.window.bars, wall.window.bars.metal, wall.window.bars.wood",
+      "members": "SimpleBuildingBlock, BuildingBlock, wall, wall.frame, wall.half, wall.low, wall.doorway, wall.frame.shopfront, wall.frame.shopfront.metal, wall.window, foundation, foundation, foundation.steps, foundation.triangle, floor.frame, floor.grill, floor, floor.triangle, wall.frame.garagedoor, wall.frame.fence, wall.frame.cell, wall.window.bars, shutter.metal.embrasure, shutter.wood.a, wall.window.glass.reinforced, wall.window.bars.toptier, wall.window.bars, wall.window.bars.metal, wall.window.bars.wood",
       "exclusions": ""
     },
     {
@@ -245,11 +307,11 @@
       "members": "box.wooden.large, woodbox_deployed, fridge.deployed, locker.deployed, cupboard.tool.deployed",
       "exclusions": ""
     },
-	{
-	  "name": "roadsigns",
-	  "members": "roadsign, roadsign1, roadsign2, roadsign3, roadsign4, roadsign5, roadsign6",
-	  "exclusions": ""
-	},
+    {
+      "name": "roadsigns",
+      "members": "roadsign, roadsign1, roadsign2, roadsign3, roadsign4, roadsign5, roadsign6",
+      "exclusions": ""
+    },
     {
       "name": "resources",
       "members": "ResourceEntity, TreeEntity, OreResourceEntity",

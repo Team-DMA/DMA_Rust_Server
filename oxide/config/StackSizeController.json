@@ -1,23 +1,57 @@
 {
-  "Settings": {
-    "DefaultStack": 0,
-    "NewCategoryDefaultSetting": 0,
-    "StackHealthItems": true,
-    "CategoryDefaultStack": {
-      "Ammunition": 0,
-      "Weapon": 0,
-      "Attire": 0,
-      "Misc": 0,
-      "Items": 0,
-      "Construction": 0,
-      "Component": 0,
-      "Traps": 0,
-      "Electrical": 0,
-      "Fun": 0,
-      "Food": 0,
-      "Resources": 0,
-      "Tool": 0,
-      "Medical": 0
-    }
+  "RevertStackSizesToVanillaOnUnload": true,
+  "AllowStackingItemsWithDurability": true,
+  "HidePrefixWithPluginNameInMessages": false,
+  "DisableDupeFixAndLeaveWeaponMagsAlone": false,
+  "GlobalStackMultiplier": 1.0,
+  "CategoryStackMultipliers": {
+    "Weapon": 1.0,
+    "Construction": 999999.0,
+    "Items": 999999.0,
+    "Resources": 999999.0,
+    "Attire": 999999.0,
+    "Tool": 999999.0,
+    "Medical": 999999.0,
+    "Food": 999999.0,
+    "Ammunition": 999999.0,
+    "Traps": 999999.0,
+    "Misc": 999999.0,
+    "All": 999999.0,
+    "Common": 999999.0,
+    "Component": 999999.0,
+    "Search": 999999.0,
+    "Favourite": 999999.0,
+    "Electrical": 999999.0,
+    "Fun": 999999.0
+  },
+  "IndividualItemStackMultipliers": {},
+  "CategoryStackHardLimits": {
+    "Weapon": 0,
+    "Construction": 0,
+    "Items": 0,
+    "Resources": 0,
+    "Attire": 0,
+    "Tool": 0,
+    "Medical": 0,
+    "Food": 0,
+    "Ammunition": 0,
+    "Traps": 0,
+    "Misc": 0,
+    "All": 0,
+    "Common": 0,
+    "Component": 0,
+    "Search": 0,
+    "Favourite": 0,
+    "Electrical": 0,
+    "Fun": 0
+  },
+  "IndividualItemStackHardLimits": {
+    "car.key": 1,
+    "photo": 1
+  },
+  "VersionNumber": {
+    "Major": 3,
+    "Minor": 2,
+    "Patch": 0
   }
 }

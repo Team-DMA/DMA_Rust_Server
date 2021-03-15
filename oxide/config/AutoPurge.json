@@ -2,7 +2,7 @@
   "Purge Settings": [
     {
       "Permission": "",
-      "Lifetime": "5d"
+      "Lifetime": "14d"
     }
   ],
   "Purge Timer Frequency": -1.0,

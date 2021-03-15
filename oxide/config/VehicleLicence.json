@@ -8,7 +8,7 @@
     "Check if any player mounted when killing a vehicle": true,
     "Dismount all players when a vehicle is recalled": true,
     "Automatically claim vehicles purchased from vehicle vendors": false,
-    "Prevent vehicles from spawning or recalling in safe zone": true,
+    "Prevent vehicles from spawning or recalling in safe zone": false,
     "Prevent vehicles from damaging players": true,
     "Prevent other players from mounting vehicle": true,
     "Prevent mounting on driver's seat only": true,
@@ -30,7 +30,7 @@
     "Spawn Chat Command": "spawn",
     "Recall Chat Command": "recall",
     "Kill Chat Command": "kill",
-    "Chat Prefix": "<color=#00FFFF>[Vehicles]</color>: ",
+    "Chat Prefix": "<color=#00FFFF>[Vehicles]</color>:",
     "Chat SteamID Icon": 0
   },
   "Normal Vehicle Settings": {
@@ -114,7 +114,7 @@
       "Remove License Once Crashed": false,
       "Purchase Prices": {
         "ServerRewards": {
-          "amount": 600,
+          "amount": 300,
           "displayName": "RP"
         }
       },
@@ -329,7 +329,7 @@
     "SmallCar": {
       "Purchasable": false,
       "Display Name": "Small Modular Car",
-      "Use Permission": true,
+      "Use Permission": false,
       "Permission": "vehiclelicence.smallmodularcar",
       "Distance To Spawn": 5.0,
       "Time Before Vehicle Wipe (Seconds)": 0.0,
@@ -339,44 +339,39 @@
       "Minimum distance from player to recall or spawn": 3.0,
       "Remove License Once Crashed": false,
       "Purchase Prices": {
-        "scrap": {
+        "ServerRewards": {
           "amount": 1600,
           "displayName": "Scrap"
         }
       },
-      "Spawn Prices": {
-        "metal.refined": {
-          "amount": 10,
-          "displayName": "High Quality Metal"
-        }
-      },
+      "Spawn Prices": {},
       "Recall Prices": {
-        "scrap": {
-          "amount": 5,
-          "displayName": "Scrap"
+        "ServerRewards": {
+          "amount": 15,
+          "displayName": "RP"
         }
       },
       "Commands": [
         "small",
         "smallcar"
       ],
-      "Spawn Cooldown (Seconds)": 7200.0,
+      "Spawn Cooldown (Seconds)": 3600.0,
       "Recall Cooldown (Seconds)": 30.0,
       "Cooldown Permissions": {
         "vehiclelicence.vip": {
-          "spawnCooldown": 30.0,
-          "recallCooldown": 10.0
+          "spawnCooldown": 0.0,
+          "recallCooldown": 0.0
         }
       },
-      "Amount Of Fuel To Spawn": 0,
+      "Amount Of Fuel To Spawn": 70,
       "Refund Fuel On Kill": true,
       "Refund Fuel On Crash": true,
       "Refund Inventory On Kill": true,
       "Refund Inventory On Crash": true,
-      "Refund Engine Items On Kill": true,
-      "Refund Engine Items On Crash": true,
-      "Refund Module Items On Kill": true,
-      "Refund Module Items On Crash": true,
+      "Refund Engine Items On Kill": false,
+      "Refund Engine Items On Crash": false,
+      "Refund Module Items On Kill": false,
+      "Refund Module Items On Crash": false,
       "Drop Inventory Items When Vehicle Recall": false,
       "Chassis Type (Small, Medium, Large)": "Small",
       "Vehicle Module Items": [
@@ -415,7 +410,7 @@
     "MediumCar": {
       "Purchasable": false,
       "Display Name": "Medium Modular Car",
-      "Use Permission": true,
+      "Use Permission": false,
       "Permission": "vehiclelicence.mediumodularcar",
       "Distance To Spawn": 5.0,
       "Time Before Vehicle Wipe (Seconds)": 0.0,
@@ -425,44 +420,39 @@
       "Minimum distance from player to recall or spawn": 3.0,
       "Remove License Once Crashed": false,
       "Purchase Prices": {
-        "scrap": {
+        "ServerRewards": {
           "amount": 2400,
           "displayName": "Scrap"
         }
       },
-      "Spawn Prices": {
-        "metal.refined": {
-          "amount": 50,
-          "displayName": "High Quality Metal"
-        }
-      },
+      "Spawn Prices": {},
       "Recall Prices": {
-        "scrap": {
-          "amount": 8,
-          "displayName": "Scrap"
+        "ServerRewards": {
+          "amount": 15,
+          "displayName": "RP"
         }
       },
       "Commands": [
         "medium",
         "mediumcar"
       ],
-      "Spawn Cooldown (Seconds)": 9000.0,
+      "Spawn Cooldown (Seconds)": 3600.0,
       "Recall Cooldown (Seconds)": 30.0,
       "Cooldown Permissions": {
         "vehiclelicence.vip": {
-          "spawnCooldown": 30.0,
-          "recallCooldown": 10.0
+          "spawnCooldown": 0.0,
+          "recallCooldown": 0.0
         }
       },
-      "Amount Of Fuel To Spawn": 0,
+      "Amount Of Fuel To Spawn": 70,
       "Refund Fuel On Kill": true,
       "Refund Fuel On Crash": true,
       "Refund Inventory On Kill": true,
       "Refund Inventory On Crash": true,
-      "Refund Engine Items On Kill": true,
-      "Refund Engine Items On Crash": true,
-      "Refund Module Items On Kill": true,
-      "Refund Module Items On Crash": true,
+      "Refund Engine Items On Kill": false,
+      "Refund Engine Items On Crash": false,
+      "Refund Module Items On Kill": false,
+      "Refund Module Items On Crash": false,
       "Drop Inventory Items When Vehicle Recall": false,
       "Chassis Type (Small, Medium, Large)": "Medium",
       "Vehicle Module Items": [
@@ -505,7 +495,7 @@
     "LargeCar": {
       "Purchasable": false,
       "Display Name": "Large Modular Car",
-      "Use Permission": true,
+      "Use Permission": false,
       "Permission": "vehiclelicence.largemodularcar",
       "Distance To Spawn": 6.0,
       "Time Before Vehicle Wipe (Seconds)": 0.0,
@@ -515,44 +505,39 @@
       "Minimum distance from player to recall or spawn": 3.0,
       "Remove License Once Crashed": false,
       "Purchase Prices": {
-        "scrap": {
+        "ServerRewards": {
           "amount": 3000,
           "displayName": "Scrap"
         }
       },
-      "Spawn Prices": {
-        "metal.refined": {
-          "amount": 100,
-          "displayName": "High Quality Metal"
-        }
-      },
+      "Spawn Prices": {},
       "Recall Prices": {
-        "scrap": {
-          "amount": 10,
-          "displayName": "Scrap"
+        "ServerRewards": {
+          "amount": 15,
+          "displayName": "RP"
         }
       },
       "Commands": [
         "large",
         "largecar"
       ],
-      "Spawn Cooldown (Seconds)": 10800.0,
+      "Spawn Cooldown (Seconds)": 3600.0,
       "Recall Cooldown (Seconds)": 30.0,
       "Cooldown Permissions": {
         "vehiclelicence.vip": {
-          "spawnCooldown": 30.0,
-          "recallCooldown": 10.0
+          "spawnCooldown": 0.0,
+          "recallCooldown": 0.0
         }
       },
-      "Amount Of Fuel To Spawn": 0,
+      "Amount Of Fuel To Spawn": 70,
       "Refund Fuel On Kill": true,
       "Refund Fuel On Crash": true,
       "Refund Inventory On Kill": true,
       "Refund Inventory On Crash": true,
-      "Refund Engine Items On Kill": true,
-      "Refund Engine Items On Crash": true,
-      "Refund Module Items On Kill": true,
-      "Refund Module Items On Crash": true,
+      "Refund Engine Items On Kill": false,
+      "Refund Engine Items On Crash": false,
+      "Refund Module Items On Kill": false,
+      "Refund Module Items On Crash": false,
       "Drop Inventory Items When Vehicle Recall": false,
       "Chassis Type (Small, Medium, Large)": "Large",
       "Vehicle Module Items": [

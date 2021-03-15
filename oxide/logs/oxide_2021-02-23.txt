@@ -1,0 +1,1497 @@
+00:00 [Info] Uninstalling Rust:IO ...
+00:00 [Info] Rust:IO> Uninstalling ...
+00:00 [Info] Rust:IO> No longer ticking
+00:00 [Info] Rust:IO> Stopping server ...
+00:00 [Info] Rust:IO> Removing listeners ...
+00:00 [Info] Rust:IO> Performing maintenance ...
+00:00 [Info] Rust:IO> Closing database ...
+00:00 [Info] Rust:IO> Uninstalled.
+00:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Warning] Calling 'Unload' on 'AdminHammer v1.12.0' took 328ms
+00:00 [Info] Unloaded plugin AdminHammer v1.12.0 by mvrb
+00:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:00 [Info] Unloaded plugin Auto Engine Parts v1.0.0 by WhiteThunder
+00:00 [Info] Unloaded plugin Auto Purge v2.1.1 by misticos
+00:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Warning] Calling 'Unload' on 'BGrade v1.1.3' took 346ms
+00:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Unloaded plugin Backpacks v3.4.0 by LaserHydra
+00:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Unloaded plugin Better Chat Mute v1.2.1 by LaserHydra
+00:00 [Warning] Calling 'Unload' on 'BetterLoot v3.5.3' took 332ms
+00:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Unloaded plugin Better Say v3.0.1 by LaserHydra
+00:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Unloaded plugin Clothed Murderers v1.0.1 by Substrata
+00:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Unloaded plugin DronePilot v1.0.0 by k1lly0u
+00:00 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+00:00 [Info] Unloaded plugin Extended Recycler v1.1.0 by Orange
+00:00 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 325ms
+00:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+00:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Warning] Calling 'Unload' on 'InventoryViewer v3.0.3' took 323ms
+00:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Unloaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+00:00 [Info] Unloaded plugin NPCNav v1.0.0 by Whispers88
+00:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 655ms
+00:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Info] Unloaded plugin Notice v1.0.1 by LaserHydra
+00:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Unloaded plugin PrivateMessages v1.1.11 by MisterPixie
+00:00 [Info] Unloaded plugin Private Messages GUI v1.0.2 by Tricky
+00:00 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 347ms
+00:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+00:00 [Info] Unloaded plugin Scientist Names v1.1.3 by Ultra
+00:00 [Info] Unloaded plugin Scrap Heli Storage v0.0.5 by yetzt
+00:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+00:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+00:00 [Info] Unloaded plugin Slap v2.0.0 by Wulf
+00:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] Unloaded plugin TruePVE v2.0.1 by nivex
+00:00 [Info] Unloaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+00:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Unloaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+00:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+00:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+00:00 [Info] Loading Oxide Core v2.0.3991...
+00:00 [Info] Loading extensions...
+00:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+00:00 [Info] Loaded extension RustEdit v1.0.32 by k1lly0u
+00:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Rust v2.0.4919 by Oxide Team and Contributors
+00:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+00:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+00:00 [Info] Using Covalence provider for game 'Rust'
+00:00 [Info] Loading plugins...
+00:00 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+00:00 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+00:00 [Info] Loaded plugin Rust v2.0.4919 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+00:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+00:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+00:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+00:00 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+00:00 [Info] AdminChat, AdminHammer, AliasSystem, AutoBroadcast, AutoEngineParts, AutoPurge, AutomaticAuthorization, BGrade, Backpacks, BetterChat, BetterChatMentions, BetterChatMute, BetterLoot, BetterSay, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, ClothedMurderers, CraftingController, DronePilot, EasyAirdrop, ExtendedRecycler, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NPCDropGun, NPCNav, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, SAMSiteAuth, ScientistNames, ScrapHeliStorage, ServerInfo, ServerRewards, SignArtist, Skins, SkipNightVote, Slap, SmoothRestart, SpawnMini, StackSizeController, TruePVE, UpkeepDisplayFix, Vanish, VehicleDecayProtection, VehicleLicence, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+00:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+00:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+00:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+00:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+00:00 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+00:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+00:00 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+00:00 [Info] Loaded plugin Auto Engine Parts v1.0.0 by WhiteThunder
+00:00 [Info] Loaded plugin Auto Purge v2.1.1 by misticos
+00:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+00:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+00:00 [Info] Loaded plugin Backpacks v3.4.0 by LaserHydra
+00:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+00:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+00:00 [Info] Loaded plugin Better Chat Mute v1.2.1 by LaserHydra
+00:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+00:00 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+00:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+00:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+00:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+00:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+00:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+00:00 [Info] Loaded plugin Clothed Murderers v1.0.1 by Substrata
+00:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+00:00 [Info] Loaded plugin DronePilot v1.0.0 by k1lly0u
+00:00 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+00:00 [Info] Loaded plugin Extended Recycler v1.1.0 by Orange
+00:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+00:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+00:00 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+00:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+00:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+00:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+00:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+00:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+00:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+00:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+00:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+00:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+00:00 [Info] Loaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+00:00 [Info] Loaded plugin NPCNav v1.0.0 by Whispers88
+00:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+00:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+00:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+00:00 [Warning] Missing plugin name prefix 'notice.' for permission 'cannotice' (by plugin 'Notice')
+00:00 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+00:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+00:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+00:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+00:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+00:00 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+00:00 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+00:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+00:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+00:00 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+00:00 [Info] Loaded plugin Scientist Names v1.1.3 by Ultra
+00:00 [Info] Loaded plugin Scrap Heli Storage v0.0.5 by yetzt
+00:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+00:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+00:00 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+00:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+00:00 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+00:00 [Info] Loaded plugin Slap v2.0.0 by Wulf
+00:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+00:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+00:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+00:00 [Info] Loaded plugin TruePVE v2.0.1 by nivex
+00:00 [Info] Loaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+00:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+00:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+00:00 [Info] Loaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+00:00 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+00:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+00:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+00:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+00:00 [Info] [RustEdit] - IO data loaded and ready to be processed!
+00:00 [Warning] [RustEdit] - No vending data found in map file
+00:00 [Warning] [RustEdit] - No loot data found in map file
+00:00 [Warning] [RustEdit] - No APC path data found in map file
+00:00 [Warning] [RustEdit] - No vehicle data found in map file
+00:00 [Info] [RustEdit] - NPC data loaded and ready to be processed!
+00:01 [Warning] [RustEdit] - No ocean patrol path data found in map file
+00:06 [Info] IP address from external API: 45.138.48.233
+00:06 [Info] [RustEdit] - Checking for updates...
+00:06 [Info] Updating Rust:IO ...
+00:06 [Info] [Auto Purge] The purge has been started.
+00:06 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+00:06 [Info] [BetterLoot] Updating internals ...
+00:06 [Info] Rust:IO: Update complete
+00:06 [Warning] Calling 'OnServerInitialized' on 'ExtendedRecycler v1.1.0' took 289ms
+00:06 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 288ms
+00:06 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+00:06 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+00:06 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 1149ms
+00:06 [Info] [Kill Feed] Loading configuration file!
+00:06 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 379ms
+00:06 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 290ms
+00:06 [Warning] Calling 'OnServerInitialized' on 'ScrapHeliStorage v0.0.5' took 288ms
+00:06 [Warning] [Server Rewards] All UI elements have been successfully generated!
+00:06 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 277ms
+00:06 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+00:06 [Info] [TruePVE] [WARNING] Schedule Broadcast: PVE is on now!
+00:06 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+00:06 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 334ms
+00:06 [Info] [RustEdit] - The RustEdit extension is up to date!
+00:06 [Info] [BetterLoot] No stacked LootContainer found.
+00:06 [Info] [BetterLoot] Populated '800' supported containers.
+00:06 [Info] [SmoothRestart] Your servers Oxide build is up to date
+00:06 [Info] Installing Rust:IO ...
+00:06 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+00:06 [Info] Rust:IO> Creating directories ...
+00:06 [Info] Rust:IO> Applying config ...
+00:06 [Info] Rust:IO> Initializing database ...
+00:06 [Info] Rust:IO> Generating map image (this may take a while) ...
+00:06 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7320.788ms
+Postprocess  :  3032.397ms
+  Shadows    :   199.945ms
+  FXAA       :  2818.631ms
+Encoding     :    29.254ms
+Other        :    16.248ms
+--------------------------
+Total        :  10398.687ms
+00:06 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+00:06 [Info] Rust:IO> Installed.
+00:06 [Info] Rust:IO> Now ticking
+00:06 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 10881ms
+00:06 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 1ms
+00:06 [Info] [RustEdit] - Processing 230 IO entities
+00:06 [Info] [RustEdit] - Successfully connected 230 IO links
+00:06 [Info] [RustEdit] - No custom vending machines found in map
+00:06 [Info] [RustEdit] - 626 loot containers processed!
+00:06 [Info] [RustEdit] - Created 8 keycard desk respawners
+00:06 [Info] [RustEdit] - 1928 resource entities processed!
+00:06 [Info] [RustEdit] - 0 junkpiles processed!
+00:06 [Info] [RustEdit] - Created 340 NPC spawn handlers!
+00:06 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+00:06 [Warning] 'NPCDropGun v2.0.4' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+00:07 [Info] [Auto Purge] The purge has been completed. Purged entities: 563.
+00:08 [Info] [Welcomer] • Kappa has joined the server from Germany.
+00:14 [Info] [Kill Feed] [14/00/23/02/2021] sentry.scientist.static                                       bullet                         48.1m                          Dr. L. Klein
+00:15 [Info] [Welcomer] • NewbieDoobyDoo has joined the server from Germany.
+00:22 [Info] [Welcomer] • Kappa has left the server (Disconnected).
+00:32 [Info] [Kill Feed] [32/00/23/02/2021] sentry.scientist.static                                       bullet                         88.1m                          Dr. N. Rhodes
+00:32 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+00:38 [Info] [Welcomer] • Lord Deff has joined the server from Germany.
+00:39 [Info] [HeliControl] Next Helicopter spawn: 15 minutes
+00:50 [Info] [Kill Feed] [50/00/23/02/2021] Boar                                                          bite                           1.5m                           Lord Deff
+00:52 [Info] [Kill Feed] [52/00/23/02/2021] Bear                                                          bite                           1.6m                           StiBBo
+00:53 [Info] [Kill Feed] [53/00/23/02/2021] Lord Deff                                                     rifle.semiauto                 27.0m                          Boar
+01:00 [Info] [HeliControl] Next CH47 spawn: 20 minutes
+01:08 [Info] [HeliControl] Next Helicopter spawn: 20 minutes
+01:08 [Info] [Welcomer] • Lord Deff has left the server (Disconnected).
+01:09 [Info] [Welcomer] • Lord Deff has joined the server from Germany.
+01:13 [Info] [Kill Feed] [13/01/23/02/2021] Lord Deff                                                     shotgun.pump                   15.5m                          Wolf
+01:24 [Info] [Kill Feed] [24/01/23/02/2021] Lord Deff                                                     shotgun.pump                   2.4m                           Wolf
+01:30 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+01:42 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+01:50 [Info] [Welcomer] • NewbieDoobyDoo has left the server (Disconnected).
+01:58 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+02:05 [Info] [Welcomer] • Lord Deff has left the server (Disconnected).
+02:12 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+02:25 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+02:42 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+02:52 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+03:13 [Info] [HeliControl] Next Helicopter spawn: 15 minutes
+03:42 [Info] [HeliControl] Next Helicopter spawn: 18 minutes
+04:14 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+04:47 [Info] [HeliControl] Next Helicopter spawn: 18 minutes
+05:19 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+05:52 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+06:06 [Info] [Welcomer] • -_-ThiaguiN-_- has joined the server from Germany.
+06:06 [Info] [Kill Feed] [06/06/23/02/2021] sentry.scientist.static                                       bullet                         87.4m                          Dr. L. MacDonald
+06:19 [Info] [Welcomer] • NewbieDoobyDoo has joined the server from Germany.
+06:28 [Info] [Welcomer] • -_-ThiaguiN-_- has left the server (Disconnected).
+08:00 [Info] [Welcomer] • NewbieDoobyDoo has left the server (Timed Out).
+08:01 [Info] [Welcomer] • NewbieDoobyDoo has joined the server from Germany.
+09:09 [Info] [Kill Feed] [09/09/23/02/2021] sentry.scientist.static                                       bullet                         55.2m                          Dr. B. Wood
+09:14 [Info] [Welcomer] • Sw3dishBoy has joined the server from Sweden.
+09:25 [Info] [Kill Feed] [25/09/23/02/2021] NewbieDoobyDoo                                                smg.thompson                   8.2m                           Bear
+09:35 [Info] [Kill Feed] [35/09/23/02/2021] sentry.scientist.static                                       bullet                         79.0m                          Dr. J. Crane
+09:41 [Info] [Welcomer] • Sw3dishBoy has left the server (Disconnected).
+10:10 [Info] [Welcomer] • uglyfrosty has joined the server from Germany.
+10:18 [Info] [Welcomer] • uglyfrosty has left the server (Disconnected).
+10:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+10:42 [Info] [Welcomer] • Kappa has joined the server from Germany.
+10:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+10:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+10:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+10:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+10:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+10:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+10:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+10:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+10:59 [Info] [Welcomer] • Kappa has left the server (Disconnected).
+10:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+10:59 [Info] [Welcomer] • NewbieDoobyDoo has left the server (Disconnected).
+10:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 9 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 8 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 7 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 6 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+10:59 [Info] [SmoothRestart] Server will restart in 1 seconds!
+11:00 [Info] Uninstalling Rust:IO ...
+11:00 [Info] Rust:IO> Uninstalling ...
+11:00 [Info] Rust:IO> No longer ticking
+11:00 [Info] Rust:IO> Stopping server ...
+11:00 [Info] Rust:IO> Removing listeners ...
+11:00 [Info] Rust:IO> Performing maintenance ...
+11:00 [Info] Rust:IO> Closing database ...
+11:00 [Info] Rust:IO> Uninstalled.
+11:00 [Info] Unloaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Unloaded plugin Admin Chat v2.0.4 by LaserHydra
+11:00 [Warning] Calling 'Unload' on 'AdminHammer v1.12.0' took 337ms
+11:00 [Info] Unloaded plugin AdminHammer v1.12.0 by mvrb
+11:00 [Info] Unloaded plugin Alias System v2.1.3 by LaserHydra
+11:00 [Info] Unloaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+11:00 [Info] Unloaded plugin Auto Engine Parts v1.0.0 by WhiteThunder
+11:00 [Info] Unloaded plugin Auto Purge v2.1.1 by misticos
+11:00 [Info] Unloaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+11:00 [Warning] Calling 'Unload' on 'BGrade v1.1.3' took 332ms
+11:00 [Info] Unloaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+11:00 [Info] Unloaded plugin Backpacks v3.4.0 by LaserHydra
+11:00 [Info] Unloaded plugin Better Chat Mentions v1.2.3 by Death
+11:00 [Info] Unloaded plugin Better Chat v5.2.5 by LaserHydra
+11:00 [Info] Unloaded plugin Better Chat Mute v1.2.1 by LaserHydra
+11:00 [Warning] Calling 'Unload' on 'BetterLoot v3.5.3' took 343ms
+11:00 [Info] Unloaded plugin BetterLoot v3.5.3 by Default
+11:00 [Info] Unloaded plugin Better Say v3.0.1 by LaserHydra
+11:00 [Info] Unloaded plugin Blueprint Manager v1.1.4 by Orange
+11:00 [Info] Unloaded plugin Building Grades v0.5.1 by Default
+11:00 [Info] Unloaded plugin Clan Tags v0.8.0 by GreenArrow
+11:00 [Info] Unloaded plugin Clan Team v1.0.5 by deivismac
+11:00 [Info] Unloaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+11:00 [Info] Unloaded plugin Clothed Murderers v1.0.1 by Substrata
+11:00 [Info] Unloaded plugin Crafting Controller v3.2.2 by Whispers88
+11:00 [Info] Unloaded plugin DronePilot v1.0.0 by k1lly0u
+11:00 [Info] Unloaded plugin Easy Airdrop v3.2.5 by LaserHydra
+11:00 [Info] Unloaded plugin Extended Recycler v1.1.0 by Orange
+11:00 [Warning] Calling 'Unload' on 'GatherManager v2.2.75' took 329ms
+11:00 [Info] Unloaded plugin Gathering Manager v2.2.75 by Mughisi
+11:00 [Info] Unloaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+11:00 [Info] Unloaded plugin HeliControl v1.4.0 by Shady
+11:00 [Info] Unloaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:00 [Info] Unloaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:00 [Info] Unloaded plugin InfoPanel v1.0.4 by Default
+11:00 [Info] Unloaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+11:00 [Warning] Calling 'Unload' on 'InventoryViewer v3.0.3' took 348ms
+11:00 [Info] Unloaded plugin Inventory Viewer v3.0.3 by Mughisi
+11:00 [Info] Unloaded plugin Kill Feed v1.18.0 by Tuntenfisch
+11:00 [Info] Unloaded plugin Kits v3.3.1 by Reneb
+11:00 [Info] Unloaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+11:00 [Info] Unloaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+11:00 [Info] Unloaded plugin NPCNav v1.0.0 by Whispers88
+11:00 [Info] Unloaded plugin NTeleportation v1.4.7 by nivex
+11:00 [Warning] Calling 'Unload' on 'NoEscape v2.1.31' took 655ms
+11:00 [Info] Unloaded plugin No Escape v2.1.31 by Calytic
+11:00 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+11:00 [Info] Unloaded plugin Notice v1.0.1 by LaserHydra
+11:00 [Info] Unloaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+11:00 [Info] Unloaded plugin PlayerRankings v3.0.2 by Ankawi
+11:00 [Info] Unloaded plugin Playtime Tracker v0.1.7 by k1lly0u
+11:00 [Info] Unloaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+11:00 [Info] Unloaded plugin PrivateMessages v1.1.11 by MisterPixie
+11:00 [Info] Unloaded plugin Private Messages GUI v1.0.2 by Tricky
+11:00 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 332ms
+11:00 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+11:00 [Info] Unloaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+11:00 [Info] Unloaded plugin SAMSiteAuth v2.3.3 by haggbart
+11:00 [Info] Unloaded plugin Scientist Names v1.1.3 by Ultra
+11:00 [Info] Unloaded plugin Scrap Heli Storage v0.0.5 by yetzt
+11:00 [Info] Unloaded plugin ServerInfo v0.5.4 by FastBurst
+11:00 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+11:00 [Info] Unloaded plugin Sign Artist v1.2.6 by Whispers88
+11:00 [Info] Unloaded plugin Skins v2.1.2 by Iv Misticos
+11:00 [Info] Unloaded plugin SkipNightVote v0.1.4 by k1lly0u
+11:00 [Info] Unloaded plugin Slap v2.0.0 by Wulf
+11:00 [Info] Unloaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+11:00 [Info] Unloaded plugin Spawn Mini v2.10.0 by SpooksAU
+11:00 [Info] Unloaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+11:00 [Info] Unloaded plugin TruePVE v2.0.1 by nivex
+11:00 [Info] Unloaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+11:00 [Info] Unloaded plugin Vanish v1.3.8 by Whispers88
+11:00 [Info] Unloaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+11:00 [Info] Unloaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+11:00 [Info] Unloaded plugin VoteRewards v2.1.0 by k1lly0u
+11:00 [Info] Unloaded plugin Welcomer v1.5.4 by Dana
+11:00 [Info] Unloaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+11:00 [Info] Unloaded plugin ZLevelsRemastered v2.9.22 by Default
+11:00 [Info] Loading Oxide Core v2.0.3991...
+11:00 [Info] Loading extensions...
+11:00 [Info] Loaded extension CSharp v2.0.4041 by Oxide Team and Contributors
+11:00 [Info] Loaded extension RustEdit v1.0.32 by k1lly0u
+11:00 [Info] Loaded extension Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Loaded extension MySql v2.0.3760 by Oxide Team and Contributors
+11:00 [Info] Loaded extension Rust v2.0.4919 by Oxide Team and Contributors
+11:00 [Info] Loaded extension SQLite v2.0.3762 by Oxide Team and Contributors
+11:00 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+11:00 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+11:00 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+11:00 [Info] Using Covalence provider for game 'Rust'
+11:00 [Info] Loading plugins...
+11:00 [Info] Loaded plugin RustEdit Automatic Updater v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Deployable Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit IO Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Vending Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Loot Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Diesel Collectable Spawner v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Desk Keycard Spawner v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Resource Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit JunkPile Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Spawn Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Ocean Path v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit APC Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Vehicle Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit NPC Core v1.0.1 by Chaos
+11:00 [Info] Loaded plugin RustEdit Excavator Rotation Correction v1.0.1 by Chaos
+11:00 [Info] Loaded plugin Rust v2.0.4919 by Oxide Team and Contributors
+11:00 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+11:00 [Info] Loaded plugin Rust:IO for Oxide v2.17.0 by playrust.io / dcode
+11:00 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+11:00 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+11:00 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+11:00 [Info] AdminChat, AdminHammer, AliasSystem, AutoBroadcast, AutoEngineParts, AutoPurge, AutomaticAuthorization, BGrade, Backpacks, BetterChat, BetterChatMentions, BetterChatMute, BetterLoot, BetterSay, BlueprintManager, BuildingGrades, ClanTags, ClanTeam, Clans, ClothedMurderers, CraftingController, DronePilot, EasyAirdrop, ExtendedRecycler, GatherManager, GestureWheel, Godmode, HeliControl, ImageLibrary, InfoPanel, InventoryCleaner, InventoryViewer, KillFeed, Kits, LoadingMessages, NPCDropGun, NPCNav, NTeleportation, NoEscape, NoGiveNotices, Notice, OnScreenLogo, PlayerRankings, PlaytimeTracker, PopupNotifications, PrivateMessages, PrivateMessagesGUI, QuickSmelt, RemoverTool, SAMSiteAuth, ScientistNames, ScrapHeliStorage, ServerInfo, ServerRewards, SignArtist, Skins, SkipNightVote, Slap, SmoothRestart, SpawnMini, StackSizeController, TruePVE, UpkeepDisplayFix, Vanish, VehicleDecayProtection, VehicleLicence, Voter, Welcomer, WhereIsMyHorse and ZLevelsRemastered were compiled successfully in 0ms
+11:00 [Warning] [DEBUG] BetterChatMentions plugin is waiting for requirements to be loaded: BetterChat
+11:00 [Warning] [DEBUG] ClanTeam plugin is waiting for requirements to be loaded: Clans
+11:00 [Warning] [DEBUG] GestureWheel plugin is waiting for requirements to be loaded: ImageLibrary
+11:00 [Info] Loaded plugin Admin Chat v2.0.4 by LaserHydra
+11:00 [Info] Loaded plugin AdminHammer v1.12.0 by mvrb
+11:00 [Info] Loaded plugin Alias System v2.1.3 by LaserHydra
+11:00 [Info] Loaded plugin AutoBroadcast v1.0.8 by Wulf/lukespragg
+11:00 [Info] Loaded plugin Auto Engine Parts v1.0.0 by WhiteThunder
+11:00 [Info] Loaded plugin Auto Purge v2.1.1 by misticos
+11:00 [Info] Loaded plugin Automatic Authorization v1.2.4 by k1lly0u/Arainrr
+11:00 [Info] Loaded plugin BGrade v1.1.3 by Ryan / Rustoria.co
+11:00 [Info] Loaded plugin Backpacks v3.4.0 by LaserHydra
+11:00 [Info] Loaded plugin Better Chat v5.2.5 by LaserHydra
+11:00 [Info] Loaded plugin Better Chat Mentions v1.2.3 by Death
+11:00 [Info] Loaded plugin Better Chat Mute v1.2.1 by LaserHydra
+11:00 [Info] Loaded plugin BetterLoot v3.5.3 by Default
+11:00 [Info] Loaded plugin Better Say v3.0.1 by LaserHydra
+11:00 [Info] Loaded plugin Blueprint Manager v1.1.4 by Orange
+11:00 [Info] Loaded plugin Building Grades v0.5.1 by Default
+11:00 [Info] Loaded plugin Clan Tags v0.8.0 by GreenArrow
+11:00 [Info] Loaded plugin Rust:IO Clans v1.7.6 by playrust.io / dcode
+11:00 [Info] Loaded plugin Clan Team v1.0.5 by deivismac
+11:00 [Info] Loaded plugin Clothed Murderers v1.0.1 by Substrata
+11:00 [Info] Loaded plugin Crafting Controller v3.2.2 by Whispers88
+11:00 [Info] Loaded plugin DronePilot v1.0.0 by k1lly0u
+11:00 [Info] Loaded plugin Easy Airdrop v3.2.5 by LaserHydra
+11:00 [Info] Loaded plugin Extended Recycler v1.1.0 by Orange
+11:00 [Info] Loaded plugin Gathering Manager v2.2.75 by Mughisi
+11:00 [Info] Loaded plugin Godmode v4.2.9 by Wulf/lukespragg/Arainrr
+11:00 [Info] Loaded plugin HeliControl v1.4.0 by Shady
+11:00 [Info] Loaded plugin Image Library v2.0.56 by Absolut & K1lly0u
+11:00 [Warning] Missing plugin name prefix 'gesturewheel.' for permission 'gestures.use' (by plugin 'Gesture Wheel')
+11:00 [Info] Loaded plugin Gesture Wheel v0.1.3 by Tricky & Mevent
+11:00 [Info] Loaded plugin InfoPanel v1.0.4 by Default
+11:00 [Info] Loaded plugin Inventory Cleaner v2.0.0 by Iv Misticos
+11:00 [Info] Loaded plugin Inventory Viewer v3.0.3 by Mughisi
+11:00 [Info] Loaded plugin Kill Feed v1.18.0 by Tuntenfisch
+11:00 [Info] Loaded plugin Kits v3.3.1 by Reneb
+11:00 [Info] Loaded plugin Loading Messages v1.0.6 by CosaNostra/Def
+11:00 [Info] Loaded plugin NPC Drop Gun v2.0.4 by 2CHEVSKII
+11:00 [Info] Loaded plugin NPCNav v1.0.0 by Whispers88
+11:00 [Info] Loaded plugin NTeleportation v1.4.7 by nivex
+11:00 [Info] Loaded plugin No Escape v2.1.31 by Calytic
+11:00 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+11:00 [Warning] Missing plugin name prefix 'notice.' for permission 'cannotice' (by plugin 'Notice')
+11:00 [Info] Loaded plugin Notice v1.0.1 by LaserHydra
+11:00 [Info] Loaded plugin OnScreenLogo v1.1.5 by Vlad-00003
+11:00 [Info] Loaded plugin PlayerRankings v3.0.2 by Ankawi
+11:00 [Info] Loaded plugin Playtime Tracker v0.1.7 by k1lly0u
+11:00 [Info] Loaded plugin Popup Notifications v0.2.0 by emu / k1lly0u
+11:00 [Info] Loaded plugin PrivateMessages v1.1.11 by MisterPixie
+11:00 [Info] Loaded plugin Private Messages GUI v1.0.2 by Tricky
+11:00 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+11:00 [Info] Loaded plugin Remover Tool v4.3.23 by Reneb/Fuji/Arainrr
+11:00 [Info] Loaded plugin SAMSiteAuth v2.3.3 by haggbart
+11:00 [Info] Loaded plugin Scientist Names v1.1.3 by Ultra
+11:00 [Info] Loaded plugin Scrap Heli Storage v0.0.5 by yetzt
+11:00 [Info] Loaded plugin ServerInfo v0.5.4 by FastBurst
+11:00 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+11:00 [Info] Loaded plugin Sign Artist v1.2.6 by Whispers88
+11:00 [Info] Loaded plugin Skins v2.1.2 by Iv Misticos
+11:00 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+11:00 [Info] Loaded plugin Slap v2.0.0 by Wulf
+11:00 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+11:00 [Info] Loaded plugin Spawn Mini v2.10.0 by SpooksAU
+11:00 [Info] Loaded plugin Stack Size Controller v2.0.4 by Canopy Sheep
+11:00 [Info] Loaded plugin TruePVE v2.0.1 by nivex
+11:00 [Info] Loaded plugin Upkeep Display Fix v1.0.1 by WhiteThunder
+11:00 [Info] Loaded plugin Vanish v1.3.8 by Whispers88
+11:00 [Info] Loaded plugin Vehicle Decay Protection v1.3.2 by WhiteThunder
+11:00 [Info] Loaded plugin Vehicle Licence v1.7.9 by Sorrow/TheDoc/Arainrr
+11:00 [Info] Loaded plugin VoteRewards v2.1.0 by k1lly0u
+11:00 [Info] Loaded plugin Welcomer v1.5.4 by Dana
+11:00 [Info] Loaded plugin Where is My Horse v0.2.2 by 2CHEVSKII
+11:00 [Info] Loaded plugin ZLevelsRemastered v2.9.22 by Default
+11:00 [Info] [RustEdit] - IO data loaded and ready to be processed!
+11:00 [Warning] [RustEdit] - No vending data found in map file
+11:00 [Warning] [RustEdit] - No loot data found in map file
+11:00 [Warning] [RustEdit] - No APC path data found in map file
+11:00 [Warning] [RustEdit] - No vehicle data found in map file
+11:00 [Info] [RustEdit] - NPC data loaded and ready to be processed!
+11:01 [Warning] [RustEdit] - No ocean patrol path data found in map file
+11:06 [Info] IP address from external API: 45.138.48.233
+11:06 [Info] [RustEdit] - Checking for updates...
+11:06 [Info] Updating Rust:IO ...
+11:06 [Info] [Auto Purge] The purge has been started.
+11:06 [Info] [BetterLoot] Using '35' active of '35' supported containertypes
+11:06 [Info] [BetterLoot] Updating internals ...
+11:06 [Info] Rust:IO: Update complete
+11:06 [Warning] Calling 'OnServerInitialized' on 'ExtendedRecycler v1.1.0' took 304ms
+11:06 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.75' took 294ms
+11:06 [Info] [HeliControl] Next Helicopter spawn: 20 minutes
+11:06 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+11:06 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.4' took 1196ms
+11:06 [Info] [Kill Feed] Loading configuration file!
+11:06 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.4.7' took 344ms
+11:06 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 292ms
+11:06 [Warning] Calling 'OnServerInitialized' on 'ScrapHeliStorage v0.0.5' took 289ms
+11:06 [Warning] [Server Rewards] All UI elements have been successfully generated!
+11:06 [Warning] Calling 'LoadImageList' on 'ImageLibrary v2.0.56' took 150ms
+11:06 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.73' took 455ms
+11:06 [Warning] [Sign Artist] Waiting for Steamworks to update item definitions....
+11:06 [Info] [TruePVE] [WARNING] Schedule Broadcast: PVE is on now!
+11:06 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+11:06 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.22' took 348ms
+11:06 [Info] [RustEdit] - The RustEdit extension is up to date!
+11:06 [Info] [BetterLoot] No stacked LootContainer found.
+11:06 [Info] [BetterLoot] Populated '800' supported containers.
+11:06 [Info] [SmoothRestart] Your servers Oxide build is up to date
+11:06 [Info] Installing Rust:IO ...
+11:06 [Info] Rust:IO> Setting up Rust:IO 2.3.7608.42166 ...
+11:06 [Info] Rust:IO> Creating directories ...
+11:06 [Info] Rust:IO> Applying config ...
+11:06 [Info] Rust:IO> Initializing database ...
+11:06 [Info] Rust:IO> Generating map image (this may take a while) ...
+11:07 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  9946.428ms
+Postprocess  :  3391.376ms
+  Shadows    :   194.803ms
+  FXAA       :  3180.609ms
+Encoding     :    29.479ms
+Other        :     9.471ms
+--------------------------
+Total        :  13376.754ms
+11:07 [Info] Rust:IO> Starting HTTP server on *:27096 ...
+11:07 [Info] Rust:IO> Installed.
+11:07 [Info] Rust:IO> Now ticking
+11:07 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 13873ms
+11:07 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took average 2ms
+11:07 [Info] [RustEdit] - Processing 230 IO entities
+11:07 [Info] [RustEdit] - Successfully connected 230 IO links
+11:07 [Info] [RustEdit] - No custom vending machines found in map
+11:07 [Info] [RustEdit] - 626 loot containers processed!
+11:07 [Info] [RustEdit] - Created 8 keycard desk respawners
+11:07 [Info] [RustEdit] - 1928 resource entities processed!
+11:07 [Info] [RustEdit] - 0 junkpiles processed!
+11:07 [Info] [RustEdit] - Created 340 NPC spawn handlers!
+11:07 [Info] Rust:IO> External IP address obtained from lookup: 45.138.48.233
+11:07 [Warning] 'NPCDropGun v2.0.4' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+11:07 [Info] [Auto Purge] The purge has been completed. Purged entities: 622.
+11:09 [Info] [Welcomer] • NewbieDoobyDoo has joined the server from Germany.
+11:10 [Info] [Welcomer] • Kappa has joined the server from Germany.
+11:10 [Info] [Better Chat] [Global] [Player] NewbieDoobyDoo: hihi --- erster :)
+11:11 [Info] [Better Chat] [Global] [Pro] Kappa: hi , what this mean ?
+11:11 [Info] [Better Chat] [Global] [Player] NewbieDoobyDoo: i was first after rs
+11:11 [Info] [Better Chat] [Global] [Player] NewbieDoobyDoo: ;)
+11:12 [Info] [Better Chat] [Global] [Pro] Kappa: ah okay :D thanks for explaning
+11:12 [Info] [Better Chat] [Global] [Player] NewbieDoobyDoo: btw ... you are from Germany as well
+11:12 [Info] [Better Chat] [Global] [Pro] Kappa: no
+11:12 [Info] [Better Chat] [Global] [Player] NewbieDoobyDoo: server said so
+11:12 [Info] [Better Chat] [Global] [Pro] Kappa: yes but is not true
+11:13 [Info] [Better Chat] [Global] [Pro] Kappa: im using nvidia now, and i guess their server is in germany :D
+11:14 [Info] [Kill Feed] [14/11/23/02/2021] Kappa                                                         rifle.semiauto                 39.9m                          Boar
+11:27 [Info] [Better Chat] [Global] [Pro] Kappa: what are u blowing?
+11:29 [Info] [Welcomer] • Dylis44CZE has joined the server from Germany.
+11:33 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+11:39 [Info] [HeliControl] Next Helicopter spawn: 18 minutes
+11:52 [Info] [Kill Feed] [52/11/23/02/2021] Bear                                                          bite                           1.7m                           midse
+11:53 [Info] [Welcomer] • Deputy Diamond has joined the server from Germany.
+11:59 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+11:59 [Info] [Welcomer] • NewbieDoobyDoo has left the server (Disconnected).
+12:09 [Info] [Kill Feed] [09/12/23/02/2021] Deputy Diamond                                                pistol.eoka                    1.2m                           Boar
+12:11 [Info] [HeliControl] Next Helicopter spawn: 18 minutes
+12:12 [Info] [Welcomer] • Deputy Diamond has left the server (Disconnected).
+12:14 [Info] [Kill Feed] [14/12/23/02/2021] Dylis44CZE                                                    generic                        4.2m                           Bear
+12:14 [Info] [Welcomer] • mrg1 has joined the server from Germany.
+12:22 [Info] [Welcomer] • mrg1 has left the server (Timed Out).
+12:24 [Info] [Welcomer] • Dylis44CZE has left the server (Disconnected).
+12:25 [Info] [Welcomer] • drizzt has joined the server from Germany.
+12:26 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+12:29 [Info] [Welcomer] • Kappa has left the server (Disconnected).
+12:31 [Info] [Welcomer] • chitzo has joined the server from Germany.
+12:43 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+12:51 [Info] [Welcomer] • shrimpdoc has joined the server from Germany.
+12:53 [Info] [HeliControl] Next CH47 spawn: 20 minutes
+13:03 [Info] [Welcomer] • shrimpdoc has left the server (Timed Out).
+13:04 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+13:15 [Info] [HeliControl] Next Helicopter spawn: 19 minutes
+13:20 [Info] [Kill Feed] [20/13/23/02/2021] dantetegenu4                                                  rocket.launcher                                               dantetegenu4
+13:20 [Warning] 'NPCDropGun v2.0.4' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+13:21 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+13:23 [Info] [HeliControl] Next CH47 spawn: 20 minutes
+13:42 [Info] [Kill Feed] [42/13/23/02/2021] dantetegenu4                   Hand                           smg.mp5                        9.6m                           Dr. K. Willis
+13:43 [Info] [Kill Feed] [43/13/23/02/2021] dantetegenu4                                                  rifle.l96                      14.1m                          Boar
+13:43 [Info] [Kill Feed] [43/13/23/02/2021] dantetegenu4                                                  rifle.lr300                    10.8m                          Bear
+13:44 [Info] [Kill Feed] [44/13/23/02/2021] dantetegenu4                                                  rifle.l96                      94.8m                          Stag
+13:47 [Info] [Kill Feed] [47/13/23/02/2021] dantetegenu4                                                  smg.mp5                        2.3m                           Wolf
+13:47 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+13:52 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+13:53 [Info] [Kill Feed] [53/13/23/02/2021] dantetegenu4                   Forearm                        rifle.lr300                    22.9m                          Dr. H. Stark
+14:08 [Info] [Welcomer] • -_-ThiaguiN-_- has joined the server from Bulgaria.
+14:09 [Info] [Welcomer] • ardaker997 has joined the server from Germany.
+14:12 [Info] [Kill Feed] [12/14/23/02/2021] Boar                                                          bite                           0.7m                           -_-ThiaguiN-_-
+14:14 [Warning] Calling 'CanBeTargeted' on 'TruePVE v2.0.1' took 169ms
+14:17 [Info] [Kill Feed] [17/14/23/02/2021] -_-ThiaguiN-_-                                                pickaxe                        1.6m                           Chicken
+14:19 [Info] [HeliControl] Next Helicopter spawn: 15 minutes
+14:19 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+14:21 [Info] [Better Chat] [Global] [Regular] dantetegenu4: what do I have to press to open underwater crates?=
+14:21 [Info] [Better Chat] [Global] [Regular] dantetegenu4: it says unite
+14:38 [Info] [Welcomer] • dantetegenu4 has left the server (Timed Out).
+14:39 [Info] [Better Chat] [Global] [Newbie] -_-ThiaguiN-_-: -tab
+14:40 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+14:45 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+14:45 [Info] [Welcomer] • Kongen has joined the server from Denmark.
+14:48 [Info] [HeliControl] Next Helicopter spawn: 15 minutes
+14:49 [Info] [Kill Feed] [49/14/23/02/2021] Boar                                                          bite                           1.5m                           Murderer V. Pearson
+14:49 [Info] [Welcomer] • ardaker997 has left the server (Disconnected).
+14:50 [Info] [Kill Feed] [50/14/23/02/2021] Boar                                                          bite                           1.8m                           Murderer K. Chase
+14:55 [Info] [Welcomer] • -_-ThiaguiN-_- has left the server (Disconnected).
+14:58 [Info] [Kill Feed] [58/14/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    5.8m                           Dr. P. Parks
+14:59 [Info] [Welcomer] • Motion- has joined the server from Germany.
+15:00 [Info] [TruePVE] [WARNING] Schedule Broadcast: PVP is on now!
+15:02 [Info] [Better Chat] [Global] [Newbie] Motion-: is this a pvp server ?
+15:03 [Info] [Better Say] SERVER: only pvp from 4pm to 10pm
+15:03 [Info] [Welcomer] • Motion- has left the server (Disconnected).
+15:10 [Info] [Kill Feed] [10/15/23/02/2021] dantetegenu4                                                  suicide                                                       dantetegenu4
+15:10 [Warning] 'NPCDropGun v2.0.4' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+15:11 [Info] [Kill Feed] [11/15/23/02/2021] dantetegenu4                                                  drowned                                                       dantetegenu4
+15:13 [Info] [Kill Feed] [13/15/23/02/2021] Bradley APC                                                   bullet                         24.1m                          dantetegenu4
+15:14 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+15:17 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+15:26 [Info] [Better Chat] [Global] [Supporter] Kongen: who is raiding? xD
+15:27 [Info] [Welcomer] • -_-ThiaguiN-_- has joined the server from Bulgaria.
+15:30 [Info] [Welcomer] • dantetegenu4 has left the server (Timed Out).
+15:32 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+15:32 [Info] [Better Chat] [Global] [Regular] dantetegenu4: Hemlo
+15:33 [Info] [Better Chat] [Global] [Regular] dantetegenu4: i'm back
+15:33 [Info] [Better Chat] [Global] [Supporter] Kongen: hello
+15:37 [Info] [Welcomer] • -_-ThiaguiN-_- has left the server (Disconnected).
+15:42 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+15:47 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+15:47 [Info] [Welcomer] • Guba has joined the server from Hungary.
+15:52 [Info] [Welcomer] • Guba has left the server (Timed Out).
+15:53 [Info] [Welcomer] • Guba has joined the server from Hungary.
+15:54 [Info] [Kill Feed] [54/15/23/02/2021] dantetegenu4                   Head                           rifle.l96                      84.1m                          Murderer X. Finch
+15:54 [Info] [Kill Feed] [54/15/23/02/2021] dantetegenu4                   Head                           rifle.l96                      40.1m                          Murderer O. Boone
+15:54 [Info] [Kill Feed] [54/15/23/02/2021] dantetegenu4                   Hand                           rifle.lr300                    28.2m                          Murderer K. Winters
+15:55 [Info] [Kill Feed] [55/15/23/02/2021] Murderer H. Frost                                             slash                          1.1m                           Boar
+15:55 [Info] [Kill Feed] [55/15/23/02/2021] dantetegenu4                   Arm                            rifle.l96                      99.3m                          Murderer U. Reynolds
+15:55 [Info] [Kill Feed] [55/15/23/02/2021] dantetegenu4                   Head                           rifle.l96                      181.5m                         Murderer L. Gilbert
+15:55 [Info] [Kill Feed] [55/15/23/02/2021] dantetegenu4                   Head                           rifle.l96                      84.0m                          Murderer W. Hernande
+15:55 [Info] [Kill Feed] [55/15/23/02/2021] dantetegenu4                   Head                           rifle.l96                      155.5m                         Murderer F. Ayers
+15:56 [Info] [Kill Feed] [56/15/23/02/2021] dantetegenu4                                                  rifle.l96                      287.8m                         Boar
+15:56 [Info] [Kill Feed] [56/15/23/02/2021] dantetegenu4                   Neck                           rifle.l96                      66.1m                          Murderer K. Alvarado
+15:56 [Info] [Kill Feed] [56/15/23/02/2021] dantetegenu4                   Head                           rifle.l96                      162.8m                         Dr. H. Oneal
+15:56 [Info] [Kill Feed] [56/15/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    85.5m                          Murderer I. Rodgers
+15:57 [Info] [Kill Feed] [57/15/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    84.7m                          Murderer H. Frost
+15:58 [Info] [Kill Feed] [58/15/23/02/2021] Boar                                                          bite                           1.6m                           Murderer T. Barton
+15:58 [Info] [Kill Feed] [58/15/23/02/2021] dantetegenu4                                                  rifle.l96                      303.6m                         Wolf
+15:58 [Info] [Kill Feed] [58/15/23/02/2021] Boar                                                          bite                           1.8m                           Murderer R. Owen
+15:58 [Info] [Kill Feed] [58/15/23/02/2021] dantetegenu4                   Head                           rifle.l96                      159.2m                         Dr. Q. Shannon
+15:59 [Info] [Kill Feed] [59/15/23/02/2021] Murderer M. Cabrera                                           slash                          1.5m                           Boar
+15:59 [Info] [Kill Feed] [59/15/23/02/2021] cactus-7                                                      stab                           0.8m                           Murderer D. Moses
+15:59 [Info] [Kill Feed] [59/15/23/02/2021] sentry.scientist.static                                       bullet                         15.8m                          Murderer N. Blackbur
+15:59 [Info] [Kill Feed] [59/15/23/02/2021] dantetegenu4                                                  rifle.l96                      296.2m                         Wolf
+15:59 [Info] [Kill Feed] [59/15/23/02/2021] Boar                                                          bite                           1.2m                           Murderer I. Barrera
+15:59 [Info] [Kill Feed] [59/15/23/02/2021] sentry.scientist.static                                       bullet                         10.2m                          Murderer T. Weiss
+15:59 [Info] [Kill Feed] [59/15/23/02/2021] Boar                                                          bite                           2.0m                           Murderer Y. Burt
+15:59 [Info] [Kill Feed] [59/15/23/02/2021] dantetegenu4                   Head                           rifle.l96                      179.3m                         Murderer S. Gallegos
+16:00 [Info] [Kill Feed] [00/16/23/02/2021] Boar                                                          bite                           1.7m                           Murderer M. Cabrera
+16:01 [Info] [Kill Feed] [01/16/23/02/2021] dantetegenu4                   Arm                            rifle.l96                      103.1m                         Dr. B. Kline
+16:02 [Info] [Kill Feed] [02/16/23/02/2021] sentry.scientist.static                                       bullet                         39.5m                          dantetegenu4
+16:06 [Info] [Kill Feed] [06/16/23/02/2021] Boar                                                          bite                           2.0m                           Murderer Y. Hill
+16:09 [Info] [Kill Feed] [09/16/23/02/2021] sentry.scientist.static                                       bullet                         76.7m                          dantetegenu4
+16:09 [Info] [Kill Feed] [09/16/23/02/2021] sentry.scientist.static                                       bullet                         90.3m                          dantetegenu4
+16:09 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+16:13 [Info] [Kill Feed] [13/16/23/02/2021] dantetegenu4                   Head                           hatchet                        0.3m                           Murderer D. Coleman
+16:14 [Info] [Kill Feed] [14/16/23/02/2021] dantetegenu4                   Head                           bow.hunting                    5.6m                           Murderer D. Dalton
+16:15 [Info] [Kill Feed] [15/16/23/02/2021] Dr. C. Valencia                                               pistol.m92                     0.9m                           Scarecrow I. Fuller
+16:17 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+16:19 [Info] [Kill Feed] [19/16/23/02/2021] Scarecrow S. Horn                                             slash                          1.6m                           dantetegenu4
+16:19 [Warning] 'NPCDropGun v2.0.4' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+16:20 [Info] [Kill Feed] [20/16/23/02/2021] dantetegenu4                   Head                           hatchet                        1.4m                           Scarecrow S. Horn
+16:21 [Info] [Kill Feed] [21/16/23/02/2021] dantetegenu4                   Head                           spear.stone                    2.1m                           Murderer X. Snider
+16:21 [Info] [Kill Feed] [21/16/23/02/2021] dantetegenu4                   Head                           pickaxe                        0.5m                           Murderer T. Morgan
+16:22 [Info] [Kill Feed] [22/16/23/02/2021] Wolf                                                          bite                           0.3m                           Dylis44CZE
+16:22 [Info] [Kill Feed] [22/16/23/02/2021] dantetegenu4                   Head                           bow.hunting                    3.8m                           Murderer Q. Harding
+16:29 [Info] [Better Chat] [Global] [Regular] drizzt: &votedaz
+16:30 [Info] [Kill Feed] [30/16/23/02/2021] sentry.scientist.static                                       bullet                         96.3m                          Scarecrow J. Wilson
+16:30 [Info] [Kill Feed] [30/16/23/02/2021] sentry.scientist.static                                       bullet                         92.9m                          dantetegenu4
+16:32 [Info] [Kill Feed] [32/16/23/02/2021] dantetegenu4                   Arm                            bow.hunting                    34.1m                          Murderer P. Morgan
+16:38 [Info] [Kill Feed] [38/16/23/02/2021] Dr. C. Valencia                                               pistol.m92                     1.0m                           Scarecrow D. Crawfor
+16:39 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+16:41 [Info] [Kill Feed] [41/16/23/02/2021] sentry.scientist.static                                       bullet                         13.2m                          dantetegenu4
+16:44 [Info] [Welcomer] • dantetegenu4 has left the server (Disconnected).
+16:44 [Info] [Kill Feed] [44/16/23/02/2021] sentry.scientist.static                                       bullet                         71.7m                          Dr. P. Nicholson
+16:47 [Info] [HeliControl] Next Helicopter spawn: 18 minutes
+16:53 [Info] [Welcomer] • Maverick3851 has joined the server from Germany.
+16:59 [Info] [Welcomer] • SummerNut1337 has joined the server from Sweden.
+17:00 [Info] [Welcomer] • DeLtOo has joined the server from Germany.
+17:05 [Info] [Welcomer] • drizzt has left the server (Disconnected).
+17:06 [Info] [Welcomer] • SummerNut1337 has left the server (Disconnected).
+17:07 [Info] [HeliControl] Next CH47 spawn: 19 minutes
+17:18 [Info] [Kill Feed] [18/17/23/02/2021] DeLtOo                                                        bow.hunting                    16.6m                          Bear
+17:19 [Info] [HeliControl] Next Helicopter spawn: 17 minutes
+17:30 [Info] [Kill Feed] [30/17/23/02/2021]                                                               blunt                                                         Maverick3851
+17:30 [Warning] 'NPCDropGun v2.0.4' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+17:31 [Info] [Kill Feed] [31/17/23/02/2021] Maverick3851                   Arm                            pickaxe                        0.9m                           leonmeints1
+17:33 [Info] [Welcomer] • chitzo has joined the server from Germany.
+17:37 [Info] [HeliControl] Next CH47 spawn: 18 minutes
+17:37 [Info] [Kill Feed] [37/17/23/02/2021] DeLtOo                                                        bow.hunting                    6.2m                           Chicken
+17:37 [Info] [Kill Feed] [37/17/23/02/2021] DeLtOo                                                        bow.hunting                    4.2m                           Chicken
+17:45 [Info] [Better Chat] [Global] [Veteran] chitzo: hi
+17:50 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+18:03 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+18:05 [Info] [HeliControl] Next CH47 spawn: 17 minutes
+18:11 [Info] [Welcomer] • DeLtOo has left the server (Disconnected).
+18:12 [Info] [Welcomer] • Maverick3851 has left the server (Disconnected).
+18:20 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+18:32 [Info] [HeliControl] Next CH47 spawn: 16 minutes
+18:47 [Info] [Welcomer] • the_rock790 has joined the server from Italy.
+18:51 [Info] [HeliControl] Next Helicopter spawn: 15 minutes
+19:09 [Info] [Welcomer] • the_rock790 has left the server (Disconnected).
+19:09 [Info] [Welcomer] • Kappa has joined the server from Germany.
+19:17 [Info] [Welcomer] • SeeMS has joined the server from France.
+19:18 [Info] [Better Chat] [Team] [Mythic] SeeMS: XDDD
+19:19 [Info] [Better Chat] [Team] [Mythic] SeeMS: +1k c4
+19:20 [Info] [Welcomer] • The Mouther has joined the server from Germany.
+19:20 [Info] [HeliControl] Next Helicopter spawn: 18 minutes
+19:20 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+19:20 [Info] [Better Chat] [Team] [Supporter] Kongen: and 1,2k rockets
+19:21 [Info] [Better Chat] [Team] [Supporter] Kongen: lets do this xD
+19:21 [Info] [Better Chat] [Team] [Mythic] SeeMS: OOOKAY BRO
+19:21 [Info] [Better Chat] [Team] [Supporter] Kongen: 30 c4 and 50 rockets :D
+19:21 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+19:22 [Info] [Better Chat] [Team] [Supporter] Kongen: that should be enough I guess, if we can find a base xD
+19:22 [Info] [Kill Feed] [22/19/23/02/2021] Bear                                                          bite                           1.9m                           The Mouther
+19:22 [Warning] 'NPCDropGun v2.0.4' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+19:22 [Info] [Better Chat] [Team] [Mythic] SeeMS: yea
+19:23 [Info] [Welcomer] • Bot Antek has joined the server from Poland.
+19:23 [Info] [Welcomer] • Baby Be Like has joined the server from Poland.
+19:23 [Info] [Better Chat] [Team] [Supporter] Kongen: and 300 exo amo
+19:23 [Info] [Better Chat] [Team] [Mythic] SeeMS: shit xd
+19:23 [Info] [Better Chat] [Team] [Supporter] Kongen: ?
+19:23 [Info] [Better Chat] [Team] [Mythic] SeeMS: 3k
+19:23 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+19:23 [Info] [Better Chat] [Team] [Mythic] SeeMS: we have
+19:23 [Info] [Kill Feed] [23/19/23/02/2021] Baby Be Like                   Head                           hatchet                        0.9m                           fuzier
+19:24 [Info] [Better Chat] [Team] [Supporter] Kongen: we have alot of shit xD
+19:24 [Info] [Kill Feed] [24/19/23/02/2021] Baby Be Like                   Head                           hatchet                        1.0m                           SummerNut1337
+19:24 [Info] [Better Chat] [Team] [Mythic] SeeMS: rdy xD
+19:24 [Info] [Better Chat] [Team] [Mythic] SeeMS: we have fuel for heli?
+19:24 [Info] [Better Chat] [Team] [Mythic] SeeMS: ladder too
+19:24 [Info] [Better Chat] [Team] [Supporter] Kongen: we take mine
+19:24 [Info] [Better Chat] [Team] [Mythic] SeeMS: ok xD
+19:25 [Info] [Better Chat] [Team] [Supporter] Kongen: oh fk
+19:25 [Info] [Better Chat] [Team] [Mythic] SeeMS: fuk
+19:25 [Info] [Better Chat] [Team] [Mythic] SeeMS: my protection xd
+19:25 [Info] [Better Chat] [Team] [Supporter] Kongen: I can take
+19:25 [Info] [Better Chat] [Team] [Mythic] SeeMS: k
+19:26 [Info] [Better Chat] [Team] [Supporter] Kongen: all?
+19:26 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye
+19:26 [Info] [Better Chat] [Team] [Supporter] Kongen: k
+19:26 [Info] [Better Chat] [Team] [Mythic] SeeMS: not head
+19:26 [Info] [Kill Feed] [26/19/23/02/2021] Bot Antek                                                     hatchet                        0.7m                           Boar
+19:26 [Info] [Better Chat] [Team] [Mythic] SeeMS: i have for head
+19:27 [Info] [Better Chat] [Team] [Supporter] Kongen: maybe repair heli
+19:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: fuk why i cant heart rust
+19:28 [Info] [Better Chat] [Team] [Supporter] Kongen: idk xD
+19:28 [Info] [Better Chat] [Team] [Supporter] Kongen: turn the vol up?
+19:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: fml wait cuz i edited the son config
+19:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: so i restart the game xd
+19:29 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+19:29 [Info] [Welcomer] • SeeMS has left the server (Disconnected).
+19:31 [Info] [Welcomer] • SeeMS has joined the server from France.
+19:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: fml
+19:32 [Info] [Better Chat] [Team] [Supporter] Kongen: ?
+19:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: no sound xD
+19:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: wait
+19:32 [Info] [Better Chat] [Team] [Supporter] Kongen: you seen the master vol in game settings?
+19:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh i know why
+19:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: cuz i put the sound to 0
+19:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: fml
+19:32 [Info] [Better Chat] [Team] [Supporter] Kongen: lol
+19:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: im fokin idiot
+19:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: xd
+19:34 [Info] [Better Chat] [Team] [Mythic] SeeMS: i should flight higher?
+19:34 [Info] [Better Chat] [Team] [Supporter] Kongen: maybe a little
+19:35 [Info] [Better Chat] [Team] [Supporter] Kongen: looks fine now
+19:35 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: powiedz że nie wiesz i nie możę
+19:35 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: XXDDDD
+19:35 [Info] [Better Say] SERVER: Hello guys
+19:35 [Info] [Better Chat] [Global] [Supporter] Kongen: hey you xD
+19:35 [Info] [Better Chat] [Global] [Mythic] SeeMS: hello baby
+19:35 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: wait
+19:35 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: it should be team chat
+19:35 [Info] [Better Chat] [Team] [Supporter] Kongen: so where havent we been?
+19:36 [Info] [Better Chat] [Global] [Mythic] SeeMS: idk xd
+19:36 [Info] [Kill Feed] [36/19/23/02/2021] Guba                                                          icepick.salvaged               1.0m                           Chicken
+19:36 [Info] [Better Chat] [Team] [Supporter] Kongen: lets try around bandit camp again?
+19:36 [Info] [Kill Feed] [36/19/23/02/2021] Guba                                                          icepick.salvaged               0.7m                           Chicken
+19:36 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+19:36 [Info] [Better Chat] [Global] [Mythic] SeeMS: should raid schuttn
+19:36 [Info] [Better Chat] [Team] [Supporter] Kongen: well he havent anything bro xD
+19:36 [Info] [Better Chat] [Team] [Mythic] SeeMS: i think he have
+19:36 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+19:36 [Info] [Better Chat] [Team] [Supporter] Kongen: I think hes poor as hell xD
+19:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: i think he have bomb and shit
+19:37 [Info] [Kill Feed] [37/19/23/02/2021] Bot Antek                                                     spikes.floor                   0.8m                           Bot Antek
+19:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: cuz he raided guys
+19:37 [Info] [Better Chat] [Team] [Supporter] Kongen: are you sure? xD
+19:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye
+19:37 [Info] [Better Chat] [Team] [Supporter] Kongen: but its also kinda beackstapping? xD
+19:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: fuk it
+19:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: i helped him before
+19:38 [Info] [Better Chat] [Team] [Mythic] SeeMS: and he change his friend so fokin fast
+19:38 [Info] [Better Chat] [Team] [Mythic] SeeMS: xd
+19:38 [Info] [Better Chat] [Team] [Supporter] Kongen: delete him from group then
+19:38 [Info] [Better Chat] [Team] [Supporter] Kongen: try bandit camp or around it
+19:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: there
+19:39 [Info] [Better Chat] [Team] [Supporter] Kongen: I see
+19:39 [Info] [Better Chat] [Team] [Supporter] Kongen: carefull
+19:39 [Info] [Better Chat] [Team] [Mythic] SeeMS: wc 30sec wait xd
+19:39 [Info] [Better Chat] [Team] [Supporter] Kongen: he got solar
+19:40 [Info] [Better Chat] [Global] [Pro] Kappa: lag?
+19:40 [Info] [Better Chat] [Global] [Supporter] Kongen: no?
+19:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: @ch
+19:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: ok she is not here
+19:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: well lets go xD
+19:40 [Info] [Better Chat] [Team] [Supporter] Kongen: who?
+19:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: chitzo
+19:40 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+19:41 [Info] [Better Chat] [Team] [Supporter] Kongen: Im up here
+19:41 [Info] [Better Chat] [Team] [Supporter] Kongen: behind you
+19:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: tif she was here, it will auto write chitzo
+19:41 [Info] [Better Chat] [Team] [Mythic] SeeMS: when i write @chi XD
+19:41 [Info] [Kill Feed] [41/19/23/02/2021] Bot Antek                      Spine                          salvaged.cleaver               0.7m                           Baby Be Like
+19:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: here food xd
+19:42 [Info] [Better Chat] [Team] [Supporter] Kongen: I think
+19:42 [Info] [Kill Feed] [42/19/23/02/2021] minicopter.entity                                             explosion                      1.3m                           The Mouther
+19:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: now we can think XD
+19:42 [Info] [Better Chat] [Team] [Supporter] Kongen: nvm xD
+19:43 [Info] [Kill Feed] [43/19/23/02/2021] The Mouther                                                   suicide                                                       The Mouther
+19:43 [Info] [Better Chat] [Team] [Supporter] Kongen: gogo
+19:44 [Info] [Better Chat] [Global] [Newbie] The Mouther: kit
+19:44 [Info] [Kill Feed] [44/19/23/02/2021] Baby Be Like                                                  explosive.satchel              7.3m                           Bear
+19:44 [Info] [Better Chat] [Team] [Mythic] SeeMS: xddd
+19:44 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+19:45 [Info] [Kill Feed] [45/19/23/02/2021] The Mouther                    Arm                            hatchet                        0.5m                           Insanity
+19:45 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+19:45 [Info] [Better Chat] [Team] [Mythic] SeeMS: u can come XD
+19:46 [Info] [Better Chat] [Team] [Mythic] SeeMS: wtf xd
+19:46 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+19:46 [Info] [Better Chat] [Team] [Mythic] SeeMS: the outside na?
+19:46 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+19:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: uuu
+19:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: trap
+19:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: no bullet xd
+19:47 [Info] [Better Chat] [Team] [Supporter] Kongen: I can take
+19:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh no
+19:47 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+19:48 [Info] [Better Chat] [Team] [Supporter] Kongen: aw
+19:48 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+19:48 [Info] [Better Chat] [Team] [Supporter] Kongen: carefull I blow up now
+19:48 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye i run away XD
+19:48 [Info] [Better Chat] [Team] [Supporter] Kongen: there we go
+19:49 [Info] [Better Chat] [Team] [Supporter] Kongen: 8 rockets
+19:49 [Info] [Better Chat] [Team] [Mythic] SeeMS: Fuk
+19:49 [Info] [Better Chat] [Team] [Mythic] SeeMS: u didnt lot my bag XD
+19:49 [Info] [Better Chat] [Team] [Supporter] Kongen: not bad
+19:49 [Info] [Better Chat] [Team] [Mythic] SeeMS: so im full XD
+19:49 [Info] [Better Chat] [Team] [Mythic] SeeMS: last time
+19:49 [Info] [Better Chat] [Team] [Mythic] SeeMS: back XD
+19:50 [Warning] Calling 'OnTick' on 'RustIO v2.17.0' took 374ms [GARBAGE COLLECT]
+19:50 [Info] [Better Chat] [Team] [Mythic] SeeMS: some stuf here
+19:50 [Info] [Better Chat] [Team] [Supporter] Kongen: come
+19:50 [Info] [Better Chat] [Team] [Supporter] Kongen: all clear
+19:52 [Info] [Better Chat] [Team] [Mythic] SeeMS: some pc
+19:52 [Info] [HeliControl] Next Helicopter spawn: 16 minutes
+19:52 [Info] [Better Chat] [Team] [Supporter] Kongen: TT ^^
+19:52 [Info] [Better Chat] [Team] [Mythic] SeeMS: o yea
+19:52 [Info] [Better Chat] [Team] [Supporter] Kongen: I got 150 TT on me so far
+19:52 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+19:53 [Info] [Kill Feed] [53/19/23/02/2021] Kappa                                                         explosive.timed                24.6m                          Deputy Diamond
+19:53 [Info] [Better Chat] [Team] [Mythic] SeeMS: do u have hqm
+19:53 [Info] [Better Chat] [Team] [Mythic] SeeMS: ty XD
+19:53 [Info] [Better Chat] [Team] [Supporter] Kongen: yw xD
+19:54 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+19:54 [Info] [Better Chat] [Team] [Mythic] SeeMS: Xd
+19:54 [Info] [Welcomer] • Mologate™ has joined the server from Germany.
+19:54 [Info] [PlayerRankings] Mologate™ has been ranked up to regular
+19:54 [Info] [Kill Feed] [54/19/23/02/2021] The Mouther                                                   generic                        2.3m                           Boar
+19:54 [Info] [Better Chat] [Team] [Mythic] SeeMS: plan xd
+19:55 [Info] [Kill Feed] [55/19/23/02/2021] SeeMS                                                         rocket.launcher                                               SeeMS
+19:55 [Info] [Better Chat] [Team] [Supporter] Kongen: oh shit xD
+19:55 [Info] [Better Chat] [Team] [Mythic] SeeMS: XDDDDD
+19:55 [Info] [Better Chat] [Team] [Mythic] SeeMS: bring me XD
+19:55 [Info] [Welcomer] • The Mouther has left the server (Disconnected).
+19:55 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+19:56 [Info] [Better Chat] [Team] [Supporter] Kongen: I can shoot it from here when you are done looting
+19:56 [Info] [Better Chat] [Global] [Supporter] Kongen: vote for day
+19:56 [Info] [Kill Feed] [56/19/23/02/2021] Mologate™                      Head                           shotgun.waterpipe              1.7m                           Blyncs
+19:57 [Info] [Better Chat] [Team] [Mythic] SeeMS: they are no vote fok
+19:57 [Info] [Better Chat] [Team] [Supporter] Kongen: no one woted then me so now its dark
+19:57 [Info] [Better Chat] [Team] [Supporter] Kongen: move
+19:57 [Info] [Better Chat] [Team] [Mythic] SeeMS: look the msg
+19:57 [Info] [Better Chat] [Team] [Supporter] Kongen: what msg?
+19:58 [Info] [Better Chat] [Team] [Mythic] SeeMS: HERE
+19:58 [Info] [Better Chat] [Team] [Mythic] SeeMS: XDD
+19:58 [Info] [Better Chat] [Team] [Supporter] Kongen: oh ya I saw it
+19:58 [Info] [Better Chat] [Team] [Mythic] SeeMS: xd
+19:58 [Info] [Better Chat] [Team] [Supporter] Kongen: trap
+19:59 [Info] [Better Chat] [Team] [Supporter] Kongen: nothing xD
+20:00 [Info] [Better Chat] [Team] [Mythic] SeeMS: shit give me the water XD
+20:00 [Info] [Better Chat] [Team] [Mythic] SeeMS: the big thing
+20:00 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+20:00 [Info] [Better Chat] [Team] [Supporter] Kongen: didnt see I took it xD
+20:00 [Info] [Welcomer] • Bot Antek has left the server (Disconnected).
+20:01 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+20:01 [Info] [Better Chat] [Team] [Mythic] SeeMS: noting here
+20:01 [Info] [Better Chat] [Team] [Mythic] SeeMS: well XD
+20:01 [Info] [Better Chat] [Team] [Supporter] Kongen: lets go home with loot and find an other base
+20:01 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye cuz im full xd
+20:01 [Info] [Better Chat] [Team] [Supporter] Kongen: same
+20:02 [Info] [Better Chat] [Team] [Supporter] Kongen: atleast we got something we chould use :)
+20:02 [Info] [Kill Feed] [02/20/23/02/2021] minicopter.entity                                             explosion                      0.7m                           SeeMS
+20:02 [Info] [Kill Feed] [02/20/23/02/2021] minicopter.entity                                             explosion                      1.6m                           Kongen
+20:02 [Info] [Better Chat] [Team] [Mythic] SeeMS: LOL
+20:02 [Info] [Better Chat] [Global] [Pro] Kappa: who to blame?! :D
+20:02 [Info] [Better Chat] [Team] [Supporter] Kongen: wtf
+20:02 [Info] [Better Chat] [Global] [Supporter] Kongen: SeeMS ^^
+20:02 [Info] [Better Chat] [Team] [Mythic] SeeMS: mb XD
+20:02 [Info] [Better Chat] [Global] [Mythic] SeeMS: <​33
+20:03 [Info] [Better Chat] [Team] [Supporter] Kongen: lets go quick
+20:03 [Info] [Better Chat] [Global] [Mythic] SeeMS: ye
+20:03 [Info] [Better Chat] [Team] [Supporter] Kongen: I got fuel
+20:03 [Info] [Better Chat] [Team] [Supporter] Kongen: recall your mini xD
+20:04 [Info] [Kill Feed] [04/20/23/02/2021] Kappa                          Head                           rifle.lr300                    25.0m                          Scarecrow I. Hatfiel
+20:04 [Info] [Better Chat] [Team] [Supporter] Kongen: gogo
+20:05 [Info] [Better Chat] [Team] [Supporter] Kongen: I hope I can find my gun xD
+20:06 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+20:06 [Info] [Better Chat] [Team] [Supporter] Kongen: omfg
+20:06 [Info] [Better Chat] [Team] [Supporter] Kongen: where is my gun
+20:06 [Info] [Kill Feed] [06/20/23/02/2021] Kappa                          Head                           rifle.lr300                    7.2m                           Dr. M. Ellison
+20:07 [Info] [Better Chat] [Team] [Mythic] SeeMS: SHIT
+20:07 [Info] [Kill Feed] [07/20/23/02/2021] Kappa                          Head                           rifle.lr300                    27.8m                          Dr. J. Stewart
+20:07 [Info] [Better Chat] [Team] [Mythic] SeeMS: we are going to home so take another xD
+20:07 [Info] [Better Chat] [Team] [Mythic] SeeMS: we have too much
+20:07 [Info] [Kill Feed] [07/20/23/02/2021] Kappa                          Neck                           rifle.lr300                    28.4m                          Dr. K. Stokes
+20:07 [Info] [Kill Feed] [07/20/23/02/2021] Kappa                          Neck                           rifle.lr300                    28.4m                          Dr. R. Lindsey
+20:08 [Info] [Better Chat] [Team] [Supporter] Kongen: yay found my gun
+20:08 [Info] [Better Chat] [Team] [Mythic] SeeMS: o yé
+20:09 [Info] [Better Chat] [Team] [Supporter] Kongen: alot to recly xD
+20:09 [Info] [Better Chat] [Team] [Supporter] Kongen: but its weird we didnt found a body
+20:10 [Info] [Kill Feed] [10/20/23/02/2021] minicopter.entity                                             explosion                      0.9m                           SeeMS
+20:10 [Info] [Kill Feed] [10/20/23/02/2021] minicopter.entity                                             explosion                      0.9m                           Kongen
+20:10 [Info] [Better Chat] [Team] [Supporter] Kongen: wtf
+20:10 [Info] [Better Chat] [Team] [Mythic] SeeMS: LOL XD
+20:10 [Info] [Better Chat] [Team] [Mythic] SeeMS: im laughing
+20:10 [Info] [Better Chat] [Team] [Mythic] SeeMS: irl XD
+20:10 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:10 [Info] [Better Chat] [Team] [Mythic] SeeMS: srry XD
+20:10 [Info] [Kill Feed] [10/20/23/02/2021] Kappa                          Head                           rifle.lr300                    0.8m                           Dr. N. Horton
+20:10 [Info] [Better Chat] [Global] [Supporter] Kongen: damn SeeMS is drunk today xD
+20:11 [Info] [Better Chat] [Global] [Supporter] Kongen: shit
+20:11 [Info] [Kill Feed] [11/20/23/02/2021] Kappa                          Head                           rifle.lr300                    47.4m                          Dr. S. Hobbs
+20:11 [Info] [Better Chat] [Global] [Mythic] SeeMS: XD
+20:11 [Info] [Better Chat] [Team] [Mythic] SeeMS: why u attack him XD
+20:11 [Info] [Kill Feed] [11/20/23/02/2021] Kappa                          Head                           rifle.lr300                    33.3m                          Dr. E. Carey
+20:11 [Info] [Better Chat] [Global] [Supporter] Kongen: he was close
+20:11 [Info] [Kill Feed] [11/20/23/02/2021] SeeMS                                                         explosion                      16.1m                          Dr. X. Richards
+20:11 [Info] [Better Chat] [Global] [Supporter] Kongen: Im down
+20:11 [Info] [Kill Feed] [11/20/23/02/2021] Kappa                          Head                           rifle.lr300                    8.8m                           Dr. N. Quinn
+20:11 [Info] [Kill Feed] [11/20/23/02/2021] Baby Be Like                                                  suicide                                                       Baby Be Like
+20:11 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:11 [Info] [Kill Feed] [11/20/23/02/2021] Kappa                          Head                           rifle.lr300                    16.9m                          Dr. N. Barrera
+20:11 [Info] [Better Chat] [Team] [Mythic] SeeMS: SHIT IT WAS UR BAG
+20:12 [Info] [Better Chat] [Team] [Mythic] SeeMS: fok
+20:12 [Info] [Better Chat] [Team] [Supporter] Kongen: dosnt matters xD
+20:12 [Info] [Welcomer] • Mologate™ has left the server (Disconnected).
+20:12 [Info] [Better Chat] [Team] [Mythic] SeeMS: YE XD
+20:13 [Info] [Kill Feed] [13/20/23/02/2021] Kappa                          Head                           rifle.lr300                    23.3m                          Dr. S. McBride
+20:13 [Info] [Better Chat] [Team] [Supporter] Kongen: shit
+20:13 [Info] [Better Chat] [Team] [Mythic] SeeMS: IM FULL
+20:13 [Info] [Better Chat] [Team] [Supporter] Kongen: my gun xD
+20:13 [Info] [Better Chat] [Team] [Supporter] Kongen: shit where is it? xD
+20:14 [Info] [Better Chat] [Team] [Mythic] SeeMS: dont matter take a new one XD
+20:14 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:14 [Info] [Better Chat] [Team] [Supporter] Kongen: I took your guns from your body as well
+20:14 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+20:14 [Info] [Kill Feed] [14/20/23/02/2021] Kappa                          Head                           rifle.lr300                    10.7m                          Dr. W. Hardin
+20:15 [Info] [Kill Feed] [15/20/23/02/2021] Kappa                          Head                           rifle.lr300                    22.3m                          Dr. R. Lloyd
+20:15 [Info] [Kill Feed] [15/20/23/02/2021] Kappa                          Head                           rifle.lr300                    12.5m                          Dr. E. Maxwell
+20:15 [Info] [Better Chat] [Team] [Supporter] Kongen: your guns in the box
+20:16 [Info] [Kill Feed] [16/20/23/02/2021] Kappa                          Head                           rifle.lr300                    10.8m                          Dr. M. Washington
+20:16 [Info] [Kill Feed] [16/20/23/02/2021] Kappa                          Head                           rifle.lr300                    14.3m                          Dr. H. Gallagher
+20:17 [Info] [Kill Feed] [17/20/23/02/2021] Kappa                          Head                           rifle.lr300                    12.4m                          Dr. X. Callahan
+20:17 [Info] [Kill Feed] [17/20/23/02/2021] Kappa                          Arm                            rifle.lr300                    19.4m                          Dr. I. Espinoza
+20:20 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+20:20 [Info] [Kill Feed] [20/20/23/02/2021] Baby Be Like                                                  hatchet                        1.0m                           Chicken
+20:20 [Info] [Better Chat] [Team] [Mythic] SeeMS: done now i put in rip box xd
+20:21 [Info] [Better Chat] [Team] [Supporter] Kongen: Im done as well
+20:21 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh they are stuff in rip to recycle
+20:24 [Info] [Better Chat] [Team] [Supporter] Kongen: I got your rockets bro
+20:24 [Info] [Better Chat] [Team] [Mythic] SeeMS: Oh XD
+20:24 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+20:25 [Info] [Better Chat] [Team] [Mythic] SeeMS: fok my lader
+20:25 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+20:25 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+20:25 [Info] [Better Chat] [Team] [Mythic] SeeMS: fok  my siryngue
+20:25 [Info] [Better Chat] [Team] [Supporter] Kongen: we got 20 in all
+20:26 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+20:26 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:26 [Info] [Better Chat] [Team] [Mythic] SeeMS: fok my wep
+20:26 [Info] [Better Chat] [Team] [Mythic] SeeMS: im KIDDING
+20:26 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:26 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+20:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: ur helic
+20:27 [Info] [Better Chat] [Team] [Supporter] Kongen: CD
+20:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: shit
+20:27 [Info] [Better Chat] [Team] [Supporter] Kongen: 301s
+20:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: 748sec
+20:27 [Info] [Welcomer] • dantetegenu4 has left the server (Disconnected).
+20:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: i can spawn big heli but its hsit
+20:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: shit
+20:27 [Info] [Better Chat] [Team] [Supporter] Kongen: then we take mine when we can xD
+20:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+20:28 [Info] [Better Chat] [Team] [Mythic] SeeMS: look at me
+20:28 [Info] [Better Chat] [Team] [Mythic] SeeMS: XDDDDD
+20:28 [Info] [Better Chat] [Team] [Mythic] SeeMS: XDDD
+20:28 [Info] [Better Chat] [Team] [Mythic] SeeMS: fok i have double protection
+20:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: DONE
+20:29 [Info] [Better Chat] [Team] [Supporter] Kongen: ?
+20:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: im rdy
+20:30 [Info] [Better Chat] [Team] [Mythic] SeeMS: shit XDD
+20:30 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:30 [Info] [Better Chat] [Team] [Supporter] Kongen: 86s
+20:31 [Info] [Better Chat] [Team] [Supporter] Kongen: lol
+20:31 [Info] [Better Chat] [Team] [Mythic] SeeMS: FML
+20:31 [Info] [Better Chat] [Team] [Mythic] SeeMS: Xd
+20:31 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:31 [Info] [Better Chat] [Team] [Supporter] Kongen: interrupted xD
+20:31 [Info] [Better Chat] [Team] [Supporter] Kongen: lol
+20:31 [Info] [Better Chat] [Team] [Supporter] Kongen: stand still
+20:31 [Info] [Better Chat] [Team] [Supporter] Kongen: and then tp
+20:32 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+20:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: UFFF
+20:32 [Info] [Better Chat] [Team] [Supporter] Kongen: lets see
+20:32 [Info] [Better Chat] [Team] [Supporter] Kongen: move
+20:33 [Info] [Better Chat] [Team] [Supporter] Kongen: lets try around bandit camp?
+20:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: k
+20:33 [Info] [Better Chat] [Team] [Supporter] Kongen: maybe we are lucky today :D
+20:34 [Info] [Better Chat] [Team] [Supporter] Kongen: QQ
+20:35 [Info] [Better Chat] [Team] [Mythic] SeeMS: little shit there
+20:36 [Info] [Better Chat] [Team] [Supporter] Kongen: maybe tp point
+20:36 [Info] [Better Chat] [Team] [Supporter] Kongen: nothing -.-
+20:37 [Info] [Better Chat] [Team] [Supporter] Kongen: I think we did that allready xD
+20:37 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+20:37 [Info] [Better Chat] [Team] [Mythic] SeeMS: empty xd
+20:38 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:38 [Info] [Better Chat] [Team] [Mythic] SeeMS: xddd
+20:40 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: xddd
+20:40 [Info] [Better Chat] [Team] [Supporter] Kongen: flu?
+20:40 [Info] [Better Chat] [Team] [Mythic] SeeMS: yes
+20:41 [Info] [Better Chat] [Team] [Supporter] Kongen: and hes solo damn
+20:41 [Info] [Better Chat] [Team] [Supporter] Kongen: gogo :D
+20:41 [Info] [Better Chat] [Team] [Supporter] Kongen: lets take top
+20:41 [Info] [Better Chat] [Team] [Supporter] Kongen: stone there
+20:41 [Info] [Better Chat] [Team] [Supporter] Kongen: I think it will blow up
+20:42 [Info] [Better Chat] [Team] [Supporter] Kongen: I use c4 now
+20:42 [Info] [Better Chat] [Team] [Supporter] Kongen: that was cheap xD
+20:42 [Info] [Better Chat] [Team] [Supporter] Kongen: nothing dosnt look good
+20:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: shit
+20:42 [Info] [Better Chat] [Team] [Mythic] SeeMS: i burn his bad for that
+20:43 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:43 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+20:43 [Info] [Better Chat] [Team] [Supporter] Kongen: its raided
+20:43 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh raided xd
+20:43 [Info] [Better Chat] [Team] [Supporter] Kongen: I saw
+20:43 [Info] [Better Chat] [Team] [Supporter] Kongen: only 3 doors to loot so thats like 3-6 c4 xD
+20:43 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+20:43 [Info] [Better Chat] [Team] [Supporter] Kongen: weak ass base
+20:44 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye
+20:44 [Info] [Better Chat] [Team] [Mythic] SeeMS: we dont this before na?
+20:44 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+20:44 [Info] [Better Chat] [Team] [Mythic] SeeMS: sam site
+20:44 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+20:46 [Info] [Better Chat] [Team] [Mythic] SeeMS: failed my jump XD
+20:46 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:46 [Info] [Better Chat] [Team] [Mythic] SeeMS: only shit
+20:46 [Info] [Better Chat] [Team] [Supporter] Kongen: oh shit
+20:47 [Info] [Better Chat] [Team] [Supporter] Kongen: he did the same with the tc
+20:47 [Info] [Better Chat] [Team] [Supporter] Kongen: as us
+20:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh true
+20:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: xd
+20:47 [Info] [Better Chat] [Team] [Supporter] Kongen: its metal
+20:47 [Info] [Better Chat] [Team] [Supporter] Kongen: blow it up?
+20:47 [Info] [Better Chat] [Team] [Mythic] SeeMS: yes
+20:47 [Info] [Better Chat] [Team] [Supporter] Kongen: like up here from
+20:48 [Info] [Better Chat] [Team] [Mythic] SeeMS: something? XD
+20:48 [Info] [Better Chat] [Team] [Supporter] Kongen: few mats
+20:49 [Info] [Better Chat] [Team] [Mythic] SeeMS: actually we can attack flu
+20:49 [Info] [Better Chat] [Team] [Supporter] Kongen: that base over there xD
+20:49 [Info] [Better Chat] [Team] [Mythic] SeeMS: but idk XD
+20:49 [Info] [Better Chat] [Team] [Supporter] Kongen: same
+20:49 [Info] [Better Chat] [Team] [Supporter] Kongen: someone is close
+20:50 [Info] [Better Chat] [Team] [Mythic] SeeMS: yes
+20:50 [Info] [Better Chat] [Team] [Supporter] Kongen: I heard shots
+20:50 [Info] [Better Chat] [Team] [Supporter] Kongen: metal there
+20:51 [Info] [Kill Feed] [51/20/23/02/2021] SeeMS                          Head                           rifle.lr300                    13.8m                          Executor
+20:51 [Warning] 'NPCDropGun v2.0.4' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+20:52 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+20:53 [Info] [Better Chat] [Team] [Mythic] SeeMS: tc xd
+20:53 [Info] [Better Chat] [Team] [Supporter] Kongen: here
+20:53 [Info] [Better Chat] [Team] [Supporter] Kongen: he have stuffs here
+20:54 [Info] [Better Chat] [Team] [Mythic] SeeMS: 4 C4
+20:54 [Info] [Better Chat] [Team] [Mythic] SeeMS: lets let hime that?
+20:54 [Info] [Better Chat] [Team] [Mythic] SeeMS: xDDD
+20:54 [Info] [Better Chat] [Global] [Mythic] SeeMS: XDD
+20:54 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:56 [Info] [Better Chat] [Global] [Mythic] SeeMS: wtf
+20:56 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:56 [Info] [Better Chat] [Team] [Mythic] SeeMS: who is that
+20:56 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh u
+20:56 [Info] [Better Chat] [Team] [Mythic] SeeMS: XDD
+20:56 [Info] [PrivateMessages] [PM]dantetegenu4->Kappa:hei
+20:56 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+20:56 [Info] [Better Chat] [Team] [Mythic] SeeMS: X5 lr here
+20:56 [Info] [Better Chat] [Team] [Mythic] SeeMS: but fok it
+20:56 [Info] [Better Chat] [Team] [Supporter] Kongen: k
+20:57 [Info] [PrivateMessages] [PM]Kappa->dantetegenu4:hey there :)
+20:57 [Info] [Better Chat] [Team] [Mythic] SeeMS: IM NOT BITCH i i will let him that xd
+20:57 [Info] [Better Chat] [Team] [Supporter] Kongen: k
+20:58 [Info] [Better Chat] [Team] [Supporter] Kongen: looks raided
+20:58 [Info] [Better Chat] [Team] [Supporter] Kongen: there
+20:58 [Info] [Better Chat] [Team] [Supporter] Kongen: saw something
+20:58 [Info] [Better Chat] [Team] [Supporter] Kongen: highere
+20:58 [Info] [Better Chat] [Team] [Supporter] Kongen: there
+20:59 [Info] [Better Chat] [Team] [Supporter] Kongen: looks raided?
+20:59 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye
+21:00 [Info] [Better Chat] [Team] [Supporter] Kongen: sad xD
+21:00 [Info] [TruePVE] [WARNING] Schedule Broadcast: PVE is on now!
+21:00 [Info] [Better Chat] [Team] [Supporter] Kongen: and now pvp is over
+21:00 [Info] [Better Chat] [Team] [Mythic] SeeMS: fuk pve
+21:00 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+21:00 [Info] [Better Chat] [Team] [Mythic] SeeMS: fukkk
+21:00 [Info] [Better Chat] [Team] [Mythic] SeeMS: tomorrow we start search before that time XD
+21:00 [Info] [Welcomer] • barny706 has joined the server from Italy.
+21:00 [Info] [Welcomer] • paulus567 has joined the server from Germany.
+21:01 [Info] [Better Chat] [Team] [Supporter] Kongen: I have some to do but I will be home around 4-5 pm
+21:01 [Info] [Better Chat] [Team] [Supporter] Kongen: tomorrow ofc
+21:01 [Info] [Better Chat] [Team] [Mythic] SeeMS: nice i will be here too :D
+21:01 [Info] [Better Chat] [Team] [Mythic] SeeMS: home ?
+21:01 [Info] [Better Chat] [Team] [Supporter] Kongen: sure xD
+21:01 [Info] [Better Chat] [Team] [Supporter] Kongen: pve time xD
+21:01 [Info] [Welcomer] • Guba has left the server (Disconnected).
+21:01 [Info] [Better Chat] [Team] [Mythic] SeeMS: doing bradley
+21:01 [Info] [Better Chat] [Team] [Supporter] Kongen: though you was about to crash xD
+21:01 [Info] [Better Chat] [Team] [Mythic] SeeMS: xd
+21:02 [Info] [Better Chat] [Team] [Supporter] Kongen: fly over flu?
+21:02 [Info] [Better Chat] [Team] [Supporter] Kongen: its pve time right? xD
+21:02 [Info] [Better Chat] [Team] [Supporter] Kongen: fly after him
+21:02 [Info] [Better Chat] [Team] [Supporter] Kongen: wanna see name
+21:03 [Info] [Better Chat] [Team] [Mythic] SeeMS: xddd
+21:03 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+21:03 [Info] [Better Chat] [Global] [Mythic] SeeMS: who are u?
+21:04 [Info] [Better Chat] [Global] [Newbie] barny706: SAMUEL SZTAN
+21:04 [Info] [Better Chat] [Global] [Supporter] Kongen: xD
+21:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: its u on the helic?
+21:04 [Info] [Better Chat] [Global] [Regular] dantetegenu4: NO
+21:04 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: do you have any water sir
+21:04 [Info] [Better Chat] [Global] [Regular] dantetegenu4: He is with me
+21:04 [Info] [Better Chat] [Team] [Supporter] Kongen: maybe you should fly high and then I tp you?
+21:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: k
+21:04 [Info] [Better Chat] [Global] [Mythic] SeeMS: xDDD
+21:04 [Info] [Better Chat] [Team] [Supporter] Kongen: try
+21:04 [Info] [Better Chat] [Team] [Supporter] Kongen: gogo
+21:04 [Info] [Better Chat] [Team] [Supporter] Kongen: as high you can xD
+21:04 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: i would appriciate a cup of it
+21:05 [Info] [NTeleportation] Kongen teleported SeeMS to Kongen.
+21:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: LOL
+21:05 [Info] [Better Chat] [Global] [Mythic] SeeMS: :O
+21:05 [Info] [Better Chat] [Team] [Supporter] Kongen: shit
+21:05 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: thank ypu
+21:05 [Info] [Better Chat] [Team] [Supporter] Kongen: he didnt die xD
+21:06 [Info] [Better Chat] [Team] [Supporter] Kongen: I thouhg he whould die from failing xD
+21:07 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: XD
+21:07 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: bye
+21:07 [Info] [Better Chat] [Global] [Mythic] SeeMS: xDDD
+21:07 [Info] [Better Chat] [Team] [Mythic] SeeMS: so funy
+21:07 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+21:07 [Info] [Better Chat] [Team] [Supporter] Kongen: lets go home I guess
+21:08 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: ha ha
+21:08 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye
+21:08 [Info] [Better Chat] [Team] [Mythic] SeeMS: tp xD
+21:08 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: i have escaped
+21:08 [Info] [Better Chat] [Team] [Mythic] SeeMS: xddd
+21:08 [Info] [Kill Feed] [08/21/23/02/2021] dantetegenu4                   Head                           rifle.ak                       2.2m                           Dr. T. Hansen
+21:08 [Info] [Welcomer] • paulus567 has left the server (Disconnected).
+21:09 [Info] [Kill Feed] [09/21/23/02/2021] dantetegenu4                   Hand                           rifle.ak                       9.6m                           Dr. Y. Walters
+21:09 [Info] [Kill Feed] [09/21/23/02/2021] barny706                       Forearm                        smg.mp5                        5.3m                           Dr. K. Byers
+21:10 [Info] [Kill Feed] [10/21/23/02/2021] barny706                       Neck                           smg.mp5                        4.9m                           Dr. E. Cardenas
+21:11 [Info] [Kill Feed] [11/21/23/02/2021] dantetegenu4                   Arm                            rifle.ak                       8.7m                           Dr. E. Fuller
+21:11 [Info] [Kill Feed] [11/21/23/02/2021] dantetegenu4                   Hip                            rifle.ak                       8.9m                           Dr. M. McDonald
+21:11 [Info] [Kill Feed] [11/21/23/02/2021] barny706                       Head                           rifle.lr300                    11.9m                          Dr. Q. Abbott
+21:11 [Info] [Kill Feed] [11/21/23/02/2021] dantetegenu4                   Head                           rifle.ak                       3.5m                           Dr. W. Oneill
+21:11 [Info] [Kill Feed] [11/21/23/02/2021] barny706                       Forearm                        rifle.lr300                    2.8m                           Dr. P. Marks
+21:11 [Info] [Kill Feed] [11/21/23/02/2021] Dr. Q. Dorsey                                                 rifle.lr300                    27.4m                          barny706
+21:12 [Info] [Kill Feed] [12/21/23/02/2021] barny706                                                      suicide                                                       barny706
+21:12 [Info] [Kill Feed] [12/21/23/02/2021] dantetegenu4                                                  suicide                                                       dantetegenu4
+21:12 [Info] [Better Chat] [Team] [Mythic] SeeMS: done
+21:12 [Info] [Better Chat] [Team] [Mythic] SeeMS: xddd
+21:12 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+21:13 [Info] [Better Chat] [Team] [Supporter] Kongen: damn
+21:13 [Info] [Better Chat] [Team] [Mythic] SeeMS: what XD
+21:13 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh i try to see to XD
+21:15 [Info] [Better Chat] [Team] [Mythic] SeeMS: i sent u the pic XD
+21:15 [Info] [Better Chat] [Team] [Supporter] Kongen: I see it
+21:15 [Info] [Better Chat] [Team] [Mythic] SeeMS: shiit XD
+21:15 [Info] [Better Chat] [Team] [Supporter] Kongen: crafting atm xD
+21:17 [Info] [Better Chat] [Team] [Mythic] SeeMS: need tt ?
+21:17 [Info] [Better Chat] [Team] [Supporter] Kongen: ya?
+21:17 [Info] [Better Chat] [Team] [Supporter] Kongen: all TT is gone now
+21:18 [Info] [Better Chat] [Team] [Mythic] SeeMS: XDDD
+21:18 [Info] [Better Chat] [Team] [Supporter] Kongen: allmost 1,1k c4 xD
+21:18 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+21:18 [Info] [Better Chat] [Team] [Mythic] SeeMS: now alost 1.2k
+21:18 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+21:18 [Info] [Kill Feed] [18/21/23/02/2021] dantetegenu4                   Hand                           rifle.lr300                    19.6m                          Dr. B. Warren
+21:18 [Info] [Better Chat] [Team] [Mythic] SeeMS: almost
+21:18 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+21:19 [Info] [Kill Feed] [19/21/23/02/2021] dantetegenu4                   Arm                            rifle.lr300                    14.6m                          Dr. V. Howard
+21:19 [Info] [Kill Feed] [19/21/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    18.5m                          Dr. Q. Dorsey
+21:19 [Info] [Better Chat] [Team] [Mythic] SeeMS: what that sound
+21:19 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh should be dante shoting
+21:19 [Info] [Better Chat] [Team] [Supporter] Kongen: oh
+21:19 [Info] [Better Chat] [Team] [Supporter] Kongen: boom 1,2k
+21:20 [Info] [Better Chat] [Team] [Mythic] SeeMS: omg XD
+21:20 [Info] [Better Chat] [Team] [Mythic] SeeMS: we use it all before the wipe
+21:20 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+21:20 [Info] [Better Chat] [Team] [Mythic] SeeMS: even if we raid guba
+21:20 [Info] [Better Chat] [Team] [Supporter] Kongen: sure
+21:20 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+21:20 [Info] [Better Chat] [Team] [Supporter] Kongen: and we can give away some xD
+21:20 [Info] [Better Chat] [Team] [Mythic] SeeMS: ye too xD
+21:20 [Info] [Better Chat] [Team] [Mythic] SeeMS: maybe use our airdrop
+21:21 [Info] [Better Chat] [Team] [Mythic] SeeMS: or let it for tomorrow
+21:21 [Info] [Better Chat] [Team] [Supporter] Kongen: tomorrow I guess xD
+21:21 [Info] [Better Chat] [Team] [Supporter] Kongen: or give it away xD
+21:21 [Info] [Better Chat] [Team] [Supporter] Kongen: we allready have stuff
+21:21 [Info] [Better Chat] [Team] [Supporter] Kongen: maybe for newbies?
+21:21 [Info] [Better Chat] [Team] [Mythic] SeeMS: HMMM
+21:21 [Info] [Better Chat] [Team] [Mythic] SeeMS: yeah why not xD
+21:21 [Info] [Better Chat] [Team] [Supporter] Kongen: how many we got?
+21:21 [Info] [Better Chat] [Team] [Mythic] SeeMS: 6
+21:21 [Info] [Better Chat] [Team] [Supporter] Kongen: I see
+21:22 [Info] [Better Chat] [Team] [Mythic] SeeMS: 2 TO 3 NEWBIES
+21:22 [Info] [Better Chat] [Team] [Mythic] SeeMS: or idk XD
+21:22 [Info] [Better Chat] [Team] [Supporter] Kongen: let me craft then I can tp to ppls
+21:22 [Info] [Better Chat] [Team] [Mythic] SeeMS: take it XD
+21:22 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+21:23 [Info] [Kill Feed] [23/21/23/02/2021] dantetegenu4                                                  cold                                                          dantetegenu4
+21:23 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+21:23 [Info] [Better Chat] [Team] [Mythic] SeeMS: i tp now XD
+21:23 [Info] [Welcomer] • dantetegenu4 has left the server (Disconnected).
+21:23 [Info] [Better Chat] [Team] [Mythic] SeeMS: im on the launch site xD
+21:23 [Info] [Better Chat] [Team] [Supporter] Kongen: damn
+21:23 [Info] [Better Chat] [Team] [Mythic] SeeMS: doing bradley, muaahhaha you faileld <​3
+21:24 [Info] [Better Chat] [Team] [Supporter] Kongen: QQ
+21:24 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+21:24 [Info] [Better Chat] [Team] [Mythic] SeeMS: SOME TT
+21:24 [Info] [Better Chat] [Team] [Mythic] SeeMS: i found
+21:24 [Info] [Better Chat] [Team] [Supporter] Kongen: nice
+21:24 [Info] [Better Chat] [Team] [Supporter] Kongen: I will ask in chat about airdrop
+21:25 [Info] [Better Chat] [Team] [Mythic] SeeMS: YEAH
+21:25 [Info] [Better Chat] [Team] [Mythic] SeeMS: yeah *
+21:26 [Info] [Better Chat] [Global] [Supporter] Kongen: SeeMS and I wanted to ask if any1 want airdrops?
+21:26 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+21:26 [Info] [Better Chat] [Global] [Mythic] SeeMS: so someone want aidrop ?
+21:26 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: give me it i will maybe find water
+21:26 [Info] [Better Chat] [Team] [Pro] Kappa: may be Baby , he looks new
+21:26 [Info] [Better Chat] [Global] [Supporter] Kongen: really no one? xD
+21:26 [Info] [Better Chat] [Global] [Newbie] barny706: me
+21:27 [Info] [Better Chat] [Global] [Supporter] Kongen: I will tp to you
+21:27 [Info] [Better Chat] [Team] [Newbie] Baby Be Like: i was first
+21:27 [Info] [Better Chat] [Global] [Newbie] barny706: im on oil
+21:27 [Info] [Better Chat] [Global] [Supporter] [AdminMode] Kongen: oh
+21:27 [Info] [Better Chat] [Global] [Newbie] barny706: i can tp on you?
+21:27 [Info] [Better Chat] [Team] [Mythic] SeeMS: bradley done
+21:27 [Info] [Better Chat] [Global] [Pro] Kappa: u cant
+21:27 [Info] [Better Chat] [Global] [Newbie] barny706: tp on dantetegenu4
+21:27 [Info] [Better Chat] [Global] [Supporter] Kongen: you are on water
+21:27 [Info] [Better Chat] [Global] [Pro] Kappa: May be Baby will want, he looks new
+21:27 [Info] [Better Chat] [Team] [Supporter] Kongen: nice
+21:27 [Info] [Better Chat] [Global] [Supporter] Kongen: let me know when you are done
+21:28 [Info] [Better Chat] [Global] [Regular] dantetegenu4: tp to me
+21:28 [Info] [Better Chat] [Global] [Supporter] Kongen: coming
+21:28 [Info] [Better Chat] [Global] [Regular] dantetegenu4: i'll bring u to barny in a mini
+21:28 [Info] [NTeleportation] Kongen teleported Kongen to dantetegenu4.
+21:28 [Info] [Better Chat] [Global] [Supporter] Kongen: s
+21:28 [Info] [Better Chat] [Global] [Supporter] Kongen: np I tp back :)
+21:28 [Info] [Better Chat] [Global] [Regular] dantetegenu4: bye
+21:29 [Info] [Better Chat] [Global] [Supporter] Kongen: bye :)
+21:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: WTF
+21:29 [Info] [Better Chat] [Team] [Supporter] Kongen: ?
+21:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: i falldown from like 30 meter
+21:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: but no damage
+21:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+21:29 [Info] [Better Chat] [Team] [Supporter] Kongen: lucky I guess
+21:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+21:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: uffff
+21:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: and now i fall from 2 meter
+21:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: and get damage
+21:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: that so logic
+21:29 [Info] [Better Chat] [Team] [Mythic] SeeMS: XD
+21:30 [Info] [Better Chat] [Team] [Supporter] Kongen: lol
+21:30 [Info] [Better Chat] [Team] [Mythic] SeeMS: fuk logic
+21:32 [Info] [Better Chat] [Global] [Supporter] Kongen: any1 else want airdrop?
+21:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: me plz
+21:32 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+21:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: xd
+21:32 [Info] [Better Chat] [Team] [Mythic] SeeMS: newbie dont read the chat sometime
+21:32 [Info] [Better Chat] [Team] [Supporter] Kongen: ya I can see that xD
+21:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: maybe dante want
+21:33 [Info] [Better Chat] [Team] [Supporter] Kongen: I gave him 2
+21:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: oh xD
+21:33 [Info] [Better Chat] [Team] [Supporter] Kongen: oh well
+21:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: found some lr
+21:33 [Info] [Better Chat] [Team] [Supporter] Kongen: xD
+21:33 [Info] [Better Chat] [Team] [Mythic] SeeMS: and C4
+21:34 [Info] [Better Chat] [Team] [Mythic] SeeMS: xD
+21:34 [Info] [Better Chat] [Team] [Supporter] Kongen: yay more c4 xD
+21:34 [Info] [Better Chat] [Team] [Mythic] SeeMS: now itp back hehee
+21:34 [Info] [Better Chat] [Team] [Mythic] SeeMS: or na, i recycl before
+21:34 [Info] [Better Chat] [Team] [Supporter] Kongen: so much food xD
+21:34 [Info] [Kill Feed] [34/21/23/02/2021] Kappa                          Head                           rifle.semiauto                 17.4m                          Scarecrow F. Lucas
+21:35 [Info] [Better Chat] [Team] [Supporter] Kongen: I will watch some serie xD
+21:35 [Info] [Kill Feed] [35/21/23/02/2021] Kappa                          Arm                            rifle.semiauto                 39.9m                          Scarecrow L. Clayton
+21:36 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561198448986524
+21:36 [Info] [VoteRewards] 0
+21:37 [Info] [Welcomer] • Kongen has left the server (Disconnected).
+21:37 [Info] [Kill Feed] [37/21/23/02/2021] Kappa                          Head                           rifle.lr300                    7.9m                           Dr. U. Rodriquez
+21:38 [Info] [Kill Feed] [38/21/23/02/2021] Kappa                          Neck                           rifle.semiauto                 26.5m                          Dr. F. Dixon
+21:38 [Info] [Kill Feed] [38/21/23/02/2021] Kappa                          Hand                           rifle.semiauto                 27.5m                          Dr. S. Ruiz
+21:38 [Info] [Kill Feed] [38/21/23/02/2021] Kappa                          Head                           rifle.lr300                    26.7m                          Dr. Q. Peterson
+21:39 [Info] [Better Chat] [Global] [Mythic] SeeMS: Works hard here xd
+21:39 [Info] [Better Chat] [Global] [Mythic] SeeMS: xd
+21:48 [Info] [Welcomer] • barny706 has left the server (Timed Out).
+21:51 [Info] [Kill Feed] [51/21/23/02/2021] Kappa                          Head                           rifle.semiauto                 61.7m                          Dr. M. Boyer
+21:52 [Info] [Kill Feed] [52/21/23/02/2021] Kappa                          Neck                           rifle.semiauto                 68.4m                          Dr. R. Gilmore
+21:52 [Info] [Kill Feed] [52/21/23/02/2021] Baby Be Like                   Head                           rifle.semiauto                 74.3m                          Dr. H. Boone
+21:53 [Info] [Kill Feed] [53/21/23/02/2021] Dr. K. Woods                                                  rifle.lr300                    31.1m                          Kappa
+21:53 [Warning] 'NPCDropGun v2.0.4' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+21:53 [Info] [Welcomer] • Kappa has left the server (Disconnected).
+21:54 [Info] [Kill Feed] [54/21/23/02/2021] Baby Be Like                   Head                           smg.2                          15.3m                          Dr. B. MacIas
+21:55 [Info] [Kill Feed] [55/21/23/02/2021] Baby Be Like                   Head                           smg.2                          3.8m                           Dr. E. Lancaster
+21:55 [Info] [Welcomer] • barny706 has joined the server from Italy.
+21:55 [Info] [Kill Feed] [55/21/23/02/2021] Baby Be Like                   Forearm                        smg.2                          3.5m                           Dr. Y. Byers
+21:56 [Info] [Kill Feed] [56/21/23/02/2021] Baby Be Like                   Arm                            rifle.semiauto                 5.3m                           Dr. X. Williams
+21:56 [Info] [Kill Feed] [56/21/23/02/2021] Dr. W. Compton                                                smg.mp5                        9.4m                           Baby Be Like
+21:56 [Info] [Welcomer] • Baby Be Like has left the server (Disconnected).
+22:02 [Info] [Welcomer] • poperss has joined the server from Denmark.
+22:08 [Info] [Welcomer] • EXL04 has joined the server from Denmark.
+22:08 [Info] [Kill Feed] [08/22/23/02/2021] barny706                       Knee                           rifle.lr300                    38.6m                          Dr. G. Santiago
+22:15 [Info] [Welcomer] • NewbieDoobyDoo has joined the server from Germany.
+22:20 [Info] [Welcomer] • barny706 has left the server (Timed Out).
+22:22 [Info] [Welcomer] • barny706 has joined the server from Italy.
+22:23 [Info] [Welcomer] • SeeMS has left the server (Disconnected).
+22:25 [Info] [Kill Feed] [25/22/23/02/2021] barny706                       Head                           rifle.bolt                     110.6m                         Dr. D. Contreras
+22:25 [Info] [Kill Feed] [25/22/23/02/2021] barny706                       Neck                           rifle.bolt                     127.8m                         Dr. C. Wheeler
+22:25 [Info] [Kill Feed] [25/22/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    32.5m                          Dr. K. Woods
+22:26 [Info] [Kill Feed] [26/22/23/02/2021] barny706                       Head                           rifle.lr300                    2.8m                           Dr. N. Pate
+22:26 [Info] [Kill Feed] [26/22/23/02/2021] barny706                       Head                           rifle.lr300                    32.4m                          Dr. N. Huber
+22:26 [Info] [Kill Feed] [26/22/23/02/2021] Bear                                                          bite                           2.3m                           poperss
+22:26 [Info] [Kill Feed] [26/22/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    5.5m                           Dr. K. McMahon
+22:27 [Info] [Kill Feed] [27/22/23/02/2021] dantetegenu4                   Forearm                        rifle.lr300                    10.4m                          Dr. L. Bartlett
+22:28 [Info] [Kill Feed] [28/22/23/02/2021] barny706                       Head                           rifle.lr300                    14.0m                          Dr. Z. Miranda
+22:29 [Info] [Kill Feed] [29/22/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    12.8m                          Dr. Z. Cross
+22:29 [Info] [Kill Feed] [29/22/23/02/2021] barny706                       Neck                           smg.mp5                        1.6m                           Dr. B. Wong
+22:29 [Info] [Kill Feed] [29/22/23/02/2021] barny706                       Arm                            rifle.lr300                    6.7m                           Dr. Q. Salazar
+22:29 [Info] [Kill Feed] [29/22/23/02/2021] dantetegenu4                   Pelvis                         rifle.lr300                    8.4m                           Dr. D. Peterson
+22:29 [Info] [Kill Feed] [29/22/23/02/2021] barny706                       Head                           rifle.lr300                    8.2m                           Dr. N. Ingram
+22:30 [Info] [Kill Feed] [30/22/23/02/2021] barny706                       Head                           rifle.lr300                    9.9m                           Dr. R. Morales
+22:30 [Info] [Kill Feed] [30/22/23/02/2021] dantetegenu4                   Neck                           rifle.lr300                    3.7m                           Dr. P. George
+22:30 [Info] [Welcomer] • SafaBeY38 has joined the server from Germany.
+22:30 [Info] [Kill Feed] [30/22/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    3.0m                           Dr. F. Fulton
+22:31 [Info] [Kill Feed] [31/22/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    9.9m                           Dr. R. Lucas
+22:31 [Info] [Kill Feed] [31/22/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    8.7m                           Dr. B. Rhodes
+22:31 [Info] [Kill Feed] [31/22/23/02/2021] barny706                       Head                           rifle.lr300                    8.4m                           Dr. Y. Flores
+22:31 [Info] [Kill Feed] [31/22/23/02/2021] barny706                       Head                           rifle.lr300                    7.7m                           Dr. F. Benson
+22:32 [Info] [Kill Feed] [32/22/23/02/2021] dantetegenu4                   Hand                           rifle.lr300                    6.9m                           Dr. S. Bonner
+22:33 [Info] [Kill Feed] [33/22/23/02/2021] barny706                       Hand                           rifle.lr300                    2.7m                           Dr. U. Fulton
+22:33 [Info] [Kill Feed] [33/22/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    4.3m                           Dr. W. Quinn
+22:34 [Info] [Welcomer] • SafaBeY38 has left the server (Disconnected).
+22:36 [Info] [Kill Feed] [36/22/23/02/2021] barny706                       Hip                            rifle.lr300                    17.1m                          Dr. U. Nieves
+22:36 [Info] [Kill Feed] [36/22/23/02/2021] barny706                       Knee                           rifle.lr300                    9.7m                           Dr. P. Dotson
+22:37 [Info] [Kill Feed] [37/22/23/02/2021] barny706                       Chest                          rifle.lr300                    8.5m                           Dr. U. Mendez
+22:37 [Info] [Kill Feed] [37/22/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    10.9m                          Dr. J. Gould
+22:37 [Info] [Kill Feed] [37/22/23/02/2021] dantetegenu4                   Arm                            rifle.lr300                    5.0m                           Dr. V. Hughes
+22:38 [Info] [Kill Feed] [38/22/23/02/2021] barny706                       Head                           rifle.lr300                    18.6m                          Dr. V. Simmons
+22:38 [Info] [Kill Feed] [38/22/23/02/2021] barny706                       Neck                           rifle.lr300                    11.2m                          Dr. D. Davenport
+22:39 [Info] [Kill Feed] [39/22/23/02/2021] dantetegenu4                   Arm                            rifle.lr300                    10.3m                          Dr. K. Castro
+22:40 [Info] [Kill Feed] [40/22/23/02/2021] dantetegenu4                   Arm                            rifle.lr300                    6.4m                           Dr. P. Pollard
+22:40 [Info] [Kill Feed] [40/22/23/02/2021] dantetegenu4                   Arm                            rifle.lr300                    6.7m                           Dr. N. Aguirre
+22:40 [Info] [Welcomer] • dantetegenu4 has left the server (Timed Out).
+22:41 [Info] [Kill Feed] [41/22/23/02/2021] barny706                       Head                           rifle.lr300                    7.3m                           Dr. V. Hopkins
+22:41 [Info] [Kill Feed] [41/22/23/02/2021] Dr. W. Rhodes                                                 lmg.m249                       3.4m                           dantetegenu4
+22:41 [Info] [Kill Feed] [41/22/23/02/2021] barny706                       Hand                           rifle.lr300                    13.6m                          Dr. W. Rhodes
+22:43 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+22:52 [Info] [Kill Feed] [52/22/23/02/2021] dantetegenu4                   Neck                           rifle.lr300                    13.7m                          Dr. G. Dalton
+22:52 [Info] [Kill Feed] [52/22/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    14.4m                          Dr. N. Wooten
+22:52 [Info] [Kill Feed] [52/22/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    14.4m                          Dr. A. Villarreal
+22:52 [Info] [Kill Feed] [52/22/23/02/2021] dantetegenu4                   Head                           rifle.lr300                    9.3m                           Dr. H. Horton
+22:54 [Info] [Welcomer] • dantetegenu4 has left the server (Timed Out).
+22:56 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+22:57 [Info] [Kill Feed] [57/22/23/02/2021] dantetegenu4                                                  suicide                                                       dantetegenu4
+22:57 [Warning] 'NPCDropGun v2.0.4' is using deprecated hook 'OnPlayerCorpse', which will stop working on Thursday, 01 July 2021. Please ask the author to update to 'OnPlayerCorpseSpawned(BasePlayer player, BaseCorpse corpse)'
+23:03 [Info] [Welcomer] • chitzo has joined the server from Germany.
+23:06 [Info] [VoteRewards] http://rust-servers.net/api/?action=custom&object=plugin&element=reward&key=YfO3PT4hIB0MhaKGniQtOP10ZIhspXv1zP&steamid=76561197977809618
+23:06 [Info] [VoteRewards] 0
+23:10 [Info] [Kill Feed] [10/23/23/02/2021] barny706                                                      smg.mp5                        27.2m                          Stag
+23:10 [Info] [Kill Feed] [10/23/23/02/2021] EXL04                                                         shotgun.double                 5.3m                           Boar
+23:18 [Info] [Welcomer] • dantetegenu4 has left the server (Timed Out).
+23:20 [Info] [Welcomer] • dantetegenu4 has joined the server from Italy.
+23:30 [Info] [SmoothRestart] Server will restart in 30 minutes!
+23:33 [Info] [Kill Feed] [33/23/23/02/2021] elevator_lift                                                 blunt                          3.0m                           barny706
+23:38 [Info] [Welcomer] • barny706 has left the server (Disconnected).
+23:38 [Info] [Welcomer] • dantetegenu4 has left the server (Disconnected).
+23:43 [Info] [Welcomer] • chitzo has left the server (Disconnected).
+23:45 [Info] [SmoothRestart] Server will restart in 15 minutes!
+23:50 [Info] [SmoothRestart] Server will restart in 10 minutes!
+23:55 [Info] [SmoothRestart] Server will restart in 5 minutes!
+23:56 [Info] [SmoothRestart] Server will restart in 4 minutes!
+23:57 [Info] [SmoothRestart] Server will restart in 3 minutes!
+23:58 [Info] [SmoothRestart] Server will restart in 2 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 1 minutes!
+23:59 [Info] [SmoothRestart] Server will restart in 50 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 40 seconds!
+23:59 [Info] [Welcomer] • NewbieDoobyDoo has left the server (Disconnected).
+23:59 [Info] [SmoothRestart] Server will restart in 30 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 20 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 10 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 9 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 8 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 7 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 6 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 5 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 4 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 3 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 2 seconds!
+23:59 [Info] [SmoothRestart] Server will restart in 1 seconds!

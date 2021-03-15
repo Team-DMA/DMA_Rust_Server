@@ -52,14 +52,18 @@
     "Welcome!",
 	"<color=#00FFFF>IMPORTANT</color>: Raids only allowed between 4 PM and 10 PM (CET)",
 	"If you have any questions feel free to ask an admin",
+	"You can buy a modular car at Cobalt Auto near Bus Station",
 	"Type /info or /help to get some information",
 	"Type /kit to get your free kits",
 	"<color=#00FFFF>IMPORTANT</color>: Raids only allowed between 4 PM and 10 PM (CET)",
 	"Type /s or /shop to open the shop",
+	"Join our website via <b>dma-gaming.de</b>",
+	"You can buy your a modular cars at Cobalt Auto near Bus Station",
 	"Use the commands-tab to show the commands",
 	"<color=#00FFFF>IMPORTANT</color>: Raids only allowed between 4 PM and 10 PM (CET)",
 	"You can buy vehicles/horses with /buy",
-	"Join our Discord Server via our website <b>www.dma-gaming.de</b>"
+	"Join our Discord server via <b>discord.dma-gaming.de</b>",
+	"You can buy a modular car at Cobalt Auto near Bus Station"
   ],
   "Panels": {
     "AirdropEvent": {

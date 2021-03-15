@@ -1,6 +1,6 @@
 {
   "BanditTitle": "Bandit",
-  "LogInConsole": true,
+  "LogInConsole": false,
   "LogInFile": false,
   "MurdererTitle": "Murderer",
   "ScarecrowTitle": "Scarecrow",

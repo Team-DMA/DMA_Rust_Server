@@ -1,0 +1,20 @@
+{
+  "npc": {
+    "sam": {
+      "dataFile": "default",
+      "position": {
+        "x": 761.6,
+        "y": 7.4,
+        "z": -1426.2
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 46.9,
+        "z": 0.0
+      },
+      "name": "Sam",
+      "netID": 62084447,
+      "cooldown": 0.0
+    }
+  }
+}
