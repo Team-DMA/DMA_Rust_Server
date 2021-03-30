@@ -1,29 +1,4 @@
 {
-  "Items": [
-    {
-      "ID": -1293296287,
-      "Amount": 5
-    },
-    {
-      "ID": -1992717673,
-      "Position": 1,
-      "Amount": 5
-    },
-    {
-      "ID": -484206264,
-      "Position": 2,
-      "Amount": 1,
-      "Condition": 4.0,
-      "MaxCondition": 4.0
-    },
-    {
-      "ID": 833533164,
-      "Position": 3,
-      "Amount": 1,
-      "Skin": 892062620,
-      "Condition": 100.0,
-      "MaxCondition": 100.0
-    }
-  ],
+  "Items": [],
   "OwnerID": 76561198870743246
 }

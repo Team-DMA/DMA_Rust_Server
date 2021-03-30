@@ -1,0 +1,2314 @@
+{
+  "_players": {
+    "76561198026625228": {
+      "_usageData": {
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616777963.34685
+        },
+        "autokit": {
+          "TotalUses": 3,
+          "NextUseTime": 1616875842.267036
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616875407.3157558
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199130245866": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616790624.722666
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198825556048": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198241479712": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198035697241": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198092504772": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199009235319": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198082998205": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561197977809618": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198866617682": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199014541659": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198292078947": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198879371236": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198434207871": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198056547956": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561197973092009": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198409921229": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198032003828": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198299669857": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198014655514": {
+      "_usageData": {
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616620392.120079
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616620375.638664
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616706786.583607
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616622206.5718329
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199128988025": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198373744252": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199085864212": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198109132382": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198250297384": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198085538689": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198087598526": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198345581228": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198077152116": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199145301565": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199128119996": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199090721932": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198070936229": {
+      "_usageData": {
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616705168.444514
+        },
+        "autokit": {
+          "TotalUses": 5,
+          "NextUseTime": 1616865082.6264839
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198047591090": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561197995531061": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198905905007": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198064541362": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199068481702": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198141506954": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198113412696": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198021319208": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198269284862": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198254012922": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198386223601": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198038166120": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198074864252": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198183497355": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561197962687855": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199087928616": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198068052289": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 10,
+          "NextUseTime": 1616790545.491503
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198317888814": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198132037783": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198293068640": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198030572483": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 6,
+          "NextUseTime": 1616787107.536932
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198886164308": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198065855094": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198169567059": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198414753551": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198799896911": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198889069000": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198834764372": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198190954870": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198068861464": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198844069720": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198885216002": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198032307164": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198449915294": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198819027886": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199118178647": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198068429280": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198256454153": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198259492729": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198200972167": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198026803138": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198101736090": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198029290071": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198997242303": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198074962078": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199127852374": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198023897495": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561197971462134": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198082263083": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199088773620": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198126012373": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198169842837": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198831881742": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 18,
+          "NextUseTime": 1616797461.0169718
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198125751002": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198213554709": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198831680609": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198134522027": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198150369987": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198320900904": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198995620062": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199107053633": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198097352081": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198292273216": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198244029740": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198203337503": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198070706153": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198934217477": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198168003765": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198005832943": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199136737963": {
+      "_usageData": {
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616668026.874701
+        },
+        "Daily Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616863728.335907
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616663820.7270269
+        },
+        "autokit": {
+          "TotalUses": 15,
+          "NextUseTime": 1616968871.021806
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616777351.248934
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198799941982": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198874709199": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198879412816": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198126360563": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199042169294": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616714330.7241769
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199013035758": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199099685353": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199051886779": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 6,
+          "NextUseTime": 1616873923.930347
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616958816.6465049
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198178544693": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199111101935": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198849569341": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199037286559": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198833435029": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198297720967": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198016317401": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198057844049": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198398948414": {
+      "_usageData": {
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616757830.958173
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616671467.5395648
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616673297.571687
+        },
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616843597.0568168
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198870743246": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199136473798": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198327537497": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199013550309": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198168529307": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198967179026": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198359823343": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198091794057": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198353516627": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199062607740": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199101330734": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198992856906": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561197971943937": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198122943810": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198004373768": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198076688732": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198868792492": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198328829673": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198393050744": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199009949454": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199093642153": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198068489256": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198028347124": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198865949578": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198810865579": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198182723735": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198863849486": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198130691488": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198071248466": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561197989334189": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198002010629": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198118443018": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198201218909": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616928223.101011
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561197970583425": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198209651745": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198960500155": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198255634209": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561197972649887": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199090518589": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198416141395": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198344483888": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199129206285": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199072400435": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198414826690": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199106773352": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199130574647": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198255518413": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198125583977": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198114219230": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198363296277": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198285392468": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198263245769": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198016158314": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198166827958": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198861430775": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198330690750": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198807577438": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616700415.5746
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616696712.2202048
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198076296095": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199070891377": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198822966698": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561197987752390": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198271647623": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561197970380215": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198021111203": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 4,
+          "NextUseTime": 1616933662.4157119
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198183955606": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198431415296": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616779985.69462
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561197966436390": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198075427120": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198190541434": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198886227349": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198314122889": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198107390608": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198277619338": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198157027618": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198031400763": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198135263004": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616796700.4627168
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616883222.2575178
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616796922.9171228
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616796843.0541558
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616798686.757638
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198920474145": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198141250333": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199078485482": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198886654059": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198808662569": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198255445420": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198081189734": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198343056452": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198106129669": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616789000.5949059
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616788940.774153
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198372359635": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199129117548": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198953426856": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198370208567": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561197987349195": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198215059508": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 4,
+          "NextUseTime": 1616837445.077987
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616836460.509866
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616922829.5758989
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616837060.1083519
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616838915.86271
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198259021140": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198404725609": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199023324415": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561197994719422": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561199060885947": {
+      "_usageData": {
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616688008.2014639
+        },
+        "Daily Kit": {
+          "TotalUses": 3,
+          "NextUseTime": 1617039183.5055869
+        },
+        "Weapon Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616694969.8774579
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616689375.575037
+        },
+        "autokit": {
+          "TotalUses": 5,
+          "NextUseTime": 1616956109.533371
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199007033949": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 17,
+          "NextUseTime": 1616874081.6624079
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616720243.8621709
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616784258.6592069
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616697907.032902
+        },
+        "Weapon Kit": {
+          "TotalUses": 3,
+          "NextUseTime": 1616874957.4748268
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198880850160": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198297992668": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 35,
+          "NextUseTime": 1616893295.6143088
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616784292.37375
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616874898.0082879
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198415972179": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198967958146": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198933139575": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198202124587": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198311732950": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616634127.223527
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198889722411": {
+      "_usageData": {},
+      "ClaimAutoKits": true
+    },
+    "76561198263788016": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 5,
+          "NextUseTime": 1616692682.7608159
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616777801.390698
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616703675.830636
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616703917.0574219
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198113830544": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 3,
+          "NextUseTime": 1616704317.6098568
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616779908.9931049
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616694139.049731
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198207339716": {
+      "_usageData": {
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616705161.48241
+        },
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616622657.0493019
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198181597929": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616620611.5935888
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198059057663": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616708479.1739149
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616621308.5513198
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616707727.7639759
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616622612.148052
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616624481.325573
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198303004837": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616626537.1431339
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198815627076": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616626703.40829
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198394404574": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 4,
+          "NextUseTime": 1616683736.724468
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616660834.3774059
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616747285.0092559
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199001545107": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616667156.622947
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616830875.072521
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616917440.6833808
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616831123.5123348
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616833395.0837629
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198262218941": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616973767.8768449
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199085210268": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616690088.2434978
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616690128.6247239
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198334686315": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616691159.4603369
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198397767365": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616694259.75331
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198132222626": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616695518.427335
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198400057494": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616707263.9065139
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616704687.2654278
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616704956.588387
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198342648214": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616711228.25837
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198427174895": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616699530.7514739
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616700012.2478518
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616786619.480829
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616700231.005244
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198271104391": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 5,
+          "NextUseTime": 1616847346.4695549
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616699833.740279
+        },
+        "Daily Kit": {
+          "TotalUses": 3,
+          "NextUseTime": 1617013092.3620329
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616699807.4559009
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199121608693": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616700506.105427
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198948617378": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616702097.641959
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198798913801": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 4,
+          "NextUseTime": 1616789824.0950749
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616872270.847455
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616787889.9951348
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616786004.1726599
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198415904731": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616740627.563772
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616739330.596869
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616827044.698386
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199118965795": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616742395.8553159
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198876559526": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616753032.7248459
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616753063.21315
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198833755705": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616760026.1864789
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199045603136": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616764321.0009809
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616764456.9684179
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616850865.6622109
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616764489.141253
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198320087984": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616766428.8909159
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198099272526": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 3,
+          "NextUseTime": 1616774380.621793
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199082160562": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616768021.637527
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199072013772": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616772559.5033419
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616772597.955734
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616772635.115489
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198052188977": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616779810.280365
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198159152665": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616780104.43412
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198126026157": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616782097.0210149
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616783482.473752
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616869605.34443
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616783281.324471
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616785150.155797
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198977007252": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 7,
+          "NextUseTime": 1616788856.4528399
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616788075.24086
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616874190.434036
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616788053.491595
+        },
+        "Weapon Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616797655.1077569
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198292411378": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 5,
+          "NextUseTime": 1616795367.100203
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616791501.956347
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616879601.593302
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616793206.109791
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616797656.878664
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199090660308": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 3,
+          "NextUseTime": 1616789603.1462619
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616791616.4317889
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616877919.4709098
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616791889.0358069
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198428254048": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 3,
+          "NextUseTime": 1616789666.0225759
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616788784.3532259
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616875189.5043409
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616788794.3764758
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616790599.6157658
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199010932995": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 3,
+          "NextUseTime": 1616789638.743434
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198143863820": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616792863.9076638
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616793040.6644418
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616792998.596992
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616879432.6698458
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198423375127": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 4,
+          "NextUseTime": 1616833607.1208849
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198817957876": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616829563.1896799
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199116710730": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616853570.2031679
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198032704041": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616839631.3801169
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198370893385": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 9,
+          "NextUseTime": 1616956775.2896769
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616855166.6450229
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616842441.86604
+        },
+        "Daily Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1617023918.195919
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198269411659": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 17,
+          "NextUseTime": 1616956916.55121
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616846304.60902
+        },
+        "Daily Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1617033023.742893
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616956995.0370638
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616878409.3610868
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199002714239": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616846978.3980269
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198401780290": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616848716.3880839
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616848794.5190229
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616935640.9783828
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198308147404": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616848761.987819
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616848801.6220229
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198312814602": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616850029.089057
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616850232.901839
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616936625.8742058
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616850247.7641289
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199098772970": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616859338.1646979
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616850761.3384149
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198124746503": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616850826.025321
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198161639877": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 9,
+          "NextUseTime": 1616937889.7414129
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616941416.9932089
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616857324.592546
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616857844.4785678
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198012829911": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616855699.856621
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616855799.90257
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616855815.679744
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616942223.8641698
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199088078210": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616883968.563123
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616863950.485574
+        },
+        "Daily Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1617035603.6710479
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616861206.099335
+        },
+        "Weapon Kit": {
+          "TotalUses": 5,
+          "NextUseTime": 1616951750.6685159
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198043158538": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616858832.316864
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616859036.274708
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616945442.1777248
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616859069.0838718
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199063302618": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 3,
+          "NextUseTime": 1616863549.8041379
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616947587.739373
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616861197.763377
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199012974085": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616860137.1993339
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199150030857": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616861144.183058
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198840288039": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616864705.3318679
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616862479.1258659
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199004665867": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616864468.2927189
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199081977978": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 4,
+          "NextUseTime": 1616945613.5971348
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199076652020": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616866947.44567
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198216268375": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616868381.988673
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561197988662059": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616879253.812495
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616879284.735713
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616971185.6890669
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198347406416": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616897350.1309469
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616897400.9730129
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616983948.650326
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616897573.8468468
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198017739809": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616897572.5925589
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616897743.60022
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616984155.226954
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616897809.730144
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561197968476355": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616903705.561887
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616905203.555918
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198840301061": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616932283.8795009
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616932770.8291819
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198075561620": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616932380.073837
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616933421.9476259
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1617020263.9564819
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198361744443": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 3,
+          "NextUseTime": 1616953380.8524568
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616934366.540592
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1617020793.2023609
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616934426.423758
+        },
+        "Weapon Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616936267.42567
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198809928240": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616936623.792325
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198333126864": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616939480.4481928
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198293941864": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 3,
+          "NextUseTime": 1616953766.8901088
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199132003767": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 3,
+          "NextUseTime": 1616944532.3081729
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561197972335874": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616950087.378511
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616951474.2808959
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198872096367": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 3,
+          "NextUseTime": 1616953767.2720408
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616952578.978569
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1617038739.0139589
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616952343.4281759
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199032941299": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616956278.6313078
+        },
+        "Wipe Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616956355.3540308
+        },
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1616956513.5915508
+        },
+        "Daily Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1617042898.011991
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198217394959": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616957936.9032938
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198263635327": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616967611.475605
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198260489549": {
+      "_usageData": {
+        "autokit": {
+          "TotalUses": 1,
+          "NextUseTime": 1616969892.63572
+        }
+      },
+      "ClaimAutoKits": true
+    }
+  }
+}

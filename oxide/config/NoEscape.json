@@ -83,8 +83,8 @@
       "notify": true
     },
     "BlockExcept": {
-      "clan": false,
-      "friends": false,
+      "clan": true,
+      "friends": true,
       "owner": true
     },
     "BlockWhen": {
@@ -98,10 +98,10 @@
     "BlockWho": {
       "clan": false,
       "cupboardAuthorized": false,
-      "everyone": true,
+      "everyone": false,
       "friends": false,
-      "owner": false,
-      "raider": false
+      "owner": true,
+      "raider": true
     },
     "Map": {
       "duration": 150.0,
@@ -115,7 +115,7 @@
     },
     "Zone": {
       "enabled": false,
-      "enter": true,
+      "enter": false,
       "leave": false
     }
   },

@@ -3,7 +3,7 @@
     "autoRebootCountDown": 3,
     "checkIntervalMinutes": 30,
     "currentDevblog": 0,
-    "currentOxideBuild": 4944,
+    "currentOxideBuild": 4948,
     "enableAutoChecks": true,
     "enableAutoReboot": false,
     "notifyOnlineAdmins": true
@@ -49,8 +49,8 @@
   },
   "Timers": {
     "RebootTimes": {
-      "10:30": "30",
-      "23:30": "30"
+      "09:30": "30",
+      "22:30": "30"
     },
     "useTimers": true
   }

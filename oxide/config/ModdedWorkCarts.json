@@ -1,0 +1,6 @@
+{
+  "Add a Auto Turret on top of the driver cabin": false,
+  "Add Storage Boxes on top of the fuel deposit": true,
+  "Add chairs at the back of the Work Cart": true,
+  "Turret Command Cooldown in Minutes (If 0 there will be none)": 0.0
+}

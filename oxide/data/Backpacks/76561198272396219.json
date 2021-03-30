@@ -1,37 +1,4 @@
 {
-  "Items": [
-    {
-      "ID": -1880870149,
-      "Position": 1,
-      "Amount": 1,
-      "Condition": 2.0,
-      "MaxCondition": 2.0
-    },
-    {
-      "ID": -484206264,
-      "Position": 2,
-      "Amount": 1,
-      "Condition": 4.0,
-      "MaxCondition": 4.0
-    },
-    {
-      "ID": 37122747,
-      "Position": 3,
-      "Amount": 1,
-      "Condition": 4.0,
-      "MaxCondition": 4.0
-    },
-    {
-      "ID": -1367281941,
-      "Position": 4,
-      "Amount": 1,
-      "Condition": 100.0,
-      "MaxCondition": 100.0,
-      "AmmoType": 588596902,
-      "Name": "",
-      "Text": "",
-      "Contents": []
-    }
-  ],
+  "Items": [],
   "OwnerID": 76561198272396219
 }

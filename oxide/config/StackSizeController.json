@@ -47,7 +47,9 @@
   },
   "IndividualItemStackHardLimits": {
     "car.key": 1,
-    "photo": 1
+    "door.key": 1,
+    "photo": 1,
+    "rf.detonator": 1
   },
   "VersionNumber": {
     "Major": 3,

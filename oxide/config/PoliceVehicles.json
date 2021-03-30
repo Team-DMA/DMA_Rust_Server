@@ -1,0 +1,11 @@
+{
+  "Police car fuel amount on spawn": 500,
+  "Police transport vehicle fuel amount on spawn": 500,
+  "Police heli fuel amount on spawn": 500,
+  "Police heli large fuel amount on spawn": 500,
+  "Police boat fuel amount on spawn": 500,
+  "Lock police car engine parts": true,
+  "Lock police transport vehicle engine parts": true,
+  "Police car engine parts tier": 3,
+  "Police Transport engine parts tier": 3
+}

@@ -8,8 +8,7 @@
   "Mappings": {
     "default": "default",
     "raid": "raid",
-    "zones": "zones",
-    "1715212014": "zones"
+    "zones": "zones"
   },
   "Schedule": {
     "enabled": true,

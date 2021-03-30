@@ -36,10 +36,10 @@
     },
     "MiningQuarryResourceTickRate": 5.0,
     "PickupResourceModifiers": {
-      "Stones": 10.0
+      "Stones": 6.0
     },
     "QuarryResourceModifiers": {
-      "Stones": 20.0
+      "Stones": 12.0
     },
     "SurveyResourceModifiers": {}
   },

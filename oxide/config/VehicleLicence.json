@@ -201,7 +201,7 @@
         "hab",
         "hotairballoon"
       ],
-      "Spawn Cooldown (Seconds)": 900.0,
+      "Spawn Cooldown (Seconds)": 120.0,
       "Recall Cooldown (Seconds)": 30.0,
       "Cooldown Permissions": {
         "vehiclelicence.vip": {
@@ -240,7 +240,7 @@
         "horse",
         "ridablehorse"
       ],
-      "Spawn Cooldown (Seconds)": 3000.0,
+      "Spawn Cooldown (Seconds)": 180.0,
       "Recall Cooldown (Seconds)": 30.0,
       "Cooldown Permissions": {
         "vehiclelicence.vip": {
@@ -276,7 +276,7 @@
         "mini",
         "minicopter"
       ],
-      "Spawn Cooldown (Seconds)": 1800.0,
+      "Spawn Cooldown (Seconds)": 900.0,
       "Recall Cooldown (Seconds)": 30.0,
       "Cooldown Permissions": {
         "vehiclelicence.vip": {
@@ -312,7 +312,7 @@
         "tcop",
         "transportcopter"
       ],
-      "Spawn Cooldown (Seconds)": 2400.0,
+      "Spawn Cooldown (Seconds)": 1200.0,
       "Recall Cooldown (Seconds)": 30.0,
       "Cooldown Permissions": {
         "vehiclelicence.vip": {
@@ -355,7 +355,7 @@
         "small",
         "smallcar"
       ],
-      "Spawn Cooldown (Seconds)": 3600.0,
+      "Spawn Cooldown (Seconds)": 1500.0,
       "Recall Cooldown (Seconds)": 30.0,
       "Cooldown Permissions": {
         "vehiclelicence.vip": {
@@ -436,7 +436,7 @@
         "medium",
         "mediumcar"
       ],
-      "Spawn Cooldown (Seconds)": 3600.0,
+      "Spawn Cooldown (Seconds)": 1500.0,
       "Recall Cooldown (Seconds)": 30.0,
       "Cooldown Permissions": {
         "vehiclelicence.vip": {
@@ -521,7 +521,7 @@
         "large",
         "largecar"
       ],
-      "Spawn Cooldown (Seconds)": 3600.0,
+      "Spawn Cooldown (Seconds)": 1500.0,
       "Recall Cooldown (Seconds)": 30.0,
       "Cooldown Permissions": {
         "vehiclelicence.vip": {

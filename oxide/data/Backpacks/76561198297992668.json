@@ -1,0 +1,17 @@
+{
+  "Items": [
+    {
+      "ID": -1607980696,
+      "Position": 18,
+      "Amount": 1,
+      "Condition": 0.6,
+      "MaxCondition": 1.0
+    },
+    {
+      "ID": 803222026,
+      "Position": 19,
+      "Amount": 1
+    }
+  ],
+  "OwnerID": 76561198297992668
+}

@@ -1,0 +1,8 @@
+{
+  "NoPermission": "You don't have permission to use this command!",
+  "OnCooldown": "You are currently on a cooldown, you can use this command every {0} minutes!",
+  "NoWorkCartFound": "A Work Cart was not found!",
+  "WorkCartHasTurret": "This Work Cart already has a turret!",
+  "NoAutoTurret": "You need a Auto Turret on your inventory to use this command!",
+  "AutoTurretPlaced": "The Auto Turret was placed!"
+}

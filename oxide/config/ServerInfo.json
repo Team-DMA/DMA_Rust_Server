@@ -111,7 +111,10 @@
             "TextLines": [
               "<size=5> </size>",
               "<color=#75c9eb><size=17><b>Ranks:</b></size></color>",
-              "/ranks - Show a list of ranks, playtime required, and own playtime"
+              "/ranks - Show a list of ranks, playtime required, and own playtime",
+              "<size=5> </size>",
+              "<color=#75c9eb><size=17><b>Laggs:</b></size></color>",
+              "/lagg - Check if you are lagging or the server"
             ],
             "ImageSettings": []
           }

@@ -112,16 +112,16 @@
       "WC": 10
     },
     "PointsPerHit": {
-      "A": 50,
-      "M": 50,
-      "S": 50,
-      "WC": 50
+      "A": 40,
+      "M": 40,
+      "S": 40,
+      "WC": 40
     },
     "ResourcePerLevelMultiplier": {
       "A": 2,
-      "M": 5,
+      "M": 3,
       "S": 2,
-      "WC": 5
+      "WC": 3
     },
     "SkillColors": {
       "A": "#ADD8E6",
